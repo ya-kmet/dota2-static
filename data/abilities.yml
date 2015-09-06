@@ -1,0 +1,2693 @@
+---
+0:
+  internal_name: ability_base
+  name: ability_base
+  type: DOTA_ABILITY_TYPE_BASIC
+5001:
+  internal_name: default_attack
+  name: Attacks
+  type: 
+5002:
+  internal_name: attribute_bonus
+  name: Attribute Bonus
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+5669:
+  internal_name: ability_deward
+  name: ability_deward
+  type: 
+5003:
+  internal_name: antimage_mana_break
+  name: Mana Break
+  type: 
+5004:
+  internal_name: antimage_blink
+  name: Blink
+  type: 
+5005:
+  internal_name: antimage_spell_shield
+  name: Spell Shield
+  type: 
+5006:
+  internal_name: antimage_mana_void
+  name: Mana Void
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5007:
+  internal_name: axe_berserkers_call
+  name: Berserker's Call
+  type: 
+5008:
+  internal_name: axe_battle_hunger
+  name: Battle Hunger
+  type: 
+5009:
+  internal_name: axe_counter_helix
+  name: Counter Helix
+  type: 
+5010:
+  internal_name: axe_culling_blade
+  name: Culling Blade
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5012:
+  internal_name: bane_enfeeble
+  name: Enfeeble
+  type: 
+5011:
+  internal_name: bane_brain_sap
+  name: Brain Sap
+  type: 
+5013:
+  internal_name: bane_fiends_grip
+  name: Fiend's Grip
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5014:
+  internal_name: bane_nightmare
+  name: Nightmare
+  type: 
+5523:
+  internal_name: bane_nightmare_end
+  name: Nightmare End
+  type: 
+5015:
+  internal_name: bloodseeker_bloodrage
+  name: Bloodrage
+  type: 
+5016:
+  internal_name: bloodseeker_blood_bath
+  name: Blood Rite
+  type: 
+5017:
+  internal_name: bloodseeker_thirst
+  name: Thirst
+  type: 
+5018:
+  internal_name: bloodseeker_rupture
+  name: Rupture
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5019:
+  internal_name: drow_ranger_frost_arrows
+  name: Frost Arrows
+  type: 
+5020:
+  internal_name: drow_ranger_silence
+  name: Silence
+  type: 
+5632:
+  internal_name: drow_ranger_wave_of_silence
+  name: Gust
+  type: 
+5021:
+  internal_name: drow_ranger_trueshot
+  name: Precision Aura
+  type: 
+5022:
+  internal_name: drow_ranger_marksmanship
+  name: Marksmanship
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5023:
+  internal_name: earthshaker_fissure
+  name: Fissure
+  type: 
+5024:
+  internal_name: earthshaker_enchant_totem
+  name: Enchant Totem
+  type: 
+5025:
+  internal_name: earthshaker_aftershock
+  name: Aftershock
+  type: 
+5026:
+  internal_name: earthshaker_echo_slam
+  name: Echo Slam
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5027:
+  internal_name: juggernaut_blade_dance
+  name: Blade Dance
+  type: 
+5028:
+  internal_name: juggernaut_blade_fury
+  name: Blade Fury
+  type: 
+5029:
+  internal_name: juggernaut_healing_ward
+  name: Healing Ward
+  type: 
+5030:
+  internal_name: juggernaut_omni_slash
+  name: Omnislash
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5031:
+  internal_name: kunkka_torrent
+  name: Torrent
+  type: 
+5032:
+  internal_name: kunkka_tidebringer
+  name: Tidebringer
+  type: 
+5033:
+  internal_name: kunkka_x_marks_the_spot
+  name: X Marks the Spot
+  type: 
+5034:
+  internal_name: kunkka_return
+  name: Return
+  type: 
+5035:
+  internal_name: kunkka_ghostship
+  name: Ghostship
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5040:
+  internal_name: lina_dragon_slave
+  name: Dragon Slave
+  type: 
+5041:
+  internal_name: lina_light_strike_array
+  name: Light Strike Array
+  type: 
+5042:
+  internal_name: lina_fiery_soul
+  name: Fiery Soul
+  type: 
+5043:
+  internal_name: lina_laguna_blade
+  name: Laguna Blade
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5044:
+  internal_name: lion_impale
+  name: Earth Spike
+  type: 
+5045:
+  internal_name: lion_voodoo
+  name: Hex
+  type: 
+5046:
+  internal_name: lion_mana_drain
+  name: Mana Drain
+  type: 
+5047:
+  internal_name: lion_finger_of_death
+  name: Finger of Death
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5048:
+  internal_name: mirana_arrow
+  name: Sacred Arrow
+  type: 
+5049:
+  internal_name: mirana_invis
+  name: Moonlight Shadow
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5050:
+  internal_name: mirana_leap
+  name: Leap
+  type: 
+5051:
+  internal_name: mirana_starfall
+  name: Starstorm
+  type: 
+5052:
+  internal_name: morphling_waveform
+  name: Waveform
+  type: 
+5053:
+  internal_name: morphling_adaptive_strike
+  name: Adaptive Strike
+  type: 
+5054:
+  internal_name: morphling_morph
+  name: morphling_morph
+  type: 
+5055:
+  internal_name: morphling_morph_agi
+  name: Morph (Agility Gain)
+  type: 
+5056:
+  internal_name: morphling_morph_str
+  name: Morph (Strength Gain)
+  type: 
+5057:
+  internal_name: morphling_replicate
+  name: Replicate
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5058:
+  internal_name: morphling_morph_replicate
+  name: Morph Replicate
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5674:
+  internal_name: morphling_hybrid
+  name: Hybrid
+  type: 
+5059:
+  internal_name: nevermore_shadowraze1
+  name: Shadowraze
+  type: 
+5060:
+  internal_name: nevermore_shadowraze2
+  name: Shadowraze
+  type: 
+5061:
+  internal_name: nevermore_shadowraze3
+  name: Shadowraze
+  type: 
+5062:
+  internal_name: nevermore_necromastery
+  name: Necromastery
+  type: 
+5063:
+  internal_name: nevermore_dark_lord
+  name: Presence of the Dark Lord
+  type: 
+5064:
+  internal_name: nevermore_requiem
+  name: Requiem of Souls
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5065:
+  internal_name: phantom_lancer_spirit_lance
+  name: Spirit Lance
+  type: 
+5066:
+  internal_name: phantom_lancer_doppelwalk
+  name: Doppelganger
+  type: 
+5067:
+  internal_name: phantom_lancer_juxtapose
+  name: Juxtapose
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5068:
+  internal_name: phantom_lancer_phantom_edge
+  name: Phantom Rush
+  type: 
+5069:
+  internal_name: puck_illusory_orb
+  name: Illusory Orb
+  type: 
+5070:
+  internal_name: puck_ethereal_jaunt
+  name: Ethereal Jaunt
+  type: 
+5071:
+  internal_name: puck_waning_rift
+  name: Waning Rift
+  type: 
+5072:
+  internal_name: puck_phase_shift
+  name: Phase Shift
+  type: 
+5073:
+  internal_name: puck_dream_coil
+  name: Dream Coil
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5074:
+  internal_name: pudge_flesh_heap
+  name: Flesh Heap
+  type: 
+5075:
+  internal_name: pudge_meat_hook
+  name: Meat Hook
+  type: 
+5076:
+  internal_name: pudge_rot
+  name: Rot
+  type: 
+5077:
+  internal_name: pudge_dismember
+  name: Dismember
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5078:
+  internal_name: shadow_shaman_ether_shock
+  name: Ether Shock
+  type: 
+5079:
+  internal_name: shadow_shaman_voodoo
+  name: Hex
+  type: 
+5080:
+  internal_name: shadow_shaman_shackles
+  name: Shackles
+  type: 
+5081:
+  internal_name: shadow_shaman_mass_serpent_ward
+  name: Mass Serpent Ward
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5082:
+  internal_name: razor_plasma_field
+  name: Plasma Field
+  type: 
+5083:
+  internal_name: razor_static_link
+  name: Static Link
+  type: 
+5084:
+  internal_name: razor_unstable_current
+  name: Unstable Current
+  type: 
+5085:
+  internal_name: razor_eye_of_the_storm
+  name: Eye of the Storm
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5086:
+  internal_name: skeleton_king_hellfire_blast
+  name: Wraithfire Blast
+  type: 
+5087:
+  internal_name: skeleton_king_vampiric_aura
+  name: Vampiric Aura
+  type: 
+5088:
+  internal_name: skeleton_king_mortal_strike
+  name: Mortal Strike
+  type: 
+5089:
+  internal_name: skeleton_king_reincarnation
+  name: Reincarnation
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5090:
+  internal_name: death_prophet_carrion_swarm
+  name: Crypt Swarm
+  type: 
+5091:
+  internal_name: death_prophet_silence
+  name: Silence
+  type: 
+5092:
+  internal_name: death_prophet_witchcraft
+  name: Witchcraft
+  type: 
+5093:
+  internal_name: death_prophet_exorcism
+  name: Exorcism
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5094:
+  internal_name: sven_storm_bolt
+  name: Storm Hammer
+  type: 
+5095:
+  internal_name: sven_great_cleave
+  name: Great Cleave
+  type: 
+5096:
+  internal_name: sven_warcry
+  name: Warcry
+  type: 
+5097:
+  internal_name: sven_gods_strength
+  name: God's Strength
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5098:
+  internal_name: storm_spirit_static_remnant
+  name: Static Remnant
+  type: 
+5099:
+  internal_name: storm_spirit_electric_vortex
+  name: Electric Vortex
+  type: 
+5100:
+  internal_name: storm_spirit_overload
+  name: Overload
+  type: 
+5101:
+  internal_name: storm_spirit_ball_lightning
+  name: Ball Lightning
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5102:
+  internal_name: sandking_burrowstrike
+  name: Burrowstrike
+  type: 
+5103:
+  internal_name: sandking_sand_storm
+  name: Sand Storm
+  type: 
+5104:
+  internal_name: sandking_caustic_finale
+  name: Caustic Finale
+  type: 
+5105:
+  internal_name: sandking_epicenter
+  name: Epicenter
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5106:
+  internal_name: tiny_avalanche
+  name: Avalanche
+  type: 
+5107:
+  internal_name: tiny_toss
+  name: Toss
+  type: 
+5108:
+  internal_name: tiny_craggy_exterior
+  name: Craggy Exterior
+  type: 
+5109:
+  internal_name: tiny_grow
+  name: Grow
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5110:
+  internal_name: zuus_arc_lightning
+  name: Arc Lightning
+  type: 
+5111:
+  internal_name: zuus_lightning_bolt
+  name: Lightning Bolt
+  type: 
+5112:
+  internal_name: zuus_static_field
+  name: Static Field
+  type: 
+5113:
+  internal_name: zuus_thundergods_wrath
+  name: Thundergod's Wrath
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5114:
+  internal_name: slardar_sprint
+  name: Sprint
+  type: 
+5115:
+  internal_name: slardar_slithereen_crush
+  name: Slithereen Crush
+  type: 
+5116:
+  internal_name: slardar_bash
+  name: Bash
+  type: 
+5117:
+  internal_name: slardar_amplify_damage
+  name: Amplify Damage
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5118:
+  internal_name: tidehunter_gush
+  name: Gush
+  type: 
+5119:
+  internal_name: tidehunter_kraken_shell
+  name: Kraken Shell
+  type: 
+5120:
+  internal_name: tidehunter_anchor_smash
+  name: Anchor Smash
+  type: 
+5121:
+  internal_name: tidehunter_ravage
+  name: Ravage
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5122:
+  internal_name: vengefulspirit_magic_missile
+  name: Magic Missile
+  type: 
+5123:
+  internal_name: vengefulspirit_command_aura
+  name: Vengeance Aura
+  type: 
+5124:
+  internal_name: vengefulspirit_wave_of_terror
+  name: Wave of Terror
+  type: 
+5125:
+  internal_name: vengefulspirit_nether_swap
+  name: Nether Swap
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5126:
+  internal_name: crystal_maiden_crystal_nova
+  name: Crystal Nova
+  type: DOTA_ABILITY_TYPE_BASIC
+5127:
+  internal_name: crystal_maiden_frostbite
+  name: Frostbite
+  type: DOTA_ABILITY_TYPE_BASIC
+5128:
+  internal_name: crystal_maiden_brilliance_aura
+  name: Arcane Aura
+  type: 
+5129:
+  internal_name: crystal_maiden_freezing_field
+  name: Freezing Field
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5130:
+  internal_name: windrunner_shackleshot
+  name: Shackleshot
+  type: 
+5131:
+  internal_name: windrunner_powershot
+  name: Powershot
+  type: 
+5132:
+  internal_name: windrunner_windrun
+  name: Windrun
+  type: 
+5133:
+  internal_name: windrunner_focusfire
+  name: Focus Fire
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5134:
+  internal_name: lich_frost_nova
+  name: Frost Blast
+  type: 
+5135:
+  internal_name: lich_frost_armor
+  name: Ice Armor
+  type: 
+5136:
+  internal_name: lich_dark_ritual
+  name: Sacrifice
+  type: 
+5137:
+  internal_name: lich_chain_frost
+  name: Chain Frost
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5138:
+  internal_name: witch_doctor_paralyzing_cask
+  name: Paralyzing Cask
+  type: 
+5139:
+  internal_name: witch_doctor_voodoo_restoration
+  name: Voodoo Restoration
+  type: 
+5140:
+  internal_name: witch_doctor_maledict
+  name: Maledict
+  type: 
+5141:
+  internal_name: witch_doctor_death_ward
+  name: Death Ward
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5142:
+  internal_name: riki_smoke_screen
+  name: Smoke Screen
+  type: 
+5143:
+  internal_name: riki_blink_strike
+  name: Blink Strike
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5144:
+  internal_name: riki_backstab
+  name: Backstab
+  type: 
+5145:
+  internal_name: riki_permanent_invisibility
+  name: Permanent Invisibility
+  type: 
+5146:
+  internal_name: enigma_malefice
+  name: Malefice
+  type: 
+5147:
+  internal_name: enigma_demonic_conversion
+  name: Demonic Conversion
+  type: 
+5148:
+  internal_name: enigma_midnight_pulse
+  name: Midnight Pulse
+  type: 
+5149:
+  internal_name: enigma_black_hole
+  name: Black Hole
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5150:
+  internal_name: tinker_laser
+  name: Laser
+  type: 
+5151:
+  internal_name: tinker_heat_seeking_missile
+  name: Heat-Seeking Missile
+  type: 
+5152:
+  internal_name: tinker_march_of_the_machines
+  name: March of the Machines
+  type: 
+5153:
+  internal_name: tinker_rearm
+  name: Rearm
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5154:
+  internal_name: sniper_shrapnel
+  name: Shrapnel
+  type: 
+5155:
+  internal_name: sniper_headshot
+  name: Headshot
+  type: 
+5156:
+  internal_name: sniper_take_aim
+  name: Take Aim
+  type: 
+5157:
+  internal_name: sniper_assassinate
+  name: Assassinate
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5158:
+  internal_name: necrolyte_death_pulse
+  name: Death Pulse
+  type: 
+5159:
+  internal_name: necrolyte_heartstopper_aura
+  name: Heartstopper Aura
+  type: 
+5160:
+  internal_name: necrolyte_sadist
+  name: Sadist
+  type: 
+5161:
+  internal_name: necrolyte_reapers_scythe
+  name: Reaper's Scythe
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5162:
+  internal_name: warlock_fatal_bonds
+  name: Fatal Bonds
+  type: 
+5163:
+  internal_name: warlock_shadow_word
+  name: Shadow Word
+  type: 
+5164:
+  internal_name: warlock_upheaval
+  name: Upheaval
+  type: 
+5165:
+  internal_name: warlock_rain_of_chaos
+  name: Chaotic Offering
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5166:
+  internal_name: warlock_golem_flaming_fists
+  name: Flaming Fists
+  type: DOTA_ABILITY_TYPE_BASIC
+5167:
+  internal_name: warlock_golem_permanent_immolation
+  name: Permanent Immolation
+  type: DOTA_ABILITY_TYPE_BASIC
+5168:
+  internal_name: beastmaster_wild_axes
+  name: Wild Axes
+  type: 
+5169:
+  internal_name: beastmaster_call_of_the_wild
+  name: 'Call of the Wild: Hawk'
+  type: 
+5580:
+  internal_name: beastmaster_call_of_the_wild_boar
+  name: 'Call of the Wild: Boar'
+  type: 
+5170:
+  internal_name: beastmaster_hawk_invisibility
+  name: Invisibility
+  type: 
+5171:
+  internal_name: beastmaster_boar_poison
+  name: Poison
+  type: 
+5352:
+  internal_name: beastmaster_greater_boar_poison
+  name: Poison
+  type: 
+5172:
+  internal_name: beastmaster_inner_beast
+  name: Inner Beast
+  type: 
+5177:
+  internal_name: beastmaster_primal_roar
+  name: Primal Roar
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5173:
+  internal_name: queenofpain_shadow_strike
+  name: Shadow Strike
+  type: 
+5174:
+  internal_name: queenofpain_blink
+  name: Blink
+  type: 
+5175:
+  internal_name: queenofpain_scream_of_pain
+  name: Scream Of Pain
+  type: 
+5176:
+  internal_name: queenofpain_sonic_wave
+  name: Sonic Wave
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5178:
+  internal_name: venomancer_venomous_gale
+  name: Venomous Gale
+  type: 
+5179:
+  internal_name: venomancer_poison_sting
+  name: Poison Sting
+  type: DOTA_ABILITY_TYPE_BASIC
+5180:
+  internal_name: venomancer_plague_ward
+  name: Plague Ward
+  type: 
+5181:
+  internal_name: venomancer_poison_nova
+  name: Poison Nova
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5182:
+  internal_name: faceless_void_time_walk
+  name: Time Walk
+  type: 
+5183:
+  internal_name: faceless_void_backtrack
+  name: Backtrack
+  type: 
+5184:
+  internal_name: faceless_void_time_lock
+  name: Time Lock
+  type: 
+5185:
+  internal_name: faceless_void_chronosphere
+  name: Chronosphere
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5186:
+  internal_name: pugna_nether_blast
+  name: Nether Blast
+  type: 
+5187:
+  internal_name: pugna_decrepify
+  name: Decrepify
+  type: 
+5188:
+  internal_name: pugna_nether_ward
+  name: Nether Ward
+  type: 
+5189:
+  internal_name: pugna_life_drain
+  name: Life Drain
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5190:
+  internal_name: phantom_assassin_stifling_dagger
+  name: Stifling Dagger
+  type: 
+5191:
+  internal_name: phantom_assassin_phantom_strike
+  name: Phantom Strike
+  type: 
+5192:
+  internal_name: phantom_assassin_blur
+  name: Blur
+  type: 
+5193:
+  internal_name: phantom_assassin_coup_de_grace
+  name: Coup de Grace
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5194:
+  internal_name: templar_assassin_refraction
+  name: Refraction
+  type: 
+5195:
+  internal_name: templar_assassin_meld
+  name: Meld
+  type: 
+5196:
+  internal_name: templar_assassin_psi_blades
+  name: Psi Blades
+  type: 
+5197:
+  internal_name: templar_assassin_psionic_trap
+  name: Psionic Trap
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5198:
+  internal_name: templar_assassin_trap
+  name: Trap
+  type: 
+5199:
+  internal_name: templar_assassin_self_trap
+  name: Trap
+  type: 
+5218:
+  internal_name: viper_poison_attack
+  name: Poison Attack
+  type: 
+5219:
+  internal_name: viper_nethertoxin
+  name: Nethertoxin
+  type: 
+5220:
+  internal_name: viper_corrosive_skin
+  name: Corrosive Skin
+  type: 
+5221:
+  internal_name: viper_viper_strike
+  name: Viper Strike
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5222:
+  internal_name: luna_lucent_beam
+  name: Lucent Beam
+  type: 
+5223:
+  internal_name: luna_moon_glaive
+  name: Moon Glaive
+  type: 
+5224:
+  internal_name: luna_lunar_blessing
+  name: Lunar Blessing
+  type: 
+5225:
+  internal_name: luna_eclipse
+  name: Eclipse
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5226:
+  internal_name: dragon_knight_breathe_fire
+  name: Breathe Fire
+  type: 
+5227:
+  internal_name: dragon_knight_dragon_tail
+  name: Dragon Tail
+  type: 
+5228:
+  internal_name: dragon_knight_dragon_blood
+  name: Dragon Blood
+  type: 
+5229:
+  internal_name: dragon_knight_elder_dragon_form
+  name: Elder Dragon Form
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5232:
+  internal_name: dragon_knight_frost_breath
+  name: dragon_knight_frost_breath
+  type: 
+5233:
+  internal_name: dazzle_poison_touch
+  name: Poison Touch
+  type: 
+5234:
+  internal_name: dazzle_shallow_grave
+  name: Shallow Grave
+  type: 
+5235:
+  internal_name: dazzle_shadow_wave
+  name: Shadow Wave
+  type: 
+5236:
+  internal_name: dazzle_weave
+  name: Weave
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5237:
+  internal_name: rattletrap_battery_assault
+  name: Battery Assault
+  type: 
+5238:
+  internal_name: rattletrap_power_cogs
+  name: Power Cogs
+  type: 
+5239:
+  internal_name: rattletrap_rocket_flare
+  name: Rocket Flare
+  type: 
+5240:
+  internal_name: rattletrap_hookshot
+  name: Hookshot
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5241:
+  internal_name: leshrac_split_earth
+  name: Split Earth
+  type: 
+5242:
+  internal_name: leshrac_diabolic_edict
+  name: Diabolic Edict
+  type: 
+5243:
+  internal_name: leshrac_lightning_storm
+  name: Lightning Storm
+  type: 
+5244:
+  internal_name: leshrac_pulse_nova
+  name: Pulse Nova
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5245:
+  internal_name: furion_sprout
+  name: Sprout
+  type: 
+5246:
+  internal_name: furion_teleportation
+  name: Teleportation
+  type: 
+5247:
+  internal_name: furion_force_of_nature
+  name: Nature's Call
+  type: 
+5248:
+  internal_name: furion_wrath_of_nature
+  name: Wrath of Nature
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5249:
+  internal_name: life_stealer_rage
+  name: Rage
+  type: 
+5250:
+  internal_name: life_stealer_feast
+  name: Feast
+  type: 
+5251:
+  internal_name: life_stealer_open_wounds
+  name: Open Wounds
+  type: 
+5252:
+  internal_name: life_stealer_infest
+  name: Infest
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5671:
+  internal_name: life_stealer_assimilate
+  name: Assimilate
+  type: 
+5675:
+  internal_name: life_stealer_assimilate_eject
+  name: Eject
+  type: 
+5253:
+  internal_name: life_stealer_consume
+  name: Consume
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5655:
+  internal_name: life_stealer_control
+  name: Control
+  type: 
+5657:
+  internal_name: life_stealer_empty_1
+  name: ''
+  type: 
+5658:
+  internal_name: life_stealer_empty_2
+  name: ''
+  type: 
+5659:
+  internal_name: life_stealer_empty_3
+  name: ''
+  type: 
+5660:
+  internal_name: life_stealer_empty_4
+  name: ''
+  type: 
+5255:
+  internal_name: dark_seer_vacuum
+  name: Vacuum
+  type: 
+5256:
+  internal_name: dark_seer_ion_shell
+  name: Ion Shell
+  type: 
+5257:
+  internal_name: dark_seer_surge
+  name: Surge
+  type: 
+5258:
+  internal_name: dark_seer_wall_of_replica
+  name: Wall of Replica
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5259:
+  internal_name: clinkz_strafe
+  name: Strafe
+  type: 
+5260:
+  internal_name: clinkz_searing_arrows
+  name: Searing Arrows
+  type: 
+5261:
+  internal_name: clinkz_wind_walk
+  name: Skeleton Walk
+  type: 
+5262:
+  internal_name: clinkz_death_pact
+  name: Death Pact
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5263:
+  internal_name: omniknight_purification
+  name: Purification
+  type: 
+5264:
+  internal_name: omniknight_repel
+  name: Repel
+  type: 
+5265:
+  internal_name: omniknight_degen_aura
+  name: Degen Aura
+  type: 
+5266:
+  internal_name: omniknight_guardian_angel
+  name: Guardian Angel
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5267:
+  internal_name: enchantress_untouchable
+  name: Untouchable
+  type: 
+5268:
+  internal_name: enchantress_enchant
+  name: Enchant
+  type: 
+5269:
+  internal_name: enchantress_natures_attendants
+  name: Nature's Attendants
+  type: 
+5270:
+  internal_name: enchantress_impetus
+  name: Impetus
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5271:
+  internal_name: huskar_inner_vitality
+  name: Inner Vitality
+  type: 
+5272:
+  internal_name: huskar_burning_spear
+  name: Burning Spear
+  type: 
+5273:
+  internal_name: huskar_berserkers_blood
+  name: Berserker's Blood
+  type: 
+5274:
+  internal_name: huskar_life_break
+  name: Life Break
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5275:
+  internal_name: night_stalker_void
+  name: Void
+  type: 
+5276:
+  internal_name: night_stalker_crippling_fear
+  name: Crippling Fear
+  type: 
+5277:
+  internal_name: night_stalker_hunter_in_the_night
+  name: Hunter in the Night
+  type: 
+5278:
+  internal_name: night_stalker_darkness
+  name: Darkness
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5279:
+  internal_name: broodmother_spawn_spiderlings
+  name: Spawn Spiderlings
+  type: 
+5284:
+  internal_name: broodmother_poison_sting
+  name: Poison Sting
+  type: 
+5283:
+  internal_name: broodmother_spawn_spiderite
+  name: Spawn Spiderite
+  type: 
+5280:
+  internal_name: broodmother_spin_web
+  name: Spin Web
+  type: 
+5281:
+  internal_name: broodmother_incapacitating_bite
+  name: Incapacitating Bite
+  type: 
+5282:
+  internal_name: broodmother_insatiable_hunger
+  name: Insatiable Hunger
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5285:
+  internal_name: bounty_hunter_shuriken_toss
+  name: Shuriken Toss
+  type: 
+5286:
+  internal_name: bounty_hunter_jinada
+  name: Jinada
+  type: 
+5287:
+  internal_name: bounty_hunter_wind_walk
+  name: Shadow Walk
+  type: 
+5288:
+  internal_name: bounty_hunter_track
+  name: Track
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5289:
+  internal_name: weaver_the_swarm
+  name: The Swarm
+  type: 
+5290:
+  internal_name: weaver_shukuchi
+  name: Shukuchi
+  type: 
+5291:
+  internal_name: weaver_geminate_attack
+  name: Geminate Attack
+  type: 
+5292:
+  internal_name: weaver_time_lapse
+  name: Time Lapse
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5297:
+  internal_name: jakiro_dual_breath
+  name: Dual Breath
+  type: 
+5298:
+  internal_name: jakiro_ice_path
+  name: Ice Path
+  type: 
+5299:
+  internal_name: jakiro_liquid_fire
+  name: Liquid Fire
+  type: 
+5300:
+  internal_name: jakiro_macropyre
+  name: Macropyre
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5320:
+  internal_name: batrider_sticky_napalm
+  name: Sticky Napalm
+  type: 
+5321:
+  internal_name: batrider_flamebreak
+  name: Flamebreak
+  type: 
+5322:
+  internal_name: batrider_firefly
+  name: Firefly
+  type: 
+5323:
+  internal_name: batrider_flaming_lasso
+  name: Flaming Lasso
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5328:
+  internal_name: chen_penitence
+  name: Penitence
+  type: 
+5329:
+  internal_name: chen_test_of_faith
+  name: Test of Faith
+  type: 
+5522:
+  internal_name: chen_test_of_faith_teleport
+  name: Test of Faith
+  type: 
+5330:
+  internal_name: chen_holy_persuasion
+  name: Holy Persuasion
+  type: 
+5331:
+  internal_name: chen_hand_of_god
+  name: Hand of God
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5334:
+  internal_name: spectre_spectral_dagger
+  name: Spectral Dagger
+  type: 
+5335:
+  internal_name: spectre_desolate
+  name: Desolate
+  type: 
+5336:
+  internal_name: spectre_dispersion
+  name: Dispersion
+  type: 
+5337:
+  internal_name: spectre_haunt
+  name: Haunt
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5338:
+  internal_name: spectre_reality
+  name: Reality
+  type: DOTA_ABILITY_TYPE_BASIC
+5339:
+  internal_name: doom_bringer_devour
+  name: Devour
+  type: 
+5340:
+  internal_name: doom_bringer_scorched_earth
+  name: Scorched Earth
+  type: 
+5341:
+  internal_name: doom_bringer_lvl_death
+  name: LVL? Death
+  type: 
+5342:
+  internal_name: doom_bringer_doom
+  name: Doom
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5343:
+  internal_name: doom_bringer_empty1
+  name: Empty
+  type: 
+5344:
+  internal_name: doom_bringer_empty2
+  name: Empty
+  type: 
+5345:
+  internal_name: ancient_apparition_cold_feet
+  name: Cold Feet
+  type: 
+5346:
+  internal_name: ancient_apparition_ice_vortex
+  name: Ice Vortex
+  type: 
+5347:
+  internal_name: ancient_apparition_chilling_touch
+  name: Chilling Touch
+  type: 
+5348:
+  internal_name: ancient_apparition_ice_blast
+  name: Ice Blast
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5349:
+  internal_name: ancient_apparition_ice_blast_release
+  name: Release
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5353:
+  internal_name: spirit_breaker_charge_of_darkness
+  name: Charge of Darkness
+  type: 
+5354:
+  internal_name: spirit_breaker_empowering_haste
+  name: Empowering Haste
+  type: 
+5355:
+  internal_name: spirit_breaker_greater_bash
+  name: Greater Bash
+  type: 
+5356:
+  internal_name: spirit_breaker_nether_strike
+  name: Nether Strike
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5357:
+  internal_name: ursa_earthshock
+  name: Earthshock
+  type: 
+5358:
+  internal_name: ursa_overpower
+  name: Overpower
+  type: 
+5359:
+  internal_name: ursa_fury_swipes
+  name: Fury Swipes
+  type: 
+5360:
+  internal_name: ursa_enrage
+  name: Enrage
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5361:
+  internal_name: gyrocopter_rocket_barrage
+  name: Rocket Barrage
+  type: 
+5362:
+  internal_name: gyrocopter_homing_missile
+  name: Homing Missile
+  type: 
+5363:
+  internal_name: gyrocopter_flak_cannon
+  name: Flak Cannon
+  type: 
+5364:
+  internal_name: gyrocopter_call_down
+  name: Call Down
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5365:
+  internal_name: alchemist_acid_spray
+  name: Acid Spray
+  type: 
+5366:
+  internal_name: alchemist_unstable_concoction
+  name: Unstable Concoction
+  type: 
+5367:
+  internal_name: alchemist_unstable_concoction_throw
+  name: Unstable Concoction Throw
+  type: 
+5368:
+  internal_name: alchemist_goblins_greed
+  name: Greevil's Greed
+  type: 
+5369:
+  internal_name: alchemist_chemical_rage
+  name: Chemical Rage
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5370:
+  internal_name: invoker_quas
+  name: Quas
+  type: 
+5371:
+  internal_name: invoker_wex
+  name: Wex
+  type: 
+5372:
+  internal_name: invoker_exort
+  name: Exort
+  type: 
+5373:
+  internal_name: invoker_empty1
+  name: Empty
+  type: 
+5374:
+  internal_name: invoker_empty2
+  name: Empty
+  type: 
+5375:
+  internal_name: invoker_invoke
+  name: Invoke
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5376:
+  internal_name: invoker_cold_snap
+  name: Cold Snap
+  type: 
+5381:
+  internal_name: invoker_ghost_walk
+  name: Ghost Walk
+  type: 
+5382:
+  internal_name: invoker_tornado
+  name: Tornado
+  type: 
+5383:
+  internal_name: invoker_emp
+  name: EMP
+  type: 
+5384:
+  internal_name: invoker_alacrity
+  name: Alacrity
+  type: 
+5385:
+  internal_name: invoker_chaos_meteor
+  name: Chaos Meteor
+  type: 
+5386:
+  internal_name: invoker_sun_strike
+  name: Sun Strike
+  type: 
+5387:
+  internal_name: invoker_forge_spirit
+  name: Forge Spirit
+  type: 
+5388:
+  internal_name: forged_spirit_melting_strike
+  name: Melting Strike
+  type: 
+5389:
+  internal_name: invoker_ice_wall
+  name: Ice Wall
+  type: 
+5390:
+  internal_name: invoker_deafening_blast
+  name: Deafening Blast
+  type: 
+5377:
+  internal_name: silencer_curse_of_the_silent
+  name: Curse of the Silent
+  type: DOTA_ABILITY_TYPE_BASIC
+5378:
+  internal_name: silencer_glaives_of_wisdom
+  name: Glaives of Wisdom
+  type: 
+5379:
+  internal_name: silencer_last_word
+  name: Last Word
+  type: 
+5380:
+  internal_name: silencer_global_silence
+  name: Global Silence
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5391:
+  internal_name: obsidian_destroyer_arcane_orb
+  name: Arcane Orb
+  type: 
+5392:
+  internal_name: obsidian_destroyer_astral_imprisonment
+  name: Astral Imprisonment
+  type: 
+5393:
+  internal_name: obsidian_destroyer_essence_aura
+  name: Essence Aura
+  type: 
+5394:
+  internal_name: obsidian_destroyer_sanity_eclipse
+  name: Sanity's Eclipse
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5395:
+  internal_name: lycan_summon_wolves
+  name: Summon Wolves
+  type: 
+5396:
+  internal_name: lycan_howl
+  name: Howl
+  type: 
+5397:
+  internal_name: lycan_feral_impulse
+  name: Feral Impulse
+  type: 
+5398:
+  internal_name: lycan_shapeshift
+  name: Shapeshift
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5399:
+  internal_name: lycan_summon_wolves_critical_strike
+  name: Critical Strike
+  type: 
+5500:
+  internal_name: lycan_summon_wolves_invisibility
+  name: Invisibility
+  type: 
+5412:
+  internal_name: lone_druid_spirit_bear
+  name: Summon Spirit Bear
+  type: 
+5413:
+  internal_name: lone_druid_rabid
+  name: Rabid
+  type: 
+5414:
+  internal_name: lone_druid_synergy
+  name: Synergy
+  type: 
+5415:
+  internal_name: lone_druid_true_form
+  name: True Form
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5416:
+  internal_name: lone_druid_true_form_druid
+  name: Druid Form
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5417:
+  internal_name: lone_druid_true_form_battle_cry
+  name: Battle Cry
+  type: 
+5418:
+  internal_name: lone_druid_spirit_bear_return
+  name: Return
+  type: 
+5419:
+  internal_name: lone_druid_spirit_bear_entangle
+  name: Entangling Claws
+  type: 
+5420:
+  internal_name: lone_druid_spirit_bear_demolish
+  name: Demolish
+  type: 
+5400:
+  internal_name: brewmaster_thunder_clap
+  name: Thunder Clap
+  type: 
+5401:
+  internal_name: brewmaster_drunken_haze
+  name: Drunken Haze
+  type: 
+5402:
+  internal_name: brewmaster_drunken_brawler
+  name: Drunken Brawler
+  type: 
+5403:
+  internal_name: brewmaster_primal_split
+  name: Primal Split
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5404:
+  internal_name: brewmaster_earth_hurl_boulder
+  name: Hurl Boulder
+  type: 
+5405:
+  internal_name: brewmaster_earth_spell_immunity
+  name: Spell Immunity
+  type: 
+5406:
+  internal_name: brewmaster_earth_pulverize
+  name: Pulverize
+  type: 
+5408:
+  internal_name: brewmaster_storm_dispel_magic
+  name: Dispel Magic
+  type: 
+5409:
+  internal_name: brewmaster_storm_cyclone
+  name: Cyclone
+  type: 
+5410:
+  internal_name: brewmaster_storm_wind_walk
+  name: Wind Walk
+  type: 
+5411:
+  internal_name: brewmaster_fire_permanent_immolation
+  name: Permanent Immolation
+  type: 
+5421:
+  internal_name: shadow_demon_disruption
+  name: Disruption
+  type: 
+5422:
+  internal_name: shadow_demon_soul_catcher
+  name: Soul Catcher
+  type: 
+5423:
+  internal_name: shadow_demon_shadow_poison
+  name: Shadow Poison
+  type: 
+5424:
+  internal_name: shadow_demon_shadow_poison_release
+  name: Shadow Poison Release
+  type: 
+5425:
+  internal_name: shadow_demon_demonic_purge
+  name: Demonic Purge
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5426:
+  internal_name: chaos_knight_chaos_bolt
+  name: Chaos Bolt
+  type: 
+5427:
+  internal_name: chaos_knight_reality_rift
+  name: Reality Rift
+  type: 
+5428:
+  internal_name: chaos_knight_chaos_strike
+  name: Chaos Strike
+  type: 
+5429:
+  internal_name: chaos_knight_phantasm
+  name: Phantasm
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5430:
+  internal_name: meepo_earthbind
+  name: Earthbind
+  type: 
+5431:
+  internal_name: meepo_poof
+  name: Poof
+  type: 
+5432:
+  internal_name: meepo_geostrike
+  name: Geostrike
+  type: 
+5433:
+  internal_name: meepo_divided_we_stand
+  name: Divided We Stand
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5434:
+  internal_name: treant_natures_guise
+  name: Nature's Guise
+  type: 
+5435:
+  internal_name: treant_leech_seed
+  name: Leech Seed
+  type: 
+5436:
+  internal_name: treant_living_armor
+  name: Living Armor
+  type: 
+5437:
+  internal_name: treant_overgrowth
+  name: Overgrowth
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5649:
+  internal_name: treant_eyes_in_the_forest
+  name: Eyes In The Forest
+  type: 
+5438:
+  internal_name: ogre_magi_fireblast
+  name: Fireblast
+  type: 
+5466:
+  internal_name: ogre_magi_unrefined_fireblast
+  name: Unrefined Fireblast
+  type: 
+5439:
+  internal_name: ogre_magi_ignite
+  name: Ignite
+  type: 
+5440:
+  internal_name: ogre_magi_bloodlust
+  name: Bloodlust
+  type: 
+5441:
+  internal_name: ogre_magi_multicast
+  name: Multicast
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5442:
+  internal_name: undying_decay
+  name: Decay
+  type: 
+5443:
+  internal_name: undying_soul_rip
+  name: Soul Rip
+  type: 
+5444:
+  internal_name: undying_tombstone
+  name: Tombstone
+  type: 
+5445:
+  internal_name: undying_tombstone_zombie_aura
+  name: undying_tombstone_zombie_aura
+  type: 
+5446:
+  internal_name: undying_tombstone_zombie_deathstrike
+  name: Deathlust
+  type: 
+5447:
+  internal_name: undying_flesh_golem
+  name: Flesh Golem
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5448:
+  internal_name: rubick_telekinesis
+  name: Telekinesis
+  type: 
+5449:
+  internal_name: rubick_telekinesis_land
+  name: Telekinesis Land
+  type: 
+5450:
+  internal_name: rubick_fade_bolt
+  name: Fade Bolt
+  type: 
+5451:
+  internal_name: rubick_null_field
+  name: Null Field
+  type: 
+5452:
+  internal_name: rubick_spell_steal
+  name: Spell Steal
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5453:
+  internal_name: rubick_empty1
+  name: ''
+  type: 
+5454:
+  internal_name: rubick_empty2
+  name: ''
+  type: 
+5455:
+  internal_name: rubick_hidden1
+  name: rubick_hidden1
+  type: 
+5456:
+  internal_name: rubick_hidden2
+  name: rubick_hidden2
+  type: 
+5457:
+  internal_name: rubick_hidden3
+  name: rubick_hidden3
+  type: 
+5458:
+  internal_name: disruptor_thunder_strike
+  name: Thunder Strike
+  type: 
+5459:
+  internal_name: disruptor_glimpse
+  name: Glimpse
+  type: 
+5460:
+  internal_name: disruptor_kinetic_field
+  name: Kinetic Field
+  type: 
+5461:
+  internal_name: disruptor_static_storm
+  name: Static Storm
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5462:
+  internal_name: nyx_assassin_impale
+  name: Impale
+  type: 
+5463:
+  internal_name: nyx_assassin_mana_burn
+  name: Mana Burn
+  type: 
+5464:
+  internal_name: nyx_assassin_spiked_carapace
+  name: Spiked Carapace
+  type: 
+5465:
+  internal_name: nyx_assassin_vendetta
+  name: Vendetta
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5666:
+  internal_name: nyx_assassin_burrow
+  name: Burrow
+  type: 
+5673:
+  internal_name: nyx_assassin_unburrow
+  name: Unburrow
+  type: 
+5467:
+  internal_name: naga_siren_mirror_image
+  name: Mirror Image
+  type: 
+5468:
+  internal_name: naga_siren_ensnare
+  name: Ensnare
+  type: 
+5469:
+  internal_name: naga_siren_rip_tide
+  name: Rip Tide
+  type: 
+5470:
+  internal_name: naga_siren_song_of_the_siren
+  name: Song of the Siren
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5478:
+  internal_name: naga_siren_song_of_the_siren_cancel
+  name: Song of the Siren End
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5471:
+  internal_name: keeper_of_the_light_illuminate
+  name: Illuminate
+  type: 
+5472:
+  internal_name: keeper_of_the_light_mana_leak
+  name: Mana Leak
+  type: 
+5473:
+  internal_name: keeper_of_the_light_chakra_magic
+  name: Chakra Magic
+  type: 
+5501:
+  internal_name: keeper_of_the_light_empty1
+  name: Empty
+  type: 
+5502:
+  internal_name: keeper_of_the_light_empty2
+  name: Empty
+  type: 
+5474:
+  internal_name: keeper_of_the_light_spirit_form
+  name: Spirit Form
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5475:
+  internal_name: keeper_of_the_light_recall
+  name: Recall
+  type: 
+5476:
+  internal_name: keeper_of_the_light_blinding_light
+  name: Blinding Light
+  type: 
+5477:
+  internal_name: keeper_of_the_light_illuminate_end
+  name: Release Illuminate
+  type: 
+5479:
+  internal_name: keeper_of_the_light_spirit_form_illuminate
+  name: Illuminate
+  type: 
+5503:
+  internal_name: keeper_of_the_light_spirit_form_illuminate_end
+  name: Release Illuminate
+  type: 
+5480:
+  internal_name: visage_grave_chill
+  name: Grave Chill
+  type: 
+5481:
+  internal_name: visage_soul_assumption
+  name: Soul Assumption
+  type: 
+5482:
+  internal_name: visage_gravekeepers_cloak
+  name: Gravekeeper's Cloak
+  type: 
+5483:
+  internal_name: visage_summon_familiars
+  name: Summon Familiars
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5484:
+  internal_name: visage_summon_familiars_stone_form
+  name: Stone Form
+  type: 
+5485:
+  internal_name: wisp_tether
+  name: Tether
+  type: 
+5486:
+  internal_name: wisp_spirits
+  name: Spirits
+  type: 
+5487:
+  internal_name: wisp_overcharge
+  name: Overcharge
+  type: 
+5488:
+  internal_name: wisp_relocate
+  name: Relocate
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5489:
+  internal_name: wisp_tether_break
+  name: Break Tether
+  type: 
+5490:
+  internal_name: wisp_spirits_in
+  name: Spirits In
+  type: 
+5493:
+  internal_name: wisp_spirits_out
+  name: Spirits Out
+  type: 
+5498:
+  internal_name: wisp_empty1
+  name: Empty
+  type: 
+5499:
+  internal_name: wisp_empty2
+  name: Empty
+  type: 
+5494:
+  internal_name: slark_dark_pact
+  name: Dark Pact
+  type: 
+5495:
+  internal_name: slark_pounce
+  name: Pounce
+  type: 
+5496:
+  internal_name: slark_essence_shift
+  name: Essence Shift
+  type: 
+5497:
+  internal_name: slark_shadow_dance
+  name: Shadow Dance
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5504:
+  internal_name: medusa_split_shot
+  name: Split Shot
+  type: 
+5505:
+  internal_name: medusa_mystic_snake
+  name: Mystic Snake
+  type: 
+5506:
+  internal_name: medusa_mana_shield
+  name: Mana Shield
+  type: 
+5507:
+  internal_name: medusa_stone_gaze
+  name: Stone Gaze
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5508:
+  internal_name: troll_warlord_berserkers_rage
+  name: Berserker's Rage
+  type: 
+5509:
+  internal_name: troll_warlord_whirling_axes_ranged
+  name: Whirling Axes (Ranged)
+  type: 
+5510:
+  internal_name: troll_warlord_whirling_axes_melee
+  name: Whirling Axes (Melee)
+  type: 
+5511:
+  internal_name: troll_warlord_fervor
+  name: Fervor
+  type: 
+5512:
+  internal_name: troll_warlord_battle_trance
+  name: Battle Trance
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5514:
+  internal_name: centaur_hoof_stomp
+  name: Hoof Stomp
+  type: 
+5515:
+  internal_name: centaur_double_edge
+  name: Double Edge
+  type: 
+5516:
+  internal_name: centaur_return
+  name: Return
+  type: 
+5517:
+  internal_name: centaur_stampede
+  name: Stampede
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5518:
+  internal_name: magnataur_shockwave
+  name: Shockwave
+  type: 
+5519:
+  internal_name: magnataur_empower
+  name: Empower
+  type: 
+5520:
+  internal_name: magnataur_skewer
+  name: Skewer
+  type: 
+5521:
+  internal_name: magnataur_reverse_polarity
+  name: Reverse Polarity
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5524:
+  internal_name: shredder_whirling_death
+  name: Whirling Death
+  type: 
+5525:
+  internal_name: shredder_timber_chain
+  name: Timber Chain
+  type: 
+5526:
+  internal_name: shredder_reactive_armor
+  name: Reactive Armor
+  type: 
+5527:
+  internal_name: shredder_chakram
+  name: Chakram
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5645:
+  internal_name: shredder_chakram_2
+  name: Chakram
+  type: 
+5528:
+  internal_name: shredder_return_chakram
+  name: Return Chakram
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5646:
+  internal_name: shredder_return_chakram_2
+  name: Return Chakram
+  type: 
+5548:
+  internal_name: bristleback_viscous_nasal_goo
+  name: Viscous Nasal Goo
+  type: 
+5549:
+  internal_name: bristleback_quill_spray
+  name: Quill Spray
+  type: 
+5550:
+  internal_name: bristleback_bristleback
+  name: Bristleback
+  type: 
+5551:
+  internal_name: bristleback_warpath
+  name: Warpath
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5565:
+  internal_name: tusk_ice_shards
+  name: Ice Shards
+  type: 
+5668:
+  internal_name: tusk_ice_shards_stop
+  name: Ice Shards Stop
+  type: 
+5566:
+  internal_name: tusk_snowball
+  name: Snowball
+  type: 
+5641:
+  internal_name: tusk_launch_snowball
+  name: Launch Snowball
+  type: 
+5567:
+  internal_name: tusk_frozen_sigil
+  name: Frozen Sigil
+  type: 
+5568:
+  internal_name: tusk_walrus_punch
+  name: Walrus PUNCH!
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5672:
+  internal_name: tusk_walrus_kick
+  name: Walrus Kick
+  type: 
+5581:
+  internal_name: skywrath_mage_arcane_bolt
+  name: Arcane Bolt
+  type: 
+5582:
+  internal_name: skywrath_mage_concussive_shot
+  name: Concussive Shot
+  type: 
+5583:
+  internal_name: skywrath_mage_ancient_seal
+  name: Ancient Seal
+  type: 
+5584:
+  internal_name: skywrath_mage_mystic_flare
+  name: Mystic Flare
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5585:
+  internal_name: abaddon_death_coil
+  name: Mist Coil
+  type: 
+5586:
+  internal_name: abaddon_aphotic_shield
+  name: Aphotic Shield
+  type: 
+5587:
+  internal_name: abaddon_frostmourne
+  name: Curse of Avernus
+  type: 
+5588:
+  internal_name: abaddon_borrowed_time
+  name: Borrowed Time
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5589:
+  internal_name: elder_titan_echo_stomp
+  name: Echo Stomp
+  type: 
+5590:
+  internal_name: elder_titan_echo_stomp_spirit
+  name: Echo Stomp
+  type: 
+5591:
+  internal_name: elder_titan_ancestral_spirit
+  name: Astral Spirit
+  type: 
+5592:
+  internal_name: elder_titan_return_spirit
+  name: Return Astral Spirit
+  type: 
+5593:
+  internal_name: elder_titan_natural_order
+  name: Natural Order
+  type: 
+5594:
+  internal_name: elder_titan_earth_splitter
+  name: Earth Splitter
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5595:
+  internal_name: legion_commander_overwhelming_odds
+  name: Overwhelming Odds
+  type: 
+5596:
+  internal_name: legion_commander_press_the_attack
+  name: Press The Attack
+  type: 
+5597:
+  internal_name: legion_commander_moment_of_courage
+  name: Moment of Courage
+  type: 
+5598:
+  internal_name: legion_commander_duel
+  name: Duel
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5603:
+  internal_name: ember_spirit_searing_chains
+  name: Searing Chains
+  type: 
+5604:
+  internal_name: ember_spirit_sleight_of_fist
+  name: Sleight of Fist
+  type: 
+5605:
+  internal_name: ember_spirit_flame_guard
+  name: Flame Guard
+  type: 
+5606:
+  internal_name: ember_spirit_fire_remnant
+  name: Fire Remnant
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5607:
+  internal_name: ember_spirit_activate_fire_remnant
+  name: Activate Fire Remnant
+  type: DOTA_ABILITY_TYPE_BASIC
+5608:
+  internal_name: earth_spirit_boulder_smash
+  name: Boulder Smash
+  type: 
+5609:
+  internal_name: earth_spirit_rolling_boulder
+  name: Rolling Boulder
+  type: 
+5610:
+  internal_name: earth_spirit_geomagnetic_grip
+  name: Geomagnetic Grip
+  type: 
+5611:
+  internal_name: earth_spirit_stone_caller
+  name: Stone Remnant
+  type: DOTA_ABILITY_TYPE_BASIC
+5648:
+  internal_name: earth_spirit_petrify
+  name: Enchant Remnant
+  type: 
+5612:
+  internal_name: earth_spirit_magnetize
+  name: Magnetize
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5613:
+  internal_name: abyssal_underlord_firestorm
+  name: Firestorm
+  type: 
+5614:
+  internal_name: abyssal_underlord_pit_of_malice
+  name: Pit of Malice
+  type: 
+5615:
+  internal_name: abyssal_underlord_atrophy_aura
+  name: Atrophy Aura
+  type: 
+5616:
+  internal_name: abyssal_underlord_dark_rift
+  name: Dark Rift
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5617:
+  internal_name: abyssal_underlord_cancel_dark_rift
+  name: Cancel Dark Rift
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5619:
+  internal_name: terrorblade_reflection
+  name: Reflection
+  type: 
+5620:
+  internal_name: terrorblade_conjure_image
+  name: Conjure Image
+  type: 
+5621:
+  internal_name: terrorblade_metamorphosis
+  name: Metamorphosis
+  type: 
+5622:
+  internal_name: terrorblade_sunder
+  name: Sunder
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5623:
+  internal_name: phoenix_icarus_dive
+  name: Icarus Dive
+  type: 
+5624:
+  internal_name: phoenix_icarus_dive_stop
+  name: Stop Icarus Dive
+  type: 
+5625:
+  internal_name: phoenix_fire_spirits
+  name: Fire Spirits
+  type: 
+5626:
+  internal_name: phoenix_sun_ray
+  name: Sun Ray
+  type: 
+5627:
+  internal_name: phoenix_sun_ray_stop
+  name: Stop Sun Ray
+  type: 
+5628:
+  internal_name: phoenix_sun_ray_toggle_move
+  name: Toggle Movement
+  type: 
+5629:
+  internal_name: phoenix_sun_ray_toggle_move_empty
+  name: ''
+  type: 
+5630:
+  internal_name: phoenix_supernova
+  name: Supernova
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5631:
+  internal_name: phoenix_launch_fire_spirit
+  name: Launch Fire Spirit
+  type: DOTA_ABILITY_TYPE_BASIC
+5637:
+  internal_name: oracle_fortunes_end
+  name: Fortune's End
+  type: 
+5638:
+  internal_name: oracle_fates_edict
+  name: Fate's Edict
+  type: 
+5639:
+  internal_name: oracle_purifying_flames
+  name: Purifying Flames
+  type: 
+5640:
+  internal_name: oracle_false_promise
+  name: False Promise
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5643:
+  internal_name: broodmother_spin_web_destroy
+  name: Destroy Spin Web
+  type: 
+5350:
+  internal_name: backdoor_protection
+  name: Backdoor Protection
+  type: 
+5351:
+  internal_name: backdoor_protection_in_base
+  name: Backdoor Protection
+  type: 
+5200:
+  internal_name: necronomicon_warrior_last_will
+  name: Last Will
+  type: DOTA_ABILITY_TYPE_BASIC
+5201:
+  internal_name: necronomicon_warrior_sight
+  name: True Sight
+  type: DOTA_ABILITY_TYPE_BASIC
+5202:
+  internal_name: necronomicon_warrior_mana_burn
+  name: Mana Break
+  type: DOTA_ABILITY_TYPE_BASIC
+5203:
+  internal_name: necronomicon_archer_mana_burn
+  name: Mana Burn
+  type: 
+5204:
+  internal_name: necronomicon_archer_aoe
+  name: Archer Aura
+  type: DOTA_ABILITY_TYPE_BASIC
+5205:
+  internal_name: courier_return_to_base
+  name: Return to Base
+  type: DOTA_ABILITY_TYPE_BASIC
+5492:
+  internal_name: courier_go_to_secretshop
+  name: Go To Secret Shop
+  type: DOTA_ABILITY_TYPE_BASIC
+5206:
+  internal_name: courier_transfer_items
+  name: Transfer Items
+  type: DOTA_ABILITY_TYPE_BASIC
+5207:
+  internal_name: courier_return_stash_items
+  name: Return Items
+  type: DOTA_ABILITY_TYPE_BASIC
+5208:
+  internal_name: courier_take_stash_items
+  name: Retrieve Items
+  type: DOTA_ABILITY_TYPE_BASIC
+5676:
+  internal_name: courier_take_stash_and_transfer_items
+  name: courier_take_stash_and_transfer_items
+  type: DOTA_ABILITY_TYPE_BASIC
+5209:
+  internal_name: courier_shield
+  name: Shield
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5210:
+  internal_name: courier_burst
+  name: Speed Burst
+  type: DOTA_ABILITY_TYPE_BASIC
+5642:
+  internal_name: courier_morph
+  name: courier_morph
+  type: DOTA_ABILITY_TYPE_BASIC
+5213:
+  internal_name: roshan_spell_block
+  name: roshan_spell_block
+  type: 
+5618:
+  internal_name: roshan_halloween_spell_block
+  name: roshan_halloween_spell_block
+  type: 
+5214:
+  internal_name: roshan_bash
+  name: roshan_bash
+  type: 
+5215:
+  internal_name: roshan_slam
+  name: roshan_slam
+  type: 
+5216:
+  internal_name: roshan_inherent_buffs
+  name: roshan_inherent_buffs
+  type: 
+5217:
+  internal_name: roshan_devotion
+  name: roshan_devotion
+  type: 
+5293:
+  internal_name: kobold_taskmaster_speed_aura
+  name: Speed Aura
+  type: 
+5294:
+  internal_name: centaur_khan_endurance_aura
+  name: Swiftness Aura
+  type: 
+5295:
+  internal_name: centaur_khan_war_stomp
+  name: War Stomp
+  type: 
+5296:
+  internal_name: gnoll_assassin_envenomed_weapon
+  name: Envenomed Weapon
+  type: 
+5301:
+  internal_name: ghost_frost_attack
+  name: Frost Attack
+  type: DOTA_ABILITY_TYPE_BASIC
+5302:
+  internal_name: polar_furbolg_ursa_warrior_thunder_clap
+  name: Thunder Clap
+  type: 
+5303:
+  internal_name: neutral_spell_immunity
+  name: Spell Immunity
+  type: 
+5304:
+  internal_name: ogre_magi_frost_armor
+  name: Ice Armor
+  type: 
+5305:
+  internal_name: dark_troll_warlord_ensnare
+  name: Ensnare
+  type: 
+5306:
+  internal_name: dark_troll_warlord_raise_dead
+  name: Raise Dead
+  type: 
+5667:
+  internal_name: mud_golem_rock_destroy
+  name: Shard Split
+  type: 
+5670:
+  internal_name: mud_golem_hurl_boulder
+  name: Hurl Boulder
+  type: 
+5307:
+  internal_name: giant_wolf_critical_strike
+  name: Critical Strike
+  type: 
+5308:
+  internal_name: alpha_wolf_critical_strike
+  name: Critical Strike
+  type: 
+5309:
+  internal_name: alpha_wolf_command_aura
+  name: Packleader's Aura
+  type: 
+5310:
+  internal_name: tornado_tempest
+  name: Tempest
+  type: 
+5312:
+  internal_name: enraged_wildkin_tornado
+  name: Tornado
+  type: 
+5313:
+  internal_name: enraged_wildkin_toughness_aura
+  name: Toughness Aura
+  type: 
+5656:
+  internal_name: granite_golem_hp_aura
+  name: Granite Aura
+  type: 
+5314:
+  internal_name: satyr_trickster_purge
+  name: Purge
+  type: 
+5315:
+  internal_name: satyr_soulstealer_mana_burn
+  name: Mana Burn
+  type: 
+5316:
+  internal_name: satyr_hellcaller_shockwave
+  name: Shockwave
+  type: 
+5317:
+  internal_name: satyr_hellcaller_unholy_aura
+  name: Unholy Aura
+  type: 
+5318:
+  internal_name: forest_troll_high_priest_heal
+  name: Heal
+  type: 
+5319:
+  internal_name: harpy_storm_chain_lightning
+  name: Chain Lightning
+  type: 
+5324:
+  internal_name: black_dragon_splash_attack
+  name: Splash Attack
+  type: 
+5325:
+  internal_name: blue_dragonspawn_sorcerer_evasion
+  name: Evasion
+  type: 
+5326:
+  internal_name: blue_dragonspawn_overseer_evasion
+  name: Evasion
+  type: 
+5327:
+  internal_name: blue_dragonspawn_overseer_devotion_aura
+  name: Guardian Aura
+  type: 
+5332:
+  internal_name: big_thunder_lizard_slam
+  name: Slam
+  type: 
+5333:
+  internal_name: big_thunder_lizard_frenzy
+  name: Frenzy
+  type: 
+5491:
+  internal_name: forest_troll_high_priest_mana_aura
+  name: Mana Aura
+  type: 
+9990:
+  internal_name: roshan_halloween_candy
+  name: roshan_halloween_candy
+  type: 
+9991:
+  internal_name: roshan_halloween_angry
+  name: roshan_halloween_angry
+  type: 
+9993:
+  internal_name: roshan_halloween_wave_of_force
+  name: Wave of Force
+  type: 
+9994:
+  internal_name: roshan_halloween_greater_bash
+  name: roshan_halloween_greater_bash
+  type: 
+9995:
+  internal_name: roshan_halloween_toss
+  name: Toss
+  type: 
+9997:
+  internal_name: roshan_halloween_shell
+  name: Shell
+  type: 
+9998:
+  internal_name: roshan_halloween_apocalypse
+  name: Apocalypse
+  type: 
+9999:
+  internal_name: roshan_halloween_burn
+  name: Fire Breath
+  type: 
+10000:
+  internal_name: roshan_halloween_levels
+  name: roshan_halloween_levels
+  type: 
+10001:
+  internal_name: roshan_halloween_summon
+  name: Summon Roshlings
+  type: 
+10002:
+  internal_name: roshan_halloween_fireball
+  name: 'Fireball '
+  type: 
+5529:
+  internal_name: greevil_magic_missile
+  name: Greevil Missile
+  type: 
+5530:
+  internal_name: greevil_cold_snap
+  name: Greevil Snap
+  type: 
+5531:
+  internal_name: greevil_decrepify
+  name: Degreevilfy
+  type: 
+5532:
+  internal_name: greevil_diabolic_edict
+  name: Greevolic Edict
+  type: 
+5533:
+  internal_name: greevil_maledict
+  name: Greevildict
+  type: 
+5534:
+  internal_name: greevil_shadow_strike
+  name: Shadow Greevil Strike
+  type: 
+5535:
+  internal_name: greevil_laguna_blade
+  name: Greevilaguna Blade
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5546:
+  internal_name: greevil_poison_nova
+  name: Greevil Nova
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5547:
+  internal_name: greevil_ice_wall
+  name: Greevice Wall
+  type: 
+5552:
+  internal_name: greevil_fatal_bonds
+  name: Greevil Bonds
+  type: 
+5553:
+  internal_name: greevil_blade_fury
+  name: Greevil Fury
+  type: 
+5554:
+  internal_name: greevil_phantom_strike
+  name: Phantom Greevil Strike
+  type: 
+5555:
+  internal_name: greevil_time_lock
+  name: Greevil Lock
+  type: 
+5556:
+  internal_name: greevil_shadow_wave
+  name: Greevil Wave
+  type: 
+5557:
+  internal_name: greevil_leech_seed
+  name: Leech Greevil
+  type: 
+5558:
+  internal_name: greevil_echo_slam
+  name: Greevil Slam
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5559:
+  internal_name: greevil_natures_attendants
+  name: Greevil's Attendants
+  type: 
+5560:
+  internal_name: greevil_bloodlust
+  name: Greevilust
+  type: 
+5561:
+  internal_name: greevil_purification
+  name: Greevilication
+  type: 
+5562:
+  internal_name: greevil_flesh_golem
+  name: Greevil Golem
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5563:
+  internal_name: greevil_hook
+  name: Greevil Hook
+  type: 
+5564:
+  internal_name: greevil_rot
+  name: Greevil Rot
+  type: 
+5569:
+  internal_name: greevil_black_hole
+  name: Greevil Hole
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5536:
+  internal_name: greevil_miniboss_black_nightmare
+  name: Greevilmare
+  type: 
+5537:
+  internal_name: greevil_miniboss_black_brain_sap
+  name: Greevil Brain Sap
+  type: 
+5538:
+  internal_name: greevil_miniboss_blue_cold_feet
+  name: Cold Greevil Feet
+  type: 
+5539:
+  internal_name: greevil_miniboss_blue_ice_vortex
+  name: Ice Greevortex
+  type: 
+5540:
+  internal_name: greevil_miniboss_red_earthshock
+  name: Greevilshock
+  type: 
+5541:
+  internal_name: greevil_miniboss_red_overpower
+  name: Greevilpower
+  type: 
+5542:
+  internal_name: greevil_miniboss_yellow_ion_shell
+  name: Greevil Shell
+  type: 
+5543:
+  internal_name: greevil_miniboss_yellow_surge
+  name: Greevil Surge
+  type: 
+5544:
+  internal_name: greevil_miniboss_white_purification
+  name: Greevilication
+  type: 
+5545:
+  internal_name: greevil_miniboss_white_degen_aura
+  name: Degreevil Aura
+  type: 
+5570:
+  internal_name: greevil_miniboss_green_living_armor
+  name: Greeviling Armor
+  type: 
+5571:
+  internal_name: greevil_miniboss_green_overgrowth
+  name: Greevil Overgrowth
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5572:
+  internal_name: greevil_miniboss_orange_dragon_slave
+  name: Greevil Dragon Breath
+  type: 
+5573:
+  internal_name: greevil_miniboss_orange_light_strike_array
+  name: Greevil Light Strike
+  type: 
+5574:
+  internal_name: greevil_miniboss_purple_venomous_gale
+  name: Venomous Greevil Spit
+  type: 
+5575:
+  internal_name: greevil_miniboss_purple_plague_ward
+  name: Greevil Ward
+  type: 
+5576:
+  internal_name: greevil_miniboss_sight
+  name: Greevil Sight
+  type: DOTA_ABILITY_TYPE_BASIC
+5577:
+  internal_name: throw_snowball
+  name: throw_snowball
+  type: 
+5578:
+  internal_name: throw_coal
+  name: throw_coal
+  type: 
+5579:
+  internal_name: healing_campfire
+  name: healing_campfire
+  type: 
+5650:
+  internal_name: shoot_firework
+  name: shoot_firework
+  type: 
+5599:
+  internal_name: techies_land_mines
+  name: Land Mines
+  type: 
+5600:
+  internal_name: techies_stasis_trap
+  name: Stasis Trap
+  type: 
+5601:
+  internal_name: techies_suicide
+  name: Suicide Squad, Attack!
+  type: 
+5602:
+  internal_name: techies_remote_mines
+  name: Remote Mines
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5635:
+  internal_name: techies_focused_detonate
+  name: Focused Detonate
+  type: 
+5636:
+  internal_name: techies_remote_mines_self_detonate
+  name: PINPOINT DETONATE
+  type: 
+5644:
+  internal_name: techies_minefield_sign
+  name: Minefield Sign
+  type: 
+5661:
+  internal_name: cny_beast_force_attack
+  name: cny_beast_force_attack
+  type: 
+5662:
+  internal_name: cny2015_sonic_wave
+  name: Sonic Wave
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5663:
+  internal_name: cny2015_black_hole
+  name: Black Hole
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5664:
+  internal_name: cny2015_chronosphere
+  name: Chronosphere
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5651:
+  internal_name: winter_wyvern_arctic_burn
+  name: Arctic Burn
+  type: 
+5652:
+  internal_name: winter_wyvern_splinter_blast
+  name: Splinter Blast
+  type: 
+5653:
+  internal_name: winter_wyvern_cold_embrace
+  name: Cold Embrace
+  type: 
+5654:
+  internal_name: winter_wyvern_winters_curse
+  name: Winter's Curse
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+5665:
+  internal_name: cny_beast_teleport
+  name: cny_beast_teleport
+  type: 

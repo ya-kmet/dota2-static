@@ -1,0 +1,964 @@
+---
+1:
+  internal_name: antimage
+  name: Anti-Mage
+  abilities:
+  - 5003
+  - 5004
+  - 5005
+  - 5006
+2:
+  internal_name: axe
+  name: Axe
+  abilities:
+  - 5007
+  - 5008
+  - 5009
+  - 5010
+3:
+  internal_name: bane
+  name: Bane
+  abilities:
+  - 5012
+  - 5011
+  - 5014
+  - 5013
+  - 5523
+4:
+  internal_name: bloodseeker
+  name: Bloodseeker
+  abilities:
+  - 5015
+  - 5016
+  - 5017
+  - 5018
+5:
+  internal_name: crystal_maiden
+  name: Crystal Maiden
+  abilities:
+  - 5126
+  - 5127
+  - 5128
+  - 5129
+6:
+  internal_name: drow_ranger
+  name: Drow Ranger
+  abilities:
+  - 5019
+  - 5632
+  - 5021
+  - 5022
+7:
+  internal_name: earthshaker
+  name: Earthshaker
+  abilities:
+  - 5023
+  - 5024
+  - 5025
+  - 5026
+8:
+  internal_name: juggernaut
+  name: Juggernaut
+  abilities:
+  - 5028
+  - 5029
+  - 5027
+  - 5030
+9:
+  internal_name: mirana
+  name: Mirana
+  abilities:
+  - 5051
+  - 5048
+  - 5050
+  - 5049
+11:
+  internal_name: nevermore
+  name: Shadow Fiend
+  abilities:
+  - 5059
+  - 5060
+  - 5061
+  - 5062
+  - 5063
+  - 5064
+10:
+  internal_name: morphling
+  name: Morphling
+  abilities:
+  - 5052
+  - 5053
+  - 5055
+  - 5056
+  - 5674
+  - 5057
+  - 5054
+  - 5058
+12:
+  internal_name: phantom_lancer
+  name: Phantom Lancer
+  abilities:
+  - 5065
+  - 5066
+  - 5068
+  - 5067
+13:
+  internal_name: puck
+  name: Puck
+  abilities:
+  - 5069
+  - 5071
+  - 5072
+  - 5070
+  - 5073
+14:
+  internal_name: pudge
+  name: Pudge
+  abilities:
+  - 5075
+  - 5076
+  - 5074
+  - 5077
+15:
+  internal_name: razor
+  name: Razor
+  abilities:
+  - 5082
+  - 5083
+  - 5084
+  - 5085
+16:
+  internal_name: sand_king
+  name: Sand King
+  abilities:
+  - 5102
+  - 5103
+  - 5104
+  - 5105
+17:
+  internal_name: storm_spirit
+  name: Storm Spirit
+  abilities:
+  - 5098
+  - 5099
+  - 5100
+  - 5101
+18:
+  internal_name: sven
+  name: Sven
+  abilities:
+  - 5094
+  - 5095
+  - 5096
+  - 5097
+19:
+  internal_name: tiny
+  name: Tiny
+  abilities:
+  - 5106
+  - 5107
+  - 5108
+  - 5109
+20:
+  internal_name: vengefulspirit
+  name: Vengeful Spirit
+  abilities:
+  - 5122
+  - 5124
+  - 5123
+  - 5125
+21:
+  internal_name: windrunner
+  name: Windranger
+  abilities:
+  - 5130
+  - 5131
+  - 5132
+  - 5133
+22:
+  internal_name: zuus
+  name: Zeus
+  abilities:
+  - 5110
+  - 5111
+  - 5112
+  - 5113
+23:
+  internal_name: kunkka
+  name: Kunkka
+  abilities:
+  - 5031
+  - 5032
+  - 5033
+  - 5035
+  - 5034
+25:
+  internal_name: lina
+  name: Lina
+  abilities:
+  - 5040
+  - 5041
+  - 5042
+  - 5043
+31:
+  internal_name: lich
+  name: Lich
+  abilities:
+  - 5134
+  - 5135
+  - 5136
+  - 5137
+26:
+  internal_name: lion
+  name: Lion
+  abilities:
+  - 5044
+  - 5045
+  - 5046
+  - 5047
+27:
+  internal_name: shadow_shaman
+  name: Shadow Shaman
+  abilities:
+  - 5078
+  - 5079
+  - 5080
+  - 5081
+28:
+  internal_name: slardar
+  name: Slardar
+  abilities:
+  - 5114
+  - 5115
+  - 5116
+  - 5117
+29:
+  internal_name: tidehunter
+  name: Tidehunter
+  abilities:
+  - 5118
+  - 5119
+  - 5120
+  - 5121
+30:
+  internal_name: witch_doctor
+  name: Witch Doctor
+  abilities:
+  - 5138
+  - 5139
+  - 5140
+  - 5141
+32:
+  internal_name: riki
+  name: Riki
+  abilities:
+  - 5142
+  - 5145
+  - 5144
+  - 5143
+33:
+  internal_name: enigma
+  name: Enigma
+  abilities:
+  - 5146
+  - 5147
+  - 5148
+  - 5149
+34:
+  internal_name: tinker
+  name: Tinker
+  abilities:
+  - 5150
+  - 5151
+  - 5152
+  - 5153
+35:
+  internal_name: sniper
+  name: Sniper
+  abilities:
+  - 5154
+  - 5155
+  - 5156
+  - 5157
+36:
+  internal_name: necrolyte
+  name: Necrophos
+  abilities:
+  - 5158
+  - 5159
+  - 5160
+  - 5161
+37:
+  internal_name: warlock
+  name: Warlock
+  abilities:
+  - 5162
+  - 5163
+  - 5164
+  - 5165
+38:
+  internal_name: beastmaster
+  name: Beastmaster
+  abilities:
+  - 5168
+  - 5169
+  - 5580
+  - 5172
+  - 5177
+39:
+  internal_name: queenofpain
+  name: Queen of Pain
+  abilities:
+  - 5173
+  - 5174
+  - 5175
+  - 5176
+40:
+  internal_name: venomancer
+  name: Venomancer
+  abilities:
+  - 5178
+  - 5179
+  - 5180
+  - 5181
+41:
+  internal_name: faceless_void
+  name: Faceless Void
+  abilities:
+  - 5182
+  - 5183
+  - 5184
+  - 5185
+42:
+  internal_name: skeleton_king
+  name: Wraith King
+  abilities:
+  - 5086
+  - 5087
+  - 5088
+  - 5089
+43:
+  internal_name: death_prophet
+  name: Death Prophet
+  abilities:
+  - 5090
+  - 5091
+  - 5092
+  - 5093
+44:
+  internal_name: phantom_assassin
+  name: Phantom Assassin
+  abilities:
+  - 5190
+  - 5191
+  - 5192
+  - 5193
+45:
+  internal_name: pugna
+  name: Pugna
+  abilities:
+  - 5186
+  - 5187
+  - 5188
+  - 5189
+46:
+  internal_name: templar_assassin
+  name: Templar Assassin
+  abilities:
+  - 5194
+  - 5195
+  - 5196
+  - 5198
+  - 5197
+47:
+  internal_name: viper
+  name: Viper
+  abilities:
+  - 5218
+  - 5219
+  - 5220
+  - 5221
+48:
+  internal_name: luna
+  name: Luna
+  abilities:
+  - 5222
+  - 5223
+  - 5224
+  - 5225
+49:
+  internal_name: dragon_knight
+  name: Dragon Knight
+  abilities:
+  - 5226
+  - 5227
+  - 5228
+  - 5229
+50:
+  internal_name: dazzle
+  name: Dazzle
+  abilities:
+  - 5233
+  - 5234
+  - 5235
+  - 5236
+51:
+  internal_name: rattletrap
+  name: Clockwerk
+  abilities:
+  - 5237
+  - 5238
+  - 5239
+  - 5240
+52:
+  internal_name: leshrac
+  name: Leshrac
+  abilities:
+  - 5241
+  - 5242
+  - 5243
+  - 5244
+53:
+  internal_name: furion
+  name: Nature's Prophet
+  abilities:
+  - 5245
+  - 5246
+  - 5247
+  - 5248
+54:
+  internal_name: life_stealer
+  name: Lifestealer
+  abilities:
+  - 5249
+  - 5250
+  - 5251
+  - 5671
+  - 5675
+  - 5252
+  - 5655
+  - 5253
+55:
+  internal_name: dark_seer
+  name: Dark Seer
+  abilities:
+  - 5255
+  - 5256
+  - 5257
+  - 5258
+56:
+  internal_name: clinkz
+  name: Clinkz
+  abilities:
+  - 5259
+  - 5260
+  - 5261
+  - 5262
+57:
+  internal_name: omniknight
+  name: Omniknight
+  abilities:
+  - 5263
+  - 5264
+  - 5265
+  - 5266
+58:
+  internal_name: enchantress
+  name: Enchantress
+  abilities:
+  - 5267
+  - 5268
+  - 5269
+  - 5270
+59:
+  internal_name: huskar
+  name: Huskar
+  abilities:
+  - 5271
+  - 5272
+  - 5273
+  - 5274
+60:
+  internal_name: night_stalker
+  name: Night Stalker
+  abilities:
+  - 5275
+  - 5276
+  - 5277
+  - 5278
+61:
+  internal_name: broodmother
+  name: Broodmother
+  abilities:
+  - 5279
+  - 5280
+  - 5281
+  - 5282
+62:
+  internal_name: bounty_hunter
+  name: Bounty Hunter
+  abilities:
+  - 5285
+  - 5286
+  - 5287
+  - 5288
+63:
+  internal_name: weaver
+  name: Weaver
+  abilities:
+  - 5289
+  - 5290
+  - 5291
+  - 5292
+64:
+  internal_name: jakiro
+  name: Jakiro
+  abilities:
+  - 5297
+  - 5298
+  - 5299
+  - 5300
+65:
+  internal_name: batrider
+  name: Batrider
+  abilities:
+  - 5320
+  - 5321
+  - 5322
+  - 5323
+66:
+  internal_name: chen
+  name: Chen
+  abilities:
+  - 5328
+  - 5329
+  - 5522
+  - 5330
+  - 5331
+67:
+  internal_name: spectre
+  name: Spectre
+  abilities:
+  - 5334
+  - 5335
+  - 5336
+  - 5338
+  - 5337
+69:
+  internal_name: doom_bringer
+  name: Doom
+  abilities:
+  - 5339
+  - 5340
+  - 5341
+  - 5343
+  - 5344
+  - 5342
+68:
+  internal_name: ancient_apparition
+  name: Ancient Apparition
+  abilities:
+  - 5345
+  - 5346
+  - 5347
+  - 5348
+  - 5349
+70:
+  internal_name: ursa
+  name: Ursa
+  abilities:
+  - 5357
+  - 5358
+  - 5359
+  - 5360
+71:
+  internal_name: spirit_breaker
+  name: Spirit Breaker
+  abilities:
+  - 5353
+  - 5354
+  - 5355
+  - 5356
+72:
+  internal_name: gyrocopter
+  name: Gyrocopter
+  abilities:
+  - 5361
+  - 5362
+  - 5363
+  - 5364
+73:
+  internal_name: alchemist
+  name: Alchemist
+  abilities:
+  - 5365
+  - 5366
+  - 5368
+  - 5369
+  - 5367
+74:
+  internal_name: invoker
+  name: Invoker
+  abilities:
+  - 5370
+  - 5371
+  - 5372
+  - 5373
+  - 5374
+  - 5375
+  - 5376
+  - 5381
+  - 5382
+  - 5383
+  - 5384
+  - 5385
+  - 5386
+  - 5387
+  - 5389
+  - 5390
+75:
+  internal_name: silencer
+  name: Silencer
+  abilities:
+  - 5377
+  - 5378
+  - 5379
+  - 5380
+76:
+  internal_name: obsidian_destroyer
+  name: Outworld Devourer
+  abilities:
+  - 5391
+  - 5392
+  - 5393
+  - 5394
+77:
+  internal_name: lycan
+  name: Lycan
+  abilities:
+  - 5395
+  - 5396
+  - 5397
+  - 5398
+78:
+  internal_name: brewmaster
+  name: Brewmaster
+  abilities:
+  - 5400
+  - 5401
+  - 5402
+  - 5403
+79:
+  internal_name: shadow_demon
+  name: Shadow Demon
+  abilities:
+  - 5421
+  - 5422
+  - 5423
+  - 5424
+  - 5425
+80:
+  internal_name: lone_druid
+  name: Lone Druid
+  abilities:
+  - 5412
+  - 5413
+  - 5414
+  - 5417
+  - 5415
+  - 5416
+81:
+  internal_name: chaos_knight
+  name: Chaos Knight
+  abilities:
+  - 5426
+  - 5427
+  - 5428
+  - 5429
+82:
+  internal_name: meepo
+  name: Meepo
+  abilities:
+  - 5430
+  - 5431
+  - 5432
+  - 5433
+83:
+  internal_name: treant
+  name: Treant Protector
+  abilities:
+  - 5434
+  - 5435
+  - 5436
+  - 5649
+  - 5437
+84:
+  internal_name: ogre_magi
+  name: Ogre Magi
+  abilities:
+  - 5438
+  - 5439
+  - 5440
+  - 5466
+  - 5441
+85:
+  internal_name: undying
+  name: Undying
+  abilities:
+  - 5442
+  - 5443
+  - 5444
+  - 5447
+86:
+  internal_name: rubick
+  name: Rubick
+  abilities:
+  - 5448
+  - 5449
+  - 5450
+  - 5451
+  - 5453
+  - 5454
+  - 5452
+  - 5455
+  - 5456
+  - 5457
+87:
+  internal_name: disruptor
+  name: Disruptor
+  abilities:
+  - 5458
+  - 5459
+  - 5460
+  - 5461
+88:
+  internal_name: nyx_assassin
+  name: Nyx Assassin
+  abilities:
+  - 5462
+  - 5463
+  - 5464
+  - 5666
+  - 5673
+  - 5465
+89:
+  internal_name: naga_siren
+  name: Naga Siren
+  abilities:
+  - 5467
+  - 5468
+  - 5469
+  - 5470
+  - 5478
+90:
+  internal_name: keeper_of_the_light
+  name: Keeper of the Light
+  abilities:
+  - 5471
+  - 5472
+  - 5473
+  - 5475
+  - 5476
+  - 5474
+  - 5477
+  - 5479
+  - 5503
+91:
+  internal_name: wisp
+  name: Io
+  abilities:
+  - 5485
+  - 5489
+  - 5486
+  - 5487
+  - 5498
+  - 5499
+  - 5488
+  - 5490
+  - 5493
+92:
+  internal_name: visage
+  name: Visage
+  abilities:
+  - 5480
+  - 5481
+  - 5482
+  - 5483
+93:
+  internal_name: slark
+  name: Slark
+  abilities:
+  - 5494
+  - 5495
+  - 5496
+  - 5497
+94:
+  internal_name: medusa
+  name: Medusa
+  abilities:
+  - 5504
+  - 5505
+  - 5506
+  - 5507
+95:
+  internal_name: troll_warlord
+  name: Troll Warlord
+  abilities:
+  - 5508
+  - 5509
+  - 5510
+  - 5511
+  - 5512
+96:
+  internal_name: centaur
+  name: Centaur Warrunner
+  abilities:
+  - 5514
+  - 5515
+  - 5516
+  - 5517
+97:
+  internal_name: magnataur
+  name: Magnus
+  abilities:
+  - 5518
+  - 5519
+  - 5520
+  - 5521
+98:
+  internal_name: shredder
+  name: Timbersaw
+  abilities:
+  - 5524
+  - 5525
+  - 5526
+  - 5645
+  - 5646
+  - 5527
+  - 5528
+99:
+  internal_name: bristleback
+  name: Bristleback
+  abilities:
+  - 5548
+  - 5549
+  - 5550
+  - 5551
+100:
+  internal_name: tusk
+  name: Tusk
+  abilities:
+  - 5565
+  - 5566
+  - 5567
+  - 5641
+  - 5672
+  - 5568
+101:
+  internal_name: skywrath_mage
+  name: Skywrath Mage
+  abilities:
+  - 5581
+  - 5582
+  - 5583
+  - 5584
+102:
+  internal_name: abaddon
+  name: Abaddon
+  abilities:
+  - 5585
+  - 5586
+  - 5587
+  - 5588
+103:
+  internal_name: elder_titan
+  name: Elder Titan
+  abilities:
+  - 5589
+  - 5591
+  - 5593
+  - 5592
+  - 5594
+104:
+  internal_name: legion_commander
+  name: Legion Commander
+  abilities:
+  - 5595
+  - 5596
+  - 5597
+  - 5598
+106:
+  internal_name: ember_spirit
+  name: Ember Spirit
+  abilities:
+  - 5603
+  - 5604
+  - 5605
+  - 5607
+  - 5606
+107:
+  internal_name: earth_spirit
+  name: Earth Spirit
+  abilities:
+  - 5608
+  - 5609
+  - 5610
+  - 5611
+  - 5648
+  - 5612
+108:
+  internal_name: abyssal_underlord
+  name: Abyssal Underlord
+  abilities:
+  - 5613
+  - 5614
+  - 5615
+  - 5616
+  - 5617
+109:
+  internal_name: terrorblade
+  name: Terrorblade
+  abilities:
+  - 5619
+  - 5620
+  - 5621
+  - 5622
+110:
+  internal_name: phoenix
+  name: Phoenix
+  abilities:
+  - 5623
+  - 5625
+  - 5626
+  - 5629
+  - 5630
+  - 5631
+  - 5624
+  - 5627
+  - 5628
+111:
+  internal_name: oracle
+  name: Oracle
+  abilities:
+  - 5637
+  - 5638
+  - 5639
+  - 5640
+105:
+  internal_name: techies
+  name: Techies
+  abilities:
+  - 5599
+  - 5600
+  - 5601
+  - 5635
+  - 5644
+  - 5602
+112:
+  internal_name: winter_wyvern
+  name: Winter Wyvern
+  abilities:
+  - 5651
+  - 5652
+  - 5653
+  - 5654

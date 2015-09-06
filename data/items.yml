@@ -1,0 +1,769 @@
+---
+1:
+  internal_name: blink
+  name: Blink Dagger
+2:
+  internal_name: blades_of_attack
+  name: Blades of Attack
+3:
+  internal_name: broadsword
+  name: Broadsword
+4:
+  internal_name: chainmail
+  name: Chainmail
+5:
+  internal_name: claymore
+  name: Claymore
+6:
+  internal_name: helm_of_iron_will
+  name: Helm of Iron Will
+7:
+  internal_name: javelin
+  name: Javelin
+8:
+  internal_name: mithril_hammer
+  name: Mithril Hammer
+9:
+  internal_name: platemail
+  name: Platemail
+10:
+  internal_name: quarterstaff
+  name: Quarterstaff
+11:
+  internal_name: quelling_blade
+  name: Quelling Blade
+12:
+  internal_name: ring_of_protection
+  name: Ring of Protection
+182:
+  internal_name: stout_shield
+  name: Stout Shield
+246:
+  internal_name: recipe_moon_shard
+  name: recipe_moon_shard
+247:
+  internal_name: moon_shard
+  name: Moon Shard
+13:
+  internal_name: gauntlets
+  name: Gauntlets of Strength
+14:
+  internal_name: slippers
+  name: Slippers of Agility
+15:
+  internal_name: mantle
+  name: Mantle of Intelligence
+16:
+  internal_name: branches
+  name: Iron Branch
+17:
+  internal_name: belt_of_strength
+  name: Belt of Strength
+18:
+  internal_name: boots_of_elves
+  name: Band of Elvenskin
+19:
+  internal_name: robe
+  name: Robe of the Magi
+20:
+  internal_name: circlet
+  name: Circlet
+21:
+  internal_name: ogre_axe
+  name: Ogre Club
+22:
+  internal_name: blade_of_alacrity
+  name: Blade of Alacrity
+23:
+  internal_name: staff_of_wizardry
+  name: Staff of Wizardry
+24:
+  internal_name: ultimate_orb
+  name: Ultimate Orb
+25:
+  internal_name: gloves
+  name: Gloves of Haste
+26:
+  internal_name: lifesteal
+  name: Morbid Mask
+27:
+  internal_name: ring_of_regen
+  name: Ring of Regen
+28:
+  internal_name: sobi_mask
+  name: Sage's Mask
+29:
+  internal_name: boots
+  name: Boots of Speed
+30:
+  internal_name: gem
+  name: Gem of True Sight
+31:
+  internal_name: cloak
+  name: Cloak
+32:
+  internal_name: talisman_of_evasion
+  name: Talisman of Evasion
+33:
+  internal_name: cheese
+  name: Cheese
+34:
+  internal_name: magic_stick
+  name: Magic Stick
+35:
+  internal_name: recipe_magic_wand
+  name: recipe_magic_wand
+36:
+  internal_name: magic_wand
+  name: Magic Wand
+37:
+  internal_name: ghost
+  name: Ghost Scepter
+38:
+  internal_name: clarity
+  name: Clarity
+216:
+  internal_name: enchanted_mango
+  name: Enchanted Mango
+39:
+  internal_name: flask
+  name: Healing Salve
+40:
+  internal_name: dust
+  name: Dust of Appearance
+41:
+  internal_name: bottle
+  name: Bottle
+42:
+  internal_name: ward_observer
+  name: Observer Ward
+43:
+  internal_name: ward_sentry
+  name: Sentry Ward
+217:
+  internal_name: recipe_ward_dispenser
+  name: recipe_ward_dispenser
+218:
+  internal_name: ward_dispenser
+  name: Observer and Sentry Wards
+44:
+  internal_name: tango
+  name: Tango
+241:
+  internal_name: tango_single
+  name: Tango (Shared)
+45:
+  internal_name: courier
+  name: Animal Courier
+46:
+  internal_name: tpscroll
+  name: Town Portal Scroll
+47:
+  internal_name: recipe_travel_boots
+  name: recipe_travel_boots
+219:
+  internal_name: recipe_travel_boots_2
+  name: recipe_travel_boots_2
+48:
+  internal_name: travel_boots
+  name: Boots of Travel
+220:
+  internal_name: travel_boots_2
+  name: Boots of Travel
+49:
+  internal_name: recipe_phase_boots
+  name: recipe_phase_boots
+50:
+  internal_name: phase_boots
+  name: Phase Boots
+51:
+  internal_name: demon_edge
+  name: Demon Edge
+52:
+  internal_name: eagle
+  name: Eaglesong
+53:
+  internal_name: reaver
+  name: Reaver
+54:
+  internal_name: relic
+  name: Sacred Relic
+55:
+  internal_name: hyperstone
+  name: Hyperstone
+56:
+  internal_name: ring_of_health
+  name: Ring of Health
+57:
+  internal_name: void_stone
+  name: Void Stone
+58:
+  internal_name: mystic_staff
+  name: Mystic Staff
+59:
+  internal_name: energy_booster
+  name: Energy Booster
+60:
+  internal_name: point_booster
+  name: Point Booster
+61:
+  internal_name: vitality_booster
+  name: Vitality Booster
+62:
+  internal_name: recipe_power_treads
+  name: recipe_power_treads
+63:
+  internal_name: power_treads
+  name: Power Treads
+64:
+  internal_name: recipe_hand_of_midas
+  name: recipe_hand_of_midas
+65:
+  internal_name: hand_of_midas
+  name: Hand of Midas
+66:
+  internal_name: recipe_oblivion_staff
+  name: recipe_oblivion_staff
+67:
+  internal_name: oblivion_staff
+  name: Oblivion Staff
+68:
+  internal_name: recipe_pers
+  name: recipe_pers
+69:
+  internal_name: pers
+  name: Perseverance
+70:
+  internal_name: recipe_poor_mans_shield
+  name: recipe_poor_mans_shield
+71:
+  internal_name: poor_mans_shield
+  name: Poor Man's Shield
+72:
+  internal_name: recipe_bracer
+  name: recipe_bracer
+73:
+  internal_name: bracer
+  name: Bracer
+74:
+  internal_name: recipe_wraith_band
+  name: recipe_wraith_band
+75:
+  internal_name: wraith_band
+  name: Wraith Band
+76:
+  internal_name: recipe_null_talisman
+  name: recipe_null_talisman
+77:
+  internal_name: null_talisman
+  name: Null Talisman
+78:
+  internal_name: recipe_mekansm
+  name: recipe_mekansm
+79:
+  internal_name: mekansm
+  name: Mekansm
+80:
+  internal_name: recipe_vladmir
+  name: recipe_vladmir
+81:
+  internal_name: vladmir
+  name: Vladmir's Offering
+84:
+  internal_name: flying_courier
+  name: Flying Courier
+85:
+  internal_name: recipe_buckler
+  name: recipe_buckler
+86:
+  internal_name: buckler
+  name: Buckler
+87:
+  internal_name: recipe_ring_of_basilius
+  name: recipe_ring_of_basilius
+88:
+  internal_name: ring_of_basilius
+  name: Ring of Basilius
+89:
+  internal_name: recipe_pipe
+  name: recipe_pipe
+90:
+  internal_name: pipe
+  name: Pipe of Insight
+91:
+  internal_name: recipe_urn_of_shadows
+  name: Urn of Shadows Recipe
+92:
+  internal_name: urn_of_shadows
+  name: Urn of Shadows
+93:
+  internal_name: recipe_headdress
+  name: recipe_headdress
+94:
+  internal_name: headdress
+  name: Headdress
+95:
+  internal_name: recipe_sheepstick
+  name: recipe_sheepstick
+96:
+  internal_name: sheepstick
+  name: Scythe of Vyse
+97:
+  internal_name: recipe_orchid
+  name: recipe_orchid
+98:
+  internal_name: orchid
+  name: Orchid Malevolence
+99:
+  internal_name: recipe_cyclone
+  name: recipe_cyclone
+100:
+  internal_name: cyclone
+  name: Eul's Scepter of Divinity
+101:
+  internal_name: recipe_force_staff
+  name: recipe_force_staff
+102:
+  internal_name: force_staff
+  name: Force Staff
+103:
+  internal_name: recipe_dagon
+  name: recipe_dagon
+197:
+  internal_name: recipe_dagon_2
+  name: recipe_dagon_2
+198:
+  internal_name: recipe_dagon_3
+  name: recipe_dagon_3
+199:
+  internal_name: recipe_dagon_4
+  name: recipe_dagon_4
+200:
+  internal_name: recipe_dagon_5
+  name: recipe_dagon_5
+104:
+  internal_name: dagon
+  name: Dagon
+201:
+  internal_name: dagon_2
+  name: Dagon
+202:
+  internal_name: dagon_3
+  name: Dagon
+203:
+  internal_name: dagon_4
+  name: Dagon
+204:
+  internal_name: dagon_5
+  name: Dagon
+105:
+  internal_name: recipe_necronomicon
+  name: recipe_necronomicon
+191:
+  internal_name: recipe_necronomicon_2
+  name: recipe_necronomicon_2
+192:
+  internal_name: recipe_necronomicon_3
+  name: recipe_necronomicon_3
+106:
+  internal_name: necronomicon
+  name: Necronomicon
+193:
+  internal_name: necronomicon_2
+  name: Necronomicon
+194:
+  internal_name: necronomicon_3
+  name: Necronomicon
+107:
+  internal_name: recipe_ultimate_scepter
+  name: recipe_ultimate_scepter
+108:
+  internal_name: ultimate_scepter
+  name: Aghanim's Scepter
+109:
+  internal_name: recipe_refresher
+  name: recipe_refresher
+110:
+  internal_name: refresher
+  name: Refresher Orb
+111:
+  internal_name: recipe_assault
+  name: recipe_assault
+112:
+  internal_name: assault
+  name: Assault Cuirass
+113:
+  internal_name: recipe_heart
+  name: recipe_heart
+114:
+  internal_name: heart
+  name: Heart of Tarrasque
+115:
+  internal_name: recipe_black_king_bar
+  name: recipe_black_king_bar
+116:
+  internal_name: black_king_bar
+  name: Black King Bar
+117:
+  internal_name: aegis
+  name: Aegis of the Immortal
+118:
+  internal_name: recipe_shivas_guard
+  name: recipe_shivas_guard
+119:
+  internal_name: shivas_guard
+  name: Shiva's Guard
+120:
+  internal_name: recipe_bloodstone
+  name: recipe_bloodstone
+121:
+  internal_name: bloodstone
+  name: Bloodstone
+122:
+  internal_name: recipe_sphere
+  name: recipe_sphere
+123:
+  internal_name: sphere
+  name: Linken's Sphere
+221:
+  internal_name: recipe_lotus_orb
+  name: recipe_lotus_orb
+226:
+  internal_name: lotus_orb
+  name: Lotus Orb
+124:
+  internal_name: recipe_vanguard
+  name: recipe_vanguard
+125:
+  internal_name: vanguard
+  name: Vanguard
+243:
+  internal_name: recipe_crimson_guard
+  name: recipe_crimson_guard
+242:
+  internal_name: crimson_guard
+  name: Crimson Guard
+126:
+  internal_name: recipe_blade_mail
+  name: recipe_blade_mail
+127:
+  internal_name: blade_mail
+  name: Blade Mail
+128:
+  internal_name: recipe_soul_booster
+  name: recipe_soul_booster
+129:
+  internal_name: soul_booster
+  name: Soul Booster
+130:
+  internal_name: recipe_hood_of_defiance
+  name: recipe_hood_of_defiance
+131:
+  internal_name: hood_of_defiance
+  name: Hood of Defiance
+132:
+  internal_name: recipe_rapier
+  name: recipe_rapier
+133:
+  internal_name: rapier
+  name: Divine Rapier
+134:
+  internal_name: recipe_monkey_king_bar
+  name: recipe_monkey_king_bar
+135:
+  internal_name: monkey_king_bar
+  name: Monkey King Bar
+136:
+  internal_name: recipe_radiance
+  name: recipe_radiance
+137:
+  internal_name: radiance
+  name: Radiance
+138:
+  internal_name: recipe_butterfly
+  name: recipe_butterfly
+139:
+  internal_name: butterfly
+  name: Butterfly
+140:
+  internal_name: recipe_greater_crit
+  name: recipe_greater_crit
+141:
+  internal_name: greater_crit
+  name: Daedalus
+142:
+  internal_name: recipe_basher
+  name: recipe_basher
+143:
+  internal_name: basher
+  name: Skull Basher
+144:
+  internal_name: recipe_bfury
+  name: recipe_bfury
+145:
+  internal_name: bfury
+  name: Battle Fury
+146:
+  internal_name: recipe_manta
+  name: recipe_manta
+147:
+  internal_name: manta
+  name: Manta Style
+148:
+  internal_name: recipe_lesser_crit
+  name: recipe_lesser_crit
+149:
+  internal_name: lesser_crit
+  name: Crystalys
+150:
+  internal_name: recipe_armlet
+  name: recipe_armlet
+151:
+  internal_name: armlet
+  name: Armlet of Mordiggian
+183:
+  internal_name: recipe_invis_sword
+  name: recipe_invis_sword
+152:
+  internal_name: invis_sword
+  name: Shadow Blade
+248:
+  internal_name: recipe_silver_edge
+  name: recipe_silver_edge
+249:
+  internal_name: silver_edge
+  name: Silver Edge
+153:
+  internal_name: recipe_sange_and_yasha
+  name: recipe_sange_and_yasha
+154:
+  internal_name: sange_and_yasha
+  name: Sange and Yasha
+155:
+  internal_name: recipe_satanic
+  name: recipe_satanic
+156:
+  internal_name: satanic
+  name: Satanic
+157:
+  internal_name: recipe_mjollnir
+  name: recipe_mjollnir
+158:
+  internal_name: mjollnir
+  name: Mjollnir
+159:
+  internal_name: recipe_skadi
+  name: recipe_skadi
+160:
+  internal_name: skadi
+  name: Eye of Skadi
+161:
+  internal_name: recipe_sange
+  name: recipe_sange
+162:
+  internal_name: sange
+  name: Sange
+163:
+  internal_name: recipe_helm_of_the_dominator
+  name: recipe_helm_of_the_dominator
+164:
+  internal_name: helm_of_the_dominator
+  name: Helm of the Dominator
+165:
+  internal_name: recipe_maelstrom
+  name: recipe_maelstrom
+166:
+  internal_name: maelstrom
+  name: Maelstrom
+167:
+  internal_name: recipe_desolator
+  name: recipe_desolator
+168:
+  internal_name: desolator
+  name: Desolator
+169:
+  internal_name: recipe_yasha
+  name: recipe_yasha
+170:
+  internal_name: yasha
+  name: Yasha
+171:
+  internal_name: recipe_mask_of_madness
+  name: recipe_mask_of_madness
+172:
+  internal_name: mask_of_madness
+  name: Mask of Madness
+173:
+  internal_name: recipe_diffusal_blade
+  name: recipe_diffusal_blade
+195:
+  internal_name: recipe_diffusal_blade_2
+  name: recipe_diffusal_blade_2
+174:
+  internal_name: diffusal_blade
+  name: Diffusal Blade
+196:
+  internal_name: diffusal_blade_2
+  name: Diffusal Blade
+175:
+  internal_name: recipe_ethereal_blade
+  name: recipe_ethereal_blade
+176:
+  internal_name: ethereal_blade
+  name: Ethereal Blade
+177:
+  internal_name: recipe_soul_ring
+  name: recipe_soul_ring
+178:
+  internal_name: soul_ring
+  name: Soul Ring
+179:
+  internal_name: recipe_arcane_boots
+  name: recipe_arcane_boots
+180:
+  internal_name: arcane_boots
+  name: Arcane Boots
+228:
+  internal_name: recipe_octarine_core
+  name: recipe_octarine_core
+235:
+  internal_name: octarine_core
+  name: Octarine Core
+181:
+  internal_name: orb_of_venom
+  name: Orb of Venom
+184:
+  internal_name: recipe_ancient_janggo
+  name: recipe_ancient_janggo
+185:
+  internal_name: ancient_janggo
+  name: Drum of Endurance
+186:
+  internal_name: recipe_medallion_of_courage
+  name: recipe_medallion_of_courage
+187:
+  internal_name: medallion_of_courage
+  name: Medallion of Courage
+227:
+  internal_name: recipe_solar_crest
+  name: recipe_solar_crest
+229:
+  internal_name: solar_crest
+  name: Solar Crest
+188:
+  internal_name: smoke_of_deceit
+  name: Smoke of Deceit
+189:
+  internal_name: recipe_veil_of_discord
+  name: recipe_veil_of_discord
+190:
+  internal_name: veil_of_discord
+  name: Veil of Discord
+230:
+  internal_name: recipe_guardian_greaves
+  name: recipe_guardian_greaves
+231:
+  internal_name: guardian_greaves
+  name: Guardian Greaves
+205:
+  internal_name: recipe_rod_of_atos
+  name: recipe_rod_of_atos
+206:
+  internal_name: rod_of_atos
+  name: Rod of Atos
+207:
+  internal_name: recipe_abyssal_blade
+  name: recipe_abyssal_blade
+208:
+  internal_name: abyssal_blade
+  name: Abyssal Blade
+209:
+  internal_name: recipe_heavens_halberd
+  name: recipe_heavens_halberd
+210:
+  internal_name: heavens_halberd
+  name: Heaven's Halberd
+211:
+  internal_name: recipe_ring_of_aquila
+  name: recipe_ring_of_aquila
+212:
+  internal_name: ring_of_aquila
+  name: Ring of Aquila
+213:
+  internal_name: recipe_tranquil_boots
+  name: Tranquil Boots Recipe
+214:
+  internal_name: tranquil_boots
+  name: Tranquil Boots
+215:
+  internal_name: shadow_amulet
+  name: Shadow Amulet
+253:
+  internal_name: recipe_glimmer_cape
+  name: recipe_glimmer_cape
+254:
+  internal_name: glimmer_cape
+  name: Glimmer Cape
+1000:
+  internal_name: halloween_candy_corn
+  name: Greevil Taffy
+1001:
+  internal_name: mystery_hook
+  name: mystery_hook
+1002:
+  internal_name: mystery_arrow
+  name: mystery_arrow
+1003:
+  internal_name: mystery_missile
+  name: mystery_missile
+1004:
+  internal_name: mystery_toss
+  name: mystery_toss
+1005:
+  internal_name: mystery_vacuum
+  name: mystery_vacuum
+1006:
+  internal_name: halloween_rapier
+  name: halloween_rapier
+1007:
+  internal_name: greevil_whistle
+  name: greevil_whistle
+1008:
+  internal_name: greevil_whistle_toggle
+  name: greevil_whistle_toggle
+1009:
+  internal_name: present
+  name: A Gift!
+1010:
+  internal_name: winter_stocking
+  name: winter_stocking
+1011:
+  internal_name: winter_skates
+  name: winter_skates
+1012:
+  internal_name: winter_cake
+  name: winter_cake
+1013:
+  internal_name: winter_cookie
+  name: winter_cookie
+1014:
+  internal_name: winter_coco
+  name: winter_coco
+1015:
+  internal_name: winter_ham
+  name: winter_ham
+1016:
+  internal_name: winter_kringle
+  name: winter_kringle
+1017:
+  internal_name: winter_mushroom
+  name: winter_mushroom
+1018:
+  internal_name: winter_greevil_treat
+  name: winter_greevil_treat
+1019:
+  internal_name: winter_greevil_garbage
+  name: winter_greevil_garbage
+1020:
+  internal_name: winter_greevil_chewy
+  name: winter_greevil_chewy
