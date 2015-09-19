@@ -5485,6 +5485,12 @@
   tournament_url: http://the-will-to-win.ru/
   image_banner: subscriptions_updota_tournament_season_1_ingame.png
   image: subscriptions_updota_tournament_season_1.png
+2392:
+  name: MLG World Finals 2015
+  description: MLG World Finals in New Orleans, LA
+  tournament_url: http://www.majorleaguegaming.com/finals
+  image_banner: 
+  image: 
 2395:
   name: Game-a-thon 2015 DOTA 2 Championship
   description: Indian National Dota 2 eSports League
@@ -5916,6 +5922,13 @@
   tournament_url: http://www.faringame.ru/
   image_banner: subscriptions_faringame_league_season_1_ingame.png
   image: subscriptions_faringame_league_season_1.png
+2578:
+  name: ProDotA 2 National Cup
+  description: Professional DotA players leading national teams to find out which
+    nation is the strongest in DotA 2 and claim the prize pool!
+  tournament_url: http://prodota.eu
+  image_banner: 
+  image: 
 2584:
   name: Uprise Champions Cup Season 2
   description: The best teams from the CIS fight for a prize pool of $ 1,500. The
@@ -7934,6 +7947,13 @@
   tournament_url: http://sivvit.ru/?q=dota
   image_banner: subscriptions_league_sivvit_level_1_ingame.png
   image: subscriptions_league_sivvit_level_1.png
+3648:
+  name: Global Amateur tournament
+  description: 32 amateur teams will compete for a prize fund of 35,000 rubles. Unique
+    group stage, teams worthy, worthy of the prize fund. Let there be war!
+  tournament_url: http://team-monolith.pro/
+  image_banner: 
+  image: 
 3649:
   name: PCF Dota 2 Nation
   description: Indonesian Amateur Tournament For The Community Member. With $300 Prize
@@ -7956,6 +7976,13 @@
   tournament_url: http://e-clubmalaysia.com/dota2/?p=16569
   image_banner: subscriptions_dota2_sea_cup_season_1_ingame.png
   image: subscriptions_dota2_sea_cup_season_1.png
+3661:
+  name: Dota 2 Ireland Season 4
+  description: Teams from UK and Ireland compete in LAN finals in Dublin! Featuring
+    talents Sheever, ODPixel, Shane and more! Sponsored by Steelseries.
+  tournament_url: http://www.dota2ireland.com/
+  image_banner: 
+  image: 
 3667:
   name: Maelstrom Dota 2
   description: 'An amateur Dota 2 tournament held in association with Excel 2015(Techno
@@ -8024,6 +8051,13 @@
   tournament_url: http://www.dota2romania.com/
   image_banner: subscriptions_romanian_dota_pro_league__season_2_ingame.png
   image: subscriptions_romanian_dota_pro_league__season_2.png
+3726:
+  name: D2CL Season 6
+  description: 'In the sixth season of D2CL, the best teams from Europe and CIS will
+    battle to take away the title from current champions, Team Empire. '
+  tournament_url: http://d2cl.org
+  image_banner: 
+  image: 
 3729:
   name: Empire Of Riders up Season 1
   description: Amateur CIS team will fight for a cash prize and title Empire Of Riders.
@@ -8056,6 +8090,12 @@
   tournament_url: http://dota.playon.gg/
   image_banner: subscriptions_ad2l_season_9_ingame.png
   image: subscriptions_ad2l_season_9.png
+3749:
+  name: The Hive Rookie Tournament
+  description: 20 best teams of Yogyakarta, fight to be Best of The Best
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/the-hive-tournament-lan-yogyakarta-prize-idr-3-000-000-recruitment-6-september-2015.3177/
+  image_banner: 
+  image: 
 3750:
   name: GCDL Season 9
   description: 'Gamer.LK brings Season 9 of the Gamer.LK Clans DOTA 2 League (GCDL)
