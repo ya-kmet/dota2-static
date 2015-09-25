@@ -2355,6 +2355,10 @@
   internal_name: granite_golem_hp_aura
   name: Granite Aura
   type: 
+5680:
+  internal_name: granite_golem_bash
+  name: granite_golem_bash
+  type: 
 5314:
   internal_name: satyr_trickster_purge
   name: Purge
@@ -2378,6 +2382,14 @@
 5319:
   internal_name: harpy_storm_chain_lightning
   name: Chain Lightning
+  type: 
+5682:
+  internal_name: big_thunder_lizard_wardrums_aura
+  name: War Drums Aura
+  type: DOTA_ABILITY_TYPE_BASIC
+5681:
+  internal_name: black_dragon_dragonhide_aura
+  name: Dragonhide Aura
   type: 
 5324:
   internal_name: black_dragon_splash_attack
@@ -2691,3 +2703,19 @@
   internal_name: cny_beast_teleport
   name: cny_beast_teleport
   type: 
+5677:
+  internal_name: arc_warden_flux
+  name: Flux
+  type: 
+5678:
+  internal_name: arc_warden_magnetic_field
+  name: Magnetic Field
+  type: 
+5679:
+  internal_name: arc_warden_spark_wraith
+  name: Spark Wraith
+  type: 
+5683:
+  internal_name: arc_warden_tempest_double
+  name: Tempest Double
+  type: DOTA_ABILITY_TYPE_ULTIMATE

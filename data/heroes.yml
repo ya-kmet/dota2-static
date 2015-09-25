@@ -962,3 +962,11 @@
   - 5652
   - 5653
   - 5654
+113:
+  internal_name: arc_warden
+  name: Arc Warden
+  abilities:
+  - 5677
+  - 5678
+  - 5679
+  - 5683
