@@ -8016,7 +8016,7 @@
   description: 16 best teams will fight for a prize of more than 5000 rubles!
   tournament_url: http://nq-gamecom.ru/index.php/9-tournament-season-two
   image_banner: panorama/images/subscriptions_nq_dota_2_league_season__2_ingame.png
-  image: panorama/images/subscriptions_nq_dota_2_league_season__2.png
+  image: subscriptions_nq_dota_2_league_season__2.png
 3699:
   name: Friendly Hardcore Gaming Season 3
   description: Friendly Gaming Community. Open Registration Amateurs Only
@@ -8138,7 +8138,7 @@
     globe duking it out in the Beyond the Summit studio in Los Angeles.
   tournament_url: beyondthesummit.tv
   image_banner: panorama/images/subscriptions_the_summit_4_ingame.png
-  image: panorama/images/subscriptions_the_summit_4.png
+  image: subscriptions_the_summit_4.png
 3793:
   name: Corrupted Cup - Season 5
   description: Australia's premier monthly tournament with a $500 prize going to the
@@ -8160,20 +8160,20 @@
     of Black Fyre Amateur Series.
   tournament_url: http://www.blackfyre.com.br
   image_banner: panorama/images/subscriptions_black_fyre_amateur_series___2015_ingame.png
-  image: panorama/images/subscriptions_black_fyre_amateur_series___2015.png
+  image: subscriptions_black_fyre_amateur_series___2015.png
 3865:
   name: ASUS ROG DreamLeague Season 4
   description: "8 of the World's best teams will compete for a prize pool of $150,000
     and Finals at DreamHack Winter 2015. Purchase the Ticket to extend the prize pool!\r\n\t"
   tournament_url: http://dreamleague.dreamhack.se/
   image_banner: panorama/images/subscriptions_asus_rog_dreamleague_season_4_ingame.png
-  image: panorama/images/subscriptions_asus_rog_dreamleague_season_4.png
+  image: subscriptions_asus_rog_dreamleague_season_4.png
 3902:
   name: SLTV Star Series 13
   description: Legendary SLTV Star Series returns with the biggest World tournament.
   tournament_url: http://live.starladder.tv
   image_banner: panorama/images/subscriptions_sltv_star_series_13_ingame.png
-  image: panorama/images/subscriptions_sltv_star_series_13.png
+  image: subscriptions_sltv_star_series_13.png
 3905:
   name: UGC Dota2 League Season 5 - Prelims
   description: The UGC Dota 2 Season 5 will feature teams competing in skill based
@@ -8183,7 +8183,7 @@
     beginning in Sept 27, 2015!
   tournament_url: http://www.ugcleague.com/home_dota2.cfm
   image_banner: panorama/images/subscriptions_ugc_dota2_league_season_5__prelims_ingame.png
-  image: panorama/images/subscriptions_ugc_dota2_league_season_5__prelims.png
+  image: subscriptions_ugc_dota2_league_season_5__prelims.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
