@@ -7997,6 +7997,22 @@
   tournament_url: ''
   image_banner: 
   image: 
+3672:
+  name: 'DotA2VO Ability Cup #3'
+  description: 'Third grand tournament of ability draft mode. Best EU teams compete
+    with each other for 1000$ and title of the champions of the Ability Cup #2'
+  tournament_url: http://dota2vo.ru/abilitycup2
+  image_banner: subscriptions_dota2vo_ability_cup_3_ingame.png
+  image: subscriptions_dota2vo_ability_cup_3.png
+3674:
+  name: DOTA 2 EXL 2015
+  description: 'Electronics Extreme presented the Largest DOTA 2 Tournament in Thailand,
+    called "DOTA 2 EXL 2015 which is welcome for every team. The Winner and the 1st
+    Runner up from each region (8 teams) will be invited to participate the DOTA2
+    EXL 2015 : Grand Final at TGSBIG Festival 2015.'
+  tournament_url: https://exl.exe.in.th/tournament/dota2/dota2_exl_bangkok
+  image_banner: subscriptions_dota_2_exl_2015_ingame.png
+  image: subscriptions_dota_2_exl_2015.png
 3681:
   name: Doticos 2015 - By No Respeta
   description: Who will be the best team in Costa Rica? Do not miss the first season
@@ -8011,6 +8027,13 @@
   tournament_url: http://dota2.replays.net/
   image_banner: subscriptions_the_hope_hotpot_league_ingame.png
   image: subscriptions_the_hope_hotpot_league.png
+3688:
+  name: MLeS
+  description: 'Major League e-Sport is the South American Dota2 tournament for US
+    $ 5,000 '
+  tournament_url: http://www.mlesport.com/
+  image_banner: subscriptions_mles_ingame.png
+  image: subscriptions_mles.png
 3690:
   name: Curumim e-Sports League Season 1
   description: As 8 melhores equipes do Oeste do Par competem por uma premiao de R$300,00.
@@ -8146,6 +8169,14 @@
   tournament_url: beyondthesummit.tv
   image_banner: subscriptions_the_summit_4_ingame.png
   image: subscriptions_the_summit_4.png
+3782:
+  name: Tecnolan 2015
+  description: Tecnolan la pasarela , is biggest dota 2 tournament in Colombia, this
+    year returns with its second edition on 2015. There will be 32 teams fighting
+    for a pass to the lan finals, that will be hosted in Cali Colombia.
+  tournament_url: http://www.groovygaming.co/tecnolan-dota-2/
+  image_banner: subscriptions_tecnolan_2015_ingame.png
+  image: subscriptions_tecnolan_2015.png
 3793:
   name: Corrupted Cup - Season 5
   description: Australia's premier monthly tournament with a $500 prize going to the
@@ -8212,6 +8243,23 @@
   tournament_url: http://live.starladder.tv
   image_banner: subscriptions_sltv_star_series_13_ingame.png
   image: subscriptions_sltv_star_series_13.png
+3903:
+  name: Pichau Arena
+  description: "3 Torneio da Pichau Arena no evento Hanamachi.\r\n\t\r\n\t- Eliminatrias,
+    oitavas, quartas, semi final em MD3 online.\r\n\t- Final presencial em MD5 * \r\n\t\r\n\tCom
+    mais de 50 equipes da Amrica do Sul a competir por um premio de 1.500,00 + Patrocnio
+    da Pichau Informtica."
+  tournament_url: www.pichauarena.com.br
+  image_banner: subscriptions_pichau_arena_ingame.png
+  image: subscriptions_pichau_arena.png
+3904:
+  name: Esports Champion League 2015 Autumn
+  description: ECL2015 autumn season DOTA2 project by the China E-sports development
+    centerwill be held on October 16 - November 28, featuring teams like IG, CDEC
+    and VG.
+  tournament_url: http://www.cespc.com/
+  image_banner: subscriptions_esports_champion_league_2015_autumn_ingame.png
+  image: subscriptions_esports_champion_league_2015_autumn.png
 3905:
   name: UGC Dota2 League Season 5 - Prelims
   description: The UGC Dota 2 Season 5 will feature teams competing in skill based
@@ -8222,6 +8270,20 @@
   tournament_url: http://www.ugcleague.com/home_dota2.cfm
   image_banner: subscriptions_ugc_dota2_league_season_5__prelims_ingame.png
   image: subscriptions_ugc_dota2_league_season_5__prelims.png
+3910:
+  name: IT2D Dota 2 Competition
+  description: "Prize Pool : Rp. 2.000.000++* untuk juara 1 dan 2 !\r\n\t\r\n\t*Total
+    hadiah akan bertambah seiring dengan pertambahan tim yang mendaftar"
+  tournament_url: http://pti.undiksha.ac.id/it2d/
+  image_banner: subscriptions_it2d_dota_2_competition_ingame.png
+  image: subscriptions_it2d_dota_2_competition.png
+3917:
+  name: DA 5v5 Team Series November
+  description: Show us your teamwork and skill in the DA 5v5 Team Series in November.
+    Competing with hundreds of teams for a place at the Top.
+  tournament_url: www.dota-athletes.com
+  image_banner: subscriptions_da_5v5_team_series_november_ingame.png
+  image: subscriptions_da_5v5_team_series_november.png
 3925:
   name: Double D Gaming Online Tournament II
   description: 'Double D Gaming would like to organize an online tournament for DOTA
@@ -8242,6 +8304,13 @@
   tournament_url: http://www.nga.cn
   image_banner: subscriptions_nga_master_league_ingame.png
   image: subscriptions_nga_master_league.png
+3934:
+  name: Copa Ecuador Dota 2  League  Temporada 1
+  description: "Preparate para el evento Dotero ms grande de Quito. \r\n\t\r\n\tMantente
+    atento de nuestras actualizaciones en Twitter y Facebook, corre la voz."
+  tournament_url: http://www.593gaming.com/
+  image_banner: subscriptions_copa_ecuador_dota_2__league__temporada_1_ingame.png
+  image: subscriptions_copa_ecuador_dota_2__league__temporada_1.png
 3947:
   name: Most Wanted Tournament
   description: "64 teams of Indonesia will fight for IDR 3.000.000. \r\n\tPresented
@@ -8255,6 +8324,20 @@
   tournament_url: https://www.toornament.com/tournaments/55e7b242140ba04e4d8b4569/
   image_banner: subscriptions_ubisoft_gaming_league__season_3_ingame.png
   image: subscriptions_ubisoft_gaming_league__season_3.png
+3971:
+  name: Dota 2 Challenge League
+  description: Every two weeks, there will be blood to consecrate the winner of the
+    battle between two teams. Who will be victorious?
+  tournament_url: http://curumimnerd.com.br/desafio-dota-2
+  image_banner: subscriptions_dota_2_challenge_league_ingame.png
+  image: subscriptions_dota_2_challenge_league.png
+3977:
+  name: BigSkill Cup Season 2
+  description: The tournament among beginners for the title of being the best on version
+    BigSkill Cup Season 2!
+  tournament_url: http://bscup.tk
+  image_banner: subscriptions_bigskill_cup_season_2_ingame.png
+  image: subscriptions_bigskill_cup_season_2.png
 3990:
   name: Frankfurt Major 2015 Open Qualifiers
   description: Witness teams from all around the world compete for a place at The
@@ -8262,6 +8345,26 @@
   tournament_url: www.dota2.com
   image_banner: subscriptions_frankfurt_major_2015_open_qualifiers_ingame.png
   image: 
+3991:
+  name: Nxtgame Eternal Dota League Season 4
+  description: Nxtgame Eternal Dota League Season 4 Organized by Eternal Gaming Organizer
+    where team will Battle for total prize IDR 8.000.000 Sponsored by NXTGAME ,Logitech
+    G, G2A ,Unipin, Dota2Geek
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/eternal-dota-league-season-4-online-tournament-27-oktober-3-november-2015.3272/
+  image_banner: subscriptions_nxtgame_eternal_dota_league_season_4_ingame.png
+  image: subscriptions_nxtgame_eternal_dota_league_season_4.png
+3995:
+  name: Copa Ecuador RADIANCE 2015
+  description: The largest of Quito Ecuador RADIANCE 2015 Dotero event
+  tournament_url: http://www.593gaming.com/
+  image_banner: subscriptions_copa_ecuador_radiance_2015_ingame.png
+  image: subscriptions_copa_ecuador_radiance_2015.png
+4043:
+  name: Halberd Gaming House Tournament
+  description: "Halberd Gaming House Tournament with prizepool\r\n\t2.500.000 idr "
+  tournament_url: http://www.dota2indo.org/forum/
+  image_banner: subscriptions_halberd_gaming_house_tournament_ingame.png
+  image: subscriptions_halberd_gaming_house_tournament.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
