@@ -7896,6 +7896,14 @@
   tournament_url: http://www.thebashercup.com
   image_banner: subscriptions_the_basher_cup_ingame.png
   image: subscriptions_the_basher_cup.png
+3579:
+  name: THE MAELSTROM CUP
+  description: LAN Center F & j invites you to this great tournament, THE MAELSTROM
+    CUP in his second season with a well of 1000 dollars to be distributed among the
+    top 4.
+  tournament_url: http://www.lancenterfyj.com/the-malestrom-cup/
+  image_banner: subscriptions_the_maelstron_cup_ingame.png
+  image: subscriptions_the_maelstron_cup.png
 3587:
   name: WeLikeDota League
   description: WeLikeDota League Season 2
@@ -7961,6 +7969,14 @@
   tournament_url: http://pcfgaming.com/showthread.php?tid=374
   image_banner: subscriptions_pcf_dota_2_nation_ingame.png
   image: subscriptions_pcf_dota_2_nation.png
+3654:
+  name: sCSL Eclipse Season I
+  description: 'The first season of the Far Eastern league, " Eclipse," which consists
+    of two stages: the group stage and play - off . Teams from all over the Far East
+    will compete for the title of best team of the season and a prize pool of $ 100.'
+  tournament_url: https://scsl-eclipse.ru
+  image_banner: subscriptions_scsl_eclipse_season_i_ingame.png
+  image: subscriptions_scsl_eclipse_season_i.png
 3657:
   name: China DOTA2 Girls Super League
   description: "First season of China DOTA2 Girls Super \r\n\tLeague. 10 female teams
@@ -8013,6 +8029,13 @@
   tournament_url: https://exl.exe.in.th/tournament/dota2/dota2_exl_bangkok
   image_banner: subscriptions_dota_2_exl_2015_ingame.png
   image: subscriptions_dota_2_exl_2015.png
+3676:
+  name: Next Gaming Championship III
+  description: The third of Next Major Series. Teams across Indonesia will strive
+    to fight for the title of the best team in Indonesia.
+  tournament_url: nextgamingid.com
+  image_banner: subscriptions_next_gaming_championship_iii_ingame.png
+  image: subscriptions_next_gaming_championship_iii.png
 3681:
   name: Doticos 2015 - By No Respeta
   description: Who will be the best team in Costa Rica? Do not miss the first season
@@ -8199,6 +8222,13 @@
   tournament_url: http://www.blackfyre.com.br
   image_banner: subscriptions_black_fyre_amateur_series___2015_ingame.png
   image: subscriptions_black_fyre_amateur_series___2015.png
+3844:
+  name: Ve_Dota Ethereal Blade Cup
+  description: VeDota Series is back with the Ethereal Blade Cup! Sixteen latin americans
+    teams will fight for more than $500 in prizes and the glory.
+  tournament_url: http://vedota.com.ve/
+  image_banner: subscriptions_ve_dota_ethereal_blade_cup_ingame.png
+  image: subscriptions_ve_dota_ethereal_blade_cup.png
 3852:
   name: Master Gaming Series 2015
   description: Presented by QEON and CIPIKA PLAY, where amateur & professional teams
@@ -8237,12 +8267,28 @@
   tournament_url: http://ratio-esport.blogspot.co.id/
   image_banner: subscriptions_ratio_amateur_cup_ingame.png
   image: subscriptions_ratio_amateur_cup.png
+3890:
+  name: Champions Vs Challengers League
+  description: A new Dota 2 league, where Champions and Challengers fight for glory.
+    Who will survive? Will the challengers emerge as the new champions? Lets find
+    out.
+  tournament_url: http://www.esportsrefuge.com/
+  image_banner: subscriptions_champions_vs_challengers_league_ingame.png
+  image: subscriptions_champions_vs_challengers_league.png
+3901:
+  name: Dota Forsi Championship 2015
+  description: Dota Forsi Championship adalah turnamen dota yang diadakan dalam rangkaian
+    acara FORSI (Festival Olahraga dan Seni) Universitas Padjadjaran yang diperuntukkan
+    untuk 5 angkatan termuda mahasiswa Universitas Padjadjaran
+  tournament_url: ask.fm/forsiunpad
+  image_banner: subscriptions_dota_forsi_championship_2015_ingame.png
+  image: subscriptions_dota_forsi_championship_2015.png
 3902:
-  name: SLTV Star Series 13
-  description: Legendary SLTV Star Series returns with the biggest World tournament.
+  name: StarLadder | i-League
+  description: Starladder and i-League present new StarSeries Season 13
   tournament_url: http://live.starladder.tv
-  image_banner: subscriptions_sltv_star_series_13_ingame.png
-  image: subscriptions_sltv_star_series_13.png
+  image_banner: subscriptions_starladder__ileague_ingame.png
+  image: subscriptions_starladder__ileague.png
 3903:
   name: Pichau Arena
   description: "3 Torneio da Pichau Arena no evento Hanamachi.\r\n\t\r\n\t- Eliminatrias,
@@ -8277,6 +8323,20 @@
   tournament_url: http://pti.undiksha.ac.id/it2d/
   image_banner: subscriptions_it2d_dota_2_competition_ingame.png
   image: subscriptions_it2d_dota_2_competition.png
+3911:
+  name: Lenovo Dota 2 Perfect World College League
+  description: Lenovo Dota 2 Perfect World College League 2015 is incoming to select
+    thousands of teams from 10 regions. Join the school fellows and compete for a
+    e-sports prize of $50000.
+  tournament_url: http://act.dota2.com.cn/campus-league/
+  image_banner: subscriptions_lenovo_dota_2_perfect_world_college_league_ingame.png
+  image: subscriptions_lenovo_dota_2_perfect_world_college_league.png
+3916:
+  name: Kings of Island
+  description: A seasonal online tournament with a prize pool of more than 5000 rubles.
+  tournament_url: http://lusi67.wix.com/kingsakh
+  image_banner: subscriptions_kings_of_island_ingame.png
+  image: subscriptions_kings_of_island.png
 3917:
   name: DA 5v5 Team Series November
   description: Show us your teamwork and skill in the DA 5v5 Team Series in November.
@@ -8324,6 +8384,13 @@
   tournament_url: https://www.toornament.com/tournaments/55e7b242140ba04e4d8b4569/
   image_banner: subscriptions_ubisoft_gaming_league__season_3_ingame.png
   image: subscriptions_ubisoft_gaming_league__season_3.png
+3958:
+  name: League UAP Season 1
+  description: The amateur players from the national competitive scene, will compete
+    for a grand prize.
+  tournament_url: http://lancentergeminis.wix.com/ligaicagamer
+  image_banner: subscriptions_league_uap_season_1_ingame.png
+  image: subscriptions_league_uap_season_1.png
 3971:
   name: Dota 2 Challenge League
   description: Every two weeks, there will be blood to consecrate the winner of the
@@ -8331,6 +8398,13 @@
   tournament_url: http://curumimnerd.com.br/desafio-dota-2
   image_banner: subscriptions_dota_2_challenge_league_ingame.png
   image: subscriptions_dota_2_challenge_league.png
+3976:
+  name: 'Hitbox EU Championship #4'
+  description: 8 invited teams complete single elimination round to claim the 2.500
+    Euro prize pool!
+  tournament_url: http://prodota.eu/heuc
+  image_banner: subscriptions_hitbox_eu_championship_4_ingame.png
+  image: subscriptions_hitbox_eu_championship_4.png
 3977:
   name: BigSkill Cup Season 2
   description: The tournament among beginners for the title of being the best on version
@@ -8338,6 +8412,37 @@
   tournament_url: http://bscup.tk
   image_banner: subscriptions_bigskill_cup_season_2_ingame.png
   image: subscriptions_bigskill_cup_season_2.png
+3980:
+  name: The National ESP
+  description: The National ESP is a championship where 16 Spanish teams compete through
+    a group stage and other eliminations, and seek to win the first title of Champion
+    THE NATIONAL ESP .
+  tournament_url: http://steamcommunity.com/groups/thenationalesp
+  image_banner: subscriptions_the_national_esp_ingame.png
+  image: subscriptions_the_national_esp.png
+3984:
+  name: CZ-SK Dota 2 League Season 6
+  description: The sixth season of Czech-Slovakia league will take place over a two
+    months period. The winner will receive prize money upon victory!
+  tournament_url: http://www.dota2league.cz/
+  image_banner: subscriptions_czsk_dota_2_league_season_6_ingame.png
+  image: subscriptions_czsk_dota_2_league_season_6.png
+3986:
+  name: Israel Dota Arena
+  description: The Israel Dota Arena is a tournament created by gamers for gamers
+    and its one of a kind in Israel's Dota 2 scene. This is the first try of a major
+    E-Sports sponsor to lift up Israel's Dota 2 community to a competitive level and
+    we have risen to the challenge.
+  tournament_url: http://ida.co.il
+  image_banner: subscriptions_israel_dota_arena_ingame.png
+  image: subscriptions_israel_dota_arena.png
+3987:
+  name: Corrupted Cup - Season 6
+  description: Australia's premier monthly tournament with a $500 prize going to the
+    triumphant heroes!
+  tournament_url: www.corruptedcup.com
+  image_banner: subscriptions_corrupted_cup__season_6_ingame.png
+  image: subscriptions_corrupted_cup__season_6.png
 3990:
   name: Frankfurt Major 2015 Open Qualifiers
   description: Witness teams from all around the world compete for a place at The
@@ -8353,18 +8458,137 @@
   tournament_url: http://www.ligagame.com/esports/index.php?threads/eternal-dota-league-season-4-online-tournament-27-oktober-3-november-2015.3272/
   image_banner: subscriptions_nxtgame_eternal_dota_league_season_4_ingame.png
   image: subscriptions_nxtgame_eternal_dota_league_season_4.png
+3994:
+  name: Liga Baiana
+  description: The first season of of the Bahia League DotA 2. 32 teams competing
+    for the initial prize pool of R $ 2,000.00. Come follow the Bahia region compete
+    in the first and the largest amateur prize of the north / northeast!
+  tournament_url: www.ligabaiana.com.br
+  image_banner: subscriptions_liga_baiana_ingame.png
+  image: subscriptions_liga_baiana.png
 3995:
   name: Copa Ecuador RADIANCE 2015
   description: The largest of Quito Ecuador RADIANCE 2015 Dotero event
   tournament_url: http://www.593gaming.com/
   image_banner: subscriptions_copa_ecuador_radiance_2015_ingame.png
   image: subscriptions_copa_ecuador_radiance_2015.png
+4002:
+  name: Australian Dota 2 Premiership
+  description: With the success of the Corrupted Cup Series we have decided to announce
+    a brand new event called the Australian Dota2 Premiership! The Australian Dota2
+    Premiership is a team league composed of two divisions, a Pro Division and a Semi-Pro
+    Division, each season will partake over 12 weeks and will be held online starting
+    from the 2nd of November.
+  tournament_url: www.corruptedcup.com
+  image_banner: subscriptions_australian_dota_2_premiership_ingame.png
+  image: subscriptions_australian_dota_2_premiership.png
+4016:
+  name: Somos Gamer Cup
+  description: Amateur tournament to test all the skill and strategy of Peru teams.
+  tournament_url: http://dota2urubamba.wix.com/dota-urubamba
+  image_banner: subscriptions_somos_gamer_cup_ingame.png
+  image: subscriptions_somos_gamer_cup.png
+4028:
+  name: OverLOAD Dota 2 2015
+  description: The biggest event in Bolivia Overload launches its annual Dota 2 tournament
+    where 32 teams will meet in a prize of $ 200 in the fairground of the city of
+    Cochabamba.
+  tournament_url: http://www.gggroupbolivia.com/#!overload/mdukd
+  image_banner: subscriptions_overload_dota_2_2015_ingame.png
+  image: subscriptions_overload_dota_2_2015.png
+4036:
+  name: Requiem Pro League
+  description: "The best players from Russia and CIS will compete in this classic
+    inhouse league.\r\n\t"
+  tournament_url: http://requiem.pro/
+  image_banner: subscriptions_requiem_pro_league_ingame.png
+  image: subscriptions_requiem_pro_league.png
+4037:
+  name: The Choco Cup
+  description: The first season of the tournament is organized by Mr.Choco and ElPadrinoth.
+  tournament_url: http://elpadrinoth.com/
+  image_banner: subscriptions_the_choco_cup_ingame.png
+  image: subscriptions_the_choco_cup.png
+4038:
+  name: 'joinDOTA League #8'
+  description: The global Dota 2 league for everyone. This includes most matches from
+    the semi-pro division 2 and some matches from the amateur divisions.
+  tournament_url: http://www.joindota.com/en/leagues/
+  image_banner: subscriptions_joindota_league_8_ingame.png
+  image: subscriptions_joindota_league_8.png
+4039:
+  name: CDEC Classic
+  description: CDEC Classic is the second level league of CDEC, which Pro players
+    and high-skilled amaeur players can join. Each Classic season lasts two weeks.
+    The game mode is mainly CM. Every end of the season, top players will have rewards.
+  tournament_url: http://dota2.vpgame.com/league.html
+  image_banner: subscriptions_cdec_classic_ingame.png
+  image: subscriptions_cdec_classic.png
+4040:
+  name: E-Sports Venezuela
+  description: Inaugural tournament with a 50,000 bolivar prize pool
+  tournament_url: http://esportsvenezuela.com/
+  image_banner: subscriptions_esports_venezuela_ingame.png
+  image: subscriptions_esports_venezuela.png
 4043:
   name: Halberd Gaming House Tournament
   description: "Halberd Gaming House Tournament with prizepool\r\n\t2.500.000 idr "
   tournament_url: http://www.dota2indo.org/forum/
   image_banner: subscriptions_halberd_gaming_house_tournament_ingame.png
   image: subscriptions_halberd_gaming_house_tournament.png
+4044:
+  name: 'Tourr Captains Draft League Season #2'
+  description: Tourr Captains Draft League provides a fresh challenge for amateur
+    teams that are looking to expand their horizon. Watch them battle it out for the
+    title of the most versatile team.
+  tournament_url: http://tourr.io/tcdl/
+  image_banner: subscriptions_tourr_captains_draft_league_season_2_ingame.png
+  image: subscriptions_tourr_captains_draft_league_season_2.png
+4049:
+  name: BoraDota STARS 2
+  description: Second BoraDota STARS with the best sixteen teams in South America
+    in a professional tournment.
+  tournament_url: www.boradota.com
+  image_banner: subscriptions_boradota_stars_2_ingame.png
+  image: subscriptions_boradota_stars_2.png
+4050:
+  name: Sri Lanka Cyber Games (SLCG) 2015
+  description: SLCG has become the largest e-Sports tournament in the country, and
+    this year it aims to take the culture of games to the next level. Watch top Dota
+    2 teams compete in the largest event in Sri Lanka!
+  tournament_url: http://www.slcg.lk/
+  image_banner: subscriptions_sri_lanka_cyber_games_slcg_2015_ingame.png
+  image: subscriptions_sri_lanka_cyber_games_slcg_2015.png
+4052:
+  name: Southamerican Championships by Ttesports
+  description: '24 South American teams: 16 qualified and 8 invited, compete for a  prize
+    pool of $1,500.  Organized by TTesports, MyRevenge and DreamliveTV in partnership
+    with AzubuTV.'
+  tournament_url: http://www.dreamlivetv.com
+  image_banner: subscriptions_southamerican_championships_by_ttesports_ingame.png
+  image: subscriptions_southamerican_championships_by_ttesports.png
+4066:
+  name: UK Dota November Open
+  description: Users will find the tournament sign up page until all 32 slots are
+    filled or we reach the closing date.  After this time teams will be seeded and
+    groups/brackets will be available for viewing.
+  tournament_url: http://challonge.com/tournaments/signup/yGosVxQkIz
+  image_banner: subscriptions_uk_dota_november_open_ingame.png
+  image: subscriptions_uk_dota_november_open.png
+4079:
+  name: Torneio FaAC de Dota 2
+  description: 16 teams will compete for a prize pool of R$ 320,00.
+  tournament_url: www.blackfyre.com.br
+  image_banner: subscriptions_torneio_faac_de_dota_2_ingame.png
+  image: subscriptions_torneio_faac_de_dota_2.png
+4087:
+  name: 1 Minas E-Sports
+  description: The Minas E-Sports tournament is a great opportunity for new teams
+    and players to take off in the Brazilian scene. Contestants will compete for total
+    prize of US $ 3,000.
+  tournament_url: http://www.minasesports.com.br/
+  image_banner: subscriptions_1_minas_esports_ingame.png
+  image: subscriptions_1_minas_esports.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
