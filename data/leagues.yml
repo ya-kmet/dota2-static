@@ -7942,6 +7942,13 @@
   tournament_url: www.xiaom.com
   image_banner: subscriptions_xeg2015_electronic_competition_ingame.png
   image: subscriptions_xeg2015_electronic_competition.png
+3623:
+  name: Dota International Clan Wars - Season 5
+  description: 5th season of Dota 2 Clan Wars hosted by Dota International for SEA
+    players.
+  tournament_url: http://www.dotainternational.com
+  image_banner: 
+  image: subscriptions_dota_international_clan_wars__season_5.png
 3624:
   name: Virtute League Season 2
   description: Teams from Europe will compete for 100$ prizefund.
@@ -8007,7 +8014,7 @@
   image_banner: subscriptions_maelstrom_dota_2_ingame.png
   image: subscriptions_maelstrom_dota_2.png
 3671:
-  name: Frankfurt Major 2015
+  name: The Frankfurt Major 2015
   description: Who will emerge victorious? Witness the world's top teams battle at
     The Frankfurt Major 2015.
   tournament_url: ''
@@ -8053,7 +8060,7 @@
 3688:
   name: MLeS
   description: 'Major League e-Sport is the South American Dota2 tournament for US
-    $ 5,000 '
+    $ 10,000 '
   tournament_url: http://www.mlesport.com/
   image_banner: subscriptions_mles_ingame.png
   image: subscriptions_mles.png
@@ -8384,6 +8391,13 @@
   tournament_url: https://www.toornament.com/tournaments/55e7b242140ba04e4d8b4569/
   image_banner: subscriptions_ubisoft_gaming_league__season_3_ingame.png
   image: subscriptions_ubisoft_gaming_league__season_3.png
+3956:
+  name: SFG Champions League
+  description: 'SFG Champions League is a league for new teams with a prize pool of
+    80,000 rubles. '
+  tournament_url: vk.com/sfg.cybersport
+  image_banner: subscriptions_sfg_champions_league_ingame.png
+  image: subscriptions_sfg_champions_league.png
 3958:
   name: League UAP Season 1
   description: The amateur players from the national competitive scene, will compete
@@ -8589,6 +8603,32 @@
   tournament_url: http://www.minasesports.com.br/
   image_banner: subscriptions_1_minas_esports_ingame.png
   image: subscriptions_1_minas_esports.png
+4100:
+  name: K-Cup Dota2 Amateur League Season 2
+  description: From the world's top Dota2 players are composed of NGA community to
+    usher in their K-Cup league 2nd season! The new season brings than on 1st season
+    3 times as much as the foundation awards price pool and up to more than $500 top
+    jewelry and material object reward library, the same you have to in the more brutal
+    competition resorted to full fighting game to clinch the final reward!
+  tournament_url: http://bbs.nga.cn/thread.php?fid=321
+  image_banner: subscriptions_kcup_dota2_amateur_league_season_2_ingame.png
+  image: subscriptions_kcup_dota2_amateur_league_season_2.png
+4119:
+  name: D2CL S7 Christmas Magic
+  description: We are beginning the new season with incredible match rules, best casters,
+    skillful teams and a unique opportunity to make Christmas better!
+  tournament_url: http://d2cl.gg
+  image_banner: subscriptions_d2cl_s7_christmas_magic_ingame.png
+  image: subscriptions_d2cl_s7_christmas_magic.png
+4122:
+  name: FACEIT League
+  description: FACEIT.com is an online platform for gamers which allows them to compete
+    in completely automatized Dota2 tournaments, matchmaking and ladders every day
+    for Dota2 Item & Hardware prizes! The best players from FACEIT can qualify for
+    FPL and play with the best players in the world.
+  tournament_url: https://play.faceit.com/
+  image_banner: subscriptions_faceit_league_ingame.png
+  image: subscriptions_faceit_league.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
