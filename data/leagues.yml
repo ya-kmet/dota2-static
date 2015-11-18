@@ -8629,6 +8629,13 @@
   tournament_url: https://play.faceit.com/
   image_banner: subscriptions_faceit_league_ingame.png
   image: subscriptions_faceit_league.png
+4139:
+  name: ASUS ROG Royal Series
+  description: ASUS ROG Royal Series is the 3-series tournaments with total IDR 18.000.000
+    prize pool. This tournament sponsored by Intel
+  tournament_url: ''
+  image_banner: 
+  image: subscriptions_asus_rog_royal_series.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
