@@ -8207,6 +8207,14 @@
   tournament_url: http://www.groovygaming.co/tecnolan-dota-2/
   image_banner: subscriptions_tecnolan_2015_ingame.png
   image: subscriptions_tecnolan_2015.png
+3783:
+  name: PandaFx Tournament 1Vs1
+  description: PandaFx  200 Players in a 1Vs1 Tournament where they need to prove
+    their skills to use only Pandas (Earth Spirit, Ember Spirit, Storm Spirit, Brewmaster)
+    and a Prize Pool of 150$ or more!!
+  tournament_url: https://www.facebook.com/KPTournament?fref=ts
+  image_banner: 
+  image: 
 3793:
   name: Corrupted Cup - Season 5
   description: Australia's premier monthly tournament with a $500 prize going to the
@@ -8581,6 +8589,16 @@
   tournament_url: http://www.dreamlivetv.com
   image_banner: subscriptions_southamerican_championships_by_ttesports_ingame.png
   image: subscriptions_southamerican_championships_by_ttesports.png
+4065:
+  name: Sudamerican Pro League Season 3
+  description: ElitGamers presents its third season with prizes over $700.00 where
+    64 teams compete to fill eight qualifier slots for the finals. In the finals,
+    there will be the eight qualifying teams plus eight invited teams competing. Commentary
+    will be available in Spanish and English.This bundle grants access to view games
+    from the Sudamerican Pro League Season 3.
+  tournament_url: http://elitgamers7.wix.com/sudamericanproleague
+  image_banner: 
+  image: 
 4066:
   name: UK Dota November Open
   description: Users will find the tournament sign up page until all 32 slots are
@@ -8613,6 +8631,13 @@
   tournament_url: http://bbs.nga.cn/thread.php?fid=321
   image_banner: subscriptions_kcup_dota2_amateur_league_season_2_ingame.png
   image: subscriptions_kcup_dota2_amateur_league_season_2.png
+4107:
+  name: Corrupted Cup - Season 7
+  description: Australia's premier monthly tournament with a $500 prize going to the
+    triumphant heroes!
+  tournament_url: www.corruptedcup.com
+  image_banner: 
+  image: 
 4119:
   name: D2CL S7 Christmas Magic
   description: We are beginning the new season with incredible match rules, best casters,
@@ -8629,6 +8654,13 @@
   tournament_url: https://play.faceit.com/
   image_banner: subscriptions_faceit_league_ingame.png
   image: subscriptions_faceit_league.png
+4127:
+  name: 'Uprise Champions Cup: Special'
+  description: 'UCC: Special Season 3 for professional teams from CIS and EU. The
+    best teams will fight for  $  4000 prize pool for 2 month.'
+  tournament_url: http://uccleague.ru/
+  image_banner: 
+  image: 
 4139:
   name: ASUS ROG Royal Series
   description: ASUS ROG Royal Series is the 3-series tournaments with total IDR 18.000.000
@@ -8636,6 +8668,28 @@
   tournament_url: ''
   image_banner: 
   image: subscriptions_asus_rog_royal_series.png
+4147:
+  name: Siaranku.com Tournament
+  description: DotA 2 Indonesia Tournament Project by Siaranku.com on main event 21
+    November - 28 November
+  tournament_url: http://www.siaranku.com/news/44/Siaranku.com+Dota%202%20Tournament
+  image_banner: 
+  image: 
+4148:
+  name: The Yolo Tournament 3
+  description: The Yolo Tournament 3 arrivesin time for winter. Up to 16 teams will
+    fight for a cash prize of € 50 and chocolates this christmas!
+  tournament_url: https://theyolotournament.wordpress.com/
+  image_banner: 
+  image: 
+4166:
+  name: Cause Gaming Charity Cup
+  description: "Cause Gaming brings you an open division charity tournament, showcasing
+    some of South Africa's finest teams, who will battle for glory!\r\n\t\r\n\tPowered
+    by Gigabyte and AORUS, casted by nAvTV. Proceeds benefit The Chaeli Campaign"
+  tournament_url: http://chadleyk4.wix.com/causegaming
+  image_banner: 
+  image: 
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
