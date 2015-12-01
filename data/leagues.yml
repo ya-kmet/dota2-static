@@ -7815,6 +7815,13 @@
   tournament_url: http://sivvit.ru/?q=dota
   image_banner: subscriptions_league_sivvit_level_2_ingame.png
   image: subscriptions_league_sivvit_level_2.png
+3538:
+  name: Dota Elite Series - Season 2
+  description: The second season of DOTA 2 Elite Series tournament, hosting some of
+    the the best teams in North America.
+  tournament_url: http://www.eschamp.com/dota-elite-series/
+  image_banner: subscriptions_dota_elite_series__season_2_ingame.png
+  image: subscriptions_dota_elite_series__season_2.png
 3539:
   name: KOD League
   description: KOD League is an online Dota 2 league for players and viewers Worldwide.
@@ -8143,6 +8150,14 @@
   tournament_url: http://www.ligagame.com/esports/index.php?threads/weproud-dota-2-tournament.3168/
   image_banner: subscriptions_weproud_dota_2_tournament_ingame.png
   image: subscriptions_weproud_dota_2_tournament.png
+3736:
+  name: ProKits Arena
+  description: "Prokits Arena and Legionbattles.com bring you a free to enter fight
+    to the finish - for three thousand dollars!\r\n\tHead over to legionbattles.com
+    and sign up for free tournaments today! "
+  tournament_url: Legionbattles.com, prokitsarena.com
+  image_banner: subscriptions_prokits_arena_ingame.png
+  image: subscriptions_prokits_arena.png
 3739:
   name: Gaming Paradise Season 1
   description: 8 Invited teams competing for basic prize pool of $50.000 in unique
@@ -8386,6 +8401,13 @@
   tournament_url: http://www.593gaming.com/
   image_banner: subscriptions_copa_ecuador_dota_2__league__temporada_1_ingame.png
   image: subscriptions_copa_ecuador_dota_2__league__temporada_1.png
+3936:
+  name: 'Bishkek Stars League #3 - Winter is coming'
+  description: 'The best teams from Kyrgyzstan will compete in the freezing battle
+    for the title of the Bishkek Star League''s champion. '
+  tournament_url: http://dota2.kg/
+  image_banner: subscriptions_bishkek_stars_league_3__winter_is_coming_ingame.png
+  image: subscriptions_bishkek_stars_league_3__winter_is_coming.png
 3947:
   name: Most Wanted Tournament
   description: "64 teams of Indonesia will fight for IDR 3.000.000. \r\n\tPresented
@@ -8613,6 +8635,13 @@
   tournament_url: www.blackfyre.com.br
   image_banner: subscriptions_torneio_faac_de_dota_2_ingame.png
   image: subscriptions_torneio_faac_de_dota_2.png
+4080:
+  name: 'Ardens Cup #1'
+  description: First Open Dota 2 Cup of ArdensLeague.com. The Champion win the prize
+    of $100,00 USD!
+  tournament_url: http://ardensleague.com/Paginas/Visualizacao/VisualizacaoCampeonato.aspx?dados=JALSa%2fGu95jMCjz%2bhYBLSgvu37sZ%2f8Kx6bEXgy2Bteg64zNHEfYfC0VNFmwMBAN8sWak6u6X1fw%3d
+  image_banner: subscriptions_ardens_cup_1_ingame.png
+  image: subscriptions_ardens_cup_1.png
 4087:
   name: 1 Minas E-Sports
   description: The Minas E-Sports tournament is a great opportunity for new teams
@@ -8638,6 +8667,15 @@
   tournament_url: www.corruptedcup.com
   image_banner: subscriptions_corrupted_cup__season_7_ingame.png
   image: subscriptions_corrupted_cup__season_7.png
+4112:
+  name: Global eSports Cup LAN Finals Season 1
+  description: Game Show Global eSports Cup is the first of three seasons with a prizepool
+    of 1.000.000 USD. All regions battle in various stages until 8 teams meet eachother
+    in the Game Show Studio LAN Vilnius. The best 4 will move on to fight on Dreamhack
+    Moscow to enter the Grand Final for 250.000 USD
+  tournament_url: http://d2.gsl.tv/en/gecs1/
+  image_banner: subscriptions_global_esports_cup_lan_finals_season_1_ingame.png
+  image: subscriptions_global_esports_cup_lan_finals_season_1.png
 4119:
   name: D2CL S7 Christmas Magic
   description: We are beginning the new season with incredible match rules, best casters,
@@ -8654,6 +8692,13 @@
   tournament_url: https://play.faceit.com/
   image_banner: subscriptions_faceit_league_ingame.png
   image: subscriptions_faceit_league.png
+4123:
+  name: NCups Season 3
+  description: Amatuer CIS teams will compete for the title of Champions NCups Season
+    3 and a cash prize pool
+  tournament_url: http://n010cups.jimdo.com/
+  image_banner: subscriptions_ncups_season_3_ingame.png
+  image: subscriptions_ncups_season_3.png
 4127:
   name: 'Uprise Champions Cup: Special'
   description: 'UCC: Special Season 3 for professional teams from CIS and EU. The
@@ -8682,6 +8727,15 @@
   tournament_url: https://theyolotournament.wordpress.com/
   image_banner: subscriptions_the_yolo_tournament_3_ingame.png
   image: subscriptions_the_yolo_tournament_3.png
+4151:
+  name: Brunei Dota League Season 3
+  description: Brunei Dota League Season 3 returns as we continue to support local
+    competitive scenes. Season 3 is boosted with a prize pool of BND300 worth of cash
+    prizes and steam wallet for the top 3 winners. Will reigning champions RevivaL
+    emerge victorious or will a new team dethrone them?
+  tournament_url: https://www.reddit.com/r/BNDota2/comments/3rbwq1/introducing_brunei_dota_2_league_season_3_2015/
+  image_banner: subscriptions_brunei_dota_league_season_3_ingame.png
+  image: subscriptions_brunei_dota_league_season_3.png
 4166:
   name: Cause Gaming Charity Cup
   description: "Cause Gaming brings you an open division charity tournament, showcasing
@@ -8690,6 +8744,104 @@
   tournament_url: http://chadleyk4.wix.com/causegaming
   image_banner: subscriptions_cause_gaming_charity_cup_ingame.png
   image: subscriptions_cause_gaming_charity_cup.png
+4167:
+  name: Nepal In-House League
+  description: Gathering the Dota 2 wizards from Nepal, our first In house league.
+    Unleash the beast let the war begin
+  tournament_url: dota2.aatishsai.com.np
+  image_banner: subscriptions_nepal_inhouse_league_ingame.png
+  image: subscriptions_nepal_inhouse_league.png
+4176:
+  name: HELL League
+  description: 16 teams will compete for the championship in a best of one format.
+  tournament_url: http://hellleague.esy.es/
+  image_banner: subscriptions_hell_league_ingame.png
+  image: subscriptions_hell_league.png
+4177:
+  name: CDEC Master
+  description: CDEC Master is the highest level of CDEC league. Only the Pro players
+    and the high-lever amaeur players can join this league. Each Master season lasts
+    two weeks. The game mode is the Captain Mode. At the end of the season, the top
+    players will have some rewards.
+  tournament_url: http://dota2.vpgame.com/league.html
+  image_banner: subscriptions_cdec_master_ingame.png
+  image: subscriptions_cdec_master.png
+4178:
+  name: Xpax Fantasy Fest 2015 Dota 2 Tournament
+  description: For the second year running, Xpax is hosting the Fantasy Fest Dota
+    2 Tournament. 32 of Malaysia's best teams compete to be crowned the Fantasy Fest
+    2015 Dota 2 Champion.
+  tournament_url: http://www.xpax.com.my/fantasyfest2015
+  image_banner: subscriptions_xpax_fantasy_fest_2015_dota_2_tournament_ingame.png
+  image: subscriptions_xpax_fantasy_fest_2015_dota_2_tournament.png
+4180:
+  name: SIVVIT League
+  description: Twelve best teams were selected to participate in the League SIVVIT.
+    Each week they will compete for the title of League champion.
+  tournament_url: http://sivvit.ru/?q=dota
+  image_banner: subscriptions_sivvit_league_ingame.png
+  image: subscriptions_sivvit_league.png
+4181:
+  name: Dota 2 Canada Cup Season 6 Open Qualifiers
+  description: Dota 2 Canada Cup Season 6 Open Qualifiers. Top 2 advance directly
+    into the group stage.  Action begins November 28th / 29th!
+  tournament_url: www.dota2.ca
+  image_banner: subscriptions_dota_2_canada_cup_season_6_open_qualifiers_ingame.png
+  image: subscriptions_dota_2_canada_cup_season_6_open_qualifiers.png
+4182:
+  name: Gamicon 2015
+  description: 'Gamicon 2015 ! 64 teams battle it out on LAN in Bangalore for a prize
+    pool of Rs.2,00,000 ! '
+  tournament_url: http://www.gamiconbangalore.com/
+  image_banner: subscriptions_gamicon_2015_ingame.png
+  image: subscriptions_gamicon_2015.png
+4183:
+  name: VivaWin Grand Slam Dota 2 Tournament
+  description: VIVAWIN Grand Slam will featured Indonesia top team to fight total
+    10 million IDR. Tournament sponsored by VivaWin.
+  tournament_url: http://www.id-primegames.com/primegames/articles.php?category_id=6
+  image_banner: subscriptions_vivawin_grand_slam_dota_2_tournament_ingame.png
+  image: subscriptions_vivawin_grand_slam_dota_2_tournament.png
+4185:
+  name: NGT Season 4
+  description: Featuring skilled semi-pro teams across Europe and North America, NeoN
+    GuilD Tournament is back once again. Who will emerge victorious?
+  tournament_url: http://www.neonguild.net/#!dota2/rn8dn
+  image_banner: subscriptions_ngt_season_4_ingame.png
+  image: subscriptions_ngt_season_4.png
+4187:
+  name: Telkomsel Wargame Championship Palembang 2015
+  description: Dota 2 tournament presented by Telkomsel Sumbagsel organized by Command
+    Centre Studio, LAN finals will be held and broadcast in Palembang Indah Mall.
+  tournament_url: ccesport.wordpress.com
+  image_banner: subscriptions_telkomsel_wargame_championship_palembang_2015_ingame.png
+  image: subscriptions_telkomsel_wargame_championship_palembang_2015.png
+4189:
+  name: ANS Dota 2 Tournament
+  description: 'Anime No Sekai Group launches its first national tournament in Dota
+    2 in Bolivia, 32 places for teams in 4 cities: Oruro , Santa Cruz , La Paz and
+    Cochabamba to be the best event of Dota 2 in Bolivia .'
+  tournament_url: http://www.gggroupbolivia.com/#!anime-no-sekai-dota-2/d0tgc
+  image_banner: subscriptions_ans_dota_2_tournament_ingame.png
+  image: subscriptions_ans_dota_2_tournament.png
+4199:
+  name: 'SKR''s Tornament #1 [MineFull.ru]'
+  description: Amateur teams will compete for a prize pool of $100.
+  tournament_url: http://minefull.ru/
+  image_banner: subscriptions_skrs_tornament_1_minefullru_ingame.png
+  image: subscriptions_skrs_tornament_1_minefullru.png
+4210:
+  name: Dota Pit League Season Four
+  description: "The Dota Pit League is back with Season 4! Top teams from NA, EU,
+    CIS and APAC regions will compete against each other for a prizepool of at least
+    $100,000. Compendium purchases increase the prize pool by 25% of sales, while
+    Season 4 Treasure Chest purchases increases it by 10%.\r\n\t\r\n\tDota Pit League
+    Season 4 will culminate with a huge LAN final broadcast from the 10,000 Seater
+    Spaladium arena located in Split, Croatia, European Union. \r\n\tThe LAN finals
+    will be broadcasted worldwide on March 19 and March 20th 2016."
+  tournament_url: http://www.dotapit.com
+  image_banner: subscriptions_dota_pit_league_season_four_ingame.png
+  image: subscriptions_dota_pit_league_season_four.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
