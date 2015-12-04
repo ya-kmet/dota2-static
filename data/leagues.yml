@@ -6270,6 +6270,13 @@
   tournament_url: http://tdlatino.com/
   image_banner: subscriptions_tdl_huaraz_cup_2015_ingame.png
   image: subscriptions_tdl_huaraz_cup_2015.png
+2747:
+  name: Dota 2 Canada Cup Season 6
+  description: 'The Dota 2 Canada Cup is back! Featuring some of the finest teams
+    from North and South America. '
+  tournament_url: www.dota2.ca
+  image_banner: subscriptions_dota_2_canada_cup_season_6_ingame.png
+  image: subscriptions_dota_2_canada_cup_season_6.png
 2748:
   name: Kazakhstan Dota 2 Cup Season 1
   description: Players from Kazakhstan will fight for the title of the best team in
@@ -8057,6 +8064,13 @@
   tournament_url: http://norespeta.com/doticos/
   image_banner: subscriptions_doticos_2015__by_no_respeta_ingame.png
   image: subscriptions_doticos_2015__by_no_respeta.png
+3685:
+  name: Teams Impact season 2
+  description: 16 teams will face each other for a prize, from which 2 teams are the
+    winners of the first season and 2 teams-winners of qualifiers for season 2.
+  tournament_url: http://teamsimpact.com
+  image_banner: subscriptions_teams_impact_season_2_ingame.png
+  image: subscriptions_teams_impact_season_2.png
 3687:
   name: The Hope Hotpot league
   description: A facing from Chongqing, China elite dota2 League, each season has
@@ -8185,6 +8199,13 @@
   tournament_url: http://gamer.lk/gcdl
   image_banner: subscriptions_gcdl_season_9_ingame.png
   image: subscriptions_gcdl_season_9.png
+3766:
+  name: InetPeru League Season 2
+  description: "The best teams South America will fight to know who the best is.\r\n\t\r\n\tSeason
+    2"
+  tournament_url: http://www.inetperugames.ga
+  image_banner: subscriptions_inetperu_league_season_2_ingame.png
+  image: subscriptions_inetperu_league_season_2.png
 3768:
   name: Eternally Exiled Cup Season IV
   description: 'Eternally Exiled Cup presents its four season! Professional teams
@@ -8290,6 +8311,14 @@
   tournament_url: http://www.pkdota.com/ & http://www.pkdota.com/forums/Forum-PKDota-s-The-Inaugural-Season-3
   image_banner: subscriptions_pkdotas_the_inaugural_3_ingame.png
   image: subscriptions_pkdotas_the_inaugural_3.png
+3877:
+  name: DOTA2 Radiant & Dire Cup 2015
+  description: "Hosted by Perfect World, DOTA2 Radiant & Dire Cup 2015 is a tournament
+    aiming to seek new blood for Chinese DotA scene. With all top pro teams invited,
+    the tournament will create a brand new setup for players all.\r\n\t\r\n\t\r\n\t"
+  tournament_url: http://www.dota2.com.cn/match/hyb/qualifier/
+  image_banner: subscriptions_dota2_radiant__dire_cup_2015_ingame.png
+  image: subscriptions_dota2_radiant__dire_cup_2015.png
 3888:
   name: Ra:tio Amateur Cup
   description: Ra:tio eSport Dota 2 Amateur Cup provides all amateur team in Indonesia
@@ -8611,6 +8640,13 @@
   tournament_url: http://www.dreamlivetv.com
   image_banner: subscriptions_southamerican_championships_by_ttesports_ingame.png
   image: subscriptions_southamerican_championships_by_ttesports.png
+4058:
+  name: TEvent Dota 2 Season 4
+  description: 'This open tournament contains 32 teams from Central Russia competing
+    for the rights to call themselves the best team in the region. '
+  tournament_url: http://tevent.win/
+  image_banner: subscriptions_tevent_dota_2_season_4_ingame.png
+  image: subscriptions_tevent_dota_2_season_4.png
 4065:
   name: Sudamerican Pro League Season 3
   description: ElitGamers presents its third season with prizes over $700.00 where
@@ -8713,6 +8749,13 @@
   tournament_url: ''
   image_banner: 
   image: subscriptions_asus_rog_royal_series.png
+4140:
+  name: NFCups Season 2
+  description: 32 amateur teams from CIS countries will compete for the first place
+    and the title of champion NFCups
+  tournament_url: http://n010cups.jimdo.com/nfcups-season-2/
+  image_banner: subscriptions_nfcups_season_2_ingame.png
+  image: subscriptions_nfcups_season_2.png
 4147:
   name: Siaranku.com Tournament
   description: DotA 2 Indonesia Tournament Project by Siaranku.com on main event 21
@@ -8736,6 +8779,20 @@
   tournament_url: https://www.reddit.com/r/BNDota2/comments/3rbwq1/introducing_brunei_dota_2_league_season_3_2015/
   image_banner: subscriptions_brunei_dota_league_season_3_ingame.png
   image: subscriptions_brunei_dota_league_season_3.png
+4156:
+  name: DotAing Man League Season 2
+  description: "DotAing Man League is a new league announced by D2TV\x8216 teams will
+    compete for the champion."
+  tournament_url: http://www.dotaingman.icoc.cc/
+  image_banner: subscriptions_dotaing_man_league_season_2_ingame.png
+  image: subscriptions_dotaing_man_league_season_2.png
+4162:
+  name: Cyberia Tournament Season 1
+  description: Cyberia Tournament Season 1, the finest LAN Tournament at Bekasi, with
+    Rp 6.500.000,00 total prize
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/cyberia-tournament-season-1-pool-prize-13-000-000.3452/
+  image_banner: subscriptions_cyberia_tournament_season_1_ingame.png
+  image: subscriptions_cyberia_tournament_season_1.png
 4166:
   name: Cause Gaming Charity Cup
   description: "Cause Gaming brings you an open division charity tournament, showcasing
@@ -8751,6 +8808,12 @@
   tournament_url: dota2.aatishsai.com.np
   image_banner: subscriptions_nepal_inhouse_league_ingame.png
   image: subscriptions_nepal_inhouse_league.png
+4172:
+  name: Cyber Namba DOTA II Season II.
+  description: The second season of the Cyber Namba Dota 2 tournament.
+  tournament_url: cybernamba.com
+  image_banner: subscriptions_cyber_namba_dota_ii_season_ii_ingame.png
+  image: subscriptions_cyber_namba_dota_ii_season_ii.png
 4176:
   name: HELL League
   description: 16 teams will compete for the championship in a best of one format.
@@ -8824,12 +8887,26 @@
   tournament_url: http://www.gggroupbolivia.com/#!anime-no-sekai-dota-2/d0tgc
   image_banner: subscriptions_ans_dota_2_tournament_ingame.png
   image: subscriptions_ans_dota_2_tournament.png
+4192:
+  name: Dota 2 Garuda Online Amateur Tournament
+  description: At least 32 amateur teams in Indonesia will compete for a total IDR
+    3.000.000 starting prize pool
+  tournament_url: https://www.facebook.com/Dota2Garuda/
+  image_banner: subscriptions_dota_2_garuda_online_amateur_tournament_ingame.png
+  image: subscriptions_dota_2_garuda_online_amateur_tournament.png
 4199:
   name: 'SKR''s Tornament #1 [MineFull.ru]'
   description: Amateur teams will compete for a prize pool of $100.
   tournament_url: http://minefull.ru/
   image_banner: subscriptions_skrs_tornament_1_minefullru_ingame.png
   image: subscriptions_skrs_tornament_1_minefullru.png
+4208:
+  name: Neva Championship Season 1
+  description: Neva Championship is starting in Saint Petersburg, Russia. First season
+    is online and everyone can apply to participate!
+  tournament_url: http://dota2.nevachamp.tv
+  image_banner: subscriptions_neva_championship_season_1_ingame.png
+  image: subscriptions_neva_championship_season_1.png
 4210:
   name: Dota Pit League Season Four
   description: "The Dota Pit League is back with Season 4! Top teams from NA, EU,
@@ -8842,6 +8919,19 @@
   tournament_url: http://www.dotapit.com
   image_banner: subscriptions_dota_pit_league_season_four_ingame.png
   image: subscriptions_dota_pit_league_season_four.png
+4215:
+  name: "[SEA] Battle Royale Season 1"
+  description: Top teams in SEA battle for the grand prize of 300RM.
+  tournament_url: http://jiansoo.wix.com/seabr1
+  image_banner: subscriptions_sea_battle_royale_season_1_ingame.png
+  image: subscriptions_sea_battle_royale_season_1.png
+4223:
+  name: Vietnam eSports Champions League III
+  description: 'eSportsviet.vn are going to organize Vietnam eSports Champions League
+    season III. '
+  tournament_url: http://esportsviet.vn/
+  image_banner: subscriptions_vietnam_esports_champions_league_iii_ingame.png
+  image: subscriptions_vietnam_esports_champions_league_iii.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
