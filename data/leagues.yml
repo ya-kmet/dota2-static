@@ -8686,6 +8686,14 @@
   tournament_url: http://www.minasesports.com.br/
   image_banner: subscriptions_1_minas_esports_ingame.png
   image: subscriptions_1_minas_esports.png
+4088:
+  name: World Cyber Arena 2015 GRAND FINAL
+  description: WCA 2015 returns with four regional qualifiers. Qualifier winners will
+    meet and compete for $680,000 at the LAN finals in Yinchuan in this December.
+    This League is World Cyber Arena 2015 GRAND FINAL
+  tournament_url: http://www.wca.com.cn/zn
+  image_banner: subscriptions_world_cyber_arena_2015_grand_final_ingame.png
+  image: subscriptions_world_cyber_arena_2015_grand_final.png
 4100:
   name: K-Cup Dota2 Amateur League Season 2
   description: From the world's top Dota2 players are composed of NGA community to
@@ -8932,6 +8940,46 @@
   tournament_url: http://esportsviet.vn/
   image_banner: subscriptions_vietnam_esports_champions_league_iii_ingame.png
   image: subscriptions_vietnam_esports_champions_league_iii.png
+4224:
+  name: Requiem Pro League Season 1
+  description: The most talented players in Russia & CIS compete in the classic inhouse
+    league format.
+  tournament_url: http://requiem.pro/
+  image_banner: subscriptions_requiem_pro_league_season_1_ingame.png
+  image: subscriptions_requiem_pro_league_season_1.png
+4245:
+  name: Armenian DOTA Championship 2015
+  description: Armenia is a small country with big love for DOTA and 16 of the best
+    teams will meet to compete for the title of the first ever Armenian DOTA Champions.
+  tournament_url: https://www.facebook.com/events/1529856330668405/
+  image_banner: subscriptions_armenian_dota_championship_2015_ingame.png
+  image: subscriptions_armenian_dota_championship_2015.png
+4249:
+  name: Acer Predator Dota 2 Online Tournament
+  description: "Acer Predator Dota 2 Online Tournament Indonesia\r\n\t\r\n\t64 Team
+    From Indonesia will competing for  10.000.000 IDR\r\n\t\r\n\tOrganize by Halberd
+    Gaming House\r\n\t\r\n\t\r\n\t"
+  tournament_url: www.halberdgamesid.com
+  image_banner: subscriptions_acer_predator_dota_2_online_tournament_ingame.png
+  image: subscriptions_acer_predator_dota_2_online_tournament.png
+4258:
+  name: GoDOTA BALI Season 1
+  description: Tournament of Bali Dota 2 Community, with a total prize pool of Rp12.000.000
+    ++ for 6 winners, held and sponsored by Go-Kool.Net eSports Arena on December
+    19 and 20, 2015.
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/bali-godota-bali-season-1-tanggal-13-20-desember.3539/
+  image_banner: subscriptions_godota_bali_season_1_ingame.png
+  image: subscriptions_godota_bali_season_1.png
+4259:
+  name: "Xtreme Gaming Arena BOLIVIA â\x80\x93 Season 02 DOTA 2"
+  description: "Xtreme Gaming Arena Bolivia thanks to the auspices of Gigabyte Bolivia,
+    Hyper X Coberturado Dota Bolivia and GamerView are home to the Second Season of
+    the 2015, where 128 teams from throughout BOLIVIA to demonstrate their skills
+    in the dota and only one can demonstrate great skill which has by the dota taking
+    a prize of more than $1000 on Hardware.\r\n\t\r\n\t"
+  tournament_url: http://gamer-view.com/?p=5183
+  image_banner: subscriptions_xtreme_gaming_arena_bolivia__season_02_dota_2_ingame.png
+  image: subscriptions_xtreme_gaming_arena_bolivia__season_02_dota_2.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
