@@ -369,7 +369,11 @@
   type: 
 5092:
   internal_name: death_prophet_witchcraft
-  name: Witchcraft
+  name: death_prophet_witchcraft
+  type: 
+5685:
+  internal_name: death_prophet_spirit_siphon
+  name: Spirit Siphon
   type: 
 5093:
   internal_name: death_prophet_exorcism
@@ -574,15 +578,15 @@
 5143:
   internal_name: riki_blink_strike
   name: Blink Strike
-  type: DOTA_ABILITY_TYPE_ULTIMATE
+  type: 
 5144:
-  internal_name: riki_backstab
-  name: Backstab
+  internal_name: riki_permanent_invisibility
+  name: Cloak and Dagger
   type: 
 5145:
-  internal_name: riki_permanent_invisibility
-  name: Permanent Invisibility
-  type: 
+  internal_name: riki_tricks_of_the_trade
+  name: Tricks of the Trade
+  type: DOTA_ABILITY_TYPE_ULTIMATE
 5146:
   internal_name: enigma_malefice
   name: Malefice
@@ -741,11 +745,15 @@
   type: 
 5183:
   internal_name: faceless_void_backtrack
-  name: Backtrack
+  name: faceless_void_backtrack
   type: 
 5184:
   internal_name: faceless_void_time_lock
   name: Time Lock
+  type: 
+5691:
+  internal_name: faceless_void_time_dilation
+  name: Time Dilation
   type: 
 5185:
   internal_name: faceless_void_chronosphere
@@ -1204,8 +1212,8 @@
   name: Scorched Earth
   type: 
 5341:
-  internal_name: doom_bringer_lvl_death
-  name: LVL? Death
+  internal_name: doom_bringer_infernal_blade
+  name: Infernal Blade
   type: 
 5342:
   internal_name: doom_bringer_doom
@@ -1331,6 +1339,10 @@
   internal_name: invoker_invoke
   name: Invoke
   type: DOTA_ABILITY_TYPE_ULTIMATE
+5690:
+  internal_name: invoker_attribute_bonus
+  name: invoker_attribute_bonus
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5376:
   internal_name: invoker_cold_snap
   name: Cold Snap
@@ -1377,7 +1389,7 @@
   type: 
 5377:
   internal_name: silencer_curse_of_the_silent
-  name: Curse of the Silent
+  name: Arcane Curse
   type: DOTA_ABILITY_TYPE_BASIC
 5378:
   internal_name: silencer_glaives_of_wisdom
@@ -1403,6 +1415,10 @@
   internal_name: obsidian_destroyer_essence_aura
   name: Essence Aura
   type: 
+5684:
+  internal_name: obsidian_destroyer_mind_over_matter
+  name: obsidian_destroyer_mind_over_matter
+  type: 
 5394:
   internal_name: obsidian_destroyer_sanity_eclipse
   name: Sanity's Eclipse
@@ -1425,7 +1441,7 @@
   type: DOTA_ABILITY_TYPE_ULTIMATE
 5399:
   internal_name: lycan_summon_wolves_critical_strike
-  name: Critical Strike
+  name: Cripple
   type: 
 5500:
   internal_name: lycan_summon_wolves_invisibility
@@ -1440,8 +1456,12 @@
   name: Rabid
   type: 
 5414:
-  internal_name: lone_druid_synergy
-  name: Synergy
+  internal_name: lone_druid_savage_roar
+  name: Savage Roar
+  type: 
+5687:
+  internal_name: lone_druid_savage_roar_bear
+  name: Savage Roar
   type: 
 5415:
   internal_name: lone_druid_true_form
@@ -2371,6 +2391,10 @@
   internal_name: satyr_hellcaller_shockwave
   name: Shockwave
   type: 
+5686:
+  internal_name: ancient_golem_rockslide
+  name: ancient_golem_rockslide
+  type: 
 5317:
   internal_name: satyr_hellcaller_unholy_aura
   name: Unholy Aura
@@ -2390,6 +2414,14 @@
 5681:
   internal_name: black_dragon_dragonhide_aura
   name: Dragonhide Aura
+  type: 
+5689:
+  internal_name: black_dragon_fireball
+  name: Fireball
+  type: DOTA_ABILITY_TYPE_BASIC
+5688:
+  internal_name: mudgolem_cloak_aura
+  name: Cloak Aura
   type: 
 5324:
   internal_name: black_dragon_splash_attack

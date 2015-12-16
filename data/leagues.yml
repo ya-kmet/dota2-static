@@ -8902,6 +8902,21 @@
   tournament_url: https://www.facebook.com/Dota2Garuda/
   image_banner: subscriptions_dota_2_garuda_online_amateur_tournament_ingame.png
   image: subscriptions_dota_2_garuda_online_amateur_tournament.png
+4194:
+  name: Dubai E-Sports Championship
+  description: "Dubaiâ\x80\x99s first International E-Sports Championship at The Dubai
+    Duty Free Tennis Stadium. Top teams in the middle east will compete over a prize
+    pool of $150,000 on January 21-22, 2016.\r\n\t"
+  tournament_url: http://www.dubaiesports.com/
+  image_banner: subscriptions_dubai_esports_championship_ingame.png
+  image: subscriptions_dubai_esports_championship.png
+4196:
+  name: Fundeavour Christmas Tournament
+  description: '32 team will fight each other in a fun environment to celebrate Christmas
+    together. Visit our website to know more. '
+  tournament_url: fundeavour.com
+  image_banner: subscriptions_fundeavour_christmas_tournament_ingame.png
+  image: subscriptions_fundeavour_christmas_tournament.png
 4199:
   name: 'SKR''s Tornament #1 [MineFull.ru]'
   description: Amateur teams will compete for a prize pool of $100.
@@ -8947,6 +8962,13 @@
   tournament_url: http://requiem.pro/
   image_banner: subscriptions_requiem_pro_league_season_1_ingame.png
   image: subscriptions_requiem_pro_league_season_1.png
+4240:
+  name: Corrupted Cup - Season 8
+  description: Australia's premier monthly tournament with a $500 prize going to the
+    triumphant heroes!
+  tournament_url: www.corruptedcup.com
+  image_banner: subscriptions_corrupted_cup__season_8_ingame.png
+  image: subscriptions_corrupted_cup__season_8.png
 4245:
   name: Armenian DOTA Championship 2015
   description: Armenia is a small country with big love for DOTA and 16 of the best

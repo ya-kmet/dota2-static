@@ -32,6 +32,9 @@
 11:
   internal_name: quelling_blade
   name: Quelling Blade
+1023:
+  internal_name: faerie_fire
+  name: Faerie Fire
 12:
   internal_name: ring_of_protection
   name: Ring of Protection
@@ -320,6 +323,12 @@
 100:
   internal_name: cyclone
   name: Eul's Scepter of Divinity
+1027:
+  internal_name: recipe_aether_lens
+  name: recipe_aether_lens
+1028:
+  internal_name: aether_lens
+  name: Aether Lens
 101:
   internal_name: recipe_force_staff
   name: recipe_force_staff
@@ -515,6 +524,12 @@
 149:
   internal_name: lesser_crit
   name: Crystalys
+1024:
+  internal_name: recipe_dragon_lance
+  name: recipe_dragon_lance
+1025:
+  internal_name: dragon_lance
+  name: Dragon Lance
 150:
   internal_name: recipe_armlet
   name: recipe_armlet
@@ -671,6 +686,12 @@
 206:
   internal_name: rod_of_atos
   name: Rod of Atos
+272:
+  internal_name: recipe_iron_talon
+  name: recipe_iron_talon
+273:
+  internal_name: iron_talon
+  name: Iron Talon
 207:
   internal_name: recipe_abyssal_blade
   name: recipe_abyssal_blade

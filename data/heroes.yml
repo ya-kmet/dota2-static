@@ -253,9 +253,9 @@
   name: Riki
   abilities:
   - 5142
-  - 5145
-  - 5144
   - 5143
+  - 5144
+  - 5145
 33:
   internal_name: enigma
   name: Enigma
@@ -326,7 +326,7 @@
   name: Faceless Void
   abilities:
   - 5182
-  - 5183
+  - 5691
   - 5184
   - 5185
 42:
@@ -343,7 +343,7 @@
   abilities:
   - 5090
   - 5091
-  - 5092
+  - 5685
   - 5093
 44:
   internal_name: phantom_assassin
@@ -616,6 +616,7 @@
   - 5387
   - 5389
   - 5390
+  - 5690
 75:
   internal_name: silencer
   name: Silencer
