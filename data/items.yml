@@ -32,7 +32,7 @@
 11:
   internal_name: quelling_blade
   name: Quelling Blade
-1023:
+237:
   internal_name: faerie_fire
   name: Faerie Fire
 12:
@@ -323,10 +323,10 @@
 100:
   internal_name: cyclone
   name: Eul's Scepter of Divinity
-1027:
+233:
   internal_name: recipe_aether_lens
   name: recipe_aether_lens
-1028:
+232:
   internal_name: aether_lens
   name: Aether Lens
 101:
@@ -524,10 +524,10 @@
 149:
   internal_name: lesser_crit
   name: Crystalys
-1024:
+234:
   internal_name: recipe_dragon_lance
   name: recipe_dragon_lance
-1025:
+236:
   internal_name: dragon_lance
   name: Dragon Lance
 150:
