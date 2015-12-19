@@ -9002,6 +9002,19 @@
   tournament_url: http://gamer-view.com/?p=5183
   image_banner: subscriptions_xtreme_gaming_arena_bolivia__season_02_dota_2_ingame.png
   image: subscriptions_xtreme_gaming_arena_bolivia__season_02_dota_2.png
+4261:
+  name: Evil League Season 1
+  description: 16 amateur teams compete for the prize pool of 1000 RUB!
+  tournament_url: http://evilleague.at.ua/
+  image_banner: subscriptions_evil_league_season_1_ingame.png
+  image: subscriptions_evil_league_season_1.png
+4288:
+  name: Artifice  Chapter 1 Online Tournament
+  description: "Artifice Dota2 Chapter 1 Online Tournament Organized by Eternal Organizer
+    where team will compete for total prize IDR 5.000.000\r\n\tSponsored by Red Wargame,Siaranku"
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/artifice-dota2-chapter-1-online-tournament-8-10-january-2016.3580/
+  image_banner: subscriptions_artifice__chapter_1_online_tournament_ingame.png
+  image: subscriptions_artifice__chapter_1_online_tournament.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
