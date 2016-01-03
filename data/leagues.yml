@@ -9025,6 +9025,13 @@
   tournament_url: http://mdl.marstv.com/
   image_banner: subscriptions_2015_marstv_dota_2_league_ingame.png
   image: subscriptions_2015_marstv_dota_2_league.png
+4325:
+  name: Shanghai Major Open Qualifiers
+  description: Witness teams from all around the world compete for a place at The
+    Shanghai Major 2016.
+  tournament_url: http://www.dota2.com.cn/theshanghaimajor/teams/english/
+  image_banner: subscriptions_shanghai_major_open_qualifiers_ingame.png
+  image: subscriptions_shanghai_major_open_qualifiers.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
