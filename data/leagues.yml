@@ -7770,6 +7770,13 @@
   tournament_url: http://living-gaming.com/sma/
   image_banner: subscriptions_dota_2_jakarta_highschool_tournament_ingame.png
   image: subscriptions_dota_2_jakarta_highschool_tournament.png
+3511:
+  name: ProDotA Cup by Azubu.tv
+  description: 8 invited teams and 8 qualified teams complete single elimination round
+    to claim the 5,000$ total prize pool!
+  tournament_url: http://prodota.eu/pdcup
+  image_banner: subscriptions_prodota_cup_by_azubutv_ingame.png
+  image: subscriptions_prodota_cup_by_azubutv.png
 3519:
   name: OurStory In house League
   description: Top Teams at Manado Sulawesi Utara compete for the classic In house
@@ -8750,6 +8757,12 @@
   tournament_url: http://uccleague.ru/
   image_banner: subscriptions_uprise_champions_cup_special_ingame.png
   image: subscriptions_uprise_champions_cup_special.png
+4128:
+  name: AD2L Season 10
+  description: The 10th Season of AD2L
+  tournament_url: https://dota.playon.gg/seasons
+  image_banner: subscriptions_ad2l_season_10_ingame.png
+  image: subscriptions_ad2l_season_10.png
 4139:
   name: ASUS ROG Royal Series
   description: ASUS ROG Royal Series is the 3-series tournaments with total IDR 18.000.000
@@ -8778,6 +8791,14 @@
   tournament_url: https://theyolotournament.wordpress.com/
   image_banner: subscriptions_the_yolo_tournament_3_ingame.png
   image: subscriptions_the_yolo_tournament_3.png
+4149:
+  name: Polish DOTA 2 League - Season 2
+  description: Free to play on-line league for all Polish amateur teams. Winning team
+    will recieve a "Wooden Aegis of Champions" and the title of PD2L Season 2 Champions.
+    The top three teams will battle for cash prizes at a LAN event in Kielce, POLAND.
+  tournament_url: http://pd2l.pl/
+  image_banner: subscriptions_polish_dota_2_league__season_2_ingame.png
+  image: subscriptions_polish_dota_2_league__season_2.png
 4151:
   name: Brunei Dota League Season 3
   description: Brunei Dota League Season 3 returns as we continue to support local
@@ -8923,6 +8944,14 @@
   tournament_url: http://minefull.ru/
   image_banner: subscriptions_skrs_tornament_1_minefullru_ingame.png
   image: subscriptions_skrs_tornament_1_minefullru.png
+4206:
+  name: CUP OF HEROES 5
+  description: We are glad to report that announced a set of teams to the Dota 2 tournament
+    CUP OF HEROES. We would like to celebrate your team, or simply test your skills
+    !
+  tournament_url: http://cupoh.clan.su/
+  image_banner: subscriptions_cup_of_heroes_5_ingame.png
+  image: subscriptions_cup_of_heroes_5.png
 4208:
   name: Neva Championship Season 1
   description: Neva Championship is starting in Saint Petersburg, Russia. First season
@@ -9008,6 +9037,33 @@
   tournament_url: http://evilleague.at.ua/
   image_banner: subscriptions_evil_league_season_1_ingame.png
   image: subscriptions_evil_league_season_1.png
+4266:
+  name: Shanghai Major
+  description: Witness teams from all around the world compete for a place at The
+    Shanghai Major 2016.
+  tournament_url: http://www.dota2.com
+  image_banner: subscriptions_winter_major_2016_ingame.png
+  image: subscriptions_winter_major_2016.png
+4273:
+  name: Double Rampage Super League (Amateur)
+  description: Double Rampage Super League or in short, DRSL, is a league designed
+    especially for amateur Dota 2 team/player. It is created for Dota 2 team/player
+    around Malaysia to experience the thrill of competing in such a big league. So,
+    with this such big opportunity, Double D Gaming would be proud to host this league
+    for those amateur player in Malaysia and looking forwards for a better future
+    in Dota 2.
+  tournament_url: https://ddgmalaysia.wordpress.com/
+  image_banner: subscriptions_double_rampage_super_league_amateur_ingame.png
+  image: subscriptions_double_rampage_super_league_amateur.png
+4280:
+  name: Dota-LAN Winter 2016
+  description: Germany's biggest Dota dedicated LAN party returns for it's 14th edition
+    with some of the best German Dota players meeting up for both fun games and a
+    serious tournament. This ticket features the best matches of the 5on5 tournament
+    with casting from Blacklight and Fas.
+  tournament_url: http://dota-lan.de/
+  image_banner: subscriptions_dotalan_winter_2016_ingame.png
+  image: subscriptions_dotalan_winter_2016.png
 4288:
   name: Artifice  Chapter 1 Online Tournament
   description: "Artifice Dota2 Chapter 1 Online Tournament Organized by Eternal Organizer
@@ -9015,6 +9071,21 @@
   tournament_url: http://www.ligagame.com/esports/index.php?threads/artifice-dota2-chapter-1-online-tournament-8-10-january-2016.3580/
   image_banner: subscriptions_artifice__chapter_1_online_tournament_ingame.png
   image: subscriptions_artifice__chapter_1_online_tournament.png
+4290:
+  name: The Battle Begins!
+  description: "Welcome to the first tourney of Indian E-Sports Champions League.\r\n\t\r\n\tThe
+    Battle Begins! is an upcoming online amateur Double Elimination DotA 2 Tournament
+    for Indian players only."
+  tournament_url: http://iespcl.xyz
+  image_banner: subscriptions_the_battle_begins_ingame.png
+  image: subscriptions_the_battle_begins.png
+4298:
+  name: The k6R Cup
+  description: 'An amateur tournament with 4 qualifying teams out of 16 entered going
+    to the Main Event. '
+  tournament_url: http://k6rstore.wix.com/gamer
+  image_banner: subscriptions_the_k6r_cup_ingame.png
+  image: subscriptions_the_k6r_cup.png
 4301:
   name: 2015 MarsTV Dota 2 League
   description: 'The MarsTV Dota 2 League is back with its 2015 winter season featuring
@@ -9025,6 +9096,13 @@
   tournament_url: http://mdl.marstv.com/
   image_banner: subscriptions_2015_marstv_dota_2_league_ingame.png
   image: subscriptions_2015_marstv_dota_2_league.png
+4308:
+  name: DA 5v5 Team Series February
+  description: Show us your teamwork and skill in the DA 5v5 Team Series February
+    2016. Competing with hundreds of teams for a place at the Top.
+  tournament_url: https://www.dota-athletes.com
+  image_banner: subscriptions_da_5v5_team_series_february_ingame.png
+  image: subscriptions_da_5v5_team_series_february.png
 4325:
   name: Shanghai Major Open Qualifiers
   description: Witness teams from all around the world compete for a place at The
