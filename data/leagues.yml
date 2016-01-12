@@ -7976,6 +7976,13 @@
   tournament_url: http://www.amissavirtute.gq
   image_banner: subscriptions_virtute_league_season_2_ingame.png
   image: subscriptions_virtute_league_season_2.png
+3631:
+  name: Bulgarian Dota 2 League
+  description: This is the first Bulgarian Dota 2 League which will be held for a
+    whole year and will include many Bulgarian amateur teams.
+  tournament_url: http://dota2.esports.bg/
+  image_banner: subscriptions_bulgarian_dota_2_league_ingame.png
+  image: subscriptions_bulgarian_dota_2_league.png
 3645:
   name: League SIVVIT level 1
   description: The best 16 teams will compete for first place and the Grand prize
@@ -8654,6 +8661,13 @@
   tournament_url: http://tevent.win/
   image_banner: subscriptions_tevent_dota_2_season_4_ingame.png
   image: subscriptions_tevent_dota_2_season_4.png
+4060:
+  name: NN Dota 2 League Season 4
+  description: Many teams from CIS meet in the fourth season of the league and compete
+    for a cash prize pool.
+  tournament_url: http://d2lpr.do.am/
+  image_banner: subscriptions_nn_dota_2_league_season_4_ingame.png
+  image: subscriptions_nn_dota_2_league_season_4.png
 4065:
   name: Sudamerican Pro League Season 3
   description: ElitGamers presents its third season with prizes over $700.00 where
@@ -8866,6 +8880,13 @@
   tournament_url: http://www.xpax.com.my/fantasyfest2015
   image_banner: subscriptions_xpax_fantasy_fest_2015_dota_2_tournament_ingame.png
   image: subscriptions_xpax_fantasy_fest_2015_dota_2_tournament.png
+4179:
+  name: Tica Legends League Season 2
+  description: 24 costaricans teams will compete for a prize fund of over $600 and
+    sponsors products, in 3 different divisions
+  tournament_url: http://dota.ligaticadeleyendas.com/
+  image_banner: subscriptions_tica_legends_league_season_2_ingame.png
+  image: subscriptions_tica_legends_league_season_2.png
 4180:
   name: SIVVIT League
   description: Twelve best teams were selected to participate in the League SIVVIT.
@@ -8931,6 +8952,12 @@
   tournament_url: http://www.dubaiesports.com/
   image_banner: subscriptions_dubai_esports_championship_ingame.png
   image: subscriptions_dubai_esports_championship.png
+4195:
+  name: NHK League Season One
+  description: Top teams of NHK will fight for first place.
+  tournament_url: http://himkol.ru/kibersport/
+  image_banner: subscriptions_nhk_league_season_one_ingame.png
+  image: subscriptions_nhk_league_season_one.png
 4196:
   name: Fundeavour Christmas Tournament
   description: '32 team will fight each other in a fun environment to celebrate Christmas
@@ -8952,13 +8979,6 @@
   tournament_url: http://cupoh.clan.su/
   image_banner: subscriptions_cup_of_heroes_5_ingame.png
   image: subscriptions_cup_of_heroes_5.png
-4208:
-  name: Neva Championship Season 1
-  description: Neva Championship is starting in Saint Petersburg, Russia. First season
-    is online and everyone can apply to participate!
-  tournament_url: http://dota2.nevachamp.tv
-  image_banner: subscriptions_neva_championship_season_1_ingame.png
-  image: subscriptions_neva_championship_season_1.png
 4210:
   name: Dota Pit League Season Four
   description: "The Dota Pit League is back with Season 4! Top teams from NA, EU,
@@ -9055,6 +9075,13 @@
   tournament_url: https://ddgmalaysia.wordpress.com/
   image_banner: subscriptions_double_rampage_super_league_amateur_ingame.png
   image: subscriptions_double_rampage_super_league_amateur.png
+4279:
+  name: KOD LEAGUE SEASON II
+  description: "The second season of KOD League beginning\r\n\tYou can not miss the
+    best tournament of America.\r\n\tShow your talent now!."
+  tournament_url: http://www.kingsofdota.com/
+  image_banner: subscriptions_kod_league_season_ii_ingame.png
+  image: subscriptions_kod_league_season_ii.png
 4280:
   name: Dota-LAN Winter 2016
   description: Germany's biggest Dota dedicated LAN party returns for it's 14th edition
@@ -9064,6 +9091,13 @@
   tournament_url: http://dota-lan.de/
   image_banner: subscriptions_dotalan_winter_2016_ingame.png
   image: subscriptions_dotalan_winter_2016.png
+4282:
+  name: Persian Gulf Cup Season 2
+  description: The Persian Gulf Cup Season 2 Pits The Best Team From The MEA Region
+    Against Each Other For A Prize Pool Of 1500 $ .
+  tournament_url: http://WWW.Dota2ME.com
+  image_banner: subscriptions_persian_gulf_cup_season_2_ingame.png
+  image: subscriptions_persian_gulf_cup_season_2.png
 4288:
   name: Artifice  Chapter 1 Online Tournament
   description: "Artifice Dota2 Chapter 1 Online Tournament Organized by Eternal Organizer
@@ -9096,6 +9130,19 @@
   tournament_url: http://mdl.marstv.com/
   image_banner: subscriptions_2015_marstv_dota_2_league_ingame.png
   image: subscriptions_2015_marstv_dota_2_league.png
+4304:
+  name: Evil Christmas Cup
+  description: 8 team compete for a Christmas Prize Pool of 1500 RUB!
+  tournament_url: http://evilleague.at.ua/
+  image_banner: subscriptions_evil_christmas_cup_ingame.png
+  image: subscriptions_evil_christmas_cup.png
+4305:
+  name: 'AquaLeagues Mid Wars #1'
+  description: "16 players compete to prove their worth in the mid lane. \r\n\tSingle
+    elimination 1 v 1 solo mid."
+  tournament_url: http://www.aqualeagues.com/mid-wars-sign-up.html
+  image_banner: subscriptions_aqualeagues_mid_wars_1_ingame.png
+  image: subscriptions_aqualeagues_mid_wars_1.png
 4308:
   name: DA 5v5 Team Series February
   description: Show us your teamwork and skill in the DA 5v5 Team Series February
@@ -9103,6 +9150,27 @@
   tournament_url: https://www.dota-athletes.com
   image_banner: subscriptions_da_5v5_team_series_february_ingame.png
   image: subscriptions_da_5v5_team_series_february.png
+4310:
+  name: Dotamax
+  description: We are committed to providing the highest quality content for the world
+    of amateur Dota2. The league by the Dotamax organization.
+  tournament_url: http://www.dotamax.com
+  image_banner: subscriptions_dotamax_ingame.png
+  image: subscriptions_dotamax.png
+4316:
+  name: Weproud Tournament Season 2
+  description: 128 Team From Indonesia will Fight for 5.000.000 IDR . Cause We Proud
+    To be Indonesian E-Sports Player
+  tournament_url: http://www.ligagame.com/esports/index.php?threads%2Fweproud-dota-2-tournament-season-2.3662%2F
+  image_banner: subscriptions_weproud_tournament_season_2_ingame.png
+  image: subscriptions_weproud_tournament_season_2.png
+4320:
+  name: Red Dota Championship Sponsored by DafaeSports
+  description: "Red Dota Championship Organized by Eternal Organizer in Co-orporation
+    with DafaeSports & Fnatic where team will Battle for total prize IDR 16.000.000â\x80\x8B"
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/bandung-lan-party-red-dota-championship-22-24-january-2016-sponsored-by-dafaesports.3653/
+  image_banner: subscriptions_red_dota_championship_sponsored_by_dafaesports_ingame.png
+  image: subscriptions_red_dota_championship_sponsored_by_dafaesports.png
 4325:
   name: Shanghai Major Open Qualifiers
   description: Witness teams from all around the world compete for a place at The
