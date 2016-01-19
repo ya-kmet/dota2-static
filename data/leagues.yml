@@ -8488,6 +8488,16 @@
   tournament_url: http://lancentergeminis.wix.com/ligaicagamer
   image_banner: subscriptions_league_uap_season_1_ingame.png
   image: subscriptions_league_uap_season_1.png
+3960:
+  name: The BTS Series
+  description: 'Over the next year, BTS will invest $180,000 USD in total prize pool
+    for 18 competitions spread across three distinct regions: America, Southeast Asia,
+    and Europe. The tournament series will provide a competitive platform for up and
+    coming teams to develop talent and synergy through a series of shorter online
+    events.'
+  tournament_url: http://beyondthesummit.tv/announcing-bts-americas-2/
+  image_banner: subscriptions_the_bts_series__ingame.png
+  image: subscriptions_the_bts_series_.png
 3971:
   name: Dota 2 Challenge League
   description: Every two weeks, there will be blood to consecrate the winner of the
@@ -9067,6 +9077,13 @@
   tournament_url: http://evilleague.at.ua/
   image_banner: subscriptions_evil_league_season_1_ingame.png
   image: subscriptions_evil_league_season_1.png
+4263:
+  name: 'DOTA Regions : Japan'
+  description: 'The premier event for top Japanese Dota 2 talent. Enjoy Japanese and
+    English broadcasting as teams battle for some serious cash.  '
+  tournament_url: http://www.dotaregions.com
+  image_banner: subscriptions_dota_regions__japan_ingame.png
+  image: subscriptions_dota_regions__japan.png
 4266:
   name: Shanghai Major
   description: Witness teams from all around the world compete for a place at The
@@ -9115,6 +9132,14 @@
   tournament_url: http://www.ligagame.com/esports/index.php?threads/artifice-dota2-chapter-1-online-tournament-8-10-january-2016.3580/
   image_banner: subscriptions_artifice__chapter_1_online_tournament_ingame.png
   image: subscriptions_artifice__chapter_1_online_tournament.png
+4289:
+  name: Captains Draft 3.0 Presented by DotaCinema & MoonduckTV
+  description: Captains Draft 3.0 brings you more unique gameplay consisting of some
+    of the best teams in the world. Team captains are forced out of their comfort
+    zone in the only professional tournament played in Captains Draft mode.
+  tournament_url: http://www.moonduck.tv
+  image_banner: subscriptions_captains_draft_30_presented_by_dotacinema__moonducktv_ingame.png
+  image: subscriptions_captains_draft_30_presented_by_dotacinema__moonducktv.png
 4290:
   name: The Battle Begins!
   description: "Welcome to the first tourney of Indian E-Sports Champions League.\r\n\t\r\n\tThe
@@ -9123,6 +9148,13 @@
   tournament_url: http://iespcl.xyz
   image_banner: subscriptions_the_battle_begins_ingame.png
   image: subscriptions_the_battle_begins.png
+4296:
+  name: COPA D2EG 2
+  description: 16 eqiupos  chilenos luchando por conseguir la segunda copa de la pagina
+    d2eg.com
+  tournament_url: http://www.d2eg.com/home.html
+  image_banner: subscriptions_copa_d2eg_2_ingame.png
+  image: subscriptions_copa_d2eg_2.png
 4298:
   name: The k6R Cup
   description: 'An amateur tournament with 4 qualifying teams out of 16 entered going
@@ -9140,6 +9172,14 @@
   tournament_url: http://mdl.marstv.com/
   image_banner: subscriptions_2015_marstv_dota_2_league_ingame.png
   image: subscriptions_2015_marstv_dota_2_league.png
+4303:
+  name: II Torneo de Dota2 Canarias
+  description: "Last spring, we got veterans teaching our newbies while facing other
+    teams: A good chance to unite the clans, but much has happened since then...\r\n\t\r\n\tAre
+    yo ready to see their next step?"
+  tournament_url: http://gofiodt2.ga/
+  image_banner: subscriptions_ii_torneo_de_dota2_canarias_ingame.png
+  image: subscriptions_ii_torneo_de_dota2_canarias.png
 4304:
   name: Evil Christmas Cup
   description: 8 team compete for a Christmas Prize Pool of 1500 RUB!
@@ -9153,6 +9193,14 @@
   tournament_url: http://www.aqualeagues.com/mid-wars-sign-up.html
   image_banner: subscriptions_aqualeagues_mid_wars_1_ingame.png
   image: subscriptions_aqualeagues_mid_wars_1.png
+4306:
+  name: Dota 2 Student Competition Season 2
+  description: The first student competition Lantournament in Bandar Lampung sponsored
+    by Empirez Cybercafe and vip gaming shop,everybody can sign up from all over indonesia
+    team with prizepool total IDR 2.500.000
+  tournament_url: http://vipgamingorganizer.blogspot.co.id/2015/12/dota-2-student-compeition-season-2.html
+  image_banner: subscriptions_dota_2_student_competition_season_2_ingame.png
+  image: subscriptions_dota_2_student_competition_season_2.png
 4308:
   name: DA 5v5 Team Series February
   description: Show us your teamwork and skill in the DA 5v5 Team Series February
@@ -9181,6 +9229,12 @@
   tournament_url: http://www.ligagame.com/esports/index.php?threads/bandung-lan-party-red-dota-championship-22-24-january-2016-sponsored-by-dafaesports.3653/
   image_banner: subscriptions_red_dota_championship_sponsored_by_dafaesports_ingame.png
   image: subscriptions_red_dota_championship_sponsored_by_dafaesports.png
+4324:
+  name: TELKOMFEST 2016
+  description: TELKOMFEST 2016
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/telkomselfest-dota-2-competition-12-18-jan-2016-total-hadiah-20-jt.3663/#post-14113
+  image_banner: subscriptions_telkomfest_2016_ingame.png
+  image: subscriptions_telkomfest_2016.png
 4325:
   name: Shanghai Major Open Qualifiers
   description: Witness teams from all around the world compete for a place at The
@@ -9188,6 +9242,26 @@
   tournament_url: http://www.dota2.com.cn/theshanghaimajor/teams/english/
   image_banner: subscriptions_shanghai_major_open_qualifiers_ingame.png
   image: subscriptions_shanghai_major_open_qualifiers.png
+4326:
+  name: AD2L InHouse League
+  description: 'AD2L InHouse League to develop talent and to help individual players
+    find competitive teams. '
+  tournament_url: https://dota.playon.gg/
+  image_banner: subscriptions_ad2l_inhouse_league_ingame.png
+  image: subscriptions_ad2l_inhouse_league.png
+4327:
+  name: Corrupted Cup - Season 9
+  description: Australia's premier monthly tournament with a $500 prize going to the
+    triumphant heroes!
+  tournament_url: http://www.corruptedcup.com
+  image_banner: subscriptions_corrupted_cup__season_9_ingame.png
+  image: subscriptions_corrupted_cup__season_9.png
+4329:
+  name: 'ProStage cybersport: Tournament "Genesis"'
+  description: "Great tournament \"Genesis\" by ProStage. Prize Pool 110.000 \r\n\trubles."
+  tournament_url: https://dota2.prostage.tv
+  image_banner: subscriptions_prostage_cybersport_tournament_genesis_ingame.png
+  image: subscriptions_prostage_cybersport_tournament_genesis.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
