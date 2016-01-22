@@ -7477,6 +7477,13 @@
   tournament_url: http://wdpzone.com
   image_banner: subscriptions_wadeplay_dota_2_championship_ingame.png
   image: subscriptions_wadeplay_dota_2_championship.png
+3263:
+  name: DOTA 2 SIVVIT League
+  description: Teams from all around CIS will meet in epic battles until the one champion
+    is known.
+  tournament_url: http://sivvit.ru/?q=dota
+  image_banner: subscriptions_dota_2_sivvit_league_ingame.png
+  image: subscriptions_dota_2_sivvit_league.png
 3279:
   name: Reborn French League
   description: Six of the best French teams will compete in the next month for an
@@ -9229,6 +9236,12 @@
   tournament_url: http://www.ligagame.com/esports/index.php?threads/bandung-lan-party-red-dota-championship-22-24-january-2016-sponsored-by-dafaesports.3653/
   image_banner: subscriptions_red_dota_championship_sponsored_by_dafaesports_ingame.png
   image: subscriptions_red_dota_championship_sponsored_by_dafaesports.png
+4323:
+  name: Derealis Dota 2 League Season 2
+  description: Derealis Dota 2 League Season 2 with prize pool IDR 3.000.000
+  tournament_url: http://derealis.com
+  image_banner: subscriptions_derealis_dota_2_league_season_2_ingame.png
+  image: subscriptions_derealis_dota_2_league_season_2.png
 4324:
   name: TELKOMFEST 2016
   description: TELKOMFEST 2016
@@ -9262,6 +9275,14 @@
   tournament_url: https://dota2.prostage.tv
   image_banner: subscriptions_prostage_cybersport_tournament_genesis_ingame.png
   image: subscriptions_prostage_cybersport_tournament_genesis.png
+4336:
+  name: GCDL Season 10
+  description: 'Gamer.LK proudly presents Season 10 of the Gamer.LK Clans DOTA 2 League
+    (GCDL) - the longest running online league of its kind in Sri Lanka, proudly partnered
+    with Dialog Axiata PLC! '
+  tournament_url: http://gamer.lk/gcdl
+  image_banner: subscriptions_gcdl_season_10_ingame.png
+  image: subscriptions_gcdl_season_10.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
