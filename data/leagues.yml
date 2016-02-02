@@ -5971,14 +5971,6 @@
   tournament_url: http://www.dota2league.cz/
   image_banner: subscriptions_czsk_dota_2_league_season_4_ingame.png
   image: subscriptions_czsk_dota_2_league_season_4.png
-2607:
-  name: The Pirate League
-  description: '32 teams shall battle their way through the group stages to enter
-    the knockout phase of the tournament. The teams that prevail can be the winners
-    of various prizes including a cash prize pool, '
-  tournament_url: http://ggtv.mk/
-  image_banner: subscriptions_the_pirate_league_ingame.png
-  image: subscriptions_the_pirate_league.png
 2613:
   name: PGC Winter league
   description: 'PGC winter league will be holding on march with 48 teams participating
@@ -8742,6 +8734,13 @@
   tournament_url: http://www.wca.com.cn/zn
   image_banner: subscriptions_world_cyber_arena_2015_grand_final_ingame.png
   image: subscriptions_world_cyber_arena_2015_grand_final.png
+4099:
+  name: Venezuela Dota 2 cup Season 2
+  description: The Venezuela Tournament gathers 16 teams to fight for a spot in the
+    grand final.
+  tournament_url: www.venezueladota2cup.com.ve
+  image_banner: subscriptions_venezuela_dota_2_cup_season_2_ingame.png
+  image: subscriptions_venezuela_dota_2_cup_season_2.png
 4100:
   name: K-Cup Dota2 Amateur League Season 2
   description: From the world's top Dota2 players are composed of NGA community to
@@ -9045,6 +9044,14 @@
   tournament_url: www.corruptedcup.com
   image_banner: subscriptions_corrupted_cup__season_8_ingame.png
   image: subscriptions_corrupted_cup__season_8.png
+4241:
+  name: LANSKILL WINTER 2016
+  description: We are glad to report that announced a set of TEAMS to the Dota 2 tournament
+    LANSKILL held in Rostov-on- Don! We would like to celebrate your team or simply
+    test your skills !
+  tournament_url: http://www.lanskill.pro/
+  image_banner: subscriptions_lanskill_winter_2016_ingame.png
+  image: subscriptions_lanskill_winter_2016.png
 4245:
   name: Armenian DOTA Championship 2015
   description: Armenia is a small country with big love for DOTA and 16 of the best
@@ -9060,6 +9067,13 @@
   tournament_url: www.halberdgamesid.com
   image_banner: subscriptions_acer_predator_dota_2_online_tournament_ingame.png
   image: subscriptions_acer_predator_dota_2_online_tournament.png
+4252:
+  name: CZ-SK Dota 2 League Season 7
+  description: The seventh season of Czech-Slovakia league will take place over a
+    two months period. The winner will receive prize money upon victory!
+  tournament_url: http://www.dota2league.cz/
+  image_banner: subscriptions_czsk_dota_2_league_season_7_ingame.png
+  image: subscriptions_czsk_dota_2_league_season_7.png
 4258:
   name: GoDOTA BALI Season 1
   description: Tournament of Bali Dota 2 Community, with a total prize pool of Rp12.000.000
@@ -9098,6 +9112,13 @@
   tournament_url: http://www.dota2.com
   image_banner: subscriptions_winter_major_2016_ingame.png
   image: subscriptions_winter_major_2016.png
+4272:
+  name: Sudamerican Master 4
+  description: Quarte version of one of the biggest tournaments in  America. The best
+    teams in South America and North America compete to win over $ 4000USD prize.
+  tournament_url: http://www.sudamericanmaster.com/
+  image_banner: subscriptions_sudamerican_master_4_ingame.png
+  image: subscriptions_sudamerican_master_4.png
 4273:
   name: Double Rampage Super League (Amateur)
   description: Double Rampage Super League or in short, DRSL, is a league designed
@@ -9222,6 +9243,13 @@
   tournament_url: http://www.dotamax.com
   image_banner: subscriptions_dotamax_ingame.png
   image: subscriptions_dotamax.png
+4312:
+  name: 'Hell League '
+  description: Register your team and fight your way throught the groupstage towards
+    the grand final
+  tournament_url: http://hellleague.esy.es/
+  image_banner: subscriptions_hellleague__ingame.png
+  image: subscriptions_hellleague_.png
 4316:
   name: Weproud Tournament Season 2
   description: 128 Team From Indonesia will Fight for 5.000.000 IDR . Cause We Proud
@@ -9229,6 +9257,15 @@
   tournament_url: http://www.ligagame.com/esports/index.php?threads%2Fweproud-dota-2-tournament-season-2.3662%2F
   image_banner: subscriptions_weproud_tournament_season_2_ingame.png
   image: subscriptions_weproud_tournament_season_2.png
+4318:
+  name: 'Respawn League: Dota 2 Edition 2016'
+  description: This is the third Dota 2 tournament that Good Gaming has organized.
+    The primary focus for this event is to promote the Dota 2 competitive scene in
+    Mexico. The league will have 16 participants, and it's divided in a group stage
+    and a single-elimination tournament
+  tournament_url: http://goodgaming.net/respawn/
+  image_banner: subscriptions_respawn_league_dota_2_edition_2016_ingame.png
+  image: subscriptions_respawn_league_dota_2_edition_2016.png
 4320:
   name: Red Dota Championship Sponsored by DafaeSports
   description: "Red Dota Championship Organized by Eternal Organizer in Co-orporation
@@ -9269,12 +9306,41 @@
   tournament_url: http://www.corruptedcup.com
   image_banner: subscriptions_corrupted_cup__season_9_ingame.png
   image: subscriptions_corrupted_cup__season_9.png
+4328:
+  name: 'AquaCup #1'
+  description: Welcome to the first Aqua Cup. We aim to provide engaging tournaments
+    to the amateur DotA 2 scene. We welcome teams of all abilities to participate
+    in this simple, single elimination tournament.
+  tournament_url: http://www.aqualeagues.com/aquacup.html
+  image_banner: subscriptions_aquacup_1_ingame.png
+  image: subscriptions_aquacup_1.png
 4329:
   name: 'ProStage cybersport: Tournament "Genesis"'
   description: "Great tournament \"Genesis\" by ProStage. Prize Pool 110.000 \r\n\trubles."
   tournament_url: https://dota2.prostage.tv
   image_banner: subscriptions_prostage_cybersport_tournament_genesis_ingame.png
   image: subscriptions_prostage_cybersport_tournament_genesis.png
+4331:
+  name: Gamers Lounge WinterCup
+  description: Pharoes from all over Egypt compete for Gamers Lounge WinterCup title!
+  tournament_url: http://gamersloungeeg.com/Cups/WinterCup2016/Dota.html
+  image_banner: subscriptions_gamers_lounge_wintercup_ingame.png
+  image: subscriptions_gamers_lounge_wintercup.png
+4334:
+  name: Vortex Gaming Tournament by MOL Indonesia
+  description: "Nividia ICafe Vortex Gaming Jambi Dota 2 Tournament organized by MOL
+    Indonesia\r\n\tIDR 25.000.000"
+  tournament_url: http://ligagame.com/esports/index.php?threads/vortex-gaming-dota-2-tournament-jambi-organized-by-mol-indonesia.3667/
+  image_banner: subscriptions_vortex_gaming_tournament_by_mol_indonesia_ingame.png
+  image: subscriptions_vortex_gaming_tournament_by_mol_indonesia.png
+4335:
+  name: The Kaolin Cup
+  description: 'The Kaolin Cup is organized by Mag Gaming, India with sponsor benig
+    Ajeenkya DY Patil University. Its one of the biggest online Dota 2 tournaments
+    organized in India. '
+  tournament_url: http://www.maggaming.com/registrations-the-kaolin-cup/
+  image_banner: subscriptions_the_kaolin_cup_ingame.png
+  image: subscriptions_the_kaolin_cup.png
 4336:
   name: GCDL Season 10
   description: 'Gamer.LK proudly presents Season 10 of the Gamer.LK Clans DOTA 2 League
@@ -9283,6 +9349,35 @@
   tournament_url: http://gamer.lk/gcdl
   image_banner: subscriptions_gcdl_season_10_ingame.png
   image: subscriptions_gcdl_season_10.png
+4344:
+  name: IGA amateur league S1
+  description: This is the first full amateur DOTA 2 Middle east  league where held
+    online. Amateur teams compete each other to reach the higher ranks in DOTA 2 community
+  tournament_url: http://iran-ga.com/
+  image_banner: subscriptions_iga_amateur_league_s1_ingame.png
+  image: subscriptions_iga_amateur_league_s1.png
+4356:
+  name: 'joinDOTA League #9'
+  description: The global Dota 2 league for everyone. This includes most matches from
+    the semi-pro division 2 and some matches from the amateur divisions.
+  tournament_url: http://www.joindota.com/en/leagues/
+  image_banner: subscriptions_joindota_league_9_ingame.png
+  image: subscriptions_joindota_league_9.png
+4357:
+  name: ESL One Manila 2016
+  description: "ESL One heads to Southeast Asia for the first ever premium Dota 2
+    tournament in Manila on April 23rd and 24th 2016!\r\n\t\r\n\tSee the world's top
+    teams battling it out for the lion's share of the $250.000 prize pool and the
+    title of ESL One champion."
+  tournament_url: http://www.esl-one.com/dota2/manila-2016/
+  image_banner: subscriptions_esl_one_manila_2016_ingame.png
+  image: subscriptions_esl_one_manila_2016.png
+4365:
+  name: Glazov Cup
+  description: 'Players from Udmurtia and the CIS will play in house league '
+  tournament_url: http://glazovcup.jimdo.com/%D1%82%D1%83%D1%80%D0%BD%D0%B8%D1%80-5x5/
+  image_banner: subscriptions_glazov_cup_ingame.png
+  image: subscriptions_glazov_cup.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
