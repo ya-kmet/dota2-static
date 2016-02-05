@@ -9017,6 +9017,14 @@
   tournament_url: http://www.dotapit.com
   image_banner: subscriptions_dota_pit_league_season_four_ingame.png
   image: subscriptions_dota_pit_league_season_four.png
+4212:
+  name: 'Austin Dota2 Season 3 '
+  description: Austin Dota2 Season 3 will showcase amateur and semi-pro teams from
+    NA and SA in a FREE LEAGUE to support organized teams prepare for the majors.  Have
+    a team? Sign up at our website.
+  tournament_url: http://my.pagecloud.com/peter-perez
+  image_banner: subscriptions_austin_dota2_season_3__ingame.png
+  image: subscriptions_austin_dota2_season_3_.png
 4215:
   name: "[SEA] Battle Royale Season 1"
   description: Top teams in SEA battle for the grand prize of 300RM.
@@ -9349,6 +9357,13 @@
   tournament_url: http://gamer.lk/gcdl
   image_banner: subscriptions_gcdl_season_10_ingame.png
   image: subscriptions_gcdl_season_10.png
+4342:
+  name: The Invitacional
+  description: Invitacional 2016 de la mano de D2py con los 4 mejores equipos de la
+    Summer Cup 2015 camino al ALP 2016.
+  tournament_url: http://www.e-sportspy.com/invitacional-2016/
+  image_banner: subscriptions_the_invitacional_ingame.png
+  image: subscriptions_the_invitacional.png
 4344:
   name: IGA amateur league S1
   description: This is the first full amateur DOTA 2 Middle east  league where held
@@ -9356,6 +9371,19 @@
   tournament_url: http://iran-ga.com/
   image_banner: subscriptions_iga_amateur_league_s1_ingame.png
   image: subscriptions_iga_amateur_league_s1.png
+4349:
+  name: Geogamers Dota 2 Tournament
+  description: 32 georgian amateur team will compete for Prize Pool of 600 gel
+  tournament_url: http://dota2.geogamers.ge/
+  image_banner: subscriptions_geogamers_dota_2_tournament_ingame.png
+  image: subscriptions_geogamers_dota_2_tournament.png
+4355:
+  name: Sixense eSport Online Tournament
+  description: More than 64 teams will compete in Sixense eSport Online Tournament
+    Season 1 that held on February 5 - 7, 2016 to win over IDR 2.800.000 prize pool.
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/sixense-esport-dota-2-online-tournament-season-1-february-5-7-2016.3702/
+  image_banner: 
+  image: subscriptions_sixense_esport_online_tournament.png
 4356:
   name: 'joinDOTA League #9'
   description: The global Dota 2 league for everyone. This includes most matches from
@@ -9372,12 +9400,51 @@
   tournament_url: http://www.esl-one.com/dota2/manila-2016/
   image_banner: subscriptions_esl_one_manila_2016_ingame.png
   image: subscriptions_esl_one_manila_2016.png
+4358:
+  name: PG games cup
+  description: Pg games cup is a tournament for amateur teams, with the finals held
+    in Moscow on 02.07.2016.
+  tournament_url: http://pggames.my1.ru/
+  image_banner: subscriptions_pg_games_cup_ingame.png
+  image: subscriptions_pg_games_cup.png
 4365:
   name: Glazov Cup
   description: 'Players from Udmurtia and the CIS will play in house league '
   tournament_url: http://glazovcup.jimdo.com/%D1%82%D1%83%D1%80%D0%BD%D0%B8%D1%80-5x5/
   image_banner: subscriptions_glazov_cup_ingame.png
   image: subscriptions_glazov_cup.png
+4371:
+  name: Baltic E-Sports Dota 2 League Season 1
+  description: The best players from the Baltic region will fight it out with teams
+    across the globe over a total prize pool of 1000 EUR. Which of the 64 teams will
+    crush the rest and come out on top? Come watch to see amateur and semi-pro players
+    giving it their all while passionate broadcasters provide an entertaining streaming
+    experience.
+  tournament_url: http://dota.baltic-esport.com
+  image_banner: subscriptions_baltic_esports_dota_2_league_season_1_ingame.png
+  image: subscriptions_baltic_esports_dota_2_league_season_1.png
+4378:
+  name: InsaLan XI
+  description: InsaLan is back this year with a 16 slot tournament of Dota 2 ! The
+    tournament will be held on the 6th and 7th of February at INSA Rennes in France.
+  tournament_url: https://www.insalan.fr/
+  image_banner: subscriptions_insalan_xi_ingame.png
+  image: subscriptions_insalan_xi.png
+4383:
+  name: Nacion Gamers Tournaments
+  description: Nation gamers tournaments start with this first ticket, where you can
+    enjoy several tournaments in a single ticket to see all the skills and strategies
+    of the amateur teams of Peru.
+  tournament_url: http://naciongamers.wix.com/naciongamersdota2
+  image_banner: subscriptions_nacion_gamers_tournaments_ingame.png
+  image: subscriptions_nacion_gamers_tournaments.png
+4389:
+  name: EFCS Winter Cup Season Two
+  description: After a small break, the EFÐ¡S team is ready again, to please you with
+    tournaments.
+  tournament_url: http://stepmk.wix.com/efcs#!turnir/c1h6a
+  image_banner: subscriptions_efcs_winter_cup_season_two_ingame.png
+  image: subscriptions_efcs_winter_cup_season_two.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
