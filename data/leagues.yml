@@ -8817,6 +8817,13 @@
   tournament_url: http://n010cups.jimdo.com/nfcups-season-2/
   image_banner: subscriptions_nfcups_season_2_ingame.png
   image: subscriptions_nfcups_season_2.png
+4146:
+  name: MAGFest 14
+  description: MAGFest 14 attendees battle in the MAGFest LAN room for prizes and
+    bragging rights!
+  tournament_url: http://www.magfest.org/
+  image_banner: subscriptions_magfest_14_ingame.png
+  image: subscriptions_magfest_14.png
 4147:
   name: Siaranku.com Tournament
   description: DotA 2 Indonesia Tournament Project by Siaranku.com on main event 21
@@ -9371,6 +9378,15 @@
   tournament_url: http://iran-ga.com/
   image_banner: subscriptions_iga_amateur_league_s1_ingame.png
   image: subscriptions_iga_amateur_league_s1.png
+4348:
+  name: Mango League
+  description: Mango League is joint effort to create sustainable league system in
+    South Korea by AquaTV, EDICH, BeginTV, and Minus9. Aimed at Korean amateur teams
+    and Korean audience, Mango League brings the finest of Korean amateur teams, production,
+    and casting.
+  tournament_url: http://aquadota.com/mangoleague/
+  image_banner: subscriptions_mango_league_ingame.png
+  image: subscriptions_mango_league.png
 4349:
   name: Geogamers Dota 2 Tournament
   description: 32 georgian amateur team will compete for Prize Pool of 600 gel
@@ -9430,6 +9446,13 @@
   tournament_url: https://www.insalan.fr/
   image_banner: subscriptions_insalan_xi_ingame.png
   image: subscriptions_insalan_xi.png
+4382:
+  name: Grapple Gaming Tournament Season 2
+  description: This Tournament Organized by Grapple Gaming and Supported by Dota Base
+    Indonesia. 64 team will compete to get IDR 6.000.000 Prizepool.
+  tournament_url: http://blogbagi.com/
+  image_banner: subscriptions_grapple_gaming_tournament_season_2_ingame.png
+  image: subscriptions_grapple_gaming_tournament_season_2.png
 4383:
   name: Nacion Gamers Tournaments
   description: Nation gamers tournaments start with this first ticket, where you can
@@ -9438,6 +9461,13 @@
   tournament_url: http://naciongamers.wix.com/naciongamersdota2
   image_banner: subscriptions_nacion_gamers_tournaments_ingame.png
   image: subscriptions_nacion_gamers_tournaments.png
+4384:
+  name: Secret Place - Season 1
+  description: Secret place - a new step in advancing amateur teams to the top. 32
+    teams will compete for the first prize of 8000 rubles.
+  tournament_url: http://vk.com/secret_place_one
+  image_banner: subscriptions_secret_place__season_1_ingame.png
+  image: subscriptions_secret_place__season_1.png
 4389:
   name: EFCS Winter Cup Season Two
   description: After a small break, the EFÐ¡S team is ready again, to please you with
@@ -9445,6 +9475,35 @@
   tournament_url: http://stepmk.wix.com/efcs#!turnir/c1h6a
   image_banner: subscriptions_efcs_winter_cup_season_two_ingame.png
   image: subscriptions_efcs_winter_cup_season_two.png
+4390:
+  name: Combatzone LAN 20
+  description: This is the Official Tournament Spectator Ticket for Combatzone LAN
+    20 (CBZ).
+  tournament_url: http://www.combatzone-lan.de/
+  image_banner: subscriptions_combatzone_lan_20_ingame.png
+  image: subscriptions_combatzone_lan_20.png
+4395:
+  name: Somos Doteros Tournament
+  description: 'An amateur tournament on sudamerica. Its focused on new teams who
+    never participated in a tournament. '
+  tournament_url: http://somosdoteros.blogspot.com.ar/
+  image_banner: subscriptions_somos_doteros_tournament_ingame.png
+  image: subscriptions_somos_doteros_tournament.png
+4399:
+  name: High Fly Winter Cup 2016
+  description: The High Fly Winter Cup 2016 tournament is played by teams from Kazakhstan,
+    competing for cash prizes.
+  tournament_url: http://highfly.ucoz.net/
+  image_banner: subscriptions_high_fly_winter_cup_2016_ingame.png
+  image: subscriptions_high_fly_winter_cup_2016.png
+4408:
+  name: Click-Storm DOTA 2 League
+  description: Click-Storm DOTA 2 League is a league for those who want to play with
+    friends, get positive emotions and become more experienced. Main partners of the
+    league are hitbox.tv, Plantronics and VakeTV.
+  tournament_url: http://click-storm.com/en/articles/5707/
+  image_banner: subscriptions_clickstorm_dota_2_league_ingame.png
+  image: subscriptions_clickstorm_dota_2_league.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
