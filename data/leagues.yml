@@ -9121,7 +9121,7 @@
   image_banner: subscriptions_dota_regions__japan_ingame.png
   image: subscriptions_dota_regions__japan.png
 4266:
-  name: Shanghai Major
+  name: The Shanghai Major
   description: Witness teams from all around the world compete for a place at The
     Shanghai Major 2016.
   tournament_url: http://www.dota2.com
@@ -9423,6 +9423,13 @@
   tournament_url: http://pggames.my1.ru/
   image_banner: subscriptions_pg_games_cup_ingame.png
   image: subscriptions_pg_games_cup.png
+4361:
+  name: DobroCup Season 2
+  description: 32 female teams, will compete for the prize of 20 000 rubles, the tournament
+    is held for charity
+  tournament_url: https://vk.com/dota2_dobrocup
+  image_banner: subscriptions_dobrocup_season_2_ingame.png
+  image: subscriptions_dobrocup_season_2.png
 4365:
   name: Glazov Cup
   description: 'Players from Udmurtia and the CIS will play in house league '
@@ -9439,6 +9446,12 @@
   tournament_url: http://dota.baltic-esport.com
   image_banner: subscriptions_baltic_esports_dota_2_league_season_1_ingame.png
   image: subscriptions_baltic_esports_dota_2_league_season_1.png
+4377:
+  name: GGWP Bolivia
+  description: GGWP Bolivia, Best Dota 2 comunity in the region
+  tournament_url: http://www.ggwp.com.bo
+  image_banner: subscriptions_ggwp_bolivia_ingame.png
+  image: subscriptions_ggwp_bolivia.png
 4378:
   name: InsaLan XI
   description: InsaLan is back this year with a 16 slot tournament of Dota 2 ! The
@@ -9489,6 +9502,13 @@
   tournament_url: http://somosdoteros.blogspot.com.ar/
   image_banner: subscriptions_somos_doteros_tournament_ingame.png
   image: subscriptions_somos_doteros_tournament.png
+4398:
+  name: Capo League
+  description: Capo League is an online-only tournament for amateur teams. The leagus
+    consists of a group stage and a play-off for the 16 best teams.
+  tournament_url: http://capolg.com
+  image_banner: subscriptions_capo_league_ingame.png
+  image: subscriptions_capo_league.png
 4399:
   name: High Fly Winter Cup 2016
   description: The High Fly Winter Cup 2016 tournament is played by teams from Kazakhstan,
@@ -9504,6 +9524,44 @@
   tournament_url: http://click-storm.com/en/articles/5707/
   image_banner: subscriptions_clickstorm_dota_2_league_ingame.png
   image: subscriptions_clickstorm_dota_2_league.png
+4414:
+  name: Corrupted Cup - Season 10
+  description: Australia's premier monthly tournament with a $500 prize going to the
+    triumphant heroes!
+  tournament_url: http://www.corruptedcup.com
+  image_banner: subscriptions_corrupted_cup__season_10_ingame.png
+  image: subscriptions_corrupted_cup__season_10.png
+4417:
+  name: TIta Dota2 Winter
+  description: "TIta Dota2's Winter tournament edition.\r\n\tMade 4fun, from the italian
+    community for the community."
+  tournament_url: http://titadota2.com
+  image_banner: subscriptions_tita_dota2_winter_ingame.png
+  image: subscriptions_tita_dota2_winter.png
+4434:
+  name: King of the North 2016 Season 3
+  description: The University of Manchester eSports Society brings you the thrid edition
+    of King of the North! The online qualifier will run on February 13th and 20th.
+    Qualifiers are open to any teams made up from university students in the UK. The
+    finalists who emerge from these qualifiers will be invited to Manchester on March
+    2nd this year to play in front of a live audience at the event.
+  tournament_url: http://uomesports.wix.com/kotn2016
+  image_banner: subscriptions_king_of_the_north_2016_season_3_ingame.png
+  image: subscriptions_king_of_the_north_2016_season_3.png
+4443:
+  name: RD2L Season 9 IHL
+  description: Inhouse games for RD2L Season 9
+  tournament_url: http://www.reddit.com/r/redditdota2league/
+  image_banner: subscriptions_rd2l_season_9_ihl_ingame.png
+  image: subscriptions_rd2l_season_9_ihl.png
+4447:
+  name: RD2L Season 9
+  description: Individual players sign up and are drafted into teams by volunteer
+    captains.  Teams match up over an 8 week regular season and 5 week playoff.  5
+    USA and 2 EU based divisions.
+  tournament_url: http://www.reddit.com/r/redditdota2league/
+  image_banner: subscriptions_rd2l_season_9_ingame.png
+  image: subscriptions_rd2l_season_9.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
