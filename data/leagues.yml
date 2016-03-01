@@ -9038,6 +9038,14 @@
   tournament_url: http://jiansoo.wix.com/seabr1
   image_banner: subscriptions_sea_battle_royale_season_1_ingame.png
   image: subscriptions_sea_battle_royale_season_1.png
+4219:
+  name: UIUC League
+  description: 'A full out 5 v 5 Dota 2 tournament to determine which team is the
+    best in University of Illinois Urbana Champaign. There will be 8 teams competing
+    with each other in an online tournament with a Lan Final. '
+  tournament_url: https://www.facebook.com/illinoisesports/
+  image_banner: 
+  image: subscriptions_uiuc_league.png
 4223:
   name: Vietnam eSports Champions League III
   description: 'eSportsviet.vn are going to organize Vietnam eSports Champions League
@@ -9516,6 +9524,13 @@
   tournament_url: http://highfly.ucoz.net/
   image_banner: subscriptions_high_fly_winter_cup_2016_ingame.png
   image: subscriptions_high_fly_winter_cup_2016.png
+4401:
+  name: Elite Balkan League
+  description: 'Dota 2 Serbia bring you the Elite Balkan League where the teams from
+    Balkan will compete for cash and gaming gear. '
+  tournament_url: http://dota2.rs/
+  image_banner: subscriptions_elite_balkan_league_ingame.png
+  image: subscriptions_elite_balkan_league.png
 4408:
   name: Click-Storm DOTA 2 League
   description: Click-Storm DOTA 2 League is a league for those who want to play with
@@ -9562,6 +9577,36 @@
   tournament_url: http://www.reddit.com/r/redditdota2league/
   image_banner: subscriptions_rd2l_season_9_ingame.png
   image: subscriptions_rd2l_season_9.png
+4449:
+  name: War Of Little Fingers Series 1
+  description: 'A Mini Tournament By The Bomb Squad Esports event organizer with prize
+    pool 4.750.000 IDR , Supported By : The Wolf net and DC net. there are a rising
+    stars teams who agains each another to be number one at indonesia. '
+  tournament_url: http://ligagame.com/esports/index.php?threads/war-of-little-fingers-series-1-online-tournament-3-7-maret-2016-prize-pool-4-750-000.3760/
+  image_banner: subscriptions_war_of_little_fingers_series_1_ingame.png
+  image: subscriptions_war_of_little_fingers_series_1.png
+4452:
+  name: Dota4You 1v1 South African Championship
+  description: The best South African players fight in the first season of Dota4You.
+  tournament_url: http://www.dota4you.com/
+  image_banner: subscriptions_dota4you_1v1_south_african_championship_ingame.png
+  image: subscriptions_dota4you_1v1_south_african_championship.png
+4470:
+  name: D2B Wintertime Matches
+  description: 'Top Dota2 teams from Southeast Asia will challenge themselves in a
+    Dota2Baz wintertime cup for cash and cosmetic prizes. '
+  tournament_url: http://www.dota2baz.com/
+  image_banner: subscriptions_d2b_wintertime_matches_ingame.png
+  image: subscriptions_d2b_wintertime_matches.png
+4475:
+  name: RLG Dota 2 Championship - Season 2
+  description: Featuring the largest prize pool in the history of Dota 2 in Sri Lanka,
+    the RLG Dota 2 Championship - Powered by Gigabyte, will kick off its second season
+    in March 2016. This ranked tournament is organized in Strategic Partnership with
+    Gamer.LK.
+  tournament_url: http://dota2.rlgpcs.com/
+  image_banner: subscriptions_rlg_dota_2_championship__season_2_ingame.png
+  image: subscriptions_rlg_dota_2_championship__season_2.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
