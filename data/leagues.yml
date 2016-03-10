@@ -9531,6 +9531,14 @@
   tournament_url: http://dota2.rs/
   image_banner: subscriptions_elite_balkan_league_ingame.png
   image: subscriptions_elite_balkan_league.png
+4405:
+  name: World Cyber Arena 2016 S1
+  description: WCA 2016 returns with 3 seasons. The winners of each season will meet
+    and compete for $760,000 at the LAN finals in Yinchuan in this December. This
+    League is World Cyber Arena 2016 season 1
+  tournament_url: http://www.wca.com.cn/index.html
+  image_banner: subscriptions_world_cyber_arena_2016_s1_ingame.png
+  image: subscriptions_world_cyber_arena_2016_s1.png
 4408:
   name: Click-Storm DOTA 2 League
   description: Click-Storm DOTA 2 League is a league for those who want to play with
@@ -9569,6 +9577,19 @@
   tournament_url: http://www.reddit.com/r/redditdota2league/
   image_banner: subscriptions_rd2l_season_9_ihl_ingame.png
   image: subscriptions_rd2l_season_9_ihl.png
+4445:
+  name: Road to ALP Q1
+  description: First qualifier for the Asunción Lan Party where 12 teams will be placed
+    accordingly in the bracket for the main event in October.
+  tournament_url: http://www.e-sportspy.com/
+  image_banner: subscriptions_road_to_alp_q1_ingame.png
+  image: subscriptions_road_to_alp_q1.png
+4446:
+  name: Rostovskiy Tournament
+  description: Amateur CIS team will compete for a prize pool of 3,500 RUB!
+  tournament_url: http://wladimirsopko.wix.com/rostovskiytournament
+  image_banner: subscriptions_rostovskiy_tournament_ingame.png
+  image: subscriptions_rostovskiy_tournament.png
 4447:
   name: RD2L Season 9
   description: Individual players sign up and are drafted into teams by volunteer
@@ -9591,6 +9612,32 @@
   tournament_url: http://www.dota4you.com/
   image_banner: subscriptions_dota4you_1v1_south_african_championship_ingame.png
   image: subscriptions_dota4you_1v1_south_african_championship.png
+4459:
+  name: SOFTEC '16
+  description: Top 16 teams of Pakistan compete at a LAN event held at FAST NU Lahore
+    for a base prize pool of $600.
+  tournament_url: http://softecnu.org
+  image_banner: subscriptions_softec_16_ingame.png
+  image: subscriptions_softec_16.png
+4461:
+  name: 'EPICENTER: Moscow'
+  description: World's top teams will rumble for the $500 000 prize pool in Moscow
+  tournament_url: http://epicenter.gg
+  image_banner: subscriptions_epicenter_moscow_ingame.png
+  image: subscriptions_epicenter_moscow.png
+4463:
+  name: 'Plast Dota2 League. Season 1 '
+  description: First official Plast Dota2 tournament
+  tournament_url: http://plast-league.ulcraft.com/
+  image_banner: subscriptions_plast_dota2_league_season_1__ingame.png
+  image: subscriptions_plast_dota2_league_season_1_.png
+4468:
+  name: University Games Season 1
+  description: '"BattleNEXT" Presetnts the University Games. Watch newcomers, representing
+    their respective schools, turn into champions.'
+  tournament_url: http://www.universitygames.info
+  image_banner: subscriptions_university_games_season_1_ingame.png
+  image: subscriptions_university_games_season_1.png
 4470:
   name: D2B Wintertime Matches
   description: 'Top Dota2 teams from Southeast Asia will challenge themselves in a
@@ -9598,6 +9645,13 @@
   tournament_url: http://www.dota2baz.com/
   image_banner: subscriptions_d2b_wintertime_matches_ingame.png
   image: subscriptions_d2b_wintertime_matches.png
+4471:
+  name: SEA Kappa Invitationals
+  description: SEA Kappa is one of the biggest regional tournaments in SEA with $50,000
+    in prize spread over 4 seasons!
+  tournament_url: http://www.seakappa.com/
+  image_banner: subscriptions_sea_kappa_invitationals_ingame.png
+  image: subscriptions_sea_kappa_invitationals.png
 4475:
   name: RLG Dota 2 Championship - Season 2
   description: Featuring the largest prize pool in the history of Dota 2 in Sri Lanka,
@@ -9607,6 +9661,32 @@
   tournament_url: http://dota2.rlgpcs.com/
   image_banner: subscriptions_rlg_dota_2_championship__season_2_ingame.png
   image: subscriptions_rlg_dota_2_championship__season_2.png
+4484:
+  name: Clumba Cup Season 2
+  description: Clumba Cup - Tournament-project created to improve the CIS community.
+    64 teams will compete for the title of Clumba Cup Champion and the main prize
+    of 15 000 rubles ($ 340). In addition to the tournament in our group VK you can
+    see the additional content designed to improve the CIS pubs. GL HF friends. We
+    are waiting for you in our Clumba!
+  tournament_url: http://abrleon.wix.com/clumbacup
+  image_banner: subscriptions_clumba_cup_season_2_ingame.png
+  image: subscriptions_clumba_cup_season_2.png
+4487:
+  name: IRTEvent Season 1
+  description: "16 best teams will compete in a few days for the Prize Pool. \r\n\t"
+  tournament_url: http://irtevent.com/
+  image_banner: subscriptions_irtevent_season_1_ingame.png
+  image: subscriptions_irtevent_season_1.png
+4494:
+  name: UGC League Dota 2 Season 6
+  description: The UGC Dota 2 Season 6 will feature 8 weeks of team vs team matches,
+    followed by an elimination playoff of top ranked teams to select a final Champion
+    for each division. Teams compete in skill based & geographical competition divisions
+    with teams of similar skill, based on team averages of thier player's MMR. Join
+    us in UGC League's Dota 2 Season 6 for exciting matchplay!
+  tournament_url: http://www.ugcleague.com/dota2/
+  image_banner: subscriptions_ugc_league_dota_2_season_6_ingame.png
+  image: subscriptions_ugc_league_dota_2_season_6.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
