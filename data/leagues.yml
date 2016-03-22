@@ -9571,6 +9571,13 @@
   tournament_url: http://uomesports.wix.com/kotn2016
   image_banner: subscriptions_king_of_the_north_2016_season_3_ingame.png
   image: subscriptions_king_of_the_north_2016_season_3.png
+4435:
+  name: The Gathering 2016
+  description: The Gathering is Norways biggest computer event and has been around
+    since 1992. This years Dota 2 tournament has a prize pool of 39000NOK (4000USD).
+  tournament_url: http://www.gathering.org/tg16/
+  image_banner: 
+  image: 
 4443:
   name: RD2L Season 9 IHL
   description: Inhouse games for RD2L Season 9
@@ -9638,6 +9645,14 @@
   tournament_url: http://www.universitygames.info
   image_banner: subscriptions_university_games_season_1_ingame.png
   image: subscriptions_university_games_season_1.png
+4469:
+  name: Alsa Unpad Dota 2 Tournament
+  description: This Tournament Presented by Alsa of Padjadjaran University, for Alsa
+    Night Event. 64 team will compete the prizepool, this tournament supported by
+    Dota Base Indonesia and Live Gaming Broadcast.
+  tournament_url: https://www.facebook.com/dota2base
+  image_banner: 
+  image: 
 4470:
   name: D2B Wintertime Matches
   description: 'Top Dota2 teams from Southeast Asia will challenge themselves in a
@@ -9661,6 +9676,25 @@
   tournament_url: http://dota2.rlgpcs.com/
   image_banner: subscriptions_rlg_dota_2_championship__season_2_ingame.png
   image: subscriptions_rlg_dota_2_championship__season_2.png
+4478:
+  name: ASEAN Games for Esports 2016
+  description: "ASEAN Games for Esports 2016 is the 1st official national event in
+    South East Asia with the biggest total prize pool of RM1,000,000(USD236,000).\r\n\t\r\n\t7
+    nations from SEA including Malaysia, Singapore, Indonesia, Philippines, Thailand,
+    Vietnam and Cambodia will send their national team to Kuala Lumpur this 19-20
+    March 2016 to battle it out to be the king of SEA.\r\n\t\r\n\tSo come and support
+    your country's national team or your favorite players and witness history in the
+    making as we crown the 1st champion of ASEAN Games for Esports 2016!"
+  tournament_url: http://www.ages.my
+  image_banner: 
+  image: 
+4483:
+  name: Alchemy Dota2 Indonesia Tournament
+  description: "ALCHEMY Dota2 Indonesia Tournament Organized by Eternal Organizer.All
+    Tiers will competitive in this battle scene.\r\n\t"
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/alchemy-dota2-chapter-1-online-tournament-25-27-march-2016.3804/
+  image_banner: 
+  image: 
 4484:
   name: Clumba Cup Season 2
   description: Clumba Cup - Tournament-project created to improve the CIS community.
@@ -9687,6 +9721,28 @@
   tournament_url: http://www.ugcleague.com/dota2/
   image_banner: subscriptions_ugc_league_dota_2_season_6_ingame.png
   image: subscriptions_ugc_league_dota_2_season_6.png
+4496:
+  name: ALTESPORTS  SUMMER 2016
+  description: "ALTESPORTS.COM \r\n\tAre Proud to present ALTESPORT SUMMER 2016 TOURNAMENT
+    and it'\x80\x99s open for teams in Southeast Asia to register and compete for
+    free."
+  tournament_url: http://altesports.com/
+  image_banner: 
+  image: 
+4507:
+  name: DreamLeague Season 5
+  description: Nine of the best western teams in the world will fight for a spot in
+    the playoffs and for the $156,000 prize pool!
+  tournament_url: http://Dreamleague.DreamHack.com
+  image_banner: 
+  image: 
+4546:
+  name: H-CUP
+  description: Presents by IMBATV,every week is a single season,prizepool is 20,000RMB
+    for each week,most chinese teams play this tournament to improve themselves.
+  tournament_url: http://www.imbatv.cn/event/Hcup/S2
+  image_banner: 
+  image: 
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
