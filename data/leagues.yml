@@ -9576,8 +9576,8 @@
   description: The Gathering is Norways biggest computer event and has been around
     since 1992. This years Dota 2 tournament has a prize pool of 39000NOK (4000USD).
   tournament_url: http://www.gathering.org/tg16/
-  image_banner: 
-  image: 
+  image_banner: subscriptions_the_gathering_2016_ingame.png
+  image: subscriptions_the_gathering_2016.png
 4443:
   name: RD2L Season 9 IHL
   description: Inhouse games for RD2L Season 9
@@ -9651,8 +9651,8 @@
     Night Event. 64 team will compete the prizepool, this tournament supported by
     Dota Base Indonesia and Live Gaming Broadcast.
   tournament_url: https://www.facebook.com/dota2base
-  image_banner: 
-  image: 
+  image_banner: subscriptions_alsa_unpad_dota_2_tournament_ingame.png
+  image: subscriptions_alsa_unpad_dota_2_tournament.png
 4470:
   name: D2B Wintertime Matches
   description: 'Top Dota2 teams from Southeast Asia will challenge themselves in a
@@ -9686,15 +9686,15 @@
     your country's national team or your favorite players and witness history in the
     making as we crown the 1st champion of ASEAN Games for Esports 2016!"
   tournament_url: http://www.ages.my
-  image_banner: 
-  image: 
+  image_banner: subscriptions_asean_games_for_esports_2016_ingame.png
+  image: subscriptions_asean_games_for_esports_2016.png
 4483:
   name: Alchemy Dota2 Indonesia Tournament
   description: "ALCHEMY Dota2 Indonesia Tournament Organized by Eternal Organizer.All
     Tiers will competitive in this battle scene.\r\n\t"
   tournament_url: http://www.ligagame.com/esports/index.php?threads/alchemy-dota2-chapter-1-online-tournament-25-27-march-2016.3804/
-  image_banner: 
-  image: 
+  image_banner: subscriptions_alchemy_dota2_indonesia_tournament_ingame.png
+  image: subscriptions_alchemy_dota2_indonesia_tournament.png
 4484:
   name: Clumba Cup Season 2
   description: Clumba Cup - Tournament-project created to improve the CIS community.
@@ -9727,22 +9727,22 @@
     and it'\x80\x99s open for teams in Southeast Asia to register and compete for
     free."
   tournament_url: http://altesports.com/
-  image_banner: 
-  image: 
+  image_banner: subscriptions_altesports__summer_2016_ingame.png
+  image: subscriptions_altesports__summer_2016.png
 4507:
   name: DreamLeague Season 5
   description: Nine of the best western teams in the world will fight for a spot in
     the playoffs and for the $156,000 prize pool!
   tournament_url: http://Dreamleague.DreamHack.com
-  image_banner: 
-  image: 
+  image_banner: subscriptions_dreamleague_season_5_ingame.png
+  image: subscriptions_dreamleague_season_5.png
 4546:
   name: H-CUP
   description: Presents by IMBATV,every week is a single season,prizepool is 20,000RMB
     for each week,most chinese teams play this tournament to improve themselves.
   tournament_url: http://www.imbatv.cn/event/Hcup/S2
-  image_banner: 
-  image: 
+  image_banner: subscriptions_hcup_ingame.png
+  image: subscriptions_hcup.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
