@@ -9444,7 +9444,7 @@
     IDR 5.500.000
   tournament_url: http://prj.himakom-unila.or.id/#
   image_banner: 
-  image: 
+  image: subscriptions_dota_2_himakom_online_tournament.png
 4365:
   name: Glazov Cup
   description: 'Players from Udmurtia and the CIS will play in house league '
@@ -9749,15 +9749,15 @@
     action at the UK's biggest gaming festival, Insomnia57. The champion takes home
     the lion's share of a Â£5000 prize pool.
   tournament_url: https://insomniagamingfestival.com/i57/tournaments/event/dota-2/
-  image_banner: 
-  image: 
+  image_banner: subscriptions_insomnia57_ingame.png
+  image: subscriptions_insomnia57.png
 4521:
   name: 'Bishkek Stars League #4 - Go Forward'
   description: Season 4 of the BSL GO FORW@RD, where amateur teams will compete for
     a prize pool of 20,000 Som.
   tournament_url: http://dota2.kg
-  image_banner: 
-  image: 
+  image_banner: subscriptions_bishkek_stars_league_4__go_forward_ingame.png
+  image: subscriptions_bishkek_stars_league_4__go_forward.png
 4523:
   name: 'Kings of LAN: Mar ''16 - Dota 2'
   description: Do you have what it takes to be the King of LAN in Dota 2 in Sri Lanka?
@@ -9766,22 +9766,22 @@
     Gaming, Kings of LAN Dota 2 will feature the best Sri Lankan Dota 2 talent pitted
     out against each other.
   tournament_url: http://gamer.lk/index.php/topic,31112.0.html
-  image_banner: 
-  image: 
+  image_banner: subscriptions_kings_of_lan_mar_16__dota_2_ingame.png
+  image: subscriptions_kings_of_lan_mar_16__dota_2.png
 4530:
   name: WellPlay Invitational by Hitbox.tv
   description: 8 invited teams competing in a Double-Elimination bracket to claim
     the 3,000$ prizepool.
   tournament_url: http://wellplay.co
-  image_banner: 
-  image: 
+  image_banner: subscriptions_wellplay_invitational_by_hitboxtv_ingame.png
+  image: subscriptions_wellplay_invitational_by_hitboxtv.png
 4532:
   name: MAX League
   description: Max League was created as an even ground so that talented newcomers
     can perform and achieve great things.
   tournament_url: http://www.dotamax.com
-  image_banner: 
-  image: 
+  image_banner: subscriptions_max_league_ingame.png
+  image: subscriptions_max_league.png
 4542:
   name: StarLadder Pro League Season 14
   description: Pro Series is a league for 24 teams. 12 participants from Europe region
@@ -9789,8 +9789,8 @@
     gaming platform for players of different levels - from amateurs to world champions.
     The prize pool is $2,000.
   tournament_url: http://dota2.starladder.tv/league/pro
-  image_banner: 
-  image: 
+  image_banner: subscriptions_starladder_pro_league_season_14_ingame.png
+  image: subscriptions_starladder_pro_league_season_14.png
 4546:
   name: H-CUP
   description: Presents by IMBATV,every week is a single season,prizepool is 20,000RMB
@@ -9802,8 +9802,8 @@
   name: WLDL Season 2.5 Random Draft League
   description: A casual two-day random-draft tournament for the WeLikeDota community.
   tournament_url: https://www.reddit.com/r/welikedota/comments/4ajznt/wldl_season_25_random_draft_edition/
-  image_banner: 
-  image: 
+  image_banner: subscriptions_wldl_season_25_random_draft_league_ingame.png
+  image: subscriptions_wldl_season_25_random_draft_league.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
