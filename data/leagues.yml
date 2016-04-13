@@ -9893,6 +9893,13 @@
   tournament_url: http://907gamers.com/
   image_banner: subscriptions_907gamerscom_presents__the_alaskan_spring_invitational_ingame.png
   image: subscriptions_907gamerscom_presents__the_alaskan_spring_invitational.png
+4564:
+  name: COPA D2EG 4
+  description: 16 Chilean teams compete in a double elimination tournament seeking
+    glory.
+  tournament_url: http://www.d2eg.com/home.html
+  image_banner: subscriptions_copa_d2eg_4_ingame.png
+  image: subscriptions_copa_d2eg_4.png
 4565:
   name: Rookie Cup 2016
   description: 'The most representative Bolivian tournament is back thanks to GG GROUP
@@ -9907,12 +9914,49 @@
   tournament_url: http://pd2l.pl/
   image_banner: subscriptions_polish_dota_2_league__season_3_ingame.png
   image: subscriptions_polish_dota_2_league__season_3.png
+4570:
+  name: Learn Dota 2 Spring League
+  description: "Announcing the Learn Dota 2 Spring League, a tournament for players
+    who are new, looking to improve, and interested in participating in organised
+    dota at their skill level. Note that the only prize for this will be bragging
+    rights.\r\n\tThis will be a Captains Mode tournament for teams with less than
+    a 3k average team MMR, and a maximum of 3.5k solo per player to keep in the spirit
+    of new players."
+  tournament_url: https://www.reddit.com/r/learndota2/comments/49cbex/announcing_the_learn_dota_2_spring_league/
+  image_banner: subscriptions_learn_dota_2_spring_league_ingame.png
+  image: subscriptions_learn_dota_2_spring_league.png
 4572:
   name: DotaItalia League 2016
   description: "DotaItalia League 2016 - Il campionato italiano di Dota 2. \r\n\thttp://www.dotaitalia.com/"
   tournament_url: http://www.dotaitalia.com/dota-italia-league-2016
   image_banner: subscriptions_dotaitalia_league_2016_ingame.png
   image: subscriptions_dotaitalia_league_2016.png
+4579:
+  name: SL i-League Invitational Season 1
+  description: Starladder and ImbaTV present an international tournament with 100,000
+    USD prize pool. Watch us and support your favourite teams from the whole globe!
+  tournament_url: http://www.starladder.com
+  image_banner: subscriptions_sl_ileague_invitational_season_1_ingame.png
+  image: subscriptions_sl_ileague_invitational_season_1.png
+4580:
+  name: Dota 2 Canada Cup Season 7 - Open Qualifiers
+  description: Dota 2 Canada Cup Season 7 Open Qualifiers by FACEIT
+  tournament_url: http://www.dota2.ca
+  image_banner: subscriptions_dota_2_canada_cup_season_7__open_qualifiers_ingame.png
+  image: subscriptions_dota_2_canada_cup_season_7__open_qualifiers.png
+4583:
+  name: UK Meme Haus League
+  description: The UK Meme Haus League features several of the top UK players playing
+    for fun, glory, and pride in a league that never ends!
+  tournament_url: http://www.meme.haus
+  image_banner: subscriptions_uk_meme_haus_league_ingame.png
+  image: subscriptions_uk_meme_haus_league.png
+4589:
+  name: Japan Dota Cup 2016 SEASON 1
+  description: 24 japan teams will fight in the double-elimination format in two weeks.
+  tournament_url: http://japandota.com/japandotacup-6
+  image_banner: subscriptions_japan_dota_cup_2016_season_1_ingame.png
+  image: subscriptions_japan_dota_cup_2016_season_1.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
