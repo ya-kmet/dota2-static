@@ -9654,8 +9654,8 @@
   description: 16 teams from South America face each other in best of 3 elimination
     matches and a best of 5 grand final, competing for $400.
   tournament_url: http://dota2.com.ar/torneo
-  image_banner: 
-  image: 
+  image_banner: subscriptions_open_sudamrica_liga_ingame.png
+  image: subscriptions_open_sudamrica_liga.png
 4459:
   name: SOFTEC '16
   description: Top 16 teams of Pakistan compete at a LAN event held at FAST NU Lahore
@@ -9828,8 +9828,8 @@
     will be hosting bi-weekly amateur leagues for Dota2, CSGO and more! Do check out
     our website for more information on tournaments, LAN Parties and LIVE events!"
   tournament_url: http://www.aesgames.com
-  image_banner: 
-  image: 
+  image_banner: subscriptions_aes_amateur_open__dota_2_ingame.png
+  image: subscriptions_aes_amateur_open__dota_2.png
 4530:
   name: WellPlay Invitational by Hitbox.tv
   description: 8 invited teams competing in a Double-Elimination bracket to claim
@@ -9859,8 +9859,8 @@
     over one weekend for over $1000 NZD.\r\n\t\r\n\tPool stage -22nd & 23rd April\r\n\tFinals
     -24th April."
   tournament_url: http://www.anzacdota.com
-  image_banner: 
-  image: 
+  image_banner: subscriptions_the_april_invitational_ingame.png
+  image: subscriptions_the_april_invitational.png
 4542:
   name: StarLadder Pro League Season 14
   description: Pro Series is a league for 24 teams. 12 participants from Europe region
@@ -9937,8 +9937,8 @@
     will fall on the LAN semi-final in his hometown.\r\n\tThe top eight teams will
     continue to participate in the tournament in the finals for a prize fund of 1000$ "
   tournament_url: http://tevent.win/
-  image_banner: 
-  image: 
+  image_banner: subscriptions_tevent_dota_2_season_5_ingame.png
+  image: subscriptions_tevent_dota_2_season_5.png
 4568:
   name: Polish DOTA 2 League - Season 3
   description: Free to play on-line league with LAN finals for all Polish amateur
@@ -9994,15 +9994,15 @@
   description: X-Class Epsort Dota 2 Online Tournament, Organized By X-Class Esport,
     Prize Poll Rp 5.500.000
   tournament_url: http://ligagame.com/esports/index.php?threads/x-class-esport-dota-2-online-tournament-double-elimination-22-april-2016.3969/
-  image_banner: 
-  image: 
+  image_banner: subscriptions_xclass_esport_dota_2_online_tournament_ingame.png
+  image: subscriptions_xclass_esport_dota_2_online_tournament.png
 4604:
   name: IGA amateur League Spring Season
   description: "Second season of IGA amateur league has arrived. The competition will
     be held between semi pro teams of the region for the prize pool 1000$.\r\n\t"
   tournament_url: http://iran-ga.com/dota2-league/
-  image_banner: 
-  image: 
+  image_banner: subscriptions_iga_amateur_league_spring_season_ingame.png
+  image: subscriptions_iga_amateur_league_spring_season.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
