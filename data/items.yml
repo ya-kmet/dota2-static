@@ -35,6 +35,12 @@
 237:
   internal_name: faerie_fire
   name: Faerie Fire
+265:
+  internal_name: infused_raindrop
+  name: Infused Raindrop
+244:
+  internal_name: wind_lace
+  name: Wind Lace
 12:
   internal_name: ring_of_protection
   name: Ring of Protection
@@ -248,6 +254,9 @@
 73:
   internal_name: bracer
   name: Bracer
+264:
+  internal_name: banana
+  name: Banana
 74:
   internal_name: recipe_wraith_band
   name: recipe_wraith_band
@@ -317,6 +326,18 @@
 98:
   internal_name: orchid
   name: Orchid Malevolence
+245:
+  internal_name: recipe_bloodthorn
+  name: recipe_bloodthorn
+250:
+  internal_name: bloodthorn
+  name: Bloodthorn
+251:
+  internal_name: recipe_echo_sabre
+  name: recipe_echo_sabre
+252:
+  internal_name: echo_sabre
+  name: Echo Sabre
 99:
   internal_name: recipe_cyclone
   name: recipe_cyclone
@@ -335,6 +356,12 @@
 102:
   internal_name: force_staff
   name: Force Staff
+262:
+  internal_name: recipe_hurricane_pike
+  name: recipe_hurricane_pike
+263:
+  internal_name: hurricane_pike
+  name: Hurricane Pike
 103:
   internal_name: recipe_dagon
   name: recipe_dagon
@@ -647,6 +674,9 @@
 181:
   internal_name: orb_of_venom
   name: Orb of Venom
+240:
+  internal_name: blight_stone
+  name: Blight Stone
 184:
   internal_name: recipe_ancient_janggo
   name: recipe_ancient_janggo
@@ -668,6 +698,9 @@
 188:
   internal_name: smoke_of_deceit
   name: Smoke of Deceit
+257:
+  internal_name: tome_of_knowledge
+  name: Tome of Knowledge
 189:
   internal_name: recipe_veil_of_discord
   name: recipe_veil_of_discord
