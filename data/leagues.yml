@@ -9891,6 +9891,15 @@
   tournament_url: https://www.reddit.com/r/welikedota/comments/4ajznt/wldl_season_25_random_draft_edition/
   image_banner: subscriptions_wldl_season_25_random_draft_league_ingame.png
   image: subscriptions_wldl_season_25_random_draft_league.png
+4550:
+  name: Rostelecom Cup
+  description: "One of the largest telecommunications giants holding the tournament
+    supported by Siberian Fanatic Games\r\n\tRostelecom Cup - absolutely free Siberian
+    League teams for beginners, with a prize fund of 90 000 rubles on games like  Dota
+    2, CS: GO and WoT"
+  tournament_url: http://click-storm.com/ru/event/11/
+  image_banner: subscriptions_rostelecom_cup_ingame.png
+  image: subscriptions_rostelecom_cup.png
 4554:
   name: ESL One Frankfurt 2016
   description: "On June 18 and 19 Dota 2 makes its way back to the Commerzbank-Arena
@@ -10003,6 +10012,13 @@
   tournament_url: http://iran-ga.com/dota2-league/
   image_banner: subscriptions_iga_amateur_league_spring_season_ingame.png
   image: subscriptions_iga_amateur_league_spring_season.png
+4649:
+  name: Manila Major Open Qualifiers
+  description: Witness teams from all around the world compete for a place at The
+    Manila Major 2016 Regional Qualifiers.
+  tournament_url: http://blog.dota2.com/2016/04/manila-major-invites/
+  image_banner: subscriptions_manila_major_open_qualifiers_ingame.png
+  image: subscriptions_manila_major_open_qualifiers.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
