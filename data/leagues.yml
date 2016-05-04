@@ -8780,6 +8780,14 @@
   tournament_url: http://d2cl.gg
   image_banner: subscriptions_d2cl_s7_christmas_magic_ingame.png
   image: subscriptions_d2cl_s7_christmas_magic.png
+4121:
+  name: Next Gaming Championship IV - LAN
+  description: 1st LAN Event organized by Next Gaming with IDR 5.5M Prizepool. Online
+    Qualifiers commencing on May 2nd - 4th. LAN Event held in Cyberia Surya Sumantri,
+    Bandung, Indonesia from May 7th - 8th.
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/next-gaming-championship-iv-lan-cyberia-bandung-2-8-may-5-5m-prizepool.3945/
+  image_banner: subscriptions_next_gaming_championship_iv__lan_ingame.png
+  image: subscriptions_next_gaming_championship_iv__lan.png
 4122:
   name: FACEIT League
   description: FACEIT.com is an online platform for gamers which allows them to compete
@@ -9088,6 +9096,15 @@
   tournament_url: https://www.facebook.com/events/1529856330668405/
   image_banner: subscriptions_armenian_dota_championship_2015_ingame.png
   image: subscriptions_armenian_dota_championship_2015.png
+4247:
+  name: 'eSPORT BTV : ASUS DOTA2 Tournament'
+  description: 'Esport BTV: ASUS DOTA2 Tournament, a tournament organized by BTV DOTA2
+    and supported by ASUS and Balikpapan City Government. The tournament will have
+    the elimination round and the Main Event. Main Event will be held at the Atrium
+    Plaza Balikpapan on 16 - May 22, 2016.'
+  tournament_url: http://esportbtv.wix.com/dota2#!dota2/y6g0b
+  image_banner: subscriptions_esport_btv__asus_dota2_tournament_ingame.png
+  image: subscriptions_esport_btv__asus_dota2_tournament.png
 4249:
   name: Acer Predator Dota 2 Online Tournament
   description: "Acer Predator Dota 2 Online Tournament Indonesia\r\n\t\r\n\t64 Team
@@ -9212,6 +9229,13 @@
   tournament_url: http://www.d2eg.com/home.html
   image_banner: subscriptions_copa_d2eg_2_ingame.png
   image: subscriptions_copa_d2eg_2.png
+4297:
+  name: Dota 2 Canada Cup Season 7
+  description: The Dota 2 Canada Cup is back! Featuring some of the finest teams from
+    North and South America.
+  tournament_url: http://www.dota2.ca
+  image_banner: subscriptions_dota_2_canada_cup_season_7_ingame.png
+  image: subscriptions_dota_2_canada_cup_season_7.png
 4298:
   name: The k6R Cup
   description: 'An amateur tournament with 4 qualifying teams out of 16 entered going
@@ -9608,6 +9632,13 @@
   tournament_url: http://www.gathering.org/tg16/
   image_banner: subscriptions_the_gathering_2016_ingame.png
   image: subscriptions_the_gathering_2016.png
+4442:
+  name: The Summit 5
+  description: 'The Summit returns for its 5th iteration! Expect top teams, fantastic
+    Dota 2, and memorable moments from this community favorite Tournament. '
+  tournament_url: https://www.beyondthesummit.tv
+  image_banner: subscriptions_the_summit_5_ingame.png
+  image: subscriptions_the_summit_5.png
 4443:
   name: RD2L Season 9 IHL
   description: Inhouse games for RD2L Season 9
@@ -9837,6 +9868,13 @@
   tournament_url: http://www.aesgames.com
   image_banner: subscriptions_aes_amateur_open__dota_2_ingame.png
   image: subscriptions_aes_amateur_open__dota_2.png
+4529:
+  name: KUK LEAGUE SEASON 1
+  description: A full out 5 vs 5 Dota 2 tournament to determine which team is the
+    best among Malaysian students in South Korea.
+  tournament_url: https://www.facebook.com/umnokorea/?ref=bookmarks
+  image_banner: 
+  image: subscriptions_kuk_league_season_1.png
 4530:
   name: WellPlay Invitational by Hitbox.tv
   description: 8 invited teams competing in a Double-Elimination bracket to claim
@@ -9907,6 +9945,14 @@
   tournament_url: http://click-storm.com/ru/event/11/
   image_banner: subscriptions_rostelecom_cup_ingame.png
   image: subscriptions_rostelecom_cup.png
+4553:
+  name: SEAC 2016
+  description: SEAC is Southeast Championship who organized by PT.Digitalife Nusantara.SEAC
+    is DotA 2 tournament that is intended to Southeast Asia region. This  tournament
+    could be called the biggest event Dota 2 tournament held in Indonesia.
+  tournament_url: http://digitalife.co.id/seac/
+  image_banner: subscriptions_seac_2016_ingame.png
+  image: subscriptions_seac_2016.png
 4554:
   name: ESL One Frankfurt 2016
   description: "On June 18 and 19 Dota 2 makes its way back to the Commerzbank-Arena
@@ -9979,6 +10025,14 @@
   tournament_url: http://www.dotaitalia.com/dota-italia-league-2016
   image_banner: subscriptions_dotaitalia_league_2016_ingame.png
   image: subscriptions_dotaitalia_league_2016.png
+4576:
+  name: Acceleration Season 5
+  description: "Acceleration Season 5 Dota 2 Tournament is supported by DC net,The
+    WOLF net and Acceleration Event Organier. 150 teams will compete for the biggest
+    pool prize in cash in Indonesia: Rp 3.000.000!\r\n\t"
+  tournament_url: http://www.ligagame.com/esports/index.php?threads%2Facceleration-mini-fast-tournament-season-5-25-29-maret-2016-prize-pool-rp-2-500-000.3821%2F
+  image_banner: subscriptions_acceleration_season_5_ingame.png
+  image: subscriptions_acceleration_season_5.png
 4579:
   name: SL i-League Invitational Season 1
   description: Starladder and ImbaTV present an international tournament with 100,000
@@ -10019,6 +10073,29 @@
   tournament_url: http://iran-ga.com/dota2-league/
   image_banner: subscriptions_iga_amateur_league_spring_season_ingame.png
   image: subscriptions_iga_amateur_league_spring_season.png
+4632:
+  name: SGC 2016
+  description: The SGC 2016, will bring together the 10  top teams from the region
+    and crown the champion as the winner of this Dota2 professional league.
+  tournament_url: http://www.766.com/sgc
+  image_banner: subscriptions_sgc_2016_ingame.png
+  image: subscriptions_sgc_2016.png
+4637:
+  name: 907 Gamers May inhouse League
+  description: Our monthly league for the month of May.  Players from all around Alaska
+    compete with one another in the chance for the prize money, and the ability to
+    be called the best in the state.
+  tournament_url: http://www.907gamers.com/viewtopic.php?f=23&t=787&p=2270#p2270
+  image_banner: subscriptions_907_gamers_may_inhouse_league_ingame.png
+  image: subscriptions_907_gamers_may_inhouse_league.png
+4646:
+  name: SL i-League StarSeries S2
+  description: "Starladder and ImbaTV present a new season of the famous international
+    tournament â\x80\x93 SL i-League StarSeries. Watch us and support your favourite
+    teams from the whole globe in their fight for 300,000 USD prize pool!"
+  tournament_url: http://www.starladder.com
+  image_banner: subscriptions_sl_ileague_starseries_s2_ingame.png
+  image: subscriptions_sl_ileague_starseries_s2.png
 4649:
   name: Manila Major Open Qualifiers
   description: Witness teams from all around the world compete for a place at The
