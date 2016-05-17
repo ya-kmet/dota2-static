@@ -7847,8 +7847,7 @@
   image: subscriptions_dota_elite_series__season_2.png
 3539:
   name: KOD League
-  description: KOD League is an online Dota 2 league for players and viewers Worldwide.
-    Season One features 16 teams from the America region, both professional and amateur.
+  description: KOD League is a professional league with best teams of america.
   tournament_url: http://www.kingsofdota.com
   image_banner: subscriptions_kod_league_ingame.png
   image: subscriptions_kod_league.png
@@ -9813,6 +9812,16 @@
   tournament_url: http://altesports.com/
   image_banner: subscriptions_altesports__summer_2016_ingame.png
   image: subscriptions_altesports__summer_2016.png
+4503:
+  name: UGC League Dota 2 Premium 2016
+  description: "The UGC Dota 2 Premium 2016 Ticket will exciting weekly matches,   and
+    elimination playoffs. Teams compete in skill based & geographical competition
+    divisions with teams of similar skill, based on team averages of their player's
+    MMR. Join us in UGC League's Dota 2 Premium 2016 for exciting matchplay! \r\n\tOur
+    Prize Pool will be awarded to the top team at the end of our 2016 Season 7 Playoffs."
+  tournament_url: http://www.ugcleague.com/dota2/
+  image_banner: subscriptions_ugc_league_dota_2_premium_2016_ingame.png
+  image: subscriptions_ugc_league_dota_2_premium_2016.png
 4507:
   name: DreamLeague Season 5
   description: Nine of the best western teams in the world will fight for a spot in
@@ -9963,6 +9972,14 @@
   tournament_url: http://www.esl-one.com/dota2/frankfurt-2016/
   image_banner: subscriptions_esl_one_frankfurt_2016_ingame.png
   image: subscriptions_esl_one_frankfurt_2016.png
+4556:
+  name: Copa de Abertura LBEE
+  description: "Liga Brasileira de Esportes EletrÃ´nicos Opening Tournament. The best
+    South American Teams, fighting for R$10.000 prize pool. Invited Teams: CNB, Pain,
+    INTZ, NOT\r\n\t"
+  tournament_url: http://www.lbee.com.br
+  image_banner: subscriptions_copa_de_abertura_lbee_ingame.png
+  image: subscriptions_copa_de_abertura_lbee.png
 4559:
   name: DA 1v1 Mid Series
   description: "Show us your personal skills in the DA 1v1 Mid Series.\r\n\tCompeting
@@ -10059,6 +10076,20 @@
   tournament_url: http://japandota.com/japandotacup-6
   image_banner: subscriptions_japan_dota_cup_2016_season_1_ingame.png
   image: subscriptions_japan_dota_cup_2016_season_1.png
+4590:
+  name: K-Cup Dota2 Amateur League Season 3
+  description: 'From the Chinese top Dota2 players are composed of NGA community to
+    usher in their  much anticipated  K-Cup league 3nd season! '
+  tournament_url: http://bbs.nga.cn/thread.php?fid=321
+  image_banner: subscriptions_kcup_dota2_amateur_league_season_3_ingame.png
+  image: subscriptions_kcup_dota2_amateur_league_season_3.png
+4591:
+  name: DA 5v5 Team Series
+  description: Show us your teamwork and skills in the DA 5v5 Team Series. Competing
+    with hundreds of teams for a place at the Top.
+  tournament_url: https://www.dota-athletes.com
+  image_banner: subscriptions_da_5v5_team_series_ingame.png
+  image: subscriptions_da_5v5_team_series.png
 4600:
   name: X-Class Esport Dota 2 Online Tournament
   description: X-Class Epsort Dota 2 Online Tournament, Organized By X-Class Esport,
@@ -10073,6 +10104,27 @@
   tournament_url: http://iran-ga.com/dota2-league/
   image_banner: subscriptions_iga_amateur_league_spring_season_ingame.png
   image: subscriptions_iga_amateur_league_spring_season.png
+4613:
+  name: KOD League Season 2
+  description: KOD League is a professional league with best teams of america.
+  tournament_url: http://www.kingsofdota.com/
+  image_banner: subscriptions_kod_league_ingame.png
+  image: subscriptions_kod_league.png
+4623:
+  name: Reflex League
+  description: Play Dota2 for prizes with Reflex!
+  tournament_url: http://www.reflexgaming.io
+  image_banner: subscriptions_reflex_league_ingame.png
+  image: subscriptions_reflex_league.png
+4630:
+  name: World Electronic sports games
+  description: WESG also known as the "world Electronic sports games", is an international
+    tournament sponsored by the Ali Sports . thriving to be the Olympics Games in
+    the field of e-sports games, WESG covers more than 100 countries around the world,
+    with a total prize reward of more than $5.5 million.
+  tournament_url: http://www.wesg.com/
+  image_banner: subscriptions_world_electronic_sports_games_ingame.png
+  image: subscriptions_world_electronic_sports_games.png
 4632:
   name: SGC 2016
   description: The SGC 2016, will bring together the 10  top teams from the region
@@ -10103,6 +10155,27 @@
   tournament_url: http://blog.dota2.com/2016/04/manila-major-invites/
   image_banner: subscriptions_manila_major_open_qualifiers_ingame.png
   image: subscriptions_manila_major_open_qualifiers.png
+4651:
+  name: STAN Dota 2
+  description: STAN Dota 2 All Tournament
+  tournament_url: http://battlefy.com/stan-dota-2/sel-2015/55a8b850025b1848008719ac/info
+  image_banner: subscriptions_stan_dota_2_ingame.png
+  image: subscriptions_stan_dota_2.png
+4660:
+  name: Nanyang Championships Season 2
+  description: Nanyang Championships Season2 is back! There will be 8 of the best
+    professional DOTA2 teams in the world coming to Shanghai to compete from July
+    6th to 10th.
+  tournament_url: http://www.nanyangcup.cn
+  image_banner: subscriptions_nanyang_championships_season2_ingame.png
+  image: subscriptions_nanyang_championships_season2.png
+4664:
+  name: The International 2016
+  description: Who will emerge victorious? Witness the world's top teams battle at
+    The International.
+  tournament_url: http://www.dota2.com/international/overview/
+  image_banner: subscriptions_international_2015_ingame.png
+  image: 
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The

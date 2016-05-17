@@ -821,3 +821,24 @@
 1020:
   internal_name: winter_greevil_chewy
   name: winter_greevil_chewy
+1021:
+  internal_name: river_painter
+  name: 'River Vial: Chrome'
+1022:
+  internal_name: river_painter2
+  name: 'River Vial: Dry'
+1023:
+  internal_name: river_painter3
+  name: 'River Vial: Slime'
+1024:
+  internal_name: river_painter4
+  name: 'River Vial: Oil'
+1025:
+  internal_name: river_painter5
+  name: 'River Vial: Electrified'
+1026:
+  internal_name: river_painter6
+  name: 'River Vial: Potion'
+1027:
+  internal_name: river_painter7
+  name: 'River Vial: Blood'
