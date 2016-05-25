@@ -9812,6 +9812,13 @@
   tournament_url: http://altesports.com/
   image_banner: subscriptions_altesports__summer_2016_ingame.png
   image: subscriptions_altesports__summer_2016.png
+4500:
+  name: Dota Base Tournament
+  description: Dota Base Tournament is annual tournament by Dota Base Indonesia with
+    128 teams in Indonesia and will compete for $600 prize pool.
+  tournament_url: http://dota2indonesiatv.co.id/2016/04/22/dota-base-mini-tournament-season-ii/
+  image_banner: subscriptions_dota_base_tournament_ingame.png
+  image: subscriptions_dota_base_tournament.png
 4503:
   name: UGC League Dota 2 Premium 2016
   description: "The UGC Dota 2 Premium 2016 Ticket will exciting weekly matches,   and
@@ -10116,6 +10123,16 @@
   tournament_url: http://www.reflexgaming.io
   image_banner: subscriptions_reflex_league_ingame.png
   image: subscriptions_reflex_league.png
+4627:
+  name: LGL - Lebanese Gaming League
+  description: "eSports Lebanon presents the first Lebanese Gaming League. Only\r\n\tthe
+    top 16 Teams will take the Challenge! \r\n\t\r\n\tThe tournament will be divided
+    into 3 phases:\r\n\t- The Group Stage: Played online (2 groups, 8 each).\r\n\t-
+    The Playoffs (upper and lower brackets).\r\n\t- The Grand Final (At ABC Grand
+    Cinema).\r\n\t"
+  tournament_url: http://www.esportslebanon.com
+  image_banner: subscriptions_lgl__lebanese_gaming_league_ingame.png
+  image: subscriptions_lgl__lebanese_gaming_league.png
 4630:
   name: World Electronic sports games
   description: WESG also known as the "world Electronic sports games", is an international
@@ -10140,6 +10157,20 @@
   tournament_url: http://www.907gamers.com/viewtopic.php?f=23&t=787&p=2270#p2270
   image_banner: subscriptions_907_gamers_may_inhouse_league_ingame.png
   image: subscriptions_907_gamers_may_inhouse_league.png
+4638:
+  name: Indonesia Cyberia E-Sport Tournament 2016
+  description: "Registration Deadline: 18 May 2016\r\n\tFill team description in our
+    form in http://www.cyberia.online/\r\n\t"
+  tournament_url: http://cyberia.online/tournament/
+  image_banner: subscriptions_indonesia_cyberia_esport_tournament_2016_ingame.png
+  image: subscriptions_indonesia_cyberia_esport_tournament_2016.png
+4642:
+  name: Zhejiang University DOTA2 League
+  description: It's Zhejiang University and WangYudashi app that held this DOTA2 league.More
+    than 32 teams and 250 players fight for the championship.
+  tournament_url: http://api.wangyuhudong.com/share/activity/148
+  image_banner: subscriptions_zhejiang_university_dota2_league_ingame.png
+  image: subscriptions_zhejiang_university_dota2_league.png
 4646:
   name: SL i-League StarSeries S2
   description: "Starladder and ImbaTV present a new season of the famous international
@@ -10161,6 +10192,13 @@
   tournament_url: http://battlefy.com/stan-dota-2/sel-2015/55a8b850025b1848008719ac/info
   image_banner: subscriptions_stan_dota_2_ingame.png
   image: subscriptions_stan_dota_2.png
+4656:
+  name: Dota International's Clan Wars - Season 6
+  description: 6th Season of Dota International's Clan Wars. Amateur teams from South
+    East Asian region will be competing for the title and prize.
+  tournament_url: http://www.dotainternational.com/
+  image_banner: subscriptions_dota_internationals_clan_wars__season_6_ingame.png
+  image: subscriptions_dota_internationals_clan_wars__season_6.png
 4660:
   name: Nanyang Championships Season 2
   description: Nanyang Championships Season2 is back! There will be 8 of the best
@@ -10176,6 +10214,52 @@
   tournament_url: http://www.dota2.com/international/overview/
   image_banner: subscriptions_international_2015_ingame.png
   image: 
+4669:
+  name: WellPlay Invitational by VitalBet
+  description: 8 invited teams competing in a Double-Elimination bracket to claim
+    the 3,000$ prizepool.
+  tournament_url: http://wellplay.co/
+  image_banner: subscriptions_wellplay_invitational_by_vitalbet_ingame.png
+  image: subscriptions_wellplay_invitational_by_vitalbet.png
+4670:
+  name: The Yolo Tournament 4
+  description: "This is an amateur french tournament. For this 4th edition we use
+    the dotaTV and we have up to 16 teams. The games will be cast on twitch by the
+    yolo tournament team We communicate using our tournament web page\r\n\t"
+  tournament_url: https://theyolotournament.wordpress.com/
+  image_banner: subscriptions_the_yolo_tournament_4_ingame.png
+  image: subscriptions_the_yolo_tournament_4.png
+4678:
+  name: CDEC University League
+  description: CDEC College League, is a single matching to individual points race,
+    the game is through the system matching looking for teammates and opponents, Captain
+    game mode, then and his teammates to win games to increase integration. As long
+    as the registration can be involved in the match at any time after the match,
+    there is no traditional event schedule restrictions.
+  tournament_url: http://dota2.vpgame.com/
+  image_banner: subscriptions_cdec_university_league_ingame.png
+  image: subscriptions_cdec_university_league.png
+4693:
+  name: Dota 2 Professional League
+  description: The Dota 2 Professional League (DPL) is the most prestigious league
+    in China, and will feature a prize-pool of USD$1 million over two seasons. Hosted
+    by the Sports Information Center of National Sports General Administration, organized
+    by MarsTV and officially supported by Perfect World, 22 of the best teams in China
+    compete over the next few months with the first season finishing in July, and
+    featuring USD$200,000.
+  tournament_url: http://dpl.marstv.com/
+  image_banner: subscriptions_dota_2_professional_league_ingame.png
+  image: subscriptions_dota_2_professional_league.png
+4698:
+  name: Dota 2 Professional League - Amateur
+  description: 'The Dota 2 Professional League - Amateur is hosted by the Sports Information
+    Center of National Sports General Administration, organized by MarsTV and officially
+    supported by Perfect World, and aims at giving a chance to amateur players without
+    a team to prove themselves, and hopefully catch the attention of teams playing
+    at a higher level. '
+  tournament_url: http://dpl.marstv.com/
+  image_banner: subscriptions_dota_2_professional_league__amateur_ingame.png
+  image: subscriptions_dota_2_professional_league__amateur.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
