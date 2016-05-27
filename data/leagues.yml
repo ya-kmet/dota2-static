@@ -9876,6 +9876,14 @@
   tournament_url: http://gamer.lk/index.php/topic,31112.0.html
   image_banner: subscriptions_kings_of_lan_mar_16__dota_2_ingame.png
   image: subscriptions_kings_of_lan_mar_16__dota_2.png
+4525:
+  name: World Cyber Arena 2016 S2
+  description: WCA 2016 returns with 3 seasons. The winners of each season will meet
+    and compete for $760,000 at the LAN finals in Yinchuan in this December. This
+    League is World Cyber Arena 2016 season 2
+  tournament_url: http://www.wca.com.cn/index.html
+  image_banner: subscriptions_world_cyber_arena_2016_s2_ingame.png
+  image: subscriptions_world_cyber_arena_2016_s2.png
 4528:
   name: AES Amateur Open - Dota 2
   description: "AES Gaming is the latest entrant into South East Asia's eSport scene,\r\n\twe
@@ -10057,6 +10065,14 @@
   tournament_url: http://www.ligagame.com/esports/index.php?threads%2Facceleration-mini-fast-tournament-season-5-25-29-maret-2016-prize-pool-rp-2-500-000.3821%2F
   image_banner: subscriptions_acceleration_season_5_ingame.png
   image: subscriptions_acceleration_season_5.png
+4578:
+  name: Berserker Scrimming
+  description: "Play only with the Best of your Region, Scrim with the ticket and
+    save your Stats, Practice Matches with us. We will help you get in touch with
+    other teams at your same level.\r\n\t"
+  tournament_url: http://pablopcb.wix.com/berserkers
+  image_banner: subscriptions_berserker_scrimming_ingame.png
+  image: subscriptions_berserker_scrimming.png
 4579:
   name: SL i-League Invitational Season 1
   description: Starladder and ImbaTV present an international tournament with 100,000
@@ -10133,6 +10149,13 @@
   tournament_url: http://www.esportslebanon.com
   image_banner: subscriptions_lgl__lebanese_gaming_league_ingame.png
   image: subscriptions_lgl__lebanese_gaming_league.png
+4628:
+  name: 'Reach the Hyperst.one #2'
+  description: 'Reach the Hyperst.one is a community founded (german) amateur league
+    and we''re go into our second round now! Who will reach the Hyperstone? '
+  tournament_url: https://hyperst.one/
+  image_banner: subscriptions_reach_the_hyperstone_2_ingame.png
+  image: subscriptions_reach_the_hyperstone_2.png
 4630:
   name: World Electronic sports games
   description: WESG also known as the "world Electronic sports games", is an international
@@ -10192,6 +10215,12 @@
   tournament_url: http://battlefy.com/stan-dota-2/sel-2015/55a8b850025b1848008719ac/info
   image_banner: subscriptions_stan_dota_2_ingame.png
   image: subscriptions_stan_dota_2.png
+4652:
+  name: Steelshock Cup | Qualifications
+  description: The Steelshock Cup Qualifier games
+  tournament_url: http://steelshock.usluga.me/
+  image_banner: subscriptions_steelshock_cup__qualifications_ingame.png
+  image: subscriptions_steelshock_cup__qualifications.png
 4656:
   name: Dota International's Clan Wars - Season 6
   description: 6th Season of Dota International's Clan Wars. Amateur teams from South
@@ -10207,6 +10236,12 @@
   tournament_url: http://www.nanyangcup.cn
   image_banner: subscriptions_nanyang_championships_season2_ingame.png
   image: subscriptions_nanyang_championships_season2.png
+4661:
+  name: Steelshock Cup
+  description: 8 CIS teams will compete for the title of the Steelshock cup champions.
+  tournament_url: http://steelshock.usluga.me/
+  image_banner: subscriptions_steelshock_cup_ingame.png
+  image: subscriptions_steelshock_cup.png
 4664:
   name: The International 2016
   description: Who will emerge victorious? Witness the world's top teams battle at
@@ -10214,6 +10249,19 @@
   tournament_url: http://www.dota2.com/international/overview/
   image_banner: subscriptions_international_2015_ingame.png
   image: 
+4665:
+  name: ProDotA Cup Series by Azubu.tv
+  description: Professional teams participating from EU and US region to claim the
+    $5.000 prize pool for each region
+  tournament_url: http://prodota.eu/pdcup
+  image_banner: subscriptions_prodota_cup_series_by_azubutv_ingame.png
+  image: subscriptions_prodota_cup_series_by_azubutv.png
+4668:
+  name: 'ClanWar SnooKeR Cup #1'
+  description: Amateur tournament for amateur teams
+  tournament_url: http://snookercups.tk/
+  image_banner: subscriptions_clanwar_snooker_cup_1_ingame.png
+  image: subscriptions_clanwar_snooker_cup_1.png
 4669:
   name: WellPlay Invitational by VitalBet
   description: 8 invited teams competing in a Double-Elimination bracket to claim
@@ -10239,6 +10287,22 @@
   tournament_url: http://dota2.vpgame.com/
   image_banner: subscriptions_cdec_university_league_ingame.png
   image: subscriptions_cdec_university_league.png
+4683:
+  name: GBG DOTA2 Madness
+  description: 'We organize weekly and monthly leagues in DOTA2. The platform that
+    we use is a new platform that aims to automate the tournament process and help
+    players focus on the most important thing, their game. '
+  tournament_url: https://www.gamingbattleground.com/
+  image_banner: subscriptions_gbg_dota2_madness_ingame.png
+  image: subscriptions_gbg_dota2_madness.png
+4685:
+  name: AES Summer League S1
+  description: "Asian E-Sports Games (AES) Summer League S1 is an indonesian Pro event
+    where teams compete for a total prize pool of USD 10 000.\r\n\t\r\n\tTop 2 winning
+    teams will get direct invites to our annual Major Events"
+  tournament_url: http://www.aesgames.com
+  image_banner: subscriptions_aes_summer_league_s1_ingame.png
+  image: subscriptions_aes_summer_league_s1.png
 4693:
   name: Dota 2 Professional League
   description: The Dota 2 Professional League (DPL) is the most prestigious league
@@ -10250,6 +10314,26 @@
   tournament_url: http://dpl.marstv.com/
   image_banner: subscriptions_dota_2_professional_league_ingame.png
   image: subscriptions_dota_2_professional_league.png
+4694:
+  name: 3RI Gaming Online Tournament
+  description: All team will compete for the Prizepool. This Tournament presented
+    by 3RI Gaming and supported by Dota Base Indonesia & Dota 2 Indonesia TV.
+  tournament_url: http://dota2indonesiatv.co.id/
+  image_banner: subscriptions_3ri_gaming_online_tournament_ingame.png
+  image: subscriptions_3ri_gaming_online_tournament.png
+4695:
+  name: LootMarket Invitational
+  description: 8 invited teams competing in a Double-Elimination bracket to claim
+    the 3,000$ prizepool.
+  tournament_url: http://wellplay.co
+  image_banner: subscriptions_lootmarket_invitational_ingame.png
+  image: subscriptions_lootmarket_invitational.png
+4697:
+  name: GeSLeague Season XY
+  description: GES League, is amateur league for beginner teams of Dota 2
+  tournament_url: http://gesleague.com
+  image_banner: 
+  image: subscriptions_gesleague_season_xy.png
 4698:
   name: Dota 2 Professional League - Amateur
   description: 'The Dota 2 Professional League - Amateur is hosted by the Sports Information
@@ -10260,6 +10344,22 @@
   tournament_url: http://dpl.marstv.com/
   image_banner: subscriptions_dota_2_professional_league__amateur_ingame.png
   image: subscriptions_dota_2_professional_league__amateur.png
+4699:
+  name: Esports Pakistan League
+  description: The premier Esports league of Pakistan offering various prizes for
+    players of different skill levels. Register now at esportspk.com to find a match
+    and start playing.
+  tournament_url: https://esportspk.com/
+  image_banner: subscriptions_esports_pakistan_league_ingame.png
+  image: subscriptions_esports_pakistan_league.png
+4704:
+  name: Serie XLG Dota 2 - First Split
+  description: The Serie XLG Dota 2 is part of the company XLG (Xtreme League) an
+    independent league of E-Sports. This league is a competition with the top teams
+    in the Brazilian scene.
+  tournament_url: http://xlg.uol.com.br/campeonato/dota-2
+  image_banner: subscriptions_serie_xlg_dota_2__first_split_ingame.png
+  image: subscriptions_serie_xlg_dota_2__first_split.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
