@@ -10113,6 +10113,18 @@
   tournament_url: https://www.dota-athletes.com
   image_banner: subscriptions_da_5v5_team_series_ingame.png
   image: subscriptions_da_5v5_team_series.png
+4598:
+  name: NEA2016
+  description: NEA was founded in 2016. Bird's Nest is the place of final competition.
+    The event is supported by the sports information center of General Administration
+    of Sports of China and Beijing Sports Bureau, is sponsored by Beijing Sports Management
+    Center and Bird's Nest, the hosted by TongFang Media(Beijing)co.,Ltd. The underlying
+    tenets is "competition spirit." "E-sports China Dream" for the vision to build
+    a professional brand. Keeping the way of boutique competition to service society.
+    We are devoted to develop E-sports and Cultural Diversity.
+  tournament_url: http://www.nea-bj.com/
+  image_banner: subscriptions_nea2016_ingame.png
+  image: subscriptions_nea2016.png
 4600:
   name: X-Class Esport Dota 2 Online Tournament
   description: X-Class Epsort Dota 2 Online Tournament, Organized By X-Class Esport,
@@ -10127,12 +10139,26 @@
   tournament_url: http://iran-ga.com/dota2-league/
   image_banner: subscriptions_iga_amateur_league_spring_season_ingame.png
   image: subscriptions_iga_amateur_league_spring_season.png
+4610:
+  name: Shanghai Dota2 Open
+  description: " SDO planned by the Lanyou Culture of Shanghai , various teams compete
+    with the prize pool of 520 thousand yuan."
+  tournament_url: http://www.dota2sdo.com/
+  image_banner: subscriptions_shanghai_dota2_open_ingame.png
+  image: subscriptions_shanghai_dota2_open.png
 4613:
   name: KOD League Season 2
   description: KOD League is a professional league with best teams of america.
   tournament_url: http://www.kingsofdota.com/
   image_banner: subscriptions_kod_league_ingame.png
   image: subscriptions_kod_league.png
+4618:
+  name: Dota 2 Challenge Mexico
+  description: Dota 2 Challenge Mexico is the first professional Mexican League, including
+    eight teams who qualified from three regional qualifiers and a wildcard.
+  tournament_url: http://www.dota2challenge.com
+  image_banner: subscriptions_dota_2_challenge_mexico_ingame.png
+  image: subscriptions_dota_2_challenge_mexico.png
 4623:
   name: Reflex League
   description: Play Dota2 for prizes with Reflex!
@@ -10187,6 +10213,15 @@
   tournament_url: http://cyberia.online/tournament/
   image_banner: subscriptions_indonesia_cyberia_esport_tournament_2016_ingame.png
   image: subscriptions_indonesia_cyberia_esport_tournament_2016.png
+4641:
+  name: The Nusantara DOTA 2 Championship 2016
+  description: "â\x80\x9CThe Nusantaraâ\x80\x9D is adapted by The International as
+    the biggest Dota2 Competition across the globe. â\x80\x9CThe Nusantaraâ\x80\x9D
+    means an Indonesian term for the Indonesian archipelago, it represent Indonesia
+    as a nusantara which will gather a professional gamer in a Dota 2 competition."
+  tournament_url: http://nusantara.ulaskom.net/
+  image_banner: subscriptions_the_nusantara_dota_2_championship_2016_ingame.png
+  image: subscriptions_the_nusantara_dota_2_championship_2016.png
 4642:
   name: Zhejiang University DOTA2 League
   description: It's Zhejiang University and WangYudashi app that held this DOTA2 league.More
@@ -10303,6 +10338,19 @@
   tournament_url: http://www.aesgames.com
   image_banner: subscriptions_aes_summer_league_s1_ingame.png
   image: subscriptions_aes_summer_league_s1.png
+4688:
+  name: 'joinDOTA League #10'
+  description: The global Dota 2 league for everyone. This includes most matches from
+    the semi-pro divisions 1 and 2, and some matches from the amateur divisions.
+  tournament_url: http://www.joindota.com/en/leagues/
+  image_banner: subscriptions_joindota_league_10_ingame.png
+  image: subscriptions_joindota_league_10.png
+4692:
+  name: Tournament Pro Games
+  description: Return second season of the Tournament Pro Games with great prizes
+  tournament_url: http://www.tpg.cdven.com.ve/
+  image_banner: subscriptions_tournament_pro_games_ingame.png
+  image: subscriptions_tournament_pro_games.png
 4693:
   name: Dota 2 Professional League
   description: The Dota 2 Professional League (DPL) is the most prestigious league
@@ -10360,6 +10408,52 @@
   tournament_url: http://xlg.uol.com.br/campeonato/dota-2
   image_banner: subscriptions_serie_xlg_dota_2__first_split_ingame.png
   image: subscriptions_serie_xlg_dota_2__first_split.png
+4709:
+  name: ESL India Premiership - Season One
+  description: ESL India Premiership is a mix of online and offline tournaments, monumental
+    prize pool, daily content, celebrity showdowns, cosplay competition and many more.
+    It will set the benchmark in the quality of entertainment for future eSports events,
+    something you have experienced only on mainstream entertainment.
+  tournament_url: http://pro.eslgaming.com/india/
+  image_banner: subscriptions_esl_india_premiership__season_one_ingame.png
+  image: subscriptions_esl_india_premiership__season_one.png
+4712:
+  name: Closed Tournament Season 3
+  description: Closed Tournament for players on the gaming platform ProStage
+  tournament_url: https://dota2.prostage.tv/news/2016-05-23/661a7f10-3074-6d29-f9ad-580d108d0bc8/
+  image_banner: subscriptions_closed_tournament_season_3_ingame.png
+  image: subscriptions_closed_tournament_season_3.png
+4713:
+  name: SOUTH SUMATERA AMATEUR LEAGUE 2016
+  description: 'Pre-qualification of third annual DOTA 2 competition for all amateur
+    DOTA 2 team in South Sumatera region '
+  tournament_url: https://ccesport.wordpress.com/
+  image_banner: subscriptions_south_sumatera_amateur_league_2016_ingame.png
+  image: subscriptions_south_sumatera_amateur_league_2016.png
+4716:
+  name: Global Grand Masters by Prodota.eu
+  description: 12 total teams will fight in this event to claim the $50.000 total
+    prize pool. 8 team will be invited to the closed qualifier 4 will survive and
+    face against the 4 directly invited team.
+  tournament_url: http://globalgrandmasters.com
+  image_banner: subscriptions_global_grand_masters_by_prodotaeu_ingame.png
+  image: subscriptions_global_grand_masters_by_prodotaeu.png
+4725:
+  name: Black Fyre Amateur Series - 2016
+  description: 'The Amateur Series has the concern help the teams that are entering
+    the national competitive. The whole event will be announced on the website of
+    Black Fyre (www.blackfyre.com.br) as well as on the Facebook fanpage (www.facebook.com/BlackFyre) '
+  tournament_url: http://www.blackfyre.com.br
+  image_banner: subscriptions_black_fyre_amateur_series__2016_ingame.png
+  image: subscriptions_black_fyre_amateur_series__2016.png
+4729:
+  name: Red Bull Heroicks
+  description: Are you ready for a new and innovative Dota 2 tournament? Watch four
+    top international teams and a German rookie team battle each other in a complete
+    new tournament mode and at the most impressive venue in Dota 2 history.
+  tournament_url: http://www.redbull.com/heroicks
+  image_banner: 
+  image: subscriptions_red_bull_heroicks.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
