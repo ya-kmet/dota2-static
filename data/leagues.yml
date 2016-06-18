@@ -10256,6 +10256,12 @@
   tournament_url: http://steelshock.usluga.me/
   image_banner: subscriptions_steelshock_cup__qualifications_ingame.png
   image: subscriptions_steelshock_cup__qualifications.png
+4655:
+  name: Dota2 Plast League - SEASON 2
+  description: Second season of the Dota2 Plast League with a prize of 100$
+  tournament_url: http://plast-league.ulcraft.com/
+  image_banner: subscriptions_dota2_plast_league__season_2_ingame.png
+  image: subscriptions_dota2_plast_league__season_2.png
 4656:
   name: Dota International's Clan Wars - Season 6
   description: 6th Season of Dota International's Clan Wars. Amateur teams from South
@@ -10438,6 +10444,13 @@
   tournament_url: http://globalgrandmasters.com
   image_banner: subscriptions_global_grand_masters_by_prodotaeu_ingame.png
   image: subscriptions_global_grand_masters_by_prodotaeu.png
+4724:
+  name: AD2L Season 12
+  description: Amateur Dota 2 League is a dedicated league providing world class tournaments
+    to amateur players worldwide. Sign up now https://dota.playon.gg/seasons
+  tournament_url: https://dota.playon.gg/seasons
+  image_banner: 
+  image: subscriptions_ad2l_season_12.png
 4725:
   name: Black Fyre Amateur Series - 2016
   description: 'The Amateur Series has the concern help the teams that are entering
@@ -10454,6 +10467,48 @@
   tournament_url: http://www.redbull.com/heroicks
   image_banner: 
   image: subscriptions_red_bull_heroicks.png
+4731:
+  name: Indonesian Dota 2 League
+  description: "This Competition has a concept to selection for Indonesian Dota 2
+    Team with League Division System.\r\n\tThis Competition has a vision to bring
+    forward the Indonesian E-Sport with a fair Competition and Equally through the
+    Concept that has been created.\r\n\tTo get a Great Teams who can truely selection
+    from every single Division stages.\r\n\tThis Competition has a Mision to Find,
+    Develop and Create the National Teams so can compete with fair on every selection
+    which has been made"
+  tournament_url: http://www.indonesiadota2league.com/
+  image_banner: subscriptions_indonesian_dota_2_league_ingame.png
+  image: subscriptions_indonesian_dota_2_league.png
+4732:
+  name: Lucky Coin Season 1
+  description: The first season of the tournament Lucky Coin. 16 teams of the CIS
+    and Ukraine will compete for a prize of 3,200 rubles. TOP 3 teams will share the
+    prize. TOP 3 team will be able to participate in free next tournament.
+  tournament_url: http://luckycoin.wix.com/luckycoin
+  image_banner: subscriptions_lucky_coin_season_1_ingame.png
+  image: subscriptions_lucky_coin_season_1.png
+4737:
+  name: LGP - Cups Agosto 2016
+  description: Second edition of this great event of the Gaming of Paraguay (LGP)
+    in conjunction with DotaPy.
+  tournament_url: http://www.dotapy.com/lgp-cups-agosto-2016/
+  image_banner: subscriptions_lgp__cups_agosto_2016_ingame.png
+  image: subscriptions_lgp__cups_agosto_2016.png
+4738:
+  name: 'Open ReSF Cup 2016 '
+  description: Open ReSF Cup 2016 is your best chance to start professional carrier
+    as a e-Sport player. Fight your way from online qualifiers to Grand Final, which
+    would be conducted in Moscow in October 2016.
+  tournament_url: http://esportcup.ru
+  image_banner: subscriptions_open_resf_cup_2016__ingame.png
+  image: subscriptions_open_resf_cup_2016_.png
+4768:
+  name: The International 2016 Open Qualifiers
+  description: Who will emerge victorious? Witness the world's top teams battle for
+    a spot at The International.
+  tournament_url: http://www.dota2.com/international/overview/
+  image_banner: subscriptions_international_2016_ingame.png
+  image: 
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
