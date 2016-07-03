@@ -10057,6 +10057,17 @@
   tournament_url: http://www.dotaitalia.com/dota-italia-league-2016
   image_banner: subscriptions_dotaitalia_league_2016_ingame.png
   image: subscriptions_dotaitalia_league_2016.png
+4573:
+  name: Dotus Tournament
+  description: 'Dotus Tournament is held for amateur teams , who want to develop and
+    to gain experience of coordinated team play. Dotus allows teams to see which way
+    they want to develop, how to build and improve their game together. At the same
+    time, players learn to evaluate their opponents and, on this basis, build a game
+    against them. Matches on Dotus are in those formats and the conditions under which
+    other major tournaments are held. '
+  tournament_url: http://kdota.ru
+  image_banner: subscriptions_dotus_tournament_ingame.png
+  image: subscriptions_dotus_tournament.png
 4576:
   name: Acceleration Season 5
   description: "Acceleration Season 5 Dota 2 Tournament is supported by DC net,The
@@ -10229,6 +10240,13 @@
   tournament_url: http://api.wangyuhudong.com/share/activity/148
   image_banner: subscriptions_zhejiang_university_dota2_league_ingame.png
   image: subscriptions_zhejiang_university_dota2_league.png
+4644:
+  name: CZ-SK Dota 2 League Season 8
+  description: The eighth season of Czech-Slovakia league will take place over a two
+    months period. The winner will receive prize money upon victory!
+  tournament_url: http://www.dota2league.cz/
+  image_banner: subscriptions_czsk_dota_2_league_season_8_ingame.png
+  image: subscriptions_czsk_dota_2_league_season_8.png
 4646:
   name: SL i-League StarSeries S2
   description: "Starladder and ImbaTV present a new season of the famous international
@@ -10328,6 +10346,14 @@
   tournament_url: http://dota2.vpgame.com/
   image_banner: subscriptions_cdec_university_league_ingame.png
   image: subscriptions_cdec_university_league.png
+4682:
+  name: DafaeSports Indonesia Series Presented by Eternal Gaming
+  description: DafaeSports Indonesia Series is Professional Tournament Sponsored by
+    DafaeSports Presented by Eternal Gaming. Support by Fnatic One of the most famous
+    e-sports team in the world.
+  tournament_url: http://www.eternalorganizer.com/tournament
+  image_banner: subscriptions_dafaesports_indonesia_series_presented_by_eternal_gaming_ingame.png
+  image: subscriptions_dafaesports_indonesia_series_presented_by_eternal_gaming.png
 4683:
   name: GBG DOTA2 Madness
   description: 'We organize weekly and monthly leagues in DOTA2. The platform that
@@ -10509,6 +10535,22 @@
   tournament_url: http://www.dota2.com/international/overview/
   image_banner: subscriptions_international_2016_ingame.png
   image: 
+4770:
+  name: 'Bishkek Stars League #5 - PRO SUMMER'
+  description: The fith open Bishkek Stars League. Players will compete for a prize
+    pool of 20 000 som. Presented by FORW@RD.
+  tournament_url: http://dota2.kg/
+  image_banner: subscriptions_bishkek_stars_league_5__pro_summer_ingame.png
+  image: subscriptions_bishkek_stars_league_5__pro_summer.png
+4771:
+  name: Adrenalina Tournament Season 2
+  description: The tournament consists of 8 qualifying, which brings together the
+    top 16 of these. Qualifiers have the form of winner and loser brackets played
+    in 2 days. In this tournament countries like Peru, Argentina, Chile, Ecuador,
+    Venezuela and Colombia, which makes this tournament competitive participate.
+  tournament_url: http://www.adrenalina100.com/
+  image_banner: subscriptions_adrenalina_tournament_season_2_ingame.png
+  image: subscriptions_adrenalina_tournament_season_2.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
