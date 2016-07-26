@@ -10301,6 +10301,17 @@
   tournament_url: http://steelshock.usluga.me/
   image_banner: subscriptions_steelshock_cup_ingame.png
   image: subscriptions_steelshock_cup.png
+4662:
+  name: D2AZC Season Three Dota2 Online Tournament
+  description: After two successful Seasons organized by Dota 2 Online Aizawl Cup,
+    we are proud to present D2AZC Season 3 in Co-operation with Nextcomm ISP. The
+    tournament features Indian finest teams as they compete for a total prize pool
+    of $500 and some more godies item. It is an Amateur, online tournament held within
+    Mizoram, India. And the winner will get a chance to compete further in bigger
+    tournaments.
+  tournament_url: http://d2azcmizo.in/
+  image_banner: subscriptions_d2azc_season_three_dota2_online_tournament_ingame.png
+  image: subscriptions_d2azc_season_three_dota2_online_tournament.png
 4664:
   name: The International 2016
   description: Who will emerge victorious? Witness the world's top teams battle at
@@ -10432,6 +10443,13 @@
   tournament_url: https://esportspk.com/
   image_banner: subscriptions_esports_pakistan_league_ingame.png
   image: subscriptions_esports_pakistan_league.png
+4700:
+  name: Pro Gamer League
+  description: The legendary PGL summer Masters tournament is divided into two parts,
+    one for Chinese qualifiers, and the second for the offline finals
+  tournament_url: http://www.mypgl.icoc.in/
+  image_banner: subscriptions_pgl_ingame.png
+  image: subscriptions_pgl.png
 4704:
   name: Serie XLG Dota 2 - First Split
   description: The Serie XLG Dota 2 is part of the company XLG (Xtreme League) an
@@ -10528,6 +10546,20 @@
   tournament_url: http://esportcup.ru
   image_banner: subscriptions_open_resf_cup_2016__ingame.png
   image: subscriptions_open_resf_cup_2016_.png
+4756:
+  name: NFCups Season 3
+  description: Teams from CIS countries will compete for the first place and the title
+    of champion NFCups
+  tournament_url: http://n010cups.jimdo.com/nfcups-season-3/
+  image_banner: subscriptions_nfcups_season_3_ingame.png
+  image: subscriptions_nfcups_season_3.png
+4764:
+  name: Eternally Exiled Cup 5 Reborn
+  description: 'Eternally Exiled Cup presents five season. Professional and semi-pro
+    teams from CIS will compete for a total prize pool. '
+  tournament_url: http://www.exiled.su/
+  image_banner: subscriptions_eternally_exiled_cup_5_reborn_ingame.png
+  image: subscriptions_eternally_exiled_cup_5_reborn.png
 4768:
   name: The International 2016 Open Qualifiers
   description: Who will emerge victorious? Witness the world's top teams battle for
@@ -10551,6 +10583,97 @@
   tournament_url: http://www.adrenalina100.com/
   image_banner: subscriptions_adrenalina_tournament_season_2_ingame.png
   image: subscriptions_adrenalina_tournament_season_2.png
+4775:
+  name: Dobro Cup Season 3
+  description: 16 professional female teams,will fight for prize pool and the title
+    of the best female team for version Dobro Cup
+  tournament_url: https://vk.com/dota2_dobrocup
+  image_banner: subscriptions_dobro_cup_season_3_ingame.png
+  image: subscriptions_dobro_cup_season_3.png
+4776:
+  name: Dota2Event Season2
+  description: 16 Teams From The MEA Will Battle For A prize Of 500$ .
+  tournament_url: http://dota2event.com/
+  image_banner: subscriptions_dota2event_season2_ingame.png
+  image: subscriptions_dota2event_season2.png
+4777:
+  name: VPGame Pro League Season 2
+  description: The second season of VPL returns, featuring many established giants
+    and young teams joining the battlefield, fighting for the Changsha China summit!
+  tournament_url: http://www.vpgame.com/league
+  image_banner: subscriptions_vpgame_ingame.png
+  image: subscriptions_vpgame.png
+4781:
+  name: LatinCup Summer 2016
+  description: Enlace Gamer latest project by Pinzak Network investing in the LATAM
+    market brings the LatinCup Summer 2016 an exclusive tournament for the Latin American
+    region where each country will send their best team to represent them in a format
+    similar to the Copa America for a prize pool of $2500.00 USD
+  tournament_url: http://www.enlacegamer.com/
+  image_banner: subscriptions_latincup_summer_2016_ingame.png
+  image: subscriptions_latincup_summer_2016.png
+4784:
+  name: Nxt Evo Dota 2 SEA
+  description: The Nxt Evo Dota 2 SEA aims to uplift the competition level of Southeast
+    Asia by providing continuous matches to amateur teams.
+  tournament_url: http://evo.nxtgame.com/
+  image_banner: subscriptions_nxt_evo_dota_2_sea_ingame.png
+  image: subscriptions_nxt_evo_dota_2_sea.png
+4786:
+  name: RD2L Season 10 IHL
+  description: Inhouse games for RD2L Season 10
+  tournament_url: http://www.reddit.com/r/redditdota2league/
+  image_banner: subscriptions_rd2l_season_10_ihl_ingame.png
+  image: subscriptions_rd2l_season_10_ihl.png
+4787:
+  name: RD2L Season 10
+  description: Individual players sign up and are drafted into teams by volunteer
+    captains.  Teams match up over an 8 week regular season and 5 week playoff.  4
+    USA and 2 EU based divisions.
+  tournament_url: http://www.reddit.com/r/redditdota2league/
+  image_banner: 
+  image: subscriptions_rd2l_season_10.png
+4811:
+  name: The Jungle Season 1
+  description: "Powered by TWITCH Korea, AquaTV presents a new iteration of Korean
+    amateur tournament- The Jungle.\r\n\t\r\n\tFeaturing a vicious bo1 tournament
+    format, only the best 4 teams may rise into invite only tournament, MSF - The
+    Creep. Even among those four teams, only the top 2 can lay their hands on the
+    cash prize."
+  tournament_url: http://aquadota.com/tournamentinfo/the_jungle/
+  image_banner: subscriptions_the_jungle_season_1_ingame.png
+  image: subscriptions_the_jungle_season_1.png
+4813:
+  name: NEL
+  description: The most talented players in North America compete in the classic inhouse
+    league format.
+  tournament_url: http://ixdl.net
+  image_banner: subscriptions_nel_ingame.png
+  image: subscriptions_nel.png
+4814:
+  name: TIta Dota2 National
+  description: The buggest dota2 italian tournament with LAN finals in Rome
+  tournament_url: http://gogame.it/dota2/tita/
+  image_banner: subscriptions_tita_dota2_national_ingame.png
+  image: subscriptions_tita_dota2_national.png
+4820:
+  name: D2CL Season 7
+  description: "Become part of the new wave. Gather your team, take part in one of
+    the weekly online qualifiers and fight your way to the monthly Main Event of D2CL
+    for a chance to get a chunk of that $5000 prize pool. \r\n\t\r\n\tYour team is
+    not as good as you are? Watch our weekly qualifier finals on Wednesdays and follow
+    Main Event Single Elimination bracket for the whole after 4 weekly qualifiers
+    are finished. Schedule: www.d2cl.gg"
+  tournament_url: http://d2cl.gg
+  image_banner: subscriptions_d2cl_ingame.png
+  image: subscriptions_d2cl.png
+4826:
+  name: FoxBox Open
+  description: FoxBox Open is the first open online tournament from FoxBox, where
+    32 teams will compete for a prize pool of 15000 rubles.
+  tournament_url: http://www.foxbox.studio
+  image_banner: subscriptions_foxbox_open_ingame.png
+  image: subscriptions_foxbox_open.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The

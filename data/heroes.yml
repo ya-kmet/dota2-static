@@ -946,6 +946,10 @@
   - 5635
   - 5644
   - 5602
+127:
+  internal_name: target_dummy
+  name: Target Dummy
+  abilities: []
 112:
   internal_name: winter_wyvern
   name: Winter Wyvern
