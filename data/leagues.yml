@@ -4835,9 +4835,7 @@
   description: DotaCinema presents the second version of their popular Captains Draft
     tournament. Eight of the best western teams battle in the unique Captains Draft
     mode, from which its limited hero pool is sure to keep team captains on their
-    toes. 25% of each bundle will contribute to the prizepool. The bundle contains
-    a full compendium, DotaTV ticket, Lich set, Mirana mount, special emotes and much
-    more!
+    toes.
   tournament_url: http://www.dotacinema.com/
   image_banner: captains_draft_2_ingame.png
   image: captains_draft_2_ticket.png
@@ -10150,6 +10148,12 @@
   tournament_url: http://iran-ga.com/dota2-league/
   image_banner: subscriptions_iga_amateur_league_spring_season_ingame.png
   image: subscriptions_iga_amateur_league_spring_season.png
+4608:
+  name: 'BelNation Dota League 9 '
+  description: Belgorod regional tournament, with a prize fund and Lan - finals
+  tournament_url: http://vk.com/beldota
+  image_banner: subscriptions_belnation_dota_league_9__ingame.png
+  image: subscriptions_belnation_dota_league_9_.png
 4610:
   name: Shanghai Dota2 Open
   description: " SDO planned by the Lanyou Culture of Shanghai , various teams compete
@@ -10546,6 +10550,20 @@
   tournament_url: http://esportcup.ru
   image_banner: subscriptions_open_resf_cup_2016__ingame.png
   image: subscriptions_open_resf_cup_2016_.png
+4747:
+  name: Capo League Open Qualification
+  description: "Capo League Open Qualification  is an online-only tournament for amateur
+    and semi-professional teams.\r\n\t\r\n\tWinning teams will take part in the winter
+    event!"
+  tournament_url: http://capolg.com/
+  image_banner: subscriptions_capo_league_open_qualification_ingame.png
+  image: subscriptions_capo_league_open_qualification.png
+4753:
+  name: 'American Star League Invitational '
+  description: America top teams, face in the battlefield to see who is the best
+  tournament_url: http://norespeta.com/asl/
+  image_banner: subscriptions_american_star_league_invitational__ingame.png
+  image: subscriptions_american_star_league_invitational_.png
 4756:
   name: NFCups Season 3
   description: Teams from CIS countries will compete for the first place and the title
@@ -10553,6 +10571,14 @@
   tournament_url: http://n010cups.jimdo.com/nfcups-season-3/
   image_banner: subscriptions_nfcups_season_3_ingame.png
   image: subscriptions_nfcups_season_3.png
+4759:
+  name: Amateur Cup 2016
+  description: ENVY & THE LEGACY join forces for the first Amateur tournament in Ecuador,
+    take the glory of victory, 500 Dollars in Prizes (values may increase depending
+    on the registered teams).
+  tournament_url: http://dariojaviergb.wix.com/torneodota2ecuador
+  image_banner: subscriptions_amateur_cup_2016_ingame.png
+  image: subscriptions_amateur_cup_2016.png
 4764:
   name: Eternally Exiled Cup 5 Reborn
   description: 'Eternally Exiled Cup presents five season. Professional and semi-pro
@@ -10633,6 +10659,13 @@
   tournament_url: http://www.reddit.com/r/redditdota2league/
   image_banner: 
   image: subscriptions_rd2l_season_10.png
+4806:
+  name: COPA SAND KING 2016 - SEASON 3
+  description: Sand King Cup 2016 , National Tournament Peru , 8 best teams in a final
+    LAN
+  tournament_url: http://www.somosgamers.net/sandking/
+  image_banner: subscriptions_copa_sand_king_2016__season_3_ingame.png
+  image: subscriptions_copa_sand_king_2016__season_3.png
 4811:
   name: The Jungle Season 1
   description: "Powered by TWITCH Korea, AquaTV presents a new iteration of Korean
@@ -10674,6 +10707,48 @@
   tournament_url: http://www.foxbox.studio
   image_banner: subscriptions_foxbox_open_ingame.png
   image: subscriptions_foxbox_open.png
+4831:
+  name: Cause Gaming Spring Seasonal
+  description: Cause Gaming presents the Spring Seasonal DOTA 2 Tournament, powered
+    by Gigabyte & Aorus. Teams compete for the grand prize in a double elimination
+    format lasting over 2 days
+  tournament_url: http://www.causegaming.co.za
+  image_banner: subscriptions_cause_gaming_spring_seasonal_ingame.png
+  image: subscriptions_cause_gaming_spring_seasonal.png
+4833:
+  name: Elements Cup 2
+  description: The second tournament of the Elements Cup series for professional teams
+    with 20 000$ prize pool.
+  tournament_url: http://elements-pro.com/
+  image_banner: subscriptions_elements_cup_2_ingame.png
+  image: subscriptions_elements_cup_2.png
+4858:
+  name: GoodGamingShop Tournament
+  description: GoodGamingShop is one of the biggest gaming peripheral store in Indonesia.
+    GGS are established from 2008 and committed to grow the eSports community in Indonesia.
+    With sponsorship from Logitech G Series as our official gaming partner, GoodGamingShop
+    presents the Dota 2 Tournament for Indonesia scene to take a good step to competitive
+    scene.
+  tournament_url: http://goodgamingshop.com/
+  image_banner: subscriptions_goodgamingshop_tournament_ingame.png
+  image: subscriptions_goodgamingshop_tournament.png
+4864:
+  name: Dota 2 Soedirman
+  description: Dota 2 Soedirman is one of DotA 2 tournament event where players compete
+    for a total prize of IDR 5,000,000, which was held by HMTE ( Electrical Engineering
+    Student Association ) UNSOED(Universitas Jenderal Soedirman) in the event Diesnatalis
+    Electrical Engineering and sponsored by UniPin .
+  tournament_url: http://muteknokom.blogspot.co.id/p/dota-2-soedirman.html
+  image_banner: subscriptions_dota_2_soedirman_ingame.png
+  image: subscriptions_dota_2_soedirman.png
+4865:
+  name: 3RI Gaming Dota 2 Tournament
+  description: This Tournament for Dota 2 Team from Indonesia. All team will compete
+    for the prizepool. This Tournament presented by 3RI Gaming and supported by Dota
+    Base Indonesia.
+  tournament_url: http://dota2indonesiatv.co.id/
+  image_banner: subscriptions_3ri_gaming_dota_2_tournament_ingame.png
+  image: subscriptions_3ri_gaming_dota_2_tournament.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The

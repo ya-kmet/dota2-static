@@ -969,4 +969,9 @@
 108:
   internal_name: abyssal_underlord
   name: Underlord
-  abilities: []
+  abilities:
+  - 5613
+  - 5614
+  - 5615
+  - 5616
+  - 5617
