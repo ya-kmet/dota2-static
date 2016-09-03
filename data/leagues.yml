@@ -10316,6 +10316,13 @@
   tournament_url: http://d2azcmizo.in/
   image_banner: subscriptions_d2azc_season_three_dota2_online_tournament_ingame.png
   image: subscriptions_d2azc_season_three_dota2_online_tournament.png
+4663:
+  name: The Hope Hotpot league 2
+  description: A facing from Chongqing, China elite dota2 League, each season has
+    2000 yuan bonus to receive and sponsors dorton pot invited.
+  tournament_url: http://dota2.replays.net/
+  image_banner: subscriptions_the_hope_hotpot_league_2_ingame.png
+  image: subscriptions_the_hope_hotpot_league_2.png
 4664:
   name: The International 2016
   description: Who will emerge victorious? Witness the world's top teams battle at
@@ -10722,6 +10729,30 @@
   tournament_url: http://elements-pro.com/
   image_banner: subscriptions_elements_cup_2_ingame.png
   image: subscriptions_elements_cup_2.png
+4836:
+  name: Dota2Baz Summertime Matches
+  description: 'Top Dota2 teams from Southeast Asia will challenge themselves in a
+    Dota2Baz Summertime cup for cash and cosmetic prizes. '
+  tournament_url: http://www.dota2baz.com/
+  image_banner: subscriptions_dota2baz_summertime_matches_ingame.png
+  image: subscriptions_dota2baz_summertime_matches.png
+4854:
+  name: Blink DotA League
+  description: Amateur League aiming to build the UK DotA2 scene from the trench up!
+  tournament_url: http://blinkesports.com/
+  image_banner: subscriptions_blink_dota_league_ingame.png
+  image: subscriptions_blink_dota_league.png
+4857:
+  name: DBe ANZ League Qualifiers
+  description: DBeSports are hosting a qualifier for the DBe Dota 2 League. $2500
+    base prize pool up for grabs, and entry into the DBe Australian & New Zealand
+    Dota 2 League. 8 Seeds are available for top ANZ teams and 18 seeds available
+    to the public. The DBe Australian & New Zealand Dota 2 League will offer $1000
+    in prize pools per month, coverage on Dota 2 match tickers and highly viewed live
+    streams produced by Kai Studios.
+  tournament_url: http://www.dbesports.com/
+  image_banner: subscriptions_dbe_anz_league_qualifiers_ingame.png
+  image: subscriptions_dbe_anz_league_qualifiers.png
 4858:
   name: GoodGamingShop Tournament
   description: GoodGamingShop is one of the biggest gaming peripheral store in Indonesia.
@@ -10749,6 +10780,59 @@
   tournament_url: http://dota2indonesiatv.co.id/
   image_banner: subscriptions_3ri_gaming_dota_2_tournament_ingame.png
   image: subscriptions_3ri_gaming_dota_2_tournament.png
+4866:
+  name: ESL Dota 2 Major League Europe Season 1
+  description: The Dota 2 Major League is one of the best ways for you to get started
+    with the esports scene. Play against teams of your country and skill level and
+    improve your skills and strategies as a team. Be part of one of the best teams
+    of your group at the end of the season and you will  be rewarded. The 1,000  prize
+    money will be split among the top 3 best teams of Division 1.
+  tournament_url: http://play.eslgaming.com/dota2/europe/dota2/major/league
+  image_banner: 
+  image: subscriptions_esl_dota_2_major_league_europe_season_1.png
+4872:
+  name: Dota 2 BEAT Invitational Weekly Cup
+  description: 'Amateur and Semi-Pro teams compete for $100 USD weekly in the Dota
+    2 BEAT Invitational weekly Cup. '
+  tournament_url: https://beat.gl
+  image_banner: subscriptions_dota_2_beat_invitational_weekly_cup_ingame.png
+  image: subscriptions_dota_2_beat_invitational_weekly_cup.png
+4875:
+  name: Shanghai Dota2 Open S2
+  description: SDO planned by the Lanyou Culture of Shanghai , various teams compete
+    with the prize pool of 520 thousand yuan.
+  tournament_url: http://www.dota2sdo.com/
+  image_banner: subscriptions_shanghai_dota2_open_s2_ingame.png
+  image: subscriptions_shanghai_dota2_open_s2.png
+4882:
+  name: 'NCups : Clan Wars'
+  description: More than 100 teams will participate in the first season of clan wars
+    from the NCups
+  tournament_url: http://n010cups.jimdo.com/ncups-cw/
+  image_banner: subscriptions_ncups__clan_wars_ingame.png
+  image: subscriptions_ncups__clan_wars.png
+4887:
+  name: LDV Temporada 6
+  description: "Returns the League dotera Venezuelan season 6 organized by CDV with
+    the collaboration of Dota 2 Movie Edition and Diseweb Pro\r\n\t"
+  tournament_url: https://www.cdven.com.ve/
+  image_banner: subscriptions_ldv_temporada_6_ingame.png
+  image: subscriptions_ldv_temporada_6.png
+4890:
+  name: IXDL Open North America
+  description: Amateur players in North America compete in the classic inhouse league
+    format.
+  tournament_url: http://ixdl.net
+  image_banner: subscriptions_ixdl_open_north_america_ingame.png
+  image: subscriptions_ixdl_open_north_america.png
+4899:
+  name: WePlay League Season 4
+  description: The WePlay League is back with Season 4! Top teams from around the
+    world will compete for a prizepool of more than $200,000. Best 12 teams will travel
+    to the LAN finals in Kiev.
+  tournament_url: http://weplay.tv/dota2
+  image_banner: subscriptions_weplay_league_season_4_ingame.png
+  image: subscriptions_weplay_league_season_4.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
