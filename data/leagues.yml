@@ -10636,6 +10636,14 @@
   tournament_url: http://www.vpgame.com/league
   image_banner: subscriptions_vpgame_pro_league_season_2_ingame.png
   image: subscriptions_vpgame_pro_league_season_2.png
+4779:
+  name: Northern Arena BEAT Invitational presented by Bell
+  description: Northern Arena Dota 2 BEAT Invitational presented by Bell brings the
+    finest teams from North & South America together in November  to compete for over
+    $100,000 USD in Montreal!
+  tournament_url: http://beat.gl
+  image_banner: subscriptions_northern_arena_beat_invitational_presented_by_bell_ingame.png
+  image: subscriptions_northern_arena_beat_invitational_presented_by_bell.png
 4781:
   name: LatinCup Summer 2016
   description: Enlace Gamer latest project by Pinzak Network investing in the LATAM
@@ -10736,6 +10744,22 @@
   tournament_url: http://www.dota2baz.com/
   image_banner: subscriptions_dota2baz_summertime_matches_ingame.png
   image: subscriptions_dota2baz_summertime_matches.png
+4837:
+  name: World Cyber Arena 2016 S3
+  description: WCA 2016 returns with 3 seasons. The winners of each season will meet
+    and compete for $760,000 at the LAN finals in Yinchuan in this December. This
+    League is World Cyber Arena 2016 season 3
+  tournament_url: http://www.wca.com.cn/index.html
+  image_banner: subscriptions_world_cyber_arena_2016_s3_ingame.png
+  image: subscriptions_world_cyber_arena_2016_s3.png
+4844:
+  name: sCSL Eclipse Season II
+  description: 'The second season of the Far Eastern league, " Eclipse" which consists
+    of two stages: the group stage and play - off . Teams from all over the Far East
+    will compete for the title of best team of the season and a prize pool of $ 100. '
+  tournament_url: https://scsl-eclipse.ru
+  image_banner: subscriptions_scsl_eclipse_season_ii_ingame.png
+  image: subscriptions_scsl_eclipse_season_ii.png
 4854:
   name: Blink DotA League
   description: Amateur League aiming to build the UK DotA2 scene from the trench up!
@@ -10763,6 +10787,13 @@
   tournament_url: http://goodgamingshop.com/
   image_banner: subscriptions_goodgamingshop_tournament_ingame.png
   image: subscriptions_goodgamingshop_tournament.png
+4862:
+  name: ROG MASTERS 2016
+  description: All Asian Dota 2 & CS:Go event on 12-13th of November in Kuala Lumpur
+    City Center, Malaysia with a 200.000 USD prize pool.
+  tournament_url: https://www.rog-masters.com/en/start
+  image_banner: subscriptions_rog_masters_2016_ingame.png
+  image: subscriptions_rog_masters_2016.png
 4864:
   name: Dota 2 Soedirman
   description: Dota 2 Soedirman is one of DotA 2 tournament event where players compete
@@ -10833,6 +10864,39 @@
   tournament_url: http://weplay.tv/dota2
   image_banner: subscriptions_weplay_league_season_4_ingame.png
   image: subscriptions_weplay_league_season_4.png
+4909:
+  name: Persian Gulf Cup Season 3
+  description: The Persian Gulf Cup Season 3 Pits The Best Team From The MEA Region
+    Against Each Other For A Prize Pool Of 12000 $ .
+  tournament_url: http://WWW.Dota2ME.com
+  image_banner: subscriptions_persian_gulf_cup_season_3_ingame.png
+  image: subscriptions_persian_gulf_cup_season_3.png
+4916:
+  name: WESG
+  description: "World Electronic Sports Games (WESG)\r\n\tOn March 30, 2016, we Alisports
+    announced our original e-sports tournament World Electronic Sports Games (WESG)
+    which feature a total prize pool of US$5.5 million across all disciplines. We
+    have announced four disciplines so far: \r\n\t\r\n\tDotA2  US$ 1,500,000\r\n\tCounter
+    Strike: Global Offensive  US$ 1,500,000\r\n\tStarcraft II  US$ 400,000\r\n\tHearthstone
+    \ US$ 300,000\r\n\t\r\n\tWESG will cover almost all of the continents in the world
+    and involve more than 120 countries. The Chinese online qualifiers will start
+    from May 14 to August. Chinese LAN final will be held in October. The overseas
+    online qualifiers will start from August to November. Global LAN final will be
+    held in December. "
+  tournament_url: http://www.wesg.com/
+  image_banner: subscriptions_wesg_ingame.png
+  image: subscriptions_wesg.png
+4927:
+  name: Requiem Autumn
+  description: Coming soon, Requiem Autumn, a split-division tournament to help new
+    players and established amateur teams alike have a taste of competitive Dota.
+    Fight through an improved group stage, and battle for glory in a double elimination
+    final bracket. With a team of admins always ready to help, and some new automated
+    systems to help things run more smoothly, this is the best experience available
+    for any amateur players.
+  tournament_url: http://requiemautumn.net/#/
+  image_banner: subscriptions_requiem_autumn_ingame.png
+  image: subscriptions_requiem_autumn.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
