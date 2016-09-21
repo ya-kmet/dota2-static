@@ -10886,6 +10886,27 @@
   tournament_url: http://www.wesg.com/
   image_banner: subscriptions_wesg_ingame.png
   image: subscriptions_wesg.png
+4918:
+  name: MarsTV Dota 2 League 2016
+  description: The 2016 MDL Autumn International Invitational tournament officially
+    launches in September, boasting a prize pool of up to $250,000. The beautiful
+    coastal city of Xiamen, China will host the top eight teams from China, Europe
+    and the United States, starting off an exciting season!
+  tournament_url: http://www.marstv.com/
+  image_banner: subscriptions_marstv_dota_2_league_2016_ingame.png
+  image: subscriptions_marstv_dota_2_league_2016.png
+4920:
+  name: Dota 2 Professional League 2016
+  description: "DPL: Sponsored by the General Administration of Sport in collaboration
+    with Perfect World, MarsTV is hosting China's premiere league, DPL China DOTA
+    2 Professional League. Fall season officially begins in September with 3 months
+    of exciting tournaments. This tournament will be divided into two types of leagues,
+    and 20 top Chinese DOTA 2 professional teams participating to determine China's
+    DOTA 2 kings!\r\n\t\r\n\tNotes: Altogether, a total of 20 Chinese teams will compete
+    in the the two leagues."
+  tournament_url: http://dpl.marstv.com/index.html
+  image_banner: subscriptions_dota_2_professional_league_2016_ingame.png
+  image: subscriptions_dota_2_professional_league_2016.png
 4927:
   name: Requiem Autumn
   description: Coming soon, Requiem Autumn, a split-division tournament to help new
