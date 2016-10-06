@@ -1221,11 +1221,11 @@
   type: DOTA_ABILITY_TYPE_ULTIMATE
 5343:
   internal_name: doom_bringer_empty1
-  name: Empty
+  name: Devoured Ability
   type: 
 5344:
   internal_name: doom_bringer_empty2
-  name: Empty
+  name: Devoured Ability
   type: 
 5345:
   internal_name: ancient_apparition_cold_feet
@@ -1329,11 +1329,11 @@
   type: 
 5373:
   internal_name: invoker_empty1
-  name: Empty
+  name: Invoked Spell
   type: 
 5374:
   internal_name: invoker_empty2
-  name: Empty
+  name: Invoked Spell
   type: 
 5375:
   internal_name: invoker_invoke
@@ -1669,11 +1669,11 @@
   type: DOTA_ABILITY_TYPE_ULTIMATE
 5453:
   internal_name: rubick_empty1
-  name: ''
+  name: Stolen Spell
   type: 
 5454:
   internal_name: rubick_empty2
-  name: ''
+  name: Stolen Spell
   type: 
 5455:
   internal_name: rubick_hidden1
@@ -1841,11 +1841,11 @@
   type: 
 5498:
   internal_name: wisp_empty1
-  name: Empty
+  name: Spirits In
   type: 
 5499:
   internal_name: wisp_empty2
-  name: Empty
+  name: Spirits Out
   type: 
 5494:
   internal_name: slark_dark_pact

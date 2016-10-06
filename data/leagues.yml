@@ -10835,7 +10835,7 @@
     playoff bracket in best-of-three matches, with a best-of-five Grand Finals to
     determine the winner of the $3,000,000 prize pool.
   tournament_url: http://www.dota2.com
-  image_banner: 
+  image_banner: boston_major_ingame.png
   image: 
 4875:
   name: Shanghai Dota2 Open S2
@@ -10874,8 +10874,8 @@
     professional ladders in the near future. The total Prize pool for the tournament-ship
     is currently sitting at 128,000 CNY.
   tournament_url: http://www.sie-china.com/
-  image_banner: 
-  image: 
+  image_banner: subscriptions_super_intellectual_cup_ingame.png
+  image: subscriptions_super_intellectual_cup.png
 4899:
   name: WePlay League Season 4
   description: The WePlay League is back with Season 4! Top teams from around the
@@ -10943,8 +10943,8 @@
   description: More than 500 People will compete in this Tournament, will be held
     on Oct, 2016 to win over IDR 5.000.000 prize pool. Organized by Hans Pro Gaming
   tournament_url: http://www.ligagame.com/esports/index.php?threads/hans-pro-gaming-series-tournament.4345/
-  image_banner: 
-  image: 
+  image_banner: subscriptions_hans_pro_gaming_series_tournament_ingame.png
+  image: subscriptions_hans_pro_gaming_series_tournament.png
 4949:
   name: SFG Champions League Season 3
   description: "Online League with a grand finale in the grand-format show the match.
@@ -10952,21 +10952,21 @@
     and experienced judges;\r\n\tThe ability to express themselves and get sponsorship;\r\n\tLots
     of online broadcasts of your games."
   tournament_url: http://click-storm.com/ru/event/27/
-  image_banner: 
-  image: 
+  image_banner: subscriptions_sfg_champions_league_season_3_ingame.png
+  image: subscriptions_sfg_champions_league_season_3.png
 4951:
   name: ASUS ROG DreamLeague Season 6
   description: Eight of the best western teams in the world will fight for a spot
     in the playoffs and for the $231,000 prize pool!
   tournament_url: http://Dreamleague.DreamHack.com
-  image_banner: 
-  image: 
+  image_banner: subscriptions_asus_rog_dreamleague_season_6_ingame.png
+  image: subscriptions_asus_rog_dreamleague_season_6.png
 4958:
   name: Royal Arena
   description: Major Pro League for Dota 2 with prize pools of up to $100K per event.
   tournament_url: http://www.royalarena.net/
-  image_banner: 
-  image: 
+  image_banner: subscriptions_royal_arena_ingame.png
+  image: subscriptions_royal_arena.png
 4961:
   name: ASUS ROG SEA CUP by Beyond Godlike
   description: "BEYOND GODLIKE WINTER 2016 was sponsored by ASUS and Intel, we invited
@@ -10974,8 +10974,8 @@
     into four teams remaining.\r\n\tEight teams will compete in the Pantip E-sport
     Arena by Intel  on 3-5 December 2016."
   tournament_url: http://tournament.beyondgodlike.net/asus-rog-dota2.html
-  image_banner: 
-  image: 
+  image_banner: subscriptions_asus_rog_sea_cup_by_beyond_godlike_ingame.png
+  image: subscriptions_asus_rog_sea_cup_by_beyond_godlike.png
 4972:
   name: World Electronic Sports Games International
   description: "World Electronic Sports Games is a totally new international tournament
@@ -10985,8 +10985,8 @@
     qualifiers all over the world.\r\n\t\r\n\tWatch the matches of the best players
     and rise of new esports stars here!"
   tournament_url: http://int.wesg.com
-  image_banner: 
-  image: 
+  image_banner: subscriptions_world_electronic_sports_games_international_ingame.png
+  image: subscriptions_world_electronic_sports_games_international.png
 4974:
   name: NYC Cruise Cup
   description: KeyTV is bringing Esports to a whole new level, taking the dota2 competition
@@ -10994,7 +10994,7 @@
     have never seen.
   tournament_url: http://www.nanyangcup.cn
   image_banner: 
-  image: 
+  image: subscriptions_nyc_cruise_cup.png
 4979:
   name: Dota Pit League Season Five
   description: "The Dota Pit League is back with Season 5! Top teams from NA, EU,
@@ -11005,16 +11005,16 @@
     finals will be broadcasted worldwide starting on January 19th and lasting till
     January 22nd 2017."
   tournament_url: http://www.dotapit.com
-  image_banner: 
-  image: 
+  image_banner: subscriptions_dota_pit_league_season_five_ingame.png
+  image: subscriptions_dota_pit_league_season_five.png
 4985:
   name: Midas Club Elite
   description: Midas Club Elite is a in-house developed for Brazilian community that
     have expanded over America. Featuring players with 5.5k+ MMR playing CM mode to
     fight for the 1st play on the ladder.
   tournament_url: http://www.lbee.com.br/sobre-midas-club
-  image_banner: 
-  image: 
+  image_banner: subscriptions_midas_club_elite_ingame.png
+  image: subscriptions_midas_club_elite.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
