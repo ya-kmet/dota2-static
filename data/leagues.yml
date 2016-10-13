@@ -11007,6 +11007,12 @@
   tournament_url: http://www.dotapit.com
   image_banner: subscriptions_dota_pit_league_season_five_ingame.png
   image: subscriptions_dota_pit_league_season_five.png
+4980:
+  name: Bangladesh Dota 2
+  description: Competitive Dota 2 hub for Bangladesh. For more info, checkout BanglaGamer.com
+  tournament_url: http://BanglaGamer.com
+  image_banner: subscriptions_bangladesh_dota_2_ingame.png
+  image: subscriptions_bangladesh_dota_2.png
 4985:
   name: Midas Club Elite
   description: Midas Club Elite is a in-house developed for Brazilian community that
