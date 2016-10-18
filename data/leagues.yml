@@ -10945,6 +10945,13 @@
   tournament_url: http://www.ligagame.com/esports/index.php?threads/hans-pro-gaming-series-tournament.4345/
   image_banner: subscriptions_hans_pro_gaming_series_tournament_ingame.png
   image: subscriptions_hans_pro_gaming_series_tournament.png
+4947:
+  name: FroggedTV Cup
+  description: French tournament organized by the FroggedTV and going on all the year
+    with Major System.
+  tournament_url: http://www.froggedtv.com
+  image_banner: subscriptions_froggedtv_cup_ingame.png
+  image: subscriptions_froggedtv_cup.png
 4949:
   name: SFG Champions League Season 3
   description: "Online League with a grand finale in the grand-format show the match.
@@ -10976,6 +10983,26 @@
   tournament_url: http://tournament.beyondgodlike.net/asus-rog-dota2.html
   image_banner: subscriptions_asus_rog_sea_cup_by_beyond_godlike_ingame.png
   image: subscriptions_asus_rog_sea_cup_by_beyond_godlike.png
+4963:
+  name: LIGA HUARACINA DE DOTA 2
+  description: After waiting so long to finally make this tournament possible with
+    the sole purpose of growing the level of competitive Dota2 in our region
+  tournament_url: http://www.lhd.holidaygaming.net/
+  image_banner: subscriptions_liga_huaracina_de_dota_2_ingame.png
+  image: subscriptions_liga_huaracina_de_dota_2.png
+4964:
+  name: 'Dota TM Season 1 '
+  description: 1st official Dota 2 tournament in Turkmenistan.
+  tournament_url: http://dotatm.jimdo.com/
+  image_banner: subscriptions_dota_tm_season_1__ingame.png
+  image: subscriptions_dota_tm_season_1_.png
+4967:
+  name: Gamenivora League
+  description: "DOTA 2 Tournament/League events organized by gamenivora.com\r\n\tGamenivora
+    is an online media dedicated for Indonesian gamer readers."
+  tournament_url: http://gamenivora.com/newspage/post/tourniseng-episode-1
+  image_banner: subscriptions_gamenivora_league_ingame.png
+  image: subscriptions_gamenivora_league.png
 4972:
   name: World Electronic Sports Games International
   description: "World Electronic Sports Games is a totally new international tournament
@@ -10995,6 +11022,16 @@
   tournament_url: http://www.nanyangcup.cn
   image_banner: 
   image: subscriptions_nyc_cruise_cup.png
+4978:
+  name: 'Deaf e-Sports League: Copa da Abertura dos Surdos'
+  description: "The Deaf Opening Cup will take place online with the game Dota 2.\r\n\tWith
+    four teams invited will face off for 2 months to win the first title of the Deaf
+    e-Sports League.\r\n\tOur goal is to establish a regular, competitive league and
+    as a basis and incentive for train times and beyond to seek good results, also
+    have visibility on the national scene."
+  tournament_url: http://deafesportsleague.com.br/copa-da-abertura/
+  image_banner: subscriptions_deaf_esports_league_copa_da_abertura_dos_surdos_ingame.png
+  image: subscriptions_deaf_esports_league_copa_da_abertura_dos_surdos.png
 4979:
   name: Dota Pit League Season Five
   description: "The Dota Pit League is back with Season 5! Top teams from NA, EU,
@@ -11021,6 +11058,52 @@
   tournament_url: http://www.lbee.com.br/sobre-midas-club
   image_banner: subscriptions_midas_club_elite_ingame.png
   image: subscriptions_midas_club_elite.png
+5005:
+  name: Sri Lanka Cyber Games SLCG 2016
+  description: SLCG, the biggest e-Sports event in the country is back for its 9th
+    edition, as it expands to Jaffna, Galle, Kandy and the main event in Colombo.
+    Casual gamers, cyber athletes, comic book fans and cosplayers unite as the annual
+    games festival takes the country by storm. Dota 2 takes centre stage yet again
+    this year as the best teams in Sri Lanka battle it out for prestige and honor!
+  tournament_url: http://www.slcg.lk/
+  image_banner: subscriptions_sri_lanka_cyber_games_slcg_2016_ingame.png
+  image: subscriptions_sri_lanka_cyber_games_slcg_2016.png
+5006:
+  name: DOTA2 ACE Provisional
+  description: DOTA2 ACE Provisional tournament sponsored by the ACE organization.
+    24 ACE teams from all over the country will participate in the tournament, competing
+    for 420,000 yuan in prize money.
+  tournament_url: http://www.vpgame.com/tournament/491.html#/show=rank
+  image_banner: subscriptions_dota2_ace_provisional_ingame.png
+  image: subscriptions_dota2_ace_provisional.png
+5007:
+  name: NFCups Season 4
+  description: Teams from CIS countries will compete for the first place and the title
+    of champion NFCups
+  tournament_url: http://n010cups.jimdo.com/nfcups-season-4/
+  image_banner: subscriptions_nfcups_season_4_ingame.png
+  image: subscriptions_nfcups_season_4.png
+5012:
+  name: GameTyrant Dota 2 Amateur Open Tournament
+  description: "GameTyrant is partnering with MOBA eSports Gaming to bring you our
+    first Dota 2 Amateur Open for the Texas, Utah, and Colorado states!\r\n\t\r\n\tWe
+    will be having a growing cash prize pool depending on number of teams that sign
+    up, as well as giving away some goodies for teams.\r\n\t\r\n\tIf you are in the
+    Texas, Utah, or Colorado areas and want to compete click on this link to register
+    under the tournament tab.  You must register as a full team, entries are $25 a
+    team with a portion going to the prize pool. This will all be streamed online
+    via GameTyrant and MOBA eSports Twitch Channels and there will be giveaways for
+    spectators."
+  tournament_url: http://gametyrant.com/news/gametyrant-dota-2-amateur-open-tournament
+  image_banner: subscriptions_gametyrant_dota_2_amateur_open_tournament_ingame.png
+  image: subscriptions_gametyrant_dota_2_amateur_open_tournament.png
+5027:
+  name: Boston Major Open Qualifier
+  description: Witness teams from all around the world compete for a place at The
+    Boston Major 2016.
+  tournament_url: http://blog.dota2.com/2016/10/the-boston-major/
+  image_banner: boston_major_ingame.png
+  image: 
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
