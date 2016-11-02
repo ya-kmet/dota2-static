@@ -10565,6 +10565,13 @@
   tournament_url: http://capolg.com/
   image_banner: subscriptions_capo_league_open_qualification_ingame.png
   image: subscriptions_capo_league_open_qualification.png
+4752:
+  name: Dota 2 Liga Tournament - Season 1
+  description: The first Season professional Dota2 tournament under supervision Dota2Liga.com,
+    official team competition with together for 2000$ base prize pool.
+  tournament_url: http://www.dota2liga.com
+  image_banner: subscriptions_dota_2_liga_tournament__season_1_ingame.png
+  image: subscriptions_dota_2_liga_tournament__season_1.png
 4753:
   name: 'American Star League Invitational '
   description: America top teams, face in the battlefield to see who is the best
@@ -10968,6 +10975,22 @@
   tournament_url: http://Dreamleague.DreamHack.com
   image_banner: subscriptions_asus_rog_dreamleague_season_6_ingame.png
   image: subscriptions_asus_rog_dreamleague_season_6.png
+4952:
+  name: 2017 NGA Master League
+  description: 2017 NGA Dota2 Master League is a community-based tournament presented
+    by National Geographic of Azeroth, the most prestigious gaming forum of China,
+    always devoted to native game-stars cultivation and E-sports promotion. All Dota2
+    Elite players and teams nationwide will have intensive online competition
+  tournament_url: http://www.nga.cn
+  image_banner: subscriptions_2017_nga_master_league_ingame.png
+  image: subscriptions_2017_nga_master_league.png
+4953:
+  name: The National 2 - Movistar
+  description: The National ESP is a tournament where, after a knockout stages, 8
+    Spanish teams seek to win the Championship title THE NATIONAL 2.
+  tournament_url: https://tgx.es/TheNational/
+  image_banner: subscriptions_the_national_2__movistar_ingame.png
+  image: subscriptions_the_national_2__movistar.png
 4958:
   name: Royal Arena
   description: Major Pro League for Dota 2 with prize pools of up to $100K per event.
@@ -10983,6 +11006,13 @@
   tournament_url: http://tournament.beyondgodlike.net/asus-rog-dota2.html
   image_banner: subscriptions_asus_rog_sea_cup_by_beyond_godlike_ingame.png
   image: subscriptions_asus_rog_sea_cup_by_beyond_godlike.png
+4962:
+  name: AEONs Tournament
+  description: Amateur teams CIS and Ukraine will compete for a cash prize and the
+    title of winner of the tournament!
+  tournament_url: http://aeons-tournament.jimdo.com/
+  image_banner: subscriptions_aeons_tournament_ingame.png
+  image: subscriptions_aeons_tournament.png
 4963:
   name: LIGA HUARACINA DE DOTA 2
   description: After waiting so long to finally make this tournament possible with
@@ -11058,6 +11088,22 @@
   tournament_url: http://www.lbee.com.br/sobre-midas-club
   image_banner: subscriptions_midas_club_elite_ingame.png
   image: subscriptions_midas_club_elite.png
+5003:
+  name: Hungarian Dota 2 Leauge
+  description: "Welcome to the Hungarian DOTA 2 League Tournament site!  HD2L is a
+    start up hosted by the Hungarian DOTA 2 community. \r\n\t\r\n\tThe placement rounds
+    have passed and the 26 teams that qualified have been assigned to divisions accordingly.\r\n\t\r\n\tIn
+    order to help with the organization of this tournament, we have started this website.
+    \ Here you will find information about the league, your upcoming fixtures and
+    help facilitate communication with other teams.\r\n\t\r\n\tWe kindly ask all participants
+    to read the game regulations linked below.\r\n\t\r\n\tYou can find information,
+    rules and regulations on the website: https://www.facebook.com/hd2lpage/\r\n\t\r\n\tWe
+    are extremely grateful for the huge amount of interest in this tournament and
+    would like to thank all league participants.\r\n\t\r\n\tWe hope You are as excited
+    as we are!  \r\n\t\r\n\tSee you at the competition!\r\n\t\r\n\tAdmins of -HD2L-"
+  tournament_url: https://www.toornament.com/tournaments/57b4d61e140ba0184b8b4567/information
+  image_banner: subscriptions_hungarian_dota_2_leauge_ingame.png
+  image: subscriptions_hungarian_dota_2_leauge.png
 5005:
   name: Sri Lanka Cyber Games SLCG 2016
   description: SLCG, the biggest e-Sports event in the country is back for its 9th
@@ -11083,6 +11129,14 @@
   tournament_url: http://n010cups.jimdo.com/nfcups-season-4/
   image_banner: subscriptions_nfcups_season_4_ingame.png
   image: subscriptions_nfcups_season_4.png
+5008:
+  name: Polupro ladder league season 1
+  description: "Welcome to the first season of the tournament 50 / pro league. Stay
+    with us and be sure to take part.\r\n\tIn the coming season, 24 teams will compete.
+    The prize fund will amount to 100$ + a gift from our partners."
+  tournament_url: http://pp50.biz
+  image_banner: subscriptions_polupro_ladder_league_season_1_ingame.png
+  image: subscriptions_polupro_ladder_league_season_1.png
 5012:
   name: GameTyrant Dota 2 Amateur Open Tournament
   description: "GameTyrant is partnering with MOBA eSports Gaming to bring you our
@@ -11097,6 +11151,14 @@
   tournament_url: http://gametyrant.com/news/gametyrant-dota-2-amateur-open-tournament
   image_banner: subscriptions_gametyrant_dota_2_amateur_open_tournament_ingame.png
   image: subscriptions_gametyrant_dota_2_amateur_open_tournament.png
+5026:
+  name: AD2L Season 14
+  description: Participate in AD2L Season 14! Each league runs for about two months
+    and caters to three different skill groups (pro, amateur, and novice) depending
+    on server.
+  tournament_url: https://dota.playon.gg/seasons
+  image_banner: subscriptions_ad2l_season_14_ingame.png
+  image: subscriptions_ad2l_season_14.png
 5027:
   name: Boston Major Open Qualifier
   description: Witness teams from all around the world compete for a place at The
@@ -11104,6 +11166,35 @@
   tournament_url: http://blog.dota2.com/2016/10/the-boston-major/
   image_banner: boston_major_ingame.png
   image: 
+5033:
+  name: Indonesia Weekly Series
+  description: An Indonesian Weekly Tournament that will be held twice in every month
+    to compete IDR 2.000.000 prizepool every tournament. Organized by AL-m0cchi
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/al-indonesia-weekly-series-1-1-3-6-november-2016-rp-2-000-000-ban-list-players.4373/
+  image_banner: subscriptions_indonesia_weekly_series_ingame.png
+  image: subscriptions_indonesia_weekly_series.png
+5039:
+  name: NFCups Season 5
+  description: Sixteen teams will compete for the first place and 5 000$
+  tournament_url: http://n010cups.jimdo.com/nfcups-season-5/
+  image_banner: subscriptions_nfcups_season_5_ingame.png
+  image: subscriptions_nfcups_season_5.png
+5040:
+  name: High School Starleague Dota 2 Fall Season
+  description: The High School Starleague (HSL) is the premiere high school gaming
+    tournament in North America, encompassing 7,000 schools and 30,000 students to
+    date. Sign up and compete in the largest high school tournament in existence!
+  tournament_url: http://dota2.hsstarleague.com/
+  image_banner: subscriptions_high_school_starleague_dota_2_fall_season_ingame.png
+  image: subscriptions_high_school_starleague_dota_2_fall_season.png
+5043:
+  name: South Sumatera DOTA 2 Amateur League 2016
+  description: Main event of the third annual DOTA 2 competition for all amateur DOTA
+    2 teams in South Sumatera region, organized by Emporium and Command Centre also  sponsored
+    by ASUS ROG and Zowie a Brand by Benq.
+  tournament_url: http://ccesports.net
+  image_banner: subscriptions_south_sumatera_dota_2_amateur_league_2016_ingame.png
+  image: subscriptions_south_sumatera_dota_2_amateur_league_2016.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
