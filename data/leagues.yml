@@ -10872,6 +10872,13 @@
   tournament_url: http://ixdl.net
   image_banner: subscriptions_ixdl_open_north_america_ingame.png
   image: subscriptions_ixdl_open_north_america.png
+4891:
+  name: The Battle Fury 2016
+  description: 'The best teams from Peru fight for consecrated as the champion of  the
+    Battle Fury '
+  tournament_url: http://www.battlefury.somosgamers.net/
+  image_banner: subscriptions_the_battle_fury_2016_ingame.png
+  image: subscriptions_the_battle_fury_2016.png
 4892:
   name: SUPER INTELLECTUAL CUP
   description: Super Intellectual Cup, also known as 'SIC', is a Dota2 tournament
@@ -10945,6 +10952,12 @@
   tournament_url: http://requiemautumn.net/#/
   image_banner: subscriptions_requiem_autumn_ingame.png
   image: subscriptions_requiem_autumn.png
+4933:
+  name: WLDL Season 3
+  description: A fun, casual tournament for the WeLikeDota community.
+  tournament_url: https://www.toornament.com/tournaments/57c98a1e140ba0b5058b4567/information
+  image_banner: subscriptions_wldl_season_3_ingame.png
+  image: subscriptions_wldl_season_3.png
 4937:
   name: "Hans Pro Gaming Series Tournamentâ\x80\x8B"
   description: More than 500 People will compete in this Tournament, will be held
@@ -11137,6 +11150,14 @@
   tournament_url: http://pp50.biz
   image_banner: subscriptions_polupro_ladder_league_season_1_ingame.png
   image: subscriptions_polupro_ladder_league_season_1.png
+5011:
+  name: TIta Dota2 Autumn 2016
+  description: "Tournament 4fun made to grow the italian dota2 community.\r\n\tNo
+    subsciption fees, no prizes, open to teams and people without teams and even to
+    casters wannabe.\r\n\tPowered bt GoGame - We Grow eSports\r\n\t"
+  tournament_url: http://gogame.it/dota2/tita/
+  image_banner: subscriptions_tita_dota2_autumn_2016_ingame.png
+  image: subscriptions_tita_dota2_autumn_2016.png
 5012:
   name: GameTyrant Dota 2 Amateur Open Tournament
   description: "GameTyrant is partnering with MOBA eSports Gaming to bring you our
@@ -11151,6 +11172,13 @@
   tournament_url: http://gametyrant.com/news/gametyrant-dota-2-amateur-open-tournament
   image_banner: subscriptions_gametyrant_dota_2_amateur_open_tournament_ingame.png
   image: subscriptions_gametyrant_dota_2_amateur_open_tournament.png
+5018:
+  name: ESL One Genting 2017
+  description: Experience world class Dota 2 in Malaysia's Highlands. Join us as ESL
+    One returns to South East Asia with more Dota 2 action
+  tournament_url: http://esl-one.com/dota2/genting-2017/
+  image_banner: subscriptions_esl_one_genting_2017_ingame.png
+  image: subscriptions_esl_one_genting_2017.png
 5026:
   name: AD2L Season 14
   description: Participate in AD2L Season 14! Each league runs for about two months
@@ -11166,6 +11194,12 @@
   tournament_url: http://blog.dota2.com/2016/10/the-boston-major/
   image_banner: boston_major_ingame.png
   image: 
+5028:
+  name: Kaskus Fun Dota 2 Tournament
+  description: Kaskus Fun Dota 2 Tournament
+  tournament_url: http://www.kaskus.co.id/thread/5631cb2f9e74044f698b4569
+  image_banner: subscriptions_kaskus_fun_dota_2_tournament_ingame.png
+  image: subscriptions_kaskus_fun_dota_2_tournament.png
 5033:
   name: Indonesia Weekly Series
   description: An Indonesian Weekly Tournament that will be held twice in every month
@@ -11173,6 +11207,18 @@
   tournament_url: http://www.ligagame.com/esports/index.php?threads/al-indonesia-weekly-series-1-1-3-6-november-2016-rp-2-000-000-ban-list-players.4373/
   image_banner: subscriptions_indonesia_weekly_series_ingame.png
   image: subscriptions_indonesia_weekly_series.png
+5038:
+  name: Go2Olymp
+  description: "Go2Olymp is excited to announce our new tournament for experienced
+    teams showing off their skills in real battles.\r\n\t\r\n\tATTENTION: The number
+    of teams is limited. Only the first 32 teams to sign up will play in this tournament.\r\n\t\r\n\tTournament
+    format: Single Elimination. A match is won when a team gets its first victory
+    (best of 1). Final match will be played to 2 victories (best of 3).\r\n\t\r\n\tWinning
+    team will get $250. Other participants who reach finals and semifinals will also
+    get money prizes."
+  tournament_url: https://go2olymp.com/dota2/tournament/go2olymp-2?language=en
+  image_banner: subscriptions_go2olymp_ingame.png
+  image: subscriptions_go2olymp.png
 5039:
   name: NFCups Season 5
   description: Sixteen teams will compete for the first place and 5 000$
@@ -11195,6 +11241,111 @@
   tournament_url: http://ccesports.net
   image_banner: subscriptions_south_sumatera_dota_2_amateur_league_2016_ingame.png
   image: subscriptions_south_sumatera_dota_2_amateur_league_2016.png
+5044:
+  name: Dota 2 Night
+  description: 'Best 8 teams from 3 great Russian Cities:  Moscow, Saint-Petersburg
+    and Ekatirenburg will compete with each other for the prize pool and winners of
+    2nd Dota 2 Night!'
+  tournament_url: http://www.dota2night.ru/
+  image_banner: subscriptions_dota_2_night_ingame.png
+  image: subscriptions_dota_2_night.png
+5052:
+  name: Montenegrin National League S3
+  description: 'The third edition of Montenegrin National League will once again host
+    the 24 best teams from our country who will compete for national trophy and prize
+    pool that is going over 2500 euros. From November to April we will be witnessing
+    clashes of the best teams in Montenegro so don''t miss your opportunity to support
+    your kings of Montenegro. '
+  tournament_url: http://e-sports.me/prvaliga
+  image_banner: subscriptions_montenegrin_national_league_s3_ingame.png
+  image: subscriptions_montenegrin_national_league_s3.png
+5058:
+  name: SLT eSports Championship 2016
+  description: Sri Lanka Telecom PLC along with Redline Technologies and Xiphos eSports,
+    proudly presents SLT eSports Championship 2016. Boasting of a prize pool of 2
+    million rupees, in addition to trophies, medals and other gifts, the SLT eSports
+    Championship returns for its second edition, with Dota 2 as a featured title of
+    the event.
+  tournament_url: http://slt.lk/esports/
+  image_banner: subscriptions_slt_esports_championship_2016_ingame.png
+  image: subscriptions_slt_esports_championship_2016.png
+5064:
+  name: Meister Division
+  description: A mini tournament by The Meister Division event organizer with. Supported
+    by AccentlTV. There are a rising stars amateur teams who agains each another to
+    be number one at Indonesia.
+  tournament_url: http://muteknokom.blogspot.com/p/meister-division-dota-2-tournament.html
+  image_banner: subscriptions_meister_division_ingame.png
+  image: subscriptions_meister_division.png
+5065:
+  name: AEF Season 1 Qualifiers
+  description: The Australia Esports Federation (AEF) Season 1 League is open to all
+    teams from Australia, New Zealand and South East Asian regions. All teams will
+    play a qualifying tournament where the best 8 teams will be determined and placed
+    into Division 1. The main tournament will be played in a double round robin format
+    over a 14 week period with the winning team receiving $4000 AUD, second receiving
+    $2000 AUD and third receiving $1000 AUD.
+  tournament_url: http://www.australiaesports.net
+  image_banner: subscriptions_aef_season_1_qualifiers_ingame.png
+  image: subscriptions_aef_season_1_qualifiers.png
+5067:
+  name: Gamesmash Championship Indonesia
+  description: "The biggest tournament dota 2 Indonesia\r\n\tat hartono mall solo
+    baru"
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/gamesmash-championship-1-at-hartono-mall-solo-17-20-november.4665/
+  image_banner: subscriptions_gamesmash_championship_indonesia_ingame.png
+  image: subscriptions_gamesmash_championship_indonesia.png
+5075:
+  name: Midas Club Open
+  description: Midas Club Open is the entry league for Midas Club Elite. All players
+    welcome to start to learn more about captains mode and leagues.
+  tournament_url: http://www.lbee.com.br/dota-2/sobre-midas-club
+  image_banner: subscriptions_midas_club_open_ingame.png
+  image: subscriptions_midas_club_open.png
+5076:
+  name: Midas Club Elite Season 2
+  description: Midas Club Elite is a in-house developed for Brazilian community that
+    have expanded over America. Featuring players with 5.5k+ MMR playing CM mode to
+    fight for the 1st place on the ladder.
+  tournament_url: http://www.lbee.com.br/sobre-midas-club
+  image_banner: subscriptions_midas_club_elite_season_2_ingame.png
+  image: subscriptions_midas_club_elite_season_2.png
+5077:
+  name: SL i-League StarSeries S3
+  description: Starladder and ImbaTV present a new season of the famous international
+    tournament SL i-League StarSeries. Watch us and support your favourite teams from
+    the whole globe in their fight for 300,000 USD prize pool!
+  tournament_url: http://www.starladder.com
+  image_banner: subscriptions_sl_ileague_starseries_s3_ingame.png
+  image: subscriptions_sl_ileague_starseries_s3.png
+5080:
+  name: RevivaLTV Weekdays Tournament
+  description: "Prizepool: Rp 2.500.000\r\n\t\r\n\t1st place: Rp. 1.250.000\r\n\t\r\n\t2nd
+    place: Rp. 750.000\r\n\t\r\n\t3rd place: Rp 500.000\r\n\t\r\n\tPenutupan pendaftaran:
+    20 November 2016\r\n\t\r\n\tVenue: Online\r\n\t\r\n\tJadwal Tournament: tanggal
+    21 â\x80\x93 24 November, Senin sampai Kamis, Jam 19:00 WIB sampai Jam 22:00 WIB\r\n\t\r\n\tBiaya
+    Pendaftaran: 50k/Slot\r\n\t\r\n\tMultislot: Allowed (max 2 slot)\r\n\t\r\n\tDouble
+    Winner: Allowed\r\n\t\r\n\tMinimal 64 tim\r\n\t\r\n\tChannel DOTA2 (untuk pemanggilan
+    match): RevivaLTV\r\n\t\r\n\tTeknikal Meeting: 20 November di Group LINE yang
+    sudah di sediakan\r\n\t\r\n\t \r\n\t\r\n\tCara Pendaftaran:\r\n\t\r\n\tMengisi
+    Form Pendaftaran: http://bit.ly/RvLTV\r\n\tMelakakukan pembayaran melalui rekening:\r\n\tRekening:
+    1630366743\r\n\tA/n: Ahmad Syahndy\r\n\tMelakukan konfirmasi pembayaran dan bukti
+    foto transfer ke ID LINE yang sudah di sediakan dengan format:\r\n\tA/N pengirim:\r\n\tNama
+    tim:\r\n\tJumlah slot:\r\n\t \r\n\t\r\n\tLobby Setting:\r\n\t\r\n\tMap version:
+    Tournament\r\n\tRoom name: Team A vs Team B\r\n\tRoom password: di tentukan saat
+    pertandingan\r\n\tGame Mode: Captain Mode (CM)\r\n\tEnable Cheats: off\r\n\tSide:
+    di tentukan dari bracket\r\n\tPick: Random\r\n\tServer: Singapore\r\n\tTournament
+    Rules\r\n\t\r\n\tDILARANG KERAS BACOT SARA/RASIS\r\n\tBatas keterlambatan maksimal
+    15 menit dari jadwal yang telah di tentukan oleh panitia (sanksi keterlambatan
+    WO)\r\n\tMaksimal pause in game 10 menit per team nya\r\n\tSalah satu tim akan
+    di nyatakan kalah jika mengatakan GG di chat all sengaja maupun tidak sengaja\r\n\tSetiap
+    tim wajib mengirimkan screenshot ke group LINE yang sudah di sediakan\r\n\tKEPUTUSAN
+    PANITIA MUTLAK DAN TIDAK DAPAT DI GANGGU GUGAT\r\n\t \r\n\t\r\n\tContact Person:\r\n\t\r\n\tLINE@:
+    @revivaltvid\r\n\t\r\n\tID LINE: pacmaaan (Dede Febrian)\r\n\t\r\n\tSteam Link
+    ID: http://steamcommunity.com/id/POCMON/"
+  tournament_url: https://www.revivaltv.id/others/revival-tv-weekdays-tournament/
+  image_banner: subscriptions_revivaltv_weekdays_tournament_ingame.png
+  image: subscriptions_revivaltv_weekdays_tournament.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
