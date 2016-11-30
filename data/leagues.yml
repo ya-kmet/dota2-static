@@ -11046,6 +11046,13 @@
   tournament_url: http://gamenivora.com/newspage/post/tourniseng-episode-1
   image_banner: subscriptions_gamenivora_league_ingame.png
   image: subscriptions_gamenivora_league.png
+4969:
+  name: The Battle Series December 2016
+  description: Dota 2 Amateur Tournament presented by pandavautd (one of esport live
+    channel in Indonesia)
+  tournament_url: http://pandavautd.net/
+  image_banner: subscriptions_the_battle_series_december_2016_ingame.png
+  image: subscriptions_the_battle_series_december_2016.png
 4972:
   name: World Electronic Sports Games International
   description: "World Electronic Sports Games is a totally new international tournament
@@ -11172,6 +11179,14 @@
   tournament_url: http://gametyrant.com/news/gametyrant-dota-2-amateur-open-tournament
   image_banner: subscriptions_gametyrant_dota_2_amateur_open_tournament_ingame.png
   image: subscriptions_gametyrant_dota_2_amateur_open_tournament.png
+5014:
+  name: CompetionWay Bounty League
+  description: CompetionWay Bounty League, A midnight arena that Pro-player,Super
+    star and Pub-star comes together,aim to  win and bountys,viewer can also decide
+    which palyer on the court.
+  tournament_url: http://dota2.d2way.com
+  image_banner: subscriptions_competionway_bounty_league_ingame.png
+  image: subscriptions_competionway_bounty_league.png
 5018:
   name: ESL One Genting 2017
   description: Experience world class Dota 2 in Malaysia's Highlands. Join us as ESL
@@ -11259,6 +11274,13 @@
   tournament_url: http://e-sports.me/prvaliga
   image_banner: subscriptions_montenegrin_national_league_s3_ingame.png
   image: subscriptions_montenegrin_national_league_s3.png
+5053:
+  name: C-Arena season 1
+  description: 'Follow the latest news on our website and in the vk.com group https://vk.com/cyberarenaorg
+    http://www.cyber-arena.org/ '
+  tournament_url: http://www.cyber-arena.org/
+  image_banner: subscriptions_carena_season_1_ingame.png
+  image: subscriptions_carena_season_1.png
 5058:
   name: SLT eSports Championship 2016
   description: Sri Lanka Telecom PLC along with Redline Technologies and Xiphos eSports,
@@ -11269,6 +11291,13 @@
   tournament_url: http://slt.lk/esports/
   image_banner: subscriptions_slt_esports_championship_2016_ingame.png
   image: subscriptions_slt_esports_championship_2016.png
+5060:
+  name: The Gameloft SEA International 2016
+  description: The yearly tournament organized by Gameloft South-East Asia for its
+    7 SEA studios.
+  tournament_url: http://gl-sea-international.wikia.com/
+  image_banner: subscriptions_the_gameloft_sea_international_2016_ingame.png
+  image: subscriptions_the_gameloft_sea_international_2016.png
 5064:
   name: Meister Division
   description: A mini tournament by The Meister Division event organizer with. Supported
@@ -11346,6 +11375,62 @@
   tournament_url: https://www.revivaltv.id/others/revival-tv-weekdays-tournament/
   image_banner: subscriptions_revivaltv_weekdays_tournament_ingame.png
   image: subscriptions_revivaltv_weekdays_tournament.png
+5088:
+  name: High School Starleague Winter Season 2016
+  description: The High School Starleague (HSL) is the premiere high school gaming
+    tournament in North America, encompassing 7,000 schools and 30,000 students to
+    date. Sign up and compete in the largest high school tournament in existence!
+  tournament_url: http://dota2.hsstarleague.com/
+  image_banner: subscriptions_high_school_starleague_winter_season_2016_ingame.png
+  image: subscriptions_high_school_starleague_winter_season_2016.png
+5095:
+  name: Dota 2 On Line League
+  description: "This Tournament created to find new seeds of Profesional Player From
+    Indonesia, who will be a great team from Indonesia.\r\n\tThis League made by Dota
+    2 Liners, who are the biggest Dota 2 Official Account On Line.\r\n\tWe create
+    a League that Clean, Fair and Fun for all Dota 2 Player In Indonesia.  "
+  tournament_url: http://dota2liners.esportsify.com/
+  image_banner: subscriptions_dota_2_on_line_league_ingame.png
+  image: subscriptions_dota_2_on_line_league.png
+5099:
+  name: Geforce Esports Xtreme Tournament
+  description: This Tournament created by Nvidia for Indonesian Team. All team will
+    compete for total Prizepool IDR 175.000.000 at many qualifier. This Tournament
+    Supported by MedanGamers.
+  tournament_url: http://www.nvidia.com/content/apac/gext/id/
+  image_banner: subscriptions_geforce_esports_xtreme_tournament_ingame.png
+  image: subscriptions_geforce_esports_xtreme_tournament.png
+5101:
+  name: Arena Antara torneo inaugural por Claners
+  description: We are a rising organization that want to start working on Dota 2 tournaments.
+    There are no tournaments in M
+  tournament_url: http://www.lmv.mx/
+  image_banner: subscriptions_arena_antara_torneo_inaugural_por_claners_ingame.png
+  image: subscriptions_arena_antara_torneo_inaugural_por_claners.png
+5106:
+  name: Play4Series
+  description: Series de torneos realizados por Firebox Network, myRevenge e.V. y  Gaming
+    Factory, con la finalidad de fomentar la competitividad de equipos amateur y semiprofesionales
+    en la regiÃ³n Sudamericana.
+  tournament_url: http://fireboxnetwork.com/tournament
+  image_banner: subscriptions_play4series_ingame.png
+  image: subscriptions_play4series.png
+5107:
+  name: 'Reach the Hyperst.one 2.4 '
+  description: Reach the Hyperst.one is a community founded (german) amateur league!
+    2.4 will be our next and last tournament for the year 2016. Who will reach the
+    Hyperstone?
+  tournament_url: https://hyperst.one/
+  image_banner: subscriptions_reach_the_hyperstone_24__ingame.png
+  image: subscriptions_reach_the_hyperstone_24_.png
+5122:
+  name: RD2L Season 11
+  description: Individual players sign up and are drafted into teams by volunteer
+    captains.  Teams match up over an 8 week regular season and 5 week playoff.  4
+    NA and 2 EU based divisions.
+  tournament_url: http://www.reddit.com/r/redditdota2league/
+  image_banner: subscriptions_rd2l_season_11_ingame.png
+  image: subscriptions_rd2l_season_11.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
