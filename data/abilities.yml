@@ -4221,7 +4221,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6216:
   internal_name: special_bonus_unique_gyrocopter_1
-  name: "+3 Homing Missile Charges"
+  name: 3 Homing Missile Charges
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6312:
   internal_name: special_bonus_unique_gyrocopter_2
