@@ -11438,6 +11438,14 @@
   tournament_url: http://www.reddit.com/r/redditdota2league/
   image_banner: subscriptions_rd2l_season_11_ingame.png
   image: subscriptions_rd2l_season_11.png
+5197:
+  name: Dota 2 Asia Championships 2017
+  description: Dota 2 Asia Championships returns in 2017! 12 top teams from the world
+    will compete for a prizepool of $500,000. The LAN finals in Shanghai will be starting
+    in the end of March, and EG, the DAC 2015 champion, is ready to face all challengers.
+  tournament_url: http://www.dota2.com.cn/dac
+  image_banner: subscriptions_dota_2_asia_championships_2017_ingame.png
+  image: subscriptions_dota_2_asia_championships_2017.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
