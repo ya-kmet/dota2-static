@@ -2327,6 +2327,18 @@
   internal_name: courier_morph
   name: courier_morph
   type: DOTA_ABILITY_TYPE_BASIC
+6329:
+  internal_name: courier_go_to_enemy_secretshop
+  name: courier_go_to_enemy_secretshop
+  type: DOTA_ABILITY_TYPE_BASIC
+6333:
+  internal_name: courier_go_to_sideshop
+  name: courier_go_to_sideshop
+  type: DOTA_ABILITY_TYPE_BASIC
+6334:
+  internal_name: courier_go_to_sideshop2
+  name: courier_go_to_sideshop2
+  type: DOTA_ABILITY_TYPE_BASIC
 5213:
   internal_name: roshan_spell_block
   name: roshan_spell_block
