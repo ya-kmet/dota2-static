@@ -11407,6 +11407,15 @@
   tournament_url: http://www.lmv.mx/
   image_banner: subscriptions_arena_antara_torneo_inaugural_por_claners_ingame.png
   image: subscriptions_arena_antara_torneo_inaugural_por_claners.png
+5103:
+  name: BEYOND GODLIKE LEAGUE
+  description: "Professional team participating from top team in Thailand.They competition
+    in BEYOND GODLIKE LEAGUE : DOTA2 THAILAND LEAGUE to claim $10000 prize pool.\r\n\t\r\n\tThe
+    team who won league competition will be invited to participate. BEYOND GODLIKE
+    WINTER in October 2017 at Siam Paragon Hall.\r\n\t"
+  tournament_url: https://tournament.beyondgodlike.net/bg-dota-league.html
+  image_banner: subscriptions_beyond_godlike_league_ingame.png
+  image: subscriptions_beyond_godlike_league.png
 5106:
   name: Play4Series
   description: Series de torneos realizados por Firebox Network, myRevenge e.V. y  Gaming
@@ -11444,6 +11453,20 @@
   tournament_url: http://www.dota2.com/
   image_banner: kiev_ticket_ingame.png
   image: 
+5170:
+  name: CyberEesti Spring 2017
+  description: First ever tournament in Narva! Teams compete for 100$ prize pool!
+  tournament_url: http://cyber-eesti.eu/node/18
+  image_banner: subscriptions_cybereesti_spring_2017_ingame.png
+  image: subscriptions_cybereesti_spring_2017.png
+5189:
+  name: Echo League Season 1
+  description: Welcome to Echo League!  A free-to-join amateur DotA 2 League for players
+    under 5K.  Join one of our three skill divisions and compete through group-stages
+    and a single-elim playoff to become an Echo League Champion!
+  tournament_url: https://echoleague.gg
+  image_banner: subscriptions_echo_league_season_1_ingame.png
+  image: subscriptions_echo_league_season_1.png
 5197:
   name: Dota 2 Asia Championships 2017
   description: Dota 2 Asia Championships returns in 2017! 12 top teams from the world
@@ -11452,6 +11475,50 @@
   tournament_url: http://www.dota2.com.cn/dac
   image_banner: subscriptions_dota_2_asia_championships_2017_ingame.png
   image: subscriptions_dota_2_asia_championships_2017.png
+5208:
+  name: 'Arrow eSports: Season 8'
+  description: Welcome to Arrow University Season 8! Watch the best teams from up
+    and down the UK & Ireland compete for a slice of FaceIt points and other prizes!
+  tournament_url: https://www.faceit.com/en/dota2/tournament/10a8c67d-abeb-45a1-9cbd-d27cb499f8e6
+  image_banner: subscriptions_arrow_esports_season_8_ingame.png
+  image: subscriptions_arrow_esports_season_8.png
+5244:
+  name: 'Juggernaut Gaming #1 Supported by UniPin and Gomers'
+  description: 'Juggernaut Gaming Tournament #1 Supported by UniPin and Gomers'
+  tournament_url: http://www.ligagame.com/esports/index.php
+  image_banner: subscriptions_juggernaut_gaming_1_supported_by_unipin_and_gomers_ingame.png
+  image: subscriptions_juggernaut_gaming_1_supported_by_unipin_and_gomers.png
+5266:
+  name: Unjedoto Tournament Season 2
+  description: Indonesian DOTA 2 Online Tournament. Presented by Unjedoto. Supported
+    by PIXMA Gaming
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/unjedoto-online-tournament-season-2.4556/
+  image_banner: subscriptions_unjedoto_tournament_season_2_ingame.png
+  image: subscriptions_unjedoto_tournament_season_2.png
+5270:
+  name: CZ-SK Dota 2 League Season 9
+  description: The ninth season of Czech-Slovakia league will take place over a two
+    months period. The winner will receive prize money upon victory!
+  tournament_url: http://www.dota2league.cz/
+  image_banner: subscriptions_czsk_dota_2_league_season_9_ingame.png
+  image: subscriptions_czsk_dota_2_league_season_9.png
+5273:
+  name: DA 5v5 Team Series 2017
+  description: Show us your teamwork and skills in the DA 5v5 Team Series. Competing
+    with hundreds of teams for a place at the Top.
+  tournament_url: https://www.dota-athletes.com
+  image_banner: subscriptions_da_5v5_team_series_2017_ingame.png
+  image: subscriptions_da_5v5_team_series_2017.png
+5280:
+  name: Go2Olymp Season 2
+  description: "Go2Olymp is excited to announce our new tournament for experienced
+    teams showing off their skills in real battles.\r\n\t\r\n\tTournament format:
+    Single Elimination. A match is won when a team gets its first victory (best of
+    1).\r\n\t\r\n\tWinning team will get $250. Other participants who reach finals
+    and semifinals will also get money prizes."
+  tournament_url: https://go2olymp.com/dota2/tournament/g2o
+  image_banner: subscriptions_go2olymp_season_2_ingame.png
+  image: subscriptions_go2olymp_season_2.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
