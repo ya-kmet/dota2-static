@@ -11519,6 +11519,13 @@
   tournament_url: https://go2olymp.com/dota2/tournament/g2o
   image_banner: subscriptions_go2olymp_season_2_ingame.png
   image: subscriptions_go2olymp_season_2.png
+5316:
+  name: Kiev Major Open Qualifier
+  description: 'Witness teams from all around the world compete for a place at The
+    Kiev Major 2017. '
+  tournament_url: http://blog.dota2.com/2017/02/kiev-major-dates-and-tickets/
+  image_banner: kiev_ticket_ingame.png
+  image: 
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
