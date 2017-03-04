@@ -11459,6 +11459,20 @@
   tournament_url: http://cyber-eesti.eu/node/18
   image_banner: subscriptions_cybereesti_spring_2017_ingame.png
   image: subscriptions_cybereesti_spring_2017.png
+5175:
+  name: The Final Match 2017
+  description: 'The Final Match es un torneo sudamericano nunca antes visto a nivel
+    sudamerica con un premio base de mas de 50,000 dolares en efectivo. '
+  tournament_url: http://www.thefinalmatch.com
+  image_banner: subscriptions_the_final_match_2017_ingame.png
+  image: subscriptions_the_final_match_2017.png
+5187:
+  name: GosuLatam Tournament
+  description: Gosulatam is a single elimination tournament for eight up-and-coming
+    LATAM  teams
+  tournament_url: http://gosulatam.com/
+  image_banner: subscriptions_gosulatam_tournament_ingame.png
+  image: subscriptions_gosulatam_tournament.png
 5189:
   name: Echo League Season 1
   description: Welcome to Echo League!  A free-to-join amateur DotA 2 League for players
@@ -11482,6 +11496,20 @@
   tournament_url: https://www.faceit.com/en/dota2/tournament/10a8c67d-abeb-45a1-9cbd-d27cb499f8e6
   image_banner: subscriptions_arrow_esports_season_8_ingame.png
   image: subscriptions_arrow_esports_season_8.png
+5227:
+  name: ProDotA Cup by Azubu
+  description: A monthly Cup for tier 2 teams by two regions to fight for the title
+    and the 5.000$ prize pool for each region.
+  tournament_url: http://prodota.eu/pdcup
+  image_banner: 
+  image: subscriptions_prodota_cup_by_azubu.png
+5237:
+  name: AD2L Season 15
+  description: "Our goal at AD2L is to bring high quality events to those that need
+    them the most - amateur DotA players. \r\n\t\r\n\tCome join us for our 15th Season. "
+  tournament_url: https://dota.playon.gg/seasons
+  image_banner: subscriptions_ad2l_season_15_ingame.png
+  image: subscriptions_ad2l_season_15.png
 5244:
   name: 'Juggernaut Gaming #1 Supported by UniPin and Gomers'
   description: 'Juggernaut Gaming Tournament #1 Supported by UniPin and Gomers'
@@ -11495,6 +11523,13 @@
   tournament_url: http://www.ligagame.com/esports/index.php?threads/unjedoto-online-tournament-season-2.4556/
   image_banner: subscriptions_unjedoto_tournament_season_2_ingame.png
   image: subscriptions_unjedoto_tournament_season_2.png
+5268:
+  name: GCDL Season 11
+  description: 'Gamer.LK proudly presents Season 11 of the Gamer.LK Clans DOTA 2 League
+    (GCDL) - the longest running online league of its kind in Sri Lanka! '
+  tournament_url: http://gamer.lk/gcdl
+  image_banner: subscriptions_gcdl_season_11_ingame.png
+  image: subscriptions_gcdl_season_11.png
 5270:
   name: CZ-SK Dota 2 League Season 9
   description: The ninth season of Czech-Slovakia league will take place over a two
@@ -11509,6 +11544,12 @@
   tournament_url: https://www.dota-athletes.com
   image_banner: subscriptions_da_5v5_team_series_2017_ingame.png
   image: subscriptions_da_5v5_team_series_2017.png
+5278:
+  name: Illini Esports Dota 2 Tournament
+  description: UIUC Illini Esports Dota 2 Tournament
+  tournament_url: https://illinois.collegiatelink.net/organization/illiniEsports
+  image_banner: subscriptions_illini_esports_dota_2_tournament_ingame.png
+  image: subscriptions_illini_esports_dota_2_tournament.png
 5280:
   name: Go2Olymp Season 2
   description: "Go2Olymp is excited to announce our new tournament for experienced
@@ -11519,6 +11560,49 @@
   tournament_url: https://go2olymp.com/dota2/tournament/g2o
   image_banner: subscriptions_go2olymp_season_2_ingame.png
   image: subscriptions_go2olymp_season_2.png
+5291:
+  name: DotaPy Season 3
+  description: Â¡La tercera ediciÃ³n del DotaPy Seasons estÃ¡ de regreso!
+  tournament_url: http://www.dotapy.com/season-3/
+  image_banner: subscriptions_dotapy_season_3_ingame.png
+  image: subscriptions_dotapy_season_3.png
+5292:
+  name: Hungarian Dota 2 League Season Two
+  description: "Welcome to the Hungarian DOTA 2 League Tournament site!  HD2L is a
+    start up hosted by the Hungarian DOTA 2 community. \r\n\t\r\n\tThe placement rounds
+    have passed and the 26 teams that qualified have been assigned to divisions accordingly.\r\n\t\r\n\tIn
+    order to help with the organization of this tournament, we have started this website.
+    \ Here you will find information about the league, your upcoming fixtures and
+    help facilitate communication with other teams.\r\n\t\r\n\tWe kindly ask all participants
+    to read the game regulations linked below.\r\n\t\r\n\tYou can find information,
+    rules and regulations on the website: https://www.facebook.com/hd2lpage/\r\n\t\r\n\tWe
+    are extremely grateful for the huge amount of interest in this tournament and
+    would like to thank all league participants.\r\n\t\r\n\tWe hope You are as excited
+    as we are!  \r\n\t\r\n\tSee you at the competition!\r\n\t\r\n\tAdmins of -HD2L-"
+  tournament_url: https://www.toornament.com/tournaments/587e3da5150ba0ad4b8b4593/information
+  image_banner: subscriptions_hungarian_dota_2_league_season_two_ingame.png
+  image: subscriptions_hungarian_dota_2_league_season_two.png
+5294:
+  name: Reflex Amateur League
+  description: Play Dota2 for prizes and items with Reflex!
+  tournament_url: http://www.reflexgaming.io
+  image_banner: subscriptions_reflex_amateur_league_ingame.png
+  image: subscriptions_reflex_amateur_league.png
+5300:
+  name: WLDL 2017
+  description: A series of casual, flame-free tournaments put on by the WeLikeDota
+    community. To learn more about the show or the community visit welikedota.reddit.com.
+  tournament_url: http://welikedota.reddit.com
+  image_banner: subscriptions_wldl_2017_ingame.png
+  image: subscriptions_wldl_2017.png
+5301:
+  name: 'High School Starleague Spring Season 2017 '
+  description: The High School Starleague (HSL) is the premiere high school gaming
+    tournament in North America, encompassing 7,000 schools and 30,000 students to
+    date. Sign up and compete in the largest high school tournament in existence!
+  tournament_url: http://dota2.hsstarleague.com/
+  image_banner: subscriptions_high_school_starleague_spring_season_2017__ingame.png
+  image: subscriptions_high_school_starleague_spring_season_2017_.png
 5316:
   name: Kiev Major Open Qualifier
   description: 'Witness teams from all around the world compete for a place at The
