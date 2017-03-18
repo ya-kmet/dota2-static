@@ -11447,6 +11447,24 @@
   tournament_url: http://www.reddit.com/r/redditdota2league/
   image_banner: subscriptions_rd2l_season_11_ingame.png
   image: subscriptions_rd2l_season_11.png
+5125:
+  name: AEF Season 1
+  description: The Australia Esports Federation (AEF) Season 1 League is open to all
+    teams from Australia, New Zealand and South East Asian regions. All teams will
+    play a qualifying tournament where the best 8 teams will be determined and placed
+    into Division 1. The main tournament will be played in a double round robin format
+    over a 14 week period with the winning team receiving $4000 AUD, second receiving
+    $2000 AUD and third receiving $1000 AUD.
+  tournament_url: http://www.australiaesports.net
+  image_banner: subscriptions_aef_season_1_ingame.png
+  image: subscriptions_aef_season_1.png
+5154:
+  name: Sunrise Challenge
+  description: The biggest Far East e-sports festival. Check out the latest news on
+    sunrisecup.ru
+  tournament_url: https://sunrisecup.ru/
+  image_banner: subscriptions_sunrise_challenge_ingame.png
+  image: subscriptions_sunrise_challenge.png
 5157:
   name: Kiev Major
   description: Kiev Major
@@ -11516,6 +11534,14 @@
   tournament_url: http://www.ligagame.com/esports/index.php
   image_banner: subscriptions_juggernaut_gaming_1_supported_by_unipin_and_gomers_ingame.png
   image: subscriptions_juggernaut_gaming_1_supported_by_unipin_and_gomers.png
+5255:
+  name: The Last Spartans v Flair Gaming League
+  description: Brought to you by Fox Gaming, The Last Spartans and Flair Gaming will
+    have their DotA 2 teams battle it out in a Round Robin tournament to see which
+    team is the strongest.
+  tournament_url: https://twitter.com/TheLastSpartans
+  image_banner: subscriptions_the_last_spartans_v_flair_gaming_league_ingame.png
+  image: subscriptions_the_last_spartans_v_flair_gaming_league.png
 5266:
   name: Unjedoto Tournament Season 2
   description: Indonesian DOTA 2 Online Tournament. Presented by Unjedoto. Supported
@@ -11603,6 +11629,25 @@
   tournament_url: http://dota2.hsstarleague.com/
   image_banner: subscriptions_high_school_starleague_spring_season_2017__ingame.png
   image: subscriptions_high_school_starleague_spring_season_2017_.png
+5304:
+  name: SEA Open Dota2League
+  description: 64 teams from South East Asia fight and return with RM 5,000 prize
+    pool.Your Electronic Sport road start from here ! Organized by First Arrival eSport
+    and Uptech Solution
+  tournament_url: https://www.facebook.com/firstarrival/
+  image_banner: subscriptions_sea_open_dota2league_ingame.png
+  image: subscriptions_sea_open_dota2league.png
+5313:
+  name: Masters Manila 2017
+  description: "We present to you The Masters, a Dota 2 tournament that will gather
+    some of the best in the world.\r\n\t\r\n\tOrganized by the Mineski-Events Team
+    and supported by ESL, featuring a scale fitting for gladiators of the world stage,
+    The Masters will surely change the competitive Dota 2 landscape as we know it.\r\n\t\r\n\tThe
+    first chapter of The Masters opens this May in the Philippines. Who will rise
+    from the rest and be crowned the Manila Masters?"
+  tournament_url: http://www.themasters.gg/
+  image_banner: subscriptions_masters_manila_2017_ingame.png
+  image: subscriptions_masters_manila_2017.png
 5316:
   name: Kiev Major Open Qualifier
   description: 'Witness teams from all around the world compete for a place at The
@@ -11610,6 +11655,28 @@
   tournament_url: http://blog.dota2.com/2017/02/kiev-major-dates-and-tickets/
   image_banner: kiev_ticket_ingame.png
   image: 
+5318:
+  name: Infinite Sky League
+  description: Infinite Sky League is a sixteen-team Southeast Asian tournament with
+    a $25,000 USD prize pool.
+  tournament_url: http://www.mineski.net/events/infinite-sky-league
+  image_banner: subscriptions_infinite_sky_league_ingame.png
+  image: subscriptions_infinite_sky_league.png
+5321:
+  name: Sentinel iCafe Dota 2 Series Tournament
+  description: Big Tournament in Indonesia organized by iCafe. All team will compete
+    for the prizepool and to be a professional team in Indonesia. This Tournament
+    supported by Dota Base Indonesia & Medan Gamers.
+  tournament_url: http://dota2indonesiatv.co.id/
+  image_banner: subscriptions_sentinel_icafe_dota_2_series_tournament_ingame.png
+  image: subscriptions_sentinel_icafe_dota_2_series_tournament.png
+5329:
+  name: Radiance Dota 2 -2017
+  description: Zon@ Cybers returns to this 2017 with Radiance Dota 2, participate
+    in which 24 teams with end face to face Ecuador in Quito.
+  tournament_url: http://zonacybers.com/
+  image_banner: subscriptions_radiance_dota_2_2017_ingame.png
+  image: subscriptions_radiance_dota_2_2017.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The

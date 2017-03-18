@@ -4545,7 +4545,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6362:
   internal_name: special_bonus_unique_broodmother_4
-  name: "+12 Spiderlings Attack Damage"
+  name: "+12 Spiders Attack Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6259:
   internal_name: special_bonus_unique_chen_1
