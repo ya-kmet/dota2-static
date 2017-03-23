@@ -4055,6 +4055,10 @@
   internal_name: special_bonus_unique_furion
   name: 2x Treant HP/Damage
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6500:
+  internal_name: special_bonus_unique_furion_2
+  name: "+4 Treants Summoned"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6227:
   internal_name: special_bonus_unique_phoenix_1
   name: "+2 Supernova Hit Count"
@@ -4065,7 +4069,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6401:
   internal_name: special_bonus_unique_phoenix_3
-  name: "+50 Fire Spirits DPS"
+  name: "+65 Fire Spirits DPS"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6331:
   internal_name: special_bonus_unique_enchantress_1
@@ -4561,7 +4565,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6261:
   internal_name: special_bonus_unique_lone_druid_1
-  name: "+30 Spirit Bear Damage"
+  name: "+50 Spirit Bear Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6262:
   internal_name: special_bonus_unique_lone_druid_2
