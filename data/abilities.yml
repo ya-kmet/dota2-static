@@ -2915,6 +2915,10 @@
   internal_name: special_bonus_mp_200
   name: "+200 Mana"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6504:
+  internal_name: special_bonus_mp_225
+  name: "+225 Mana"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6006:
   internal_name: special_bonus_mp_250
   name: "+250 Mana"
@@ -3378,6 +3382,10 @@
 6175:
   internal_name: special_bonus_armor_15
   name: "+15 Armor"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6503:
+  internal_name: special_bonus_armor_20
+  name: "+20 Armor"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5935:
   internal_name: special_bonus_magic_resistance_5
@@ -3905,7 +3913,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6045:
   internal_name: special_bonus_unique_sven
-  name: "-6s Storm Hammer Cooldown"
+  name: "-8s Storm Hammer Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6047:
   internal_name: special_bonus_unique_dark_seer
@@ -3930,6 +3938,10 @@
 6295:
   internal_name: special_bonus_unique_shadow_shaman_2
   name: "+3s Shackles Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6502:
+  internal_name: special_bonus_unique_shadow_shaman_3
+  name: "+350 Ether Shock Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6053:
   internal_name: special_bonus_unique_warlock_1
@@ -3989,7 +4001,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6068:
   internal_name: special_bonus_unique_bane_1
-  name: "+75 Enfeeble Damage Reduction"
+  name: "+90 Enfeeble Damage Reduction"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6069:
   internal_name: special_bonus_unique_bane_2
@@ -4033,11 +4045,11 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6371:
   internal_name: special_bonus_unique_doom_5
-  name: "+35 Doom DPS"
+  name: "+40 Doom DPS"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6082:
   internal_name: special_bonus_unique_brewmaster
-  name: "+20 Primal Split Unit Armor"
+  name: "+2000 Health to Primal Split Units"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6359:
   internal_name: special_bonus_unique_brewmaster_2
@@ -4049,7 +4061,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6360:
   internal_name: special_bonus_unique_bristleback_2
-  name: "+20 Quill Stack Damage"
+  name: "+25 Quill Stack Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6084:
   internal_name: special_bonus_unique_furion
@@ -4077,7 +4089,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6086:
   internal_name: special_bonus_unique_enchantress_2
-  name: "+7 Nature's Attendants Wisps"
+  name: "+8 Nature's Attendants Wisps"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6379:
   internal_name: special_bonus_unique_enchantress_3
@@ -4291,6 +4303,10 @@
   internal_name: special_bonus_unique_zeus
   name: "+2% Static Field Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6501:
+  internal_name: special_bonus_unique_zeus_2
+  name: "+75 Arc Lightning Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6171:
   internal_name: special_bonus_unique_elder_titan
   name: "+100 Astral Spirit Hero Attack"
@@ -4345,7 +4361,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6367:
   internal_name: special_bonus_unique_death_prophet_2
-  name: "-1s Crypt Swarm Cooldown"
+  name: "-1.5s Crypt Swarm Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6192:
   internal_name: special_bonus_unique_phantom_assassin
@@ -4381,7 +4397,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6390:
   internal_name: special_bonus_unique_magnus_2
-  name: "+15% Empower Damage/Cleave"
+  name: "+10% Empower Damage/Cleave"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6202:
   internal_name: special_bonus_unique_drow_ranger_1
@@ -4509,7 +4525,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6238:
   internal_name: special_bonus_unique_pugna_2
-  name: "+125 Nether Blast Damage"
+  name: "+150 Nether Blast Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6403:
   internal_name: special_bonus_unique_pugna_3
@@ -4541,7 +4557,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6258:
   internal_name: special_bonus_unique_broodmother_2
-  name: "+200 Spiders Health"
+  name: "+225 Spiders Health"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6361:
   internal_name: special_bonus_unique_broodmother_3
