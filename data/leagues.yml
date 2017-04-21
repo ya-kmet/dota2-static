@@ -11499,6 +11499,13 @@
   tournament_url: https://echoleague.gg
   image_banner: subscriptions_echo_league_season_1_ingame.png
   image: subscriptions_echo_league_season_1.png
+5196:
+  name: Dota 2 BEAT Invitational Season 8
+  description: Dota 2 BEAT Invitational returns for it's 8th season! Featuring some
+    of the finest teams from North and South America battling it out.
+  tournament_url: https://beat.gl
+  image_banner: subscriptions_dota_2_beat_invitational_season_8_ingame.png
+  image: subscriptions_dota_2_beat_invitational_season_8.png
 5197:
   name: Dota 2 Asia Championships 2017
   description: Dota 2 Asia Championships returns in 2017! 12 top teams from the world
@@ -11521,6 +11528,14 @@
   tournament_url: http://prodota.eu/pdcup
   image_banner: 
   image: subscriptions_prodota_cup_by_azubu.png
+5233:
+  name: 'Dota 2 The Open Tournament '
+  description: "The Open Tournament ,presented by My Arena is the first step in Thailand
+    to be a pro player . At the end of the season, the top players will get prize
+    rewards.\r\n\t"
+  tournament_url: http://esports.myarenaonline.com/tournament/203
+  image_banner: subscriptions_dota_2_the_open_tournament__ingame.png
+  image: subscriptions_dota_2_the_open_tournament_.png
 5237:
   name: AD2L Season 15
   description: "Our goal at AD2L is to bring high quality events to those that need
@@ -11677,6 +11692,79 @@
   tournament_url: http://zonacybers.com/
   image_banner: subscriptions_radiance_dota_2_2017_ingame.png
   image: subscriptions_radiance_dota_2_2017.png
+5336:
+  name: DreamLeague season 7
+  description: "DreamLeague returns with season 7 and fresh memes! \r\n\tThe league
+    expands with a north american division and playoffs at DreamHack Atlanta on July
+    21-22"
+  tournament_url: http://dreamleague.dreamhack.com/
+  image_banner: subscriptions_dreamleague_season_7_ingame.png
+  image: subscriptions_dreamleague_season_7.png
+5353:
+  name: 'EPICENTER: Moscow Season 2'
+  description: World's top teams will rumble for the $500 000 prize pool in Moscow.
+    Again.
+  tournament_url: http://epicenter.gg
+  image_banner: subscriptions_epicenter_moscow_season_2_ingame.png
+  image: subscriptions_epicenter_moscow_season_2.png
+5374:
+  name: Godlike Dota 2 Online Tournament
+  description: Indonesian Dota 2 Online Tournament Season 1. Presented by Godlike
+    Dota. Supported by Unjedoto.
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/godlike-dota-online-tournament-prize-pool-idr-3-000-000-21-23-april-2017.5655/
+  image_banner: subscriptions_godlike_dota_2_online_tournament_ingame.png
+  image: subscriptions_godlike_dota_2_online_tournament.png
+5375:
+  name: Spring Cup
+  description: A battle for the title of Spring Cup Champions.
+  tournament_url: http://www.dotaplayofficial.com/spring-cup
+  image_banner: subscriptions_spring_cup_ingame.png
+  image: subscriptions_spring_cup.png
+5380:
+  name: Tver Cup Team
+  description: A team battle for the Tver Cup
+  tournament_url: http://www.dotaplayofficial.com/tver-cup-team
+  image_banner: subscriptions_tver_cup_team_ingame.png
+  image: subscriptions_tver_cup_team.png
+5381:
+  name: CyberMIPT Cup
+  description: The Dota 2 CyberMIPT is the the most interesting game event within
+    the framework of the Days of Physics MIPT 2017. Immerse yourself in the exciting
+    atmosphere of the games between the strongest teams of Fiztekh for a prize fund
+    of 30 thousand rubles!
+  tournament_url: http://cybermipt.ru/
+  image_banner: subscriptions_cybermipt_cup_ingame.png
+  image: subscriptions_cybermipt_cup.png
+5385:
+  name: Zen iCafe Dota 2 LAN Tournament @Jogja
+  description: "Grand Opening 1st iCafe @Jogja : ZEN.Net Cybercafe\r\n\tPrizepool
+    : Rp 7.500.000"
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/zen-icafe-dota-2-lan-tournament-jogja-28-29-april-2017-pp-7-5jt-fee-50k-slot.5874/
+  image_banner: subscriptions_zen_icafe_dota_2_lan_tournament_jogja_ingame.png
+  image: subscriptions_zen_icafe_dota_2_lan_tournament_jogja.png
+5386:
+  name: Vandoors Online Tournament
+  description: Indonesian Dota 2 Tournament who supported by UNJEDOTO
+  tournament_url: http://www.ligagame.com/esports/index.php?threads/vandoors-e-sport-dota-2-tournament-28-april-1-mei-2017-prizepool-rp-1-800-000-50k-slot.5014/
+  image_banner: subscriptions_vandoors_online_tournament_ingame.png
+  image: subscriptions_vandoors_online_tournament.png
+5392:
+  name: Niu League 2017 Season 2
+  description: Niu-League is organized by NiugamesÂ® facing the Chinese professional
+    team and quasi-professional team
+  tournament_url: http://niu-league.com/
+  image_banner: subscriptions_niu_league_2017_season_2_ingame.png
+  image: subscriptions_niu_league_2017_season_2.png
+5396:
+  name: Zotac Cup Masters
+  description: The ZOTAC CUP MASTERS is a grand stage where only the best pro teams
+    push their limits in skill to rise to the top all while the world watches. Open
+    to any to take the challenge and show to all that they have what it takes to be
+    one of the best, teams battle to rise to the top through a series of ZOTAC CUP
+    qualifiers building up to a ZOTAC CUP MASTERS live event where the best meet best.
+  tournament_url: https://battlefy.com/zotaccupmasters
+  image_banner: subscriptions_zotac_cup_masters_ingame.png
+  image: subscriptions_zotac_cup_masters.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
