@@ -11707,6 +11707,14 @@
   tournament_url: http://epicenter.gg
   image_banner: subscriptions_epicenter_moscow_season_2_ingame.png
   image: subscriptions_epicenter_moscow_season_2.png
+5364:
+  name: SL i-League Invitational Season 2
+  description: StarLadder and ImbaTV present a new season of the international tournament
+    SL i-League Invitational. Watch us and support your favourite teams from the whole
+    globe in their fight for 100,000 USD prize pool!
+  tournament_url: http://www.starladder.com
+  image_banner: subscriptions_sl_ileague_invitational_season_2_ingame.png
+  image: subscriptions_sl_ileague_invitational_season_2.png
 5374:
   name: Godlike Dota 2 Online Tournament
   description: Indonesian Dota 2 Online Tournament Season 1. Presented by Godlike
