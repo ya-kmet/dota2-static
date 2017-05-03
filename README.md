@@ -1,13 +1,13 @@
-[![Build Status](https://travis-ci.org/godjo/dota2-static.svg?branch=master)](https://travis-ci.org/godjo/dota2-static)
-[![GitHub version](https://badge.fury.io/gh/godjo%2Fdota2-static.svg)](http://badge.fury.io/gh/godjo%2Fdota2-static)
+[![Build Status](https://travis-ci.org/godjo/dota2-static.svg?branch=master)](https://travis-ci.org/ya-kmet/dota2-static)
+[![GitHub version](https://badge.fury.io/gh/ya-kmet%2Fdota2-static.svg)](http://badge.fury.io/gh/ya-kmet%2Fdota2-static)
 
 # Dota2::Static
 
 This gem provides Dota 2 ingame static data and images for Rails applications.
 
-All data are collected using Dotabuff repositories [d2vpk](https://github.com/dotabuff/d2vpk) and 
-[dota-econ-leagues](https://github.com/dotabuff/dota-econ-leagues) and updated automatically shortly after dotabuff 
-commits changes. All images are downloaded from Steam CDNs, except leagues images that are taken from Dota 2 client 
+All data are collected using Dotabuff repositories [d2vpk](https://github.com/dotabuff/d2vpk) and
+[dota-econ-leagues](https://github.com/dotabuff/dota-econ-leagues) and updated automatically shortly after dotabuff
+commits changes. All images are downloaded from Steam CDNs, except leagues images that are taken from Dota 2 client
 files.
 
 ## Installation
