@@ -35,7 +35,7 @@ describe Dota2::Static::Hero do
     end
 
     it 'assigns abilities with proper values' do
-      expect(@hero.abilities.size).to eq(4)
+      expect(@hero.abilities.size).to eq(12)
       expect(@hero.abilities.first).to be_a Dota2::Static::Ability
     end
 
