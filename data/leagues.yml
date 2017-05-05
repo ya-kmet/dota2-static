@@ -11773,6 +11773,12 @@
   tournament_url: https://battlefy.com/zotaccupmasters
   image_banner: subscriptions_zotac_cup_masters_ingame.png
   image: subscriptions_zotac_cup_masters.png
+5401:
+  name: The International 2017
+  description: http://steamcommunity.com/sharedfiles/filedetails/?id=876336836
+  tournament_url: http://www.dota2.com
+  image_banner: 
+  image: 
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
