@@ -11700,6 +11700,19 @@
   tournament_url: http://dreamleague.dreamhack.com/
   image_banner: subscriptions_dreamleague_season_7_ingame.png
   image: subscriptions_dreamleague_season_7.png
+5340:
+  name: SEA vs AUS Invitational
+  description: The SEA vs AUS Invitational is a cross-regional tournament that allows
+    the top teams from SEA to complete against the top teams of Australia. The 4 best
+    teams from each of the regions are invited to participate in this single elimination
+    tournament held over 2 days with a total prize pool of $5000. In the first round,
+    all matches will be a SEA team facing off against an Australian team. Matches
+    are played in a best of 3 format with the final played in a best of 5. If a SEA
+    team is playing against an Australian team, then each team will have the opportunity
+    to choose the server, with the deciding match played on the SEA servers.
+  tournament_url: http://www.australiaesports.net
+  image_banner: subscriptions_sea_vs_aus_invitational_ingame.png
+  image: subscriptions_sea_vs_aus_invitational.png
 5353:
   name: 'EPICENTER: Moscow Season 2'
   description: World's top teams will rumble for the $500 000 prize pool in Moscow.
@@ -11743,6 +11756,14 @@
   tournament_url: http://cybermipt.ru/
   image_banner: subscriptions_cybermipt_cup_ingame.png
   image: subscriptions_cybermipt_cup.png
+5383:
+  name: AD2L Season 16
+  description: 'This is the 16th Season of AD2L Leagues. Each league runs for about
+    two months and caters to three different skill groups (pro, amateur, and novice)
+    depending on skill level. '
+  tournament_url: https://dota.playon.gg/seasons
+  image_banner: subscriptions_ad2l_season_16_ingame.png
+  image: subscriptions_ad2l_season_16.png
 5385:
   name: Zen iCafe Dota 2 LAN Tournament @Jogja
   description: "Grand Opening 1st iCafe @Jogja : ZEN.Net Cybercafe\r\n\tPrizepool
@@ -11756,6 +11777,12 @@
   tournament_url: http://www.ligagame.com/esports/index.php?threads/vandoors-e-sport-dota-2-tournament-28-april-1-mei-2017-prizepool-rp-1-800-000-50k-slot.5014/
   image_banner: subscriptions_vandoors_online_tournament_ingame.png
   image: subscriptions_vandoors_online_tournament.png
+5388:
+  name: KOD League 2017
+  description: Kings of Dota is a professional league in America.
+  tournament_url: http://www.kingsofdota.com
+  image_banner: subscriptions_kod_league_2017_ingame.png
+  image: subscriptions_kod_league_2017.png
 5392:
   name: Niu League 2017 Season 2
   description: Niu-League is organized by NiugamesÂ® facing the Chinese professional
@@ -11773,12 +11800,64 @@
   tournament_url: https://battlefy.com/zotaccupmasters
   image_banner: subscriptions_zotac_cup_masters_ingame.png
   image: subscriptions_zotac_cup_masters.png
+5400:
+  name: EU DotA Cup
+  description: 'The EU DotA Cup: A competitive, weekly tournament for amateur teams
+    and players of all skill levels!'
+  tournament_url: http://dotacup.eu/
+  image_banner: subscriptions_eu_dota_cup_ingame.png
+  image: subscriptions_eu_dota_cup.png
 5401:
   name: The International 2017
-  description: http://steamcommunity.com/sharedfiles/filedetails/?id=876336836
+  description: 
   tournament_url: http://www.dota2.com
   image_banner: 
   image: 
+5404:
+  name: U Tournament
+  description: "The tournament for University degree, our hope of this tournament
+    is increase the relationship between the University and increase player's skill
+    before upgrade to professional degree.\r\n\t\r\n\tWhich University will win!!"
+  tournament_url: https://www.beyondgodlike.net/
+  image_banner: subscriptions_u_tournament_ingame.png
+  image: subscriptions_u_tournament.png
+5407:
+  name: ESL India Premiership - 2017 Edition
+  description: "After a successful first year, the flagship tournament for esports
+    in India, the ESL India Premiership is all set to return for an even bigger second
+    year. \r\n\t\r\n\tESL India Premiership is a mix of online and offline tournaments,
+    with over 40,000 USD prize pool, daily content, cosplay competition and much more.
+    \r\n\t\r\n\tSo, are you ready for the eSports revolution in India? Grab your gear
+    and register yourself today! \r\n\t\r\n\thttp://pro.eslgaming.com/india/"
+  tournament_url: http://pro.eslgaming.com/india/gate/
+  image_banner: subscriptions_esl_india_premiership__2017_edition_ingame.png
+  image: subscriptions_esl_india_premiership__2017_edition.png
+5413:
+  name: WUCG
+  description: The World University Student E-Sports League (WUCG) was founded in
+    2016 by the Chinese University Student E-Sports League (UCG). As the most influential
+    college competition in the country, WUCG adhered to the concept of college students
+    achieving the dream of science and technology, the principles of college event
+    quality, and actively built the global university competition
+  tournament_url: http://www.chinaesport.com
+  image_banner: subscriptions_wucg_ingame.png
+  image: subscriptions_wucg.png
+5418:
+  name: WCA Tournament Platform Classic
+  description: WCA 2017 returns . WCA Tournament Platform Classic winners of  will
+    meet and compete for $760,000 at the LAN finals in Yinchuan in this December.
+    This League is World Cyber Arena 2017 Grand Finals
+  tournament_url: http://www.wca.com.cn/index.html
+  image_banner: subscriptions_wca_tournament_platform_classic_ingame.png
+  image: subscriptions_wca_tournament_platform_classic.png
+5420:
+  name: AFM Dota 2 Tournament
+  description: This tournament for Indonesia teams. All team will compete for the
+    prizepool, this tournament created by AFM Event Organizer and suppported by Dota
+    Base Indonesia, Dota 2 Indonesia, and Dota 2 Indonesia TV.
+  tournament_url: http://dota2indonesiatv.com/
+  image_banner: subscriptions_afm_dota_2_tournament_ingame.png
+  image: subscriptions_afm_dota_2_tournament.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
