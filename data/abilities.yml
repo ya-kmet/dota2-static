@@ -4089,7 +4089,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6070:
   internal_name: special_bonus_unique_nevermore_2
-  name: "+125 Shadow Raze Damage"
+  name: "+150 Shadow Raze Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6071:
   internal_name: special_bonus_unique_templar_assassin
@@ -4741,7 +4741,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6259:
   internal_name: special_bonus_unique_chen_1
-  name: "+2 Holy Persuation Max Count"
+  name: "+2 Holy Persuasion Max Count"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6260:
   internal_name: special_bonus_unique_chen_2
