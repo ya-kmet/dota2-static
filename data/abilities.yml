@@ -4753,7 +4753,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6535:
   internal_name: special_bonus_unique_chen_4
-  name: "+1000 Creep Health"
+  name: "+1000 Creep Min Health"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6261:
   internal_name: special_bonus_unique_lone_druid_1
