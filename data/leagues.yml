@@ -11477,6 +11477,13 @@
   tournament_url: http://cyber-eesti.eu/node/18
   image_banner: subscriptions_cybereesti_spring_2017_ingame.png
   image: subscriptions_cybereesti_spring_2017.png
+5174:
+  name: Reincarnation Cup
+  description: Amateur teams CIS and Ukraine will compete for a cash prize and the
+    title of winner of the tournament!
+  tournament_url: https://reincarnation-cup.jimdo.com/
+  image_banner: subscriptions_reincarnation_cup_ingame.png
+  image: subscriptions_reincarnation_cup.png
 5175:
   name: The Final Match 2017
   description: 'The Final Match es un torneo sudamericano nunca antes visto a nivel
@@ -11549,6 +11556,16 @@
   tournament_url: http://www.ligagame.com/esports/index.php
   image_banner: subscriptions_juggernaut_gaming_1_supported_by_unipin_and_gomers_ingame.png
   image: subscriptions_juggernaut_gaming_1_supported_by_unipin_and_gomers.png
+5252:
+  name: Dota German League - Season 2
+  description: "Professional  Dota German League\r\n\t\r\n\tLIONSKY is hosting the
+    first installment of the SAE Institute League, a national Dota 2 League for Professionals
+    and those who want to join their ranks. The prizepool is 30000.- EUR for the first
+    division, as well as products for the second. 12 teams are fighting it out for
+    11 weeks in a Round Robin format who will get to take home the big bucks."
+  tournament_url: http://swissdc.world/
+  image_banner: subscriptions_dota_german_league__season_2_ingame.png
+  image: subscriptions_dota_german_league__season_2.png
 5255:
   name: The Last Spartans v Flair Gaming League
   description: Brought to you by Fox Gaming, The Last Spartans and Flair Gaming will
@@ -11557,6 +11574,16 @@
   tournament_url: https://twitter.com/TheLastSpartans
   image_banner: subscriptions_the_last_spartans_v_flair_gaming_league_ingame.png
   image: subscriptions_the_last_spartans_v_flair_gaming_league.png
+5263:
+  name: Dota Swiss League - Season 3
+  description: Professional Dota Swiss League LIONSKY is hosting the first installment
+    of the SAE Institute League, a national Dota 2 League for Professionals and those
+    who want to join their ranks. The prizepool is 30000.- CHF for the first division,
+    as well as products for the second. 12 teams are fighting it out for 11 weeks
+    in a Round Robin format who will get to take home the big bucks.
+  tournament_url: http://swissdc.world/
+  image_banner: subscriptions_dota_swiss_league__season_3_ingame.png
+  image: 
 5266:
   name: Unjedoto Tournament Season 2
   description: Indonesian DOTA 2 Online Tournament. Presented by Unjedoto. Supported
@@ -11677,6 +11704,12 @@
   tournament_url: http://www.mineski.net/events/infinite-sky-league
   image_banner: subscriptions_infinite_sky_league_ingame.png
   image: subscriptions_infinite_sky_league.png
+5320:
+  name: WhiteNet Fun Dota 2 Tournament
+  description: a mini tournament presented by White Net
+  tournament_url: https://www.toornament.com/tournaments/464693264909991936/information
+  image_banner: subscriptions_whitenet_fun_dota_2_tournament_ingame.png
+  image: subscriptions_whitenet_fun_dota_2_tournament.png
 5321:
   name: Sentinel iCafe Dota 2 Series Tournament
   description: Big Tournament in Indonesia organized by iCafe. All team will compete
@@ -11720,6 +11753,17 @@
   tournament_url: http://epicenter.gg
   image_banner: subscriptions_epicenter_moscow_season_2_ingame.png
   image: subscriptions_epicenter_moscow_season_2.png
+5358:
+  name: CONQUERORS INSIGNIA MINI (Season 1) Online qualifiers
+  description: "CONQUERORS INSIGNIA MINI (Season 1) Online Qualifiers is a tournament
+    with up to 256 teams and prize-pool of 50000 INR. \r\n\t\r\n\tWinner :-\r\n\t1st
+    - 25000 + Free Travel & Accommodation (ULTIMATE BATTLE)\r\n\t2nd - 15000 + Free
+    Travel & Accommodation (ULTIMATE BATTLE)\r\n\t3rd - 10000\r\n\t\r\n\tThe teams
+    which secure the top 2 positions will be qualified for playoffs in CONQUERORÃ¢Â\x80Â\x99S
+    INSIGNIA - ULTIMATE BATTLE Lan Finals.\r\n\t"
+  tournament_url: http://beta.playtonia.com/
+  image_banner: subscriptions_conquerors_insignia_mini_season_1_online_qualifiers_ingame.png
+  image: subscriptions_conquerors_insignia_mini_season_1_online_qualifiers.png
 5364:
   name: SL i-League Invitational Season 2
   description: StarLadder and ImbaTV present a new season of the international tournament
@@ -11777,6 +11821,17 @@
   tournament_url: http://www.ligagame.com/esports/index.php?threads/vandoors-e-sport-dota-2-tournament-28-april-1-mei-2017-prizepool-rp-1-800-000-50k-slot.5014/
   image_banner: subscriptions_vandoors_online_tournament_ingame.png
   image: subscriptions_vandoors_online_tournament.png
+5387:
+  name: Kings of Dota - Temporada 2
+  description: "Kings of Dota Ã© um torneio amador sediado na cidade de Sete Lagoas/MG,
+    em que reÃºne vÃ¡rios times da regiÃ£o.\r\n\t\r\n\tCom jogos online e a final
+    presencial, estamos na segunda ediÃ§Ã£o que acontecerÃ¡ em Julho de 2017 com 8
+    times, sendo 2 times convidados. (Vencedor do KODota Temporada 1 e Vencedor da
+    Sete Lagoas Dota Cup).\r\n\t\r\n\tMais informaÃ§Ãµes pelo site do evento.\r\n\t\r\n\tTransmissÃµes
+    online: youtube.com/mosqueteiroscyber\r\n\t"
+  tournament_url: http://mosqueteiroscyber.com.br/kodota/
+  image_banner: subscriptions_kings_of_dota__temporada_2_ingame.png
+  image: subscriptions_kings_of_dota__temporada_2.png
 5388:
   name: KOD League 2017
   description: Kings of Dota is a professional league in America.
@@ -11800,6 +11855,15 @@
   tournament_url: https://battlefy.com/zotaccupmasters
   image_banner: subscriptions_zotac_cup_masters_ingame.png
   image: subscriptions_zotac_cup_masters.png
+5399:
+  name: NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles
+  description: "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles.
+    \r\n\tOffering a base prize pool of USD150,000 with 4 invited teams and 4 teams
+    qualifying from the global qualifiers.\r\n\t\r\n\tA premier tournament exclusively
+    brought to you by NESO, Purpose Win, Zeno and Fallout Gaming."
+  tournament_url: http://www.falloutgaming.co
+  image_banner: subscriptions_neso_4th_national_esports_shenzhen_open_tournament_galaxy_battles_ingame.png
+  image: subscriptions_neso_4th_national_esports_shenzhen_open_tournament_galaxy_battles.png
 5400:
   name: EU DotA Cup
   description: 'The EU DotA Cup: A competitive, weekly tournament for amateur teams
@@ -11809,10 +11873,12 @@
   image: subscriptions_eu_dota_cup.png
 5401:
   name: The International 2017
-  description: 
-  tournament_url: http://www.dota2.com
-  image_banner: 
-  image: 
+  description: The top teams in the world compete to claim the ultimate prize--the
+    Aegis of Champions.  The Group Stage runs August 2-5 to determine which 16 teams
+    will compete in the Main Event August 7-12 LIVE from KeyArena in Seattle.
+  tournament_url: http://www.dota2.com/international/overview/
+  image_banner: ti7_ticket_image_ingame.png
+  image: ti7_ticket_image.png
 5404:
   name: U Tournament
   description: "The tournament for University degree, our hope of this tournament
@@ -11832,6 +11898,13 @@
   tournament_url: http://pro.eslgaming.com/india/gate/
   image_banner: subscriptions_esl_india_premiership__2017_edition_ingame.png
   image: subscriptions_esl_india_premiership__2017_edition.png
+5409:
+  name: iGT-League
+  description: The new season of iGT amateur tournament is launch. iGT prepare new
+    Champions! Join us and be a Legend.
+  tournament_url: http://www.igt-league.com/
+  image_banner: subscriptions_igtleague_ingame.png
+  image: subscriptions_igtleague.png
 5413:
   name: WUCG
   description: The World University Student E-Sports League (WUCG) was founded in
@@ -11858,6 +11931,184 @@
   tournament_url: http://dota2indonesiatv.com/
   image_banner: subscriptions_afm_dota_2_tournament_ingame.png
   image: subscriptions_afm_dota_2_tournament.png
+5424:
+  name: Echo League Season 2
+  description: Welcome to Echo League, now back for Season 2!  A free-to-join amateur
+    DotA 2 League for players under 5.5K.  Join one of our three skill divisions and
+    compete through group-stages and a single-elim playoff to try and become our newest
+    Echo League Champion!
+  tournament_url: https://echoleague.gg
+  image_banner: subscriptions_echo_league_season_2_ingame.png
+  image: subscriptions_echo_league_season_2.png
+5432:
+  name: Sunday Evening Amateur League
+  description: The Sunday Evening Amateur League is based in the Pacific Timezone
+    of North America.  Players of all skill levels are formed into teams that compete
+    for roughly three months.
+  tournament_url: http://seal.gg
+  image_banner: subscriptions_sunday_evening_amateur_league_ingame.png
+  image: subscriptions_sunday_evening_amateur_league.png
+5434:
+  name: Blood In The Streets (BITS)
+  description: "BITS is an 8 team double-elimination Dota 2â\x84¢ tournament.\r\n\t$5,000
+    prize pool (1st $2500, 2nd $1500, 3rd $1000). \r\n\t7 invited teams and 1 team
+    selected through open qualifiers."
+  tournament_url: https://bits.firstblood.io
+  image_banner: subscriptions_blood_in_the_streets_bits_ingame.png
+  image: subscriptions_blood_in_the_streets_bits.png
+5436:
+  name: Lenovo Legion Dota 2 Perfect World College League
+  description: Lenovo Legion Dota 2 Perfect World College League 2017 is incoming
+    to select thousands of teams across China. Join the school fellows and compete
+    for a e-sports prize of $30000.
+  tournament_url: http://act.dota2.com.cn/campusleague2017
+  image_banner: subscriptions_lenovo_legion_dota_2_perfect_world_college_league_ingame.png
+  image: subscriptions_lenovo_legion_dota_2_perfect_world_college_league.png
+5437:
+  name: Thanh Nien Game Esports Series
+  description: Thanh Nien Game Esports Series season 1 - Dota 2 Championship by BenQ
+  tournament_url: http://game.thanhnien.vn/
+  image_banner: subscriptions_thanh_nien_game_esports_series_ingame.png
+  image: subscriptions_thanh_nien_game_esports_series.png
+5459:
+  name: Polish DOTA 2 League - Season V
+  description: We are a largest DOTA 2 League in Poland. Free-to-play for any amateur
+    teams with amazing prizes. This season, the top teams will battle at a LAN event
+    on October 21-22 2017, in Warsaw - POLAND.
+  tournament_url: http://pd2l.eu/
+  image_banner: subscriptions_polish_dota_2_league__season_v_ingame.png
+  image: subscriptions_polish_dota_2_league__season_v.png
+5462:
+  name: Niu League 2017 Season 3
+  description: Niu League 2017 Season 3
+  tournament_url: http://niu-esports.com/Niu-League/Niu-League2017Season3.html
+  image_banner: subscriptions_niu_league_2017_season_3_ingame.png
+  image: subscriptions_niu_league_2017_season_3.png
+5466:
+  name: LNEe-WCA America 2017
+  description: LNEe and WCA present a new season of the American tournament LNEe-WCA
+    America 2017. Watch us and support your favourite teams fight fot 50,500 USD prize
+    pool and the first places of North (Central) and South America go to China compete
+    in WCA 2017 International Finals.
+  tournament_url: http://wca.lnee.com.br
+  image_banner: subscriptions_lneewca_america_2017_ingame.png
+  image: subscriptions_lneewca_america_2017.png
+5467:
+  name: CME.GG League SEA
+  description: 'Easy to use matchmaking service for Dota 2. '
+  tournament_url: https://www.challengeme.gg/
+  image_banner: subscriptions_cmegg_league_sea_ingame.png
+  image: subscriptions_cmegg_league_sea.png
+5468:
+  name: CME.GG League EU
+  description: 'Easy to use matchmaking service for Dota 2. '
+  tournament_url: https://www.challengeme.gg/
+  image_banner: subscriptions_cmegg_league_eu_ingame.png
+  image: subscriptions_cmegg_league_eu.png
+5469:
+  name: CME.GG League NA
+  description: 'Easy to use matchmaking service for Dota 2. '
+  tournament_url: https://www.challengeme.gg/
+  image_banner: subscriptions_cmegg_league_na_ingame.png
+  image: subscriptions_cmegg_league_na.png
+5476:
+  name: RD2L Season 12 IHL
+  description: Inhouse games for RD2L Season 12
+  tournament_url: http://www.rd2l.com
+  image_banner: subscriptions_rd2l_season_12_ihl_ingame.png
+  image: subscriptions_rd2l_season_12_ihl.png
+5481:
+  name: CZ-SK Dota 2 League Season 10
+  description: The tenth season of Czech-Slovakia league will take place over a two
+    months period. The winner will receive prize money upon victory!
+  tournament_url: http://www.dota2league.cz/
+  image_banner: subscriptions_czsk_dota_2_league_season_10_ingame.png
+  image: subscriptions_czsk_dota_2_league_season_10.png
+5485:
+  name: ROG MASTERS 2017 Open Qualifier Thailand
+  description: "ROG MASTERS 2017\x80\x93 Open qualifier Thailand.\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t"
+  tournament_url: http://www.online-station.net/rog-masters
+  image_banner: subscriptions_rog_masters_2017_open_qualifier_thailand_ingame.png
+  image: subscriptions_rog_masters_2017_open_qualifier_thailand.png
+5491:
+  name: AEF Season 2
+  description: The Australia Esports Federation (AEF) Season 2 League is open to all
+    teams from Australia, New Zealand and South East Asian regions. Division 1 consists
+    of 7 teams played in a round robin format over 6 weeks. The winning team will
+    receive $2000 AUD, second receiving $1000 AUD and third receiving $500 AUD.
+  tournament_url: http://www.australiaesports.net
+  image_banner: subscriptions_aef_season_2.png
+  image: subscriptions_aef_season_2.png
+5492:
+  name: Faceit League B
+  description: The second part of famous faceit league!
+  tournament_url: https://www.faceit.com/
+  image_banner: subscriptions_faceit_league_b_ingame.png
+  image: subscriptions_faceit_league_b.png
+5498:
+  name: The International 2017 Open Qualifiers
+  description: 
+  tournament_url: http://www.dota2.com
+  image_banner: ti7_ticket_image_ingame.png
+  image: ti7_ticket_image.png
+5503:
+  name: GT Amateur Series
+  description: GT Amateur Series is Indonesia Dota 2 tournament organised by Garuda
+    Tournament. 20 teams will compete and there will be only just one winner to get
+    the prize. Let them prove how strong they are to be the one.
+  tournament_url: http://garudatournament.wordpress.com
+  image_banner: subscriptions_gt_amateur_series_ingame.png
+  image: subscriptions_gt_amateur_series.png
+5504:
+  name: 2017 Mars Dota 2 League
+  description: The 2017 Mars Dota 2 League (MDL) returns with its fifth edition featuring
+    USD$250,000 in prize-money. Eight of the finest teams in the world will meet at
+    the Optics Valley International Tennis Center in Wuhan, China from July 5 to 9.
+    This will be the last chance for these teams to perfect their strategies before
+    The International.
+  tournament_url: http://www.marslive.cn/index.php?g=Portal&m=Level&a=mdl#atj
+  image_banner: subscriptions_2017_mars_dota_2_league_ingame.png
+  image: 2017_marstv_league.png
+5507:
+  name: V Asian Indoor & Martial Arts Games National Qualifications
+  description: 'V Asian Indoor & Martial Arts Games Turkmen National Qualifications. '
+  tournament_url: http://events.esports-asia.org
+  image_banner: subscriptions_v_asian_indoor__martial_arts_games_national_qualifications_ingame.png
+  image: subscriptions_v_asian_indoor__martial_arts_games_national_qualifications.png
+5508:
+  name: Hungarian Dota 2 League Season Three
+  description: "Welcome to the Hungarian DOTA 2 League Tournament site!  HD2L is a
+    start up hosted by the Hungarian DOTA 2 community. \r\n\t\r\n\tThe placement rounds
+    have passed and the 26 teams that qualified have been assigned to divisions accordingly.\r\n\t\r\n\tIn
+    order to help with the organization of this tournament, we have started this website.
+    \ Here you will find information about the league, your upcoming fixtures and
+    help facilitate communication with other teams.\r\n\t\r\n\tWe kindly ask all participants
+    to read the game regulations linked below.\r\n\t\r\n\tYou can find information,
+    rules and regulations on the website: https://www.facebook.com/hd2lpage/\r\n\t\r\n\tWe
+    are extremely grateful for the huge amount of interest in this tournament and
+    would like to thank all league participants.\r\n\t\r\n\tWe hope You are as excited
+    as we are!  \r\n\t\r\n\tSee you at the competition!\r\n\t\r\n\tAdmins of -HD2L-"
+  tournament_url: https://www.toornament.com/tournaments/439909766901915648/information
+  image_banner: subscriptions_hungarian_dota_2_league_season_three_ingame.png
+  image: subscriptions_hungarian_dota_2_league_season_three.png
+5511:
+  name: KOSIKA.NET TOURNAMENT DOTA 2 ONLINE
+  description: "PRIZE POLL : 1.500.000 + 500.000 UC\r\n\tJuara 1. Rp 1.000.000 + 300.000
+    UC\r\n\tJuara 2. Rp 500.000 + 200.000 UC\r\n\tSponsor by Unipin\r\n\t\r\n\tStart
+    14-16 Juli 2017"
+  tournament_url: http://forum.ligagame.tv/index.php?threads/kosika-tournament-mmr-max-4-500-fee-30k-team-14-16-juli-sponsor-by-unipin-prize-1-500-000.6476/
+  image_banner: subscriptions_kosikanet_tournament_dota_2_online_ingame.png
+  image: subscriptions_kosikanet_tournament_dota_2_online.png
+5512:
+  name: World Electronic Sports Games 2017
+  description: 'WESG World Electronic Sports Games (WESG, World Electronic Sports
+    Games), Ali Sports in 2016 to build a world-class tournament system competition,
+    the event covers the world''s 125 countries and regions, the world The total prize
+    money of up to 5.5 million dollars, the participating teams are in the form of
+    national team competition, is the Olympic spirit into the e-sports model. '
+  tournament_url: http://2017.wesg.com/
+  image_banner: subscriptions_world_eletronic_sports_games_ingame.png
+  image: subscriptions_world_eletronic_sports_games.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The

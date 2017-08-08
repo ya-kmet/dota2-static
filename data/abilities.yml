@@ -1847,14 +1847,6 @@
   internal_name: wisp_spirits_out
   name: Spirits Out
   type: 
-5498:
-  internal_name: wisp_empty1
-  name: Spirits In
-  type: 
-5499:
-  internal_name: wisp_empty2
-  name: Spirits Out
-  type: 
 5494:
   internal_name: slark_dark_pact
   name: Dark Pact
@@ -2190,10 +2182,6 @@
 5628:
   internal_name: phoenix_sun_ray_toggle_move
   name: Toggle Movement
-  type: 
-5629:
-  internal_name: phoenix_sun_ray_toggle_move_empty
-  name: ''
   type: 
 5630:
   internal_name: phoenix_supernova
@@ -2995,6 +2983,10 @@
   internal_name: special_bonus_attack_speed_100
   name: "+100 Attack Speed"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6555:
+  internal_name: special_bonus_attack_speed_140
+  name: "+140 Attack Speed"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5909:
   internal_name: special_bonus_hp_regen_4
   name: "+4 Health Regen"
@@ -3215,6 +3207,10 @@
   internal_name: special_bonus_intelligence_13
   name: "+13 Intelligence"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6567:
+  internal_name: special_bonus_intelligence_14
+  name: "+14 Intelligence"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5991:
   internal_name: special_bonus_intelligence_15
   name: "+15 Intelligence"
@@ -3239,6 +3235,10 @@
   internal_name: special_bonus_intelligence_35
   name: "+35 Intelligence"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6565:
+  internal_name: special_bonus_spell_lifesteal_8
+  name: 8% Spell Lifesteal
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6564:
   internal_name: special_bonus_spell_lifesteal_10
   name: 10% Spell Lifesteal
@@ -3258,6 +3258,10 @@
 6513:
   internal_name: special_bonus_spell_lifesteal_30
   name: 30% Spell Lifesteal
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6575:
+  internal_name: special_bonus_spell_lifesteal_60
+  name: 60% Spell Lifesteal
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6061:
   internal_name: special_bonus_spell_lifesteal_70
@@ -4141,7 +4145,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6516:
   internal_name: special_bonus_unique_brewmaster_3
-  name: "+2s Thunderlap Slow"
+  name: "+2s Thunder Clap Slow"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6083:
   internal_name: special_bonus_unique_bristleback
@@ -4249,7 +4253,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6350:
   internal_name: special_bonus_unique_alchemist_2
-  name: "+80 Unstable Concoction Damage"
+  name: "+100 Unstable Concoction Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6102:
   internal_name: special_bonus_unique_axe
@@ -4609,7 +4613,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6313:
   internal_name: special_bonus_unique_lina_2
-  name: "+40/4% Fiery Soul Per Stack"
+  name: "+35/3% Fiery Soul Per Stack"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6388:
   internal_name: special_bonus_unique_lina_3
@@ -4693,11 +4697,11 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6238:
   internal_name: special_bonus_unique_pugna_2
-  name: "+150 Nether Blast Damage"
+  name: "+200 Nether Blast Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6403:
   internal_name: special_bonus_unique_pugna_3
-  name: "+0.5 Netherward Damage Per Mana"
+  name: "+0.75 Netherward Damage Per Mana"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6448:
   internal_name: special_bonus_unique_pugna_4
@@ -4737,7 +4741,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6362:
   internal_name: special_bonus_unique_broodmother_4
-  name: "+12 Spiders Attack Damage"
+  name: "+14 Spiders Attack Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6259:
   internal_name: special_bonus_unique_chen_1

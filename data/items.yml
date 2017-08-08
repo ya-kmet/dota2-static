@@ -85,7 +85,7 @@
   name: Mantle of Intelligence
 16:
   internal_name: branches
-  quality: component
+  quality: consumable
   name: Iron Branch
 17:
   internal_name: belt_of_strength
@@ -189,7 +189,7 @@
   name: Dust of Appearance
 41:
   internal_name: bottle
-  quality: consumable
+  quality: common
   name: Bottle
 42:
   internal_name: ward_observer
@@ -950,7 +950,7 @@
 205:
   internal_name: recipe_rod_of_atos
   quality: 
-  name: recipe_rod_of_atos
+  name: Rod of Atos Recipe
 206:
   internal_name: rod_of_atos
   quality: rare
