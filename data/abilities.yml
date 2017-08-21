@@ -4313,7 +4313,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6130:
   internal_name: special_bonus_unique_nyx
-  name: 200% Spiked Carapace Damage
+  name: "+100% Spiked Carapace Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6399:
   internal_name: special_bonus_unique_nyx_2
@@ -4465,7 +4465,11 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6389:
   internal_name: special_bonus_unique_lion_2
-  name: "+80 Earth Spike Damage "
+  name: "+80 Earth Spike Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6600:
+  internal_name: special_bonus_unique_lion_3
+  name: "+300 Finger of Death Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6181:
   internal_name: special_bonus_unique_skywrath
