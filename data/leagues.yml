@@ -12109,6 +12109,33 @@
   tournament_url: http://2017.wesg.com/
   image_banner: subscriptions_world_eletronic_sports_games_ingame.png
   image: subscriptions_world_eletronic_sports_games.png
+5562:
+  name: ProDotA Cup Series
+  description: ProDotA brings you monthly tier 2 cups with the best teams from EU
+    and SEA/US regions. Teams playing double elimination bracket so you can see more
+    DotA action. Support your favourite by purchasing our ticket
+  tournament_url: http://prodota.eu
+  image_banner: subscriptions_prodota_cup_series_ingame.png
+  image: subscriptions_prodota_cup_series.png
+5579:
+  name: SL i-League Invitational Season 3
+  description: StarLadder and ImbaTV bring you an action-packed top tier international
+    tournament, the SL I-League Invtitaitonal. Witness the mayhem and back your favourite
+    teams from across the globe as they do battle for a piece of the $300,000 prizepool.
+    The action begins on September 11th.
+  tournament_url: https://starladder.com/en/sl-i-league-invitational-s3
+  image_banner: subscriptions_sl_ileague_invitational_season_3_ingame.png
+  image: subscriptions_sl_ileague_invitational_season_3.png
+5582:
+  name: World Cyber Arena 2017 China Qualifiers
+  description: "WCA 2017 China Qualifiers winners will meet and compete for $760,000
+    at the LAN finals in Yinchuan in this December. This League is World Cyber Arena
+    2017\r\n\t\r\n\tWorld Cyber Arena 2017 China Qualifiers Prize Pool.\r\n\t1st:
+    200,000\r\n\t2nd:100,000\r\n\t3rd: 50,000\r\n\tIn total - 350,000  ,equals to
+    $52,700. "
+  tournament_url: http://www.wca.com.cn/index.html
+  image_banner: subscriptions_world_cyber_arena_2017_china_qualifiers_ingame.png
+  image: subscriptions_world_cyber_arena_2017_china_qualifiers.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
