@@ -12136,6 +12136,30 @@
   tournament_url: http://www.wca.com.cn/index.html
   image_banner: subscriptions_world_cyber_arena_2017_china_qualifiers_ingame.png
   image: subscriptions_world_cyber_arena_2017_china_qualifiers.png
+5609:
+  name: ESL One Hamburg 2017
+  description: Experience world class Dota 2 in one of Germany's biggest cities. Your
+    favorite game, teams and players compete in Hamburg for the first time, making
+    it the first Major of the 2017-2018 competitive season!
+  tournament_url: http://de.esl-one.com/dota2/hamburg-2017/
+  image_banner: subscriptions_esl_one_hamburg_2017_ingame.png
+  image: subscriptions_esl_one_hamburg_2017.png
+5616:
+  name: PGL DOTA2 OPEN
+  description: PGL DOTA2 OPEN Bucharest. 8 participating teams . EG and LGD as invited
+    teams, plus 6 teams from regional qualifiers.
+  tournament_url: http://dota2minor.pglesports.com/
+  image_banner: subscriptions_pgl_dota2_open_ingame.png
+  image: subscriptions_pgl_dota2_open.png
+5637:
+  name: Perfect World Masters
+  description: "A brand new tournament from Perfect World is coming! 10 top teams
+    from the world will compete for a prize pool of Â\x84300,000. \r\n\tWhich team
+    will win the first Minor held in China? The question would be answered in late
+    November. \r\n\t"
+  tournament_url: http://act.dota2.com.cn/match
+  image_banner: subscriptions_perfect_world_masters_ingame.png
+  image: subscriptions_perfect_world_masters.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
