@@ -12160,6 +12160,15 @@
   tournament_url: http://act.dota2.com.cn/match
   image_banner: subscriptions_perfect_world_masters_ingame.png
   image: subscriptions_perfect_world_masters.png
+5690:
+  name: AMD SAPPHIRE Dota PIT
+  description: "Building on the global enthusiasm for the Dota PIT Tournament Series,
+    The One Game Agency are excited to announce our upcoming event; AMD SAPPHIRE Dota
+    PIT.\r\n\tThe AMD SAPPHIRE Dota PIT LAN Final is scheduled to take place at the
+    Meridian Lav Hotel on November 2 - 5 2017, Split, Croatia."
+  tournament_url: http://www.dotapit.com
+  image_banner: subscriptions_amd_sapphire_dota_pit_ingame.png
+  image: subscriptions_amd_sapphire_dota_pit.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
