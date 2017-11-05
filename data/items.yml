@@ -50,7 +50,7 @@
 265:
   internal_name: infused_raindrop
   quality: component
-  name: Infused Raindrop
+  name: Infused Raindrops
 244:
   internal_name: wind_lace
   quality: component
@@ -69,7 +69,7 @@
   name: recipe_moon_shard
 247:
   internal_name: moon_shard
-  quality: common
+  quality: consumable
   name: Moon Shard
 13:
   internal_name: gauntlets
@@ -106,7 +106,7 @@
 21:
   internal_name: ogre_axe
   quality: component
-  name: Ogre Club
+  name: Ogre Axe
 22:
   internal_name: blade_of_alacrity
   quality: component
@@ -153,7 +153,7 @@
   name: Talisman of Evasion
 33:
   internal_name: cheese
-  quality: epic
+  quality: consumable
   name: Cheese
 34:
   internal_name: magic_stick
@@ -371,10 +371,6 @@
   internal_name: vladmir
   quality: rare
   name: Vladmir's Offering
-84:
-  internal_name: flying_courier
-  quality: consumable
-  name: Flying Courier
 85:
   internal_name: recipe_buckler
   quality: 
@@ -619,6 +615,50 @@
   internal_name: lotus_orb
   quality: epic
   name: Lotus Orb
+222:
+  internal_name: recipe_meteor_hammer
+  quality: 
+  name: recipe_meteor_hammer
+223:
+  internal_name: meteor_hammer
+  quality: epic
+  name: Meteor Hammer
+224:
+  internal_name: recipe_nullifier
+  quality: 
+  name: Nullifier Recipe
+225:
+  internal_name: nullifier
+  quality: epic
+  name: Nullifier
+255:
+  internal_name: recipe_combo_breaker
+  quality: 
+  name: Aeon Disk Recipe
+256:
+  internal_name: combo_breaker
+  quality: epic
+  name: Aeon Disk
+258:
+  internal_name: recipe_trident
+  quality: 
+  name: recipe_trident
+259:
+  internal_name: trident
+  quality: epic
+  name: Kaya
+260:
+  internal_name: refresher_shard
+  quality: consumable
+  name: Refresher Shard
+266:
+  internal_name: recipe_spirit_vessel
+  quality: 
+  name: recipe_spirit_vessel
+267:
+  internal_name: spirit_vessel
+  quality: rare
+  name: Spirit Vessel
 124:
   internal_name: recipe_vanguard
   quality: 
@@ -847,16 +887,8 @@
   internal_name: recipe_diffusal_blade
   quality: 
   name: Diffusal Blade Recipe
-195:
-  internal_name: recipe_diffusal_blade_2
-  quality: 
-  name: recipe_diffusal_blade_2
 174:
   internal_name: diffusal_blade
-  quality: artifact
-  name: Diffusal Blade
-196:
-  internal_name: diffusal_blade_2
   quality: artifact
   name: Diffusal Blade
 175:

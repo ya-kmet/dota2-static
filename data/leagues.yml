@@ -11630,7 +11630,7 @@
   image: subscriptions_go2olymp_season_2.png
 5291:
   name: DotaPy Season 3
-  description: Â¡La tercera ediciÃ³n del DotaPy Seasons estÃ¡ de regreso!
+  description: "Â¡La tercera ediciÃ³n del DotaPy Seasons estÃ¡ de regreso!"
   tournament_url: http://www.dotapy.com/season-3/
   image_banner: subscriptions_dotapy_season_3_ingame.png
   image: subscriptions_dotapy_season_3.png
@@ -12151,6 +12151,13 @@
   tournament_url: http://dota2minor.pglesports.com/
   image_banner: subscriptions_pgl_dota2_open_ingame.png
   image: subscriptions_pgl_dota2_open.png
+5627:
+  name: DreamLeague season 8
+  description: DreamHack is very proud to present DreamLeague season 7, a Dota 2 major.
+    Played September-December with playoffs on December 1-3 at DreamHack Winter 2017.
+  tournament_url: https://dreamleague.dreamhack.com/
+  image_banner: subscriptions_dreamleague_season_8_ingame.png
+  image: subscriptions_dreamleague_season_8.png
 5637:
   name: Perfect World Masters
   description: "A brand new tournament from Perfect World is coming! 10 top teams
@@ -12160,6 +12167,16 @@
   tournament_url: http://act.dota2.com.cn/match
   image_banner: subscriptions_perfect_world_masters_ingame.png
   image: subscriptions_perfect_world_masters.png
+5638:
+  name: Asus ROG Masters 2017
+  description: This year, from June through November, a new and epic chapter in the
+    ROG MASTERS journey plays out. In 2017 the cross-continent tournament will encompass
+    more than 30 countries, bringing top-tier talent and renowned pro squads in CS:GO
+    and Dota 2. The best teams will split the grand prize pool between them - $250,000
+    for each title.
+  tournament_url: http://www.rog-masters.com/
+  image_banner: subscriptions_asus_rog_masters_2017_ingame.png
+  image: subscriptions_asus_rog_masters_2017.png
 5690:
   name: AMD SAPPHIRE Dota PIT
   description: "Building on the global enthusiasm for the Dota PIT Tournament Series,
