@@ -4153,7 +4153,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6607:
   internal_name: special_bonus_unique_antimage_4
-  name: "+30% Spell Shield"
+  name: "+25% Spell Shield"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6800:
   internal_name: special_bonus_unique_antimage_5
@@ -4329,7 +4329,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6045:
   internal_name: special_bonus_unique_sven
-  name: "-8s Storm Hammer Cooldown"
+  name: "-9s Storm Hammer Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6910:
   internal_name: special_bonus_unique_sven_2
@@ -4465,7 +4465,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6062:
   internal_name: special_bonus_unique_morphling_1
-  name: "+800 Waveform Range"
+  name: "+300 Waveform Range"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6225:
   internal_name: special_bonus_unique_morphling_2
@@ -4482,6 +4482,10 @@
 6927:
   internal_name: special_bonus_unique_morphling_5
   name: Morph Targets Allies
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7052:
+  internal_name: special_bonus_unique_morphling_6
+  name: 2 Waveform Charges
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6063:
   internal_name: special_bonus_unique_leshrac_1
@@ -4829,7 +4833,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6103:
   internal_name: special_bonus_unique_beastmaster
-  name: "+120 Wild Axes Damage"
+  name: "+100 Wild Axes Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6517:
   internal_name: special_bonus_unique_beastmaster_2
@@ -5325,7 +5329,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6182:
   internal_name: special_bonus_unique_medusa
-  name: "+2s Stone Gaze Duration"
+  name: "+2.5s Stone Gaze Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6392:
   internal_name: special_bonus_unique_medusa_2
@@ -5333,7 +5337,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6687:
   internal_name: special_bonus_unique_medusa_3
-  name: "+10% Mystic Snake Mana Steal"
+  name: "+15% Mystic Snake Mana Steal"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6803:
   internal_name: special_bonus_unique_medusa_4
@@ -5405,7 +5409,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6193:
   internal_name: special_bonus_unique_riki_2
-  name: "-4s Smokescreen Cooldown"
+  name: "-5s Smokescreen Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6865:
   internal_name: special_bonus_unique_riki_3
@@ -5489,7 +5493,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6634:
   internal_name: special_bonus_unique_drow_ranger_4
-  name: "+1.5s Gust Duration"
+  name: "+2s Gust Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6203:
   internal_name: special_bonus_unique_earth_spirit
@@ -5929,7 +5933,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 9062:
   internal_name: special_bonus_unique_pangolier_5
-  name: "-12s Rolling Thunder"
+  name: "-16s Rolling Thunder"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6464:
   internal_name: special_bonus_unique_dark_willow_1
