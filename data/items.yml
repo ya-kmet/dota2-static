@@ -632,21 +632,29 @@
   quality: epic
   name: Nullifier
 255:
-  internal_name: recipe_combo_breaker
+  internal_name: recipe_aeon_disk
   quality: 
   name: Aeon Disk Recipe
 256:
-  internal_name: combo_breaker
+  internal_name: aeon_disk
   quality: epic
   name: Aeon Disk
 258:
-  internal_name: recipe_trident
+  internal_name: recipe_kaya
   quality: 
-  name: recipe_trident
+  name: recipe_kaya
 259:
-  internal_name: trident
+  internal_name: kaya
   quality: epic
   name: Kaya
+275:
+  internal_name: trident
+  quality: 
+  name: trident
+276:
+  internal_name: combo_breaker
+  quality: 
+  name: combo_breaker
 260:
   internal_name: refresher_shard
   quality: consumable

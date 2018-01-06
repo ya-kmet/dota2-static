@@ -3655,6 +3655,10 @@
   internal_name: special_bonus_night_vision_400
   name: "+400 Night Vision"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7022:
+  internal_name: special_bonus_night_vision_500
+  name: "+500 Night Vision"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7019:
   internal_name: special_bonus_night_vision_600
   name: "+600 Night Vision"
@@ -4141,7 +4145,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6012:
   internal_name: special_bonus_unique_antimage
-  name: "-1s Blink Cooldown"
+  name: "-2s Blink Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6353:
   internal_name: special_bonus_unique_antimage_2
@@ -4433,7 +4437,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6978:
   internal_name: special_bonus_unique_vengeful_spirit_5
-  name: "-4s Magic Missile Cooldown"
+  name: "-5s Magic Missile Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7018:
   internal_name: special_bonus_unique_vengeful_spirit_6
@@ -4486,6 +4490,14 @@
 7052:
   internal_name: special_bonus_unique_morphling_6
   name: 2 Waveform Charges
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7056:
+  internal_name: special_bonus_unique_morphling_7
+  name: "-5s Adaptive Strike Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7060:
+  internal_name: special_bonus_unique_morphling_8
+  name: "+15s Morph Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6063:
   internal_name: special_bonus_unique_leshrac_1
@@ -4582,6 +4594,10 @@
 6940:
   internal_name: special_bonus_unique_templar_assassin_5
   name: Psi Blades Spill Paralyzes
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7058:
+  internal_name: special_bonus_unique_templar_assassin_6
+  name: "+3 Psionic Traps"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6072:
   internal_name: special_bonus_unique_crystal_maiden_1
@@ -4809,15 +4825,19 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6101:
   internal_name: special_bonus_unique_alchemist
-  name: "-8s Unstable Concoction Cooldown"
+  name: "-5s Unstable Concoction Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6350:
   internal_name: special_bonus_unique_alchemist_2
-  name: "+200 Unstable Concoction Damage"
+  name: "+360 Unstable Concoction Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6604:
   internal_name: special_bonus_unique_alchemist_3
   name: "-0.2 Chemical Rage Base Attack Time"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7054:
+  internal_name: special_bonus_unique_alchemist_4
+  name: "+30 Chemical Rage Regeneration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6102:
   internal_name: special_bonus_unique_axe
@@ -4893,7 +4913,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6942:
   internal_name: special_bonus_unique_terrorblade_2
-  name: "-8s Reflection Cooldown"
+  name: "-10s Reflection Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6943:
   internal_name: special_bonus_unique_terrorblade_3
@@ -4905,11 +4925,11 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6127:
   internal_name: special_bonus_unique_luna_2
-  name: "-2s Lucent Beam Cooldown"
+  name: "-3s Lucent Beam Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6682:
   internal_name: special_bonus_unique_luna_3
-  name: "+24 Luna Blessing Damage"
+  name: "+24 Lunar Blessing Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7047:
   internal_name: special_bonus_unique_luna_4
@@ -5037,7 +5057,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6562:
   internal_name: special_bonus_unique_windranger_3
-  name: "+90 Powershot Damage"
+  name: "+100 Powershot Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6992:
   internal_name: special_bonus_unique_windranger_4
@@ -5161,7 +5181,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6153:
   internal_name: special_bonus_unique_tiny
-  name: "+75 Avalanche Damage"
+  name: "+125 Avalanche Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6932:
   internal_name: special_bonus_unique_tiny_2
@@ -5173,7 +5193,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6934:
   internal_name: special_bonus_unique_tiny_4
-  name: "-10s Tree Grab CD"
+  name: "-7s Tree Grab CD"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7005:
   internal_name: special_bonus_unique_tiny_5
@@ -5217,7 +5237,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6156:
   internal_name: special_bonus_unique_viper_1
-  name: "+6 Corrosive Skin DPS"
+  name: "+6 Corrosive Skin Stats"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6165:
   internal_name: special_bonus_unique_viper_2
@@ -5257,7 +5277,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6172:
   internal_name: special_bonus_unique_ember_spirit_1
-  name: "+150 Flame Guard Absorption"
+  name: "+200 Flame Guard Absorption"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6176:
   internal_name: special_bonus_unique_ember_spirit_2
@@ -5265,7 +5285,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6647:
   internal_name: special_bonus_unique_ember_spirit_3
-  name: "+30 Flame Guard DPS"
+  name: "+50 Flame Guard DPS"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7050:
   internal_name: special_bonus_unique_ember_spirit_4
@@ -5445,7 +5465,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6305:
   internal_name: special_bonus_unique_sniper_1
-  name: "+20 Shrapnel DPS"
+  name: "+25 Shrapnel DPS"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6198:
   internal_name: special_bonus_unique_sniper_2
@@ -5485,7 +5505,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6209:
   internal_name: special_bonus_unique_drow_ranger_2
-  name: "+300 Gust Distance/Knockback"
+  name: "+400 Gust Distance/Knockback"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6280:
   internal_name: special_bonus_unique_drow_ranger_3
@@ -5530,6 +5550,10 @@
 6701:
   internal_name: special_bonus_unique_naga_siren_3
   name: "-6 Rip Tide Armor"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7029:
+  internal_name: special_bonus_unique_naga_siren_4
+  name: "+10% Mirror Image Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6206:
   internal_name: special_bonus_unique_oracle
@@ -5582,6 +5606,10 @@
 7002:
   internal_name: special_bonus_unique_shadow_demon_5
   name: "+5s Disruption Banish Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7061:
+  internal_name: special_bonus_unique_shadow_demon_6
+  name: Soul Catcher Creates Illusion On Death
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6211:
   internal_name: special_bonus_unique_slardar
@@ -5723,6 +5751,10 @@
   internal_name: special_bonus_unique_puck_3
   name: Dream Coil Rapid Fire
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7057:
+  internal_name: special_bonus_unique_puck_4
+  name: "+40 Waning Rift Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6220:
   internal_name: special_bonus_unique_pugna_1
   name: "+25% Life Drain Heal"
@@ -5777,7 +5809,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6257:
   internal_name: special_bonus_unique_broodmother_1
-  name: "+75 Insatiable Hunger Damage/Lifesteal"
+  name: "+60 Insatiable Hunger Damage/Lifesteal"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6258:
   internal_name: special_bonus_unique_broodmother_2
@@ -5785,7 +5817,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6361:
   internal_name: special_bonus_unique_broodmother_3
-  name: "+60 Spawn Spiderling Damage"
+  name: "+75 Spawn Spiderling Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6362:
   internal_name: special_bonus_unique_broodmother_4
@@ -5889,11 +5921,15 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6288:
   internal_name: special_bonus_unique_meepo
-  name: "-4s Poof Cooldown"
+  name: "-5s Poof Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6689:
   internal_name: special_bonus_unique_meepo_2
   name: "+40 Poof Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7027:
+  internal_name: special_bonus_unique_meepo_3
+  name: "-4s Earthbind Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6303:
   internal_name: special_bonus_unique_monkey_king
@@ -5917,7 +5953,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7025:
   internal_name: special_bonus_unique_monkey_king_6
-  name: "+1 Wukong Command Ring"
+  name: "+1 Wukong's Command Ring"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6463:
   internal_name: special_bonus_unique_pangolier_2
@@ -5947,3 +5983,15 @@
   internal_name: special_bonus_unique_dark_willow_2
   name: "+1 Terrorize Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6251:
+  internal_name: generic_hidden
+  name: generic_hidden
+  type: 
+82:
+  internal_name: bear_empty1
+  name: Empty
+  type: 
+83:
+  internal_name: bear_empty2
+  name: Empty
+  type: 

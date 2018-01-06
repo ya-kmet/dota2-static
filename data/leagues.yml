@@ -12177,6 +12177,16 @@
   tournament_url: http://www.rog-masters.com/
   image_banner: subscriptions_asus_rog_masters_2017_ingame.png
   image: subscriptions_asus_rog_masters_2017.png
+5688:
+  name: Captains Draft 4.0 Minor
+  description: "Captains Draft, the most unique tournament in Dota 2, returns with
+    its 4th installment as a LAN Minor taking place in Washington D.C. \r\n\t\r\n\tCD
+    4.0 will yet again pit the best and brightest Dota minds together while they try
+    and mash together diabolical patch defining lineups that will send reddit into
+    ecstasy."
+  tournament_url: http://moonduck.tv
+  image_banner: subscriptions_captains_draft_40_minor_ingame.png
+  image: subscriptions_captains_draft_40_minor.png
 5690:
   name: AMD SAPPHIRE Dota PIT
   description: "Building on the global enthusiasm for the Dota PIT Tournament Series,
@@ -12186,6 +12196,52 @@
   tournament_url: http://www.dotapit.com
   image_banner: subscriptions_amd_sapphire_dota_pit_ingame.png
   image: subscriptions_amd_sapphire_dota_pit.png
+5850:
+  name: Dota Summit 8
+  description: Dota Summit 8 by Beyond the Summit
+  tournament_url: http://www.twitch.tv/beyondthesummit
+  image_banner: subscriptions_dota_summit_8_ingame.png
+  image: subscriptions_dota_summit_8.png
+8055:
+  name: 'Galaxy Battles: Emerging Worlds'
+  description: 'Galaxy Battles: Emerging Worlds will be the first Major of 2018, held
+    in South East Asia at the Capital of Philippines, Manila. The heart of Dota 2
+    in South East Asia, bringing together 16 of the best teams in the world, competing
+    for a prize pool of USD1,000,000 and 1500 Qualifying Points.'
+  tournament_url: https://www.facebook.com/GalaxyBattles/
+  image_banner: subscriptions_galaxy_battles_emerging_worlds_ingame.png
+  image: subscriptions_galaxy_battles_emerging_worlds.png
+9579:
+  name: SL i-League Invitational Season 4
+  description: StarLadder and ImbaTV partner once more for yet another international
+    competition. Featuring top flight teams, precious Qualifying Points and a $300,000
+    prizepool, the SL i-League Dota 2 Invitational S4 is not to be missed. Matches
+    begin on December 18th.
+  tournament_url: https://starladder.com/en/sl-i-league-invitational-s4
+  image_banner: subscriptions_sl_ileague_invitational_season_4_ingame.png
+  image: subscriptions_sl_ileague_invitational_season_4.png
+9584:
+  name: PGL BUCHAREST MAJOR 2018
+  description: PGL Bucharest MAJOR 2018 - 16 teams fighting for glory and one million
+    dollars prize pool
+  tournament_url: http://www.thebucharestmajor.com
+  image_banner: subscriptions_pgl_bucharest_major_2018_ingame.png
+  image: subscriptions_pgl_bucharest_major_2018.png
+9601:
+  name: EPICENTER XL
+  description: Moscow will host the largest Dota2 event in Eastern Europe with $1
+    000 000 prize pool in May 2018.
+  tournament_url: http://epicenter.gg/
+  image_banner: subscriptions_epicenter_xl_ingame.png
+  image: subscriptions_epicenter_xl.png
+9633:
+  name: ESL One Katowice 2018 powered by Intel
+  description: Experience world class Dota 2 when ESL brings a Dota2 Major to Poland
+    for the first time! Join us in Katowice and witness the best teams in the world
+    competing for prestige, points and prizemoney!
+  tournament_url: https://en.esl-one.com/dota2/katowice-2018/
+  image_banner: subscriptions_esl_one_katowice_2018_powered_by_intel_ingame.png
+  image: subscriptions_esl_one_katowice_2018_powered_by_intel.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
