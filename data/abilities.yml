@@ -2274,7 +2274,7 @@
 6340:
   internal_name: dark_willow_bedlam
   name: Bedlam
-  type: 
+  type: DOTA_ABILITY_TYPE_ULTIMATE
 8340:
   internal_name: dark_willow_terrorize
   name: Terrorize
