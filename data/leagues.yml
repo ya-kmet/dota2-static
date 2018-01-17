@@ -12242,6 +12242,24 @@
   tournament_url: https://en.esl-one.com/dota2/katowice-2018/
   image_banner: subscriptions_esl_one_katowice_2018_powered_by_intel_ingame.png
   image: subscriptions_esl_one_katowice_2018_powered_by_intel.png
+9662:
+  name: 'GESC: Indonesia'
+  description: GESC Dota 2 Pro Circuit Tournament is the first Valve Corporation sanctioned
+    tournament in Indonesia and will feature the world's best teams and an Indonesia
+    representative who will compete for the largest prize purse in the country - USD300,000
+    and qualifying points to The International 2018.
+  tournament_url: http://geschampionship.com/jakarta-2018/
+  image_banner: subscriptions_gesc_indonesia_ingame.png
+  image: subscriptions_gesc_indonesia.png
+9663:
+  name: 'GESC: Thailand'
+  description: GESC Dota 2 Pro Circuit Tournament is the first Valve Corporation sanctioned
+    tournament in Thailand and will feature the world's best teams and a Thai representative
+    who will compete for the largest prize purse in the country - USD300,000 and qualifying
+    points to The International 2018.
+  tournament_url: http://geschampionship.com/bangkok-2018/
+  image_banner: subscriptions_gesc_thailand_ingame.png
+  image: subscriptions_gesc_thailand.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
