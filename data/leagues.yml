@@ -12211,6 +12211,14 @@
   tournament_url: https://www.facebook.com/GalaxyBattles/
   image_banner: subscriptions_galaxy_battles_emerging_worlds_ingame.png
   image: subscriptions_galaxy_battles_emerging_worlds.png
+8093:
+  name: ESL One Genting 2018
+  description: Experience world class Dota 2 in Malaysia's Highlands. Join us as ESL
+    One returns to South East Asia with more Dota 2 action and the biggest Minor of
+    the season!
+  tournament_url: https://en.esl-one.com/dota2/genting-2018/
+  image_banner: subscriptions_esl_one_genting_2018_ingame.png
+  image: subscriptions_esl_one_genting_2018.png
 9579:
   name: SL i-League Invitational Season 4
   description: StarLadder and ImbaTV partner once more for yet another international
@@ -12242,6 +12250,15 @@
   tournament_url: https://en.esl-one.com/dota2/katowice-2018/
   image_banner: subscriptions_esl_one_katowice_2018_powered_by_intel_ingame.png
   image: subscriptions_esl_one_katowice_2018_powered_by_intel.png
+9643:
+  name: Dota 2 Asia Championships 2018
+  description: Dota2 Asia Championships returns in 2018 - 16 top teams from the world
+    will compete for a prize pool of $1,000,000. The LAN finals in shanghai will be
+    starting in the end of March. Which team will win the first Major held in China?
+    The question would be answered then.
+  tournament_url: http://www.dota2.com.cn/dac
+  image_banner: subscriptions_dota_2_asia_championships_2018_ingame.png
+  image: subscriptions_dota2_asia_championships_2018.png
 9662:
   name: 'GESC: Indonesia'
   description: GESC Dota 2 Pro Circuit Tournament is the first Valve Corporation sanctioned
