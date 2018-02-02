@@ -2983,6 +2983,10 @@
   internal_name: special_bonus_mp_600
   name: "+600 Mana"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7059:
+  internal_name: special_bonus_mp_700
+  name: "+700 Mana"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6816:
   internal_name: special_bonus_mp_800
   name: "+800 Mana"
@@ -4073,7 +4077,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6364:
   internal_name: special_bonus_unique_clockwerk_2
-  name: "+125 Rocket Flare Damage"
+  name: "+%value% Rocket Flare Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6512:
   internal_name: special_bonus_unique_clockwerk_3
@@ -4785,7 +4789,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6098:
   internal_name: special_bonus_unique_invoker_2
-  name: AoE Deafening Blast
+  name: Radial Deafening Blast
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6099:
   internal_name: special_bonus_unique_invoker_3
@@ -4821,15 +4825,15 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6602:
   internal_name: special_bonus_unique_abaddon_3
-  name: "+25% Curse of Avernus MS Slow"
+  name: "+25% Curse of Avernus MS/AS Slow"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6101:
   internal_name: special_bonus_unique_alchemist
-  name: "-5s Unstable Concoction Cooldown"
+  name: "-8s Unstable Concoction Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6350:
   internal_name: special_bonus_unique_alchemist_2
-  name: "+360 Unstable Concoction Damage"
+  name: "+400 Unstable Concoction Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6604:
   internal_name: special_bonus_unique_alchemist_3
@@ -5061,11 +5065,15 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6992:
   internal_name: special_bonus_unique_windranger_4
-  name: "+20% Ministun Focus Fire"
+  name: "+35% Ministun Focus Fire"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6993:
   internal_name: special_bonus_unique_windranger_5
-  name: "+1 Shackleshot Target"
+  name: "+2 Shackleshot Target"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7062:
+  internal_name: special_bonus_unique_windranger_6
+  name: "+0.5s Shackleshot Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6146:
   internal_name: special_bonus_unique_phantom_lancer
@@ -5353,11 +5361,11 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6392:
   internal_name: special_bonus_unique_medusa_2
-  name: "+7 Split Shot target"
+  name: "+7 Split Shot Targets"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6687:
   internal_name: special_bonus_unique_medusa_3
-  name: "+15% Mystic Snake Mana Steal"
+  name: "+20% Mystic Snake Mana Steal"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6803:
   internal_name: special_bonus_unique_medusa_4
@@ -5385,7 +5393,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6879:
   internal_name: special_bonus_unique_silencer_3
-  name: "+20% Glaives of Wisdom"
+  name: "+20% Glaives of Wisdom Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6880:
   internal_name: special_bonus_unique_silencer_4
@@ -5413,7 +5421,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6192:
   internal_name: special_bonus_unique_phantom_assassin
-  name: Double Strike Stifling Dagger
+  name: "+1 Multishot Stifling Dagger"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6847:
   internal_name: special_bonus_unique_phantom_assassin_2
@@ -5477,7 +5485,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6897:
   internal_name: special_bonus_unique_sniper_4
-  name: "-1.5s Assassinate"
+  name: "-1.5s Assassinate Cast Time"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6199:
   internal_name: special_bonus_unique_magnus
@@ -5777,7 +5785,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6859:
   internal_name: special_bonus_unique_pugna_6
-  name: "+1 Nether Ward Health"
+  name: "+2 Nether Ward Health"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6223:
   internal_name: special_bonus_unique_timbersaw
@@ -5817,7 +5825,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6361:
   internal_name: special_bonus_unique_broodmother_3
-  name: "+75 Spawn Spiderling Damage"
+  name: "+75 Spawn Spiderlings Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6362:
   internal_name: special_bonus_unique_broodmother_4
@@ -5825,7 +5833,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6259:
   internal_name: special_bonus_unique_chen_1
-  name: "+4 Holy Persuasion Max Count"
+  name: "+4 Holy Persuasion Max Units"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6260:
   internal_name: special_bonus_unique_chen_2
@@ -5837,7 +5845,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6535:
   internal_name: special_bonus_unique_chen_4
-  name: "+1000 Creep Min Health"
+  name: "+1000 Holy Persuasion Minimum Health"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6261:
   internal_name: special_bonus_unique_lone_druid_1
