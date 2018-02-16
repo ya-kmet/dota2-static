@@ -4077,7 +4077,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6364:
   internal_name: special_bonus_unique_clockwerk_2
-  name: "+%value% Rocket Flare Damage"
+  name: "+125 Rocket Flare Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6512:
   internal_name: special_bonus_unique_clockwerk_3
