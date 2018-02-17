@@ -1,5 +1,5 @@
 module Dota2
   module Static
-    VERSION = '0.1.137'
+    VERSION = '0.1.138'
   end
 end
