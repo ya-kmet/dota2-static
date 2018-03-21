@@ -4109,7 +4109,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7028:
   internal_name: special_bonus_unique_clockwerk_4
-  name: Rocket Flare Truesight
+  name: Rocket Flare True Sight
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5981:
   internal_name: special_bonus_unique_omniknight_1
@@ -4829,7 +4829,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6666:
   internal_name: special_bonus_unique_kunkka_3
-  name: Ghost Ship Fleet
+  name: Ghostship Fleet
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6667:
   internal_name: special_bonus_unique_kunkka_4
@@ -5253,7 +5253,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6953:
   internal_name: special_bonus_unique_tinker_3
-  name: "+0.3s Heat Seeking Missile Ministun"
+  name: "+0.3s Heat-Seeking Missile Ministun"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6153:
   internal_name: special_bonus_unique_tiny
@@ -5309,7 +5309,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6972:
   internal_name: special_bonus_unique_undying_5
-  name: "+4 Tombstone Attacks"
+  name: "+4 Tombstone Attacks to Destroy"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6156:
   internal_name: special_bonus_unique_viper_1
@@ -5505,7 +5505,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6193:
   internal_name: special_bonus_unique_riki_2
-  name: "-7s Smokescreen Cooldown"
+  name: "-7s Smoke Screen Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6865:
   internal_name: special_bonus_unique_riki_3
@@ -5589,7 +5589,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6634:
   internal_name: special_bonus_unique_drow_ranger_4
-  name: "+3s Gust Duration"
+  name: "+3s Gust Silence Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6203:
   internal_name: special_bonus_unique_earth_spirit
