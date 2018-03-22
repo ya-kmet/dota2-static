@@ -12271,6 +12271,13 @@
   tournament_url: http://geschampionship.com/bangkok-2018/
   image_banner: subscriptions_gesc_thailand_ingame.png
   image: subscriptions_gesc_thailand.png
+9683:
+  name: Corsair DreamLeague season 9
+  description: DreamHack is very proud to present Corsair DreamLeague season 9, a
+    Dota 2 minor. Played February-March with playoffs in late March in Stockholm.
+  tournament_url: https://dreamleague.dreamhack.com/
+  image_banner: subscriptions_corsair_dreamleague_season_9_ingame.png
+  image: subscriptions_corsair_dreamleague_season_9.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
