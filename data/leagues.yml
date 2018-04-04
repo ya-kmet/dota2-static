@@ -12278,6 +12278,14 @@
   tournament_url: https://dreamleague.dreamhack.com/
   image_banner: subscriptions_corsair_dreamleague_season_9_ingame.png
   image: subscriptions_corsair_dreamleague_season_9.png
+9908:
+  name: StarLadder ImbaTV Invitational Season 5
+  description: StarLadder and ImbaTV partner once more for yet another international
+    competition. Featuring top flight teams, precious Qualifying Points and a $300,000
+    prizepool. Matches begin on April 12th.
+  tournament_url: https://starladder.com/en/sl-i-league-invitational-s5
+  image_banner: subscriptions_starladder_imbatv_invitational_season_5_ingame.png
+  image: subscriptions_starladder_imbatv_invitational_season_5.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
