@@ -12278,6 +12278,14 @@
   tournament_url: https://dreamleague.dreamhack.com/
   image_banner: subscriptions_corsair_dreamleague_season_9_ingame.png
   image: subscriptions_corsair_dreamleague_season_9.png
+9880:
+  name: ESL One Birmingham 2018 powered by Intel
+  description: ESL brings the first Dota 2 Major to the UK! Birmingham is the battleground
+    for 12 world class teams competing for Dota Pro Circuit points and $1,000,000
+    in prizemoney.
+  tournament_url: http://www.esl-one.com/dota2/birmingham-2018/
+  image_banner: subscriptions_esl_one_birmingham_2018_powered_by_intel_ingame.png
+  image: subscriptions_esl_one_birmingham_2018_powered_by_intel.png
 9908:
   name: StarLadder ImbaTV Invitational Season 5
   description: StarLadder and ImbaTV partner once more for yet another international
@@ -12286,6 +12294,14 @@
   tournament_url: https://starladder.com/en/sl-i-league-invitational-s5
   image_banner: subscriptions_starladder_imbatv_invitational_season_5_ingame.png
   image: subscriptions_starladder_imbatv_invitational_season_5.png
+9943:
+  name: CHINA DOTA2 SUPER MAJOR
+  description: China Dota 2 Super Major, organised by Perfect World and PGL, is the
+    last event of the 2017-2018 Dota Pro Circuit. Featured with the highest Qualifying
+    Points, the tournament is without doubt the most fierce battleground for all teams.
+  tournament_url: http://www.dota2.com.cn/supermajor
+  image_banner: subscriptions_china_dota2_super_major_ingame.png
+  image: subscriptions_china_dota2_super_major.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
