@@ -1849,7 +1849,7 @@
   type: 
 5490:
   internal_name: wisp_spirits_in
-  name: Spirits In
+  name: Spirits Movement
   type: 
 5493:
   internal_name: wisp_spirits_out
@@ -3211,6 +3211,10 @@
   internal_name: special_bonus_mp_regen_1
   name: "+1 Mana Regen"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7132:
+  internal_name: special_bonus_mp_regen_150
+  name: "+1.5 Mana Regen"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6926:
   internal_name: special_bonus_mp_regen_175
   name: "+1.75 Mana Regen"
@@ -4517,15 +4521,15 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6062:
   internal_name: special_bonus_unique_morphling_1
-  name: "+300 Waveform Range"
+  name: "+350 Waveform Range"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6225:
   internal_name: special_bonus_unique_morphling_2
-  name: "-25s Morph Cooldown"
+  name: "-50 Morph Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6698:
   internal_name: special_bonus_unique_morphling_3
-  name: "+2 Multishot Adaptive Strike"
+  name: "+3 Multishot Adaptive Strike"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6840:
   internal_name: special_bonus_unique_morphling_4
@@ -5305,11 +5309,11 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6971:
   internal_name: special_bonus_unique_undying_4
-  name: "+30 Decay Duration"
+  name: "+50 Decay Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6972:
   internal_name: special_bonus_unique_undying_5
-  name: "+4 Tombstone Attacks to Destroy"
+  name: "+6 Tombstone Attacks to Destroy"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6156:
   internal_name: special_bonus_unique_viper_1
@@ -5329,7 +5333,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6157:
   internal_name: special_bonus_unique_zeus
-  name: "+1% Static Field Damage"
+  name: "+1.5% Static Field Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6501:
   internal_name: special_bonus_unique_zeus_2
@@ -5829,7 +5833,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6402:
   internal_name: special_bonus_unique_puck_2
-  name: "-5s Waning Rift Cooldown"
+  name: "-8s Waning Rift Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6855:
   internal_name: special_bonus_unique_puck_3
@@ -5861,7 +5865,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6859:
   internal_name: special_bonus_unique_pugna_6
-  name: "+2 Nether Ward Health"
+  name: "+3 Nether Ward Health"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6223:
   internal_name: special_bonus_unique_timbersaw
@@ -5979,6 +5983,10 @@
   internal_name: special_bonus_unique_wisp_5
   name: Tether Grants Scepter Bonus
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7070:
+  internal_name: special_bonus_unique_wisp_6
+  name: "-60s Relocate Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6282:
   internal_name: special_bonus_unique_techies
   name: "+300 Blast Off Damage"
@@ -6010,6 +6018,10 @@
 7105:
   internal_name: special_bonus_unique_arc_warden_4
   name: Global Flux
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7120:
+  internal_name: special_bonus_unique_arc_warden_5
+  name: "+400 Flux Cast Range"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6288:
   internal_name: special_bonus_unique_meepo
@@ -6077,7 +6089,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6465:
   internal_name: special_bonus_unique_dark_willow_2
-  name: "+1 Terrorize Duration"
+  name: "+1.5 Terrorize Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6251:
   internal_name: generic_hidden
