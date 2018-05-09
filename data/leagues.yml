@@ -12278,6 +12278,20 @@
   tournament_url: https://dreamleague.dreamhack.com/
   image_banner: subscriptions_corsair_dreamleague_season_9_ingame.png
   image: subscriptions_corsair_dreamleague_season_9.png
+9862:
+  name: MDL Changsha
+  description: MDL Changsha will see 12 top teams battle for glory and a big slice
+    of prize money in China.
+  tournament_url: http://www.marslive.cn/
+  image_banner: subscriptions_mdl_changsha__ingame.png
+  image: subscriptions_mdl_changsha_.png
+9870:
+  name: The International 2018
+  description: The top teams in the world compete to claim the ultimate prize--the
+    Aegis of Champions.
+  tournament_url: http://www.dota2.com/international/overview/
+  image_banner: ti8_ticket_image_ingame.png
+  image: 
 9880:
   name: ESL One Birmingham 2018 powered by Intel
   description: ESL brings the first Dota 2 Major to the UK! Birmingham is the battleground
@@ -12302,6 +12316,14 @@
   tournament_url: http://www.dota2.com.cn/supermajor
   image_banner: subscriptions_china_dota2_super_major_ingame.png
   image: subscriptions_china_dota2_super_major.png
+9959:
+  name: World Cyber Arena 2017-18 Grand Finals
+  description: WCA 2017-18 LAN finals in Zhuhai in the end of April. The full prize
+    pool is about ï¿¥450,000 equals to $71,000. Eight teams will come to compete the
+    first place of WCA 2017-18 Grand Finals.
+  tournament_url: http://www.en.wca.com.cn/
+  image_banner: subscriptions_world_cyber_arena_201718_grand_finals_ingame.png
+  image: subscriptions_world_cyber_arena_201718_grand_finals.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The

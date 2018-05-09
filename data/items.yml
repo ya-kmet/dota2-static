@@ -1075,3 +1075,11 @@
   internal_name: river_painter7
   quality: component
   name: 'River Vial: Blood'
+1028:
+  internal_name: mutation_tombstone
+  quality: consumable
+  name: Tombstone
+1029:
+  internal_name: super_blink
+  quality: 
+  name: Super Blink Dagger
