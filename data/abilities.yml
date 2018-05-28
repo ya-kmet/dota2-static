@@ -3291,6 +3291,10 @@
   internal_name: special_bonus_movement_speed_60
   name: "+60 Movement Speed"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7130:
+  internal_name: special_bonus_movement_speed_65
+  name: "+65 Movement Speed"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6355:
   internal_name: special_bonus_movement_speed_75
   name: "+75 Movement Speed"
@@ -4381,7 +4385,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6045:
   internal_name: special_bonus_unique_sven
-  name: "-5s Storm Hammer Cooldown"
+  name: "-6s Storm Hammer Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6910:
   internal_name: special_bonus_unique_sven_2
@@ -4393,7 +4397,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7112:
   internal_name: special_bonus_unique_sven_4
-  name: "+0.75s Storm Hammer Stun Duration"
+  name: "+1.25s Storm Hammer Stun Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6047:
   internal_name: special_bonus_unique_dark_seer
@@ -4613,7 +4617,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6670:
   internal_name: special_bonus_unique_nevermore_1
-  name: "+3 Damage Per Soul"
+  name: "+2 Damage Per Soul"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6070:
   internal_name: special_bonus_unique_nevermore_2
@@ -4629,7 +4633,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6912:
   internal_name: special_bonus_unique_nevermore_5
-  name: "-3 Presence Aura Armor"
+  name: "-5 Presence Aura Armor"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6071:
   internal_name: special_bonus_unique_templar_assassin
@@ -4721,7 +4725,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6615:
   internal_name: special_bonus_unique_bristleback_3
-  name: "+20 Warpath Damage Per Stack"
+  name: "+30 Warpath Damage Per Stack"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6084:
   internal_name: special_bonus_unique_furion
@@ -4839,6 +4843,10 @@
   internal_name: special_bonus_unique_kunkka_4
   name: "+50% Tidebringer Cleave"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7131:
+  internal_name: special_bonus_unique_kunkka_5
+  name: "-1.5s Tidebringer Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6090:
   internal_name: special_bonus_unique_dragon_knight
   name: 2x Dragon Blood HP Regen/Armor
@@ -4949,7 +4957,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6231:
   internal_name: special_bonus_unique_clinkz_2
-  name: "+4s Strafe Stacks/Duration"
+  name: "+4s Strafe Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6620:
   internal_name: special_bonus_unique_clinkz_3
@@ -5073,7 +5081,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6132:
   internal_name: special_bonus_unique_ursa
-  name: "+14 Fury Swipes Damage"
+  name: "+12 Fury Swipes Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6973:
   internal_name: special_bonus_unique_ursa_2
@@ -5090,6 +5098,10 @@
 6976:
   internal_name: special_bonus_unique_ursa_5
   name: "+600 AoE Earthshock"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7133:
+  internal_name: special_bonus_unique_ursa_6
+  name: Enrage gains 80% Status Resistance
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6133:
   internal_name: special_bonus_unique_chaos_knight
@@ -5889,7 +5901,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6357:
   internal_name: special_bonus_unique_bloodseeker_3
-  name: "+14% Rupture Damage"
+  name: "+18% Rupture Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6809:
   internal_name: special_bonus_unique_bloodseeker_4
@@ -5961,7 +5973,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6265:
   internal_name: special_bonus_unique_wisp
-  name: "+90 Spirits Hero Damage"
+  name: "+75 Spirits Hero Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7036:
   internal_name: special_bonus_unique_lone_druid_9
@@ -6073,7 +6085,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 9060:
   internal_name: special_bonus_unique_pangolier_3
-  name: "+30 Swashbuckle Damage"
+  name: "+40 Swashbuckle Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 9061:
   internal_name: special_bonus_unique_pangolier_4
@@ -6081,7 +6093,11 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 9062:
   internal_name: special_bonus_unique_pangolier_5
-  name: "-16s Rolling Thunder"
+  name: "-35s Rolling Thunder Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+9135:
+  internal_name: special_bonus_unique_pangolier_6
+  name: "+2s Rolling Thunder Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6464:
   internal_name: special_bonus_unique_dark_willow_1
