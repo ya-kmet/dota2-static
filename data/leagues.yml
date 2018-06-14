@@ -12324,6 +12324,13 @@
   tournament_url: http://www.en.wca.com.cn/
   image_banner: subscriptions_world_cyber_arena_201718_grand_finals_ingame.png
   image: subscriptions_world_cyber_arena_201718_grand_finals.png
+10049:
+  name: The International 2018 Open Qualifiers
+  description: Who will emerge victorious? Witness the world's top teams battle for
+    a spot at The International.
+  tournament_url: http://www.dota2.com/international/battlepass/
+  image_banner: ti8_ticket_image_ingame.png
+  image: ti8_ticket_image.png
 65000:
   name: The Internal
   description: This is the test tournament for the systems that will be used at The
