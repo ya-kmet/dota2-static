@@ -4221,7 +4221,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6692:
   internal_name: special_bonus_unique_mirana_4
-  name: "-75 Moonlight Shadow Cooldown"
+  name: "-70 Moonlight Shadow Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6018:
   internal_name: special_bonus_unique_bounty_hunter
@@ -4597,7 +4597,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6510:
   internal_name: special_bonus_unique_enigma_2
-  name: "+4 Malefice Instance"
+  name: "+5 Malefice Instance"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6649:
   internal_name: special_bonus_unique_enigma_3
@@ -4897,7 +4897,11 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7017:
   internal_name: special_bonus_unique_invoker_8
-  name: "+0.5s Tornado Lift Time"
+  name: "+1.25s Tornado Lift Time"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7148:
+  internal_name: special_bonus_unique_invoker_9
+  name: "-12s Cold Snap Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6100:
   internal_name: special_bonus_unique_abaddon
@@ -4945,7 +4949,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6103:
   internal_name: special_bonus_unique_beastmaster
-  name: "+100 Wild Axes Damage"
+  name: "+80 Wild Axes Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6517:
   internal_name: special_bonus_unique_beastmaster_2
@@ -5089,7 +5093,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6132:
   internal_name: special_bonus_unique_ursa
-  name: "+12 Fury Swipes Damage"
+  name: "+16 Fury Swipes Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6973:
   internal_name: special_bonus_unique_ursa_2
@@ -5253,7 +5257,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6151:
   internal_name: special_bonus_unique_tidehunter
-  name: "-4 Gush Armor"
+  name: "-5 Gush Armor"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6945:
   internal_name: special_bonus_unique_tidehunter_2
@@ -5265,7 +5269,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6947:
   internal_name: special_bonus_unique_tidehunter_4
-  name: "+24 Kraken Shell Damage Block"
+  name: "+30 Kraken Shell Damage Block"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6152:
   internal_name: special_bonus_unique_tinker
