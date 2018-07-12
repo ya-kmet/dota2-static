@@ -2327,6 +2327,10 @@
   internal_name: necronomicon_archer_aoe
   name: Archer Aura
   type: DOTA_ABILITY_TYPE_BASIC
+84:
+  internal_name: courier_autodeliver
+  name: Auto Deliver
+  type: DOTA_ABILITY_TYPE_BASIC
 5205:
   internal_name: courier_return_to_base
   name: Return to Base
