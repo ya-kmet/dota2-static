@@ -2291,6 +2291,22 @@
   internal_name: dark_willow_cursed_crown
   name: Cursed Crown
   type: 
+8000:
+  internal_name: grimstroke_dark_artistry
+  name: grimstroke_dark_artistry
+  type: 
+8006:
+  internal_name: grimstroke_ink_creature
+  name: grimstroke_ink_creature
+  type: 
+8007:
+  internal_name: grimstroke_spirit_walk
+  name: grimstroke_spirit_walk
+  type: 
+6491:
+  internal_name: grimstroke_soul_chain
+  name: grimstroke_soul_chain
+  type: DOTA_ABILITY_TYPE_ULTIMATE
 5350:
   internal_name: backdoor_protection
   name: Backdoor Protection
@@ -6134,6 +6150,22 @@
 6465:
   internal_name: special_bonus_unique_dark_willow_2
   name: "+1.5 Terrorize Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8001:
+  internal_name: special_bonus_unique_grimstroke_1
+  name: special_bonus_unique_grimstroke_1
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8002:
+  internal_name: special_bonus_unique_grimstroke_2
+  name: special_bonus_unique_grimstroke_2
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8003:
+  internal_name: special_bonus_unique_grimstroke_3
+  name: special_bonus_unique_grimstroke_3
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8004:
+  internal_name: special_bonus_unique_grimstroke_4
+  name: special_bonus_unique_grimstroke_4
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6251:
   internal_name: generic_hidden
