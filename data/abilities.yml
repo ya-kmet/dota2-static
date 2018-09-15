@@ -3199,6 +3199,10 @@
   internal_name: special_bonus_hp_regen_15
   name: "+15 Health Regen"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7188:
+  internal_name: special_bonus_hp_regen_16
+  name: special_bonus_hp_regen_16
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6079:
   internal_name: special_bonus_hp_regen_20
   name: "+20 Health Regen"
