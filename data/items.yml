@@ -103,6 +103,10 @@
   internal_name: circlet
   quality: component
   name: Circlet
+261:
+  internal_name: crown
+  quality: component
+  name: crown
 21:
   internal_name: ogre_axe
   quality: component
@@ -131,6 +135,10 @@
   internal_name: ring_of_regen
   quality: component
   name: Ring of Regen
+279:
+  internal_name: ring_of_tarrasque
+  quality: component
+  name: ring_of_tarrasque
 28:
   internal_name: sobi_mask
   quality: component
@@ -387,6 +395,14 @@
   internal_name: ring_of_basilius
   quality: rare
   name: Ring of Basilius
+268:
+  internal_name: recipe_holy_locket
+  quality: 
+  name: recipe_holy_locket
+269:
+  internal_name: holy_locket
+  quality: rare
+  name: holy_locket
 89:
   internal_name: recipe_pipe
   quality: 
@@ -819,6 +835,22 @@
   internal_name: sange_and_yasha
   quality: artifact
   name: Sange and Yasha
+272:
+  internal_name: recipe_kaya_and_sange
+  quality: 
+  name: recipe_kaya_and_sange
+273:
+  internal_name: kaya_and_sange
+  quality: artifact
+  name: kaya_and_sange
+274:
+  internal_name: recipe_yasha_and_kaya
+  quality: 
+  name: recipe_yasha_and_kaya
+277:
+  internal_name: yasha_and_kaya
+  quality: artifact
+  name: yasha_and_kaya
 155:
   internal_name: recipe_satanic
   quality: 

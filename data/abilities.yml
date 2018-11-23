@@ -27,6 +27,10 @@
   internal_name: antimage_spell_shield
   name: Spell Shield
   type: 
+7314:
+  internal_name: antimage_counterspell
+  name: antimage_counterspell
+  type: 
 5006:
   internal_name: antimage_mana_void
   name: Mana Void
@@ -555,13 +559,25 @@
   internal_name: lich_frost_nova
   name: Frost Blast
   type: 
+7311:
+  internal_name: lich_dark_sorcery
+  name: lich_dark_sorcery
+  type: 
+7325:
+  internal_name: lich_sinister_gaze
+  name: lich_sinister_gaze
+  type: 
+7312:
+  internal_name: lich_frost_aura
+  name: lich_frost_aura
+  type: 
 5135:
   internal_name: lich_frost_armor
   name: Ice Armor
   type: 
 5136:
-  internal_name: lich_dark_ritual
-  name: Sacrifice
+  internal_name: lich_frost_shield
+  name: lich_frost_shield
   type: 
 5137:
   internal_name: lich_chain_frost
@@ -698,6 +714,14 @@
 5169:
   internal_name: beastmaster_call_of_the_wild
   name: Call of the Wild
+  type: 
+7230:
+  internal_name: beastmaster_call_of_the_wild_boar
+  name: beastmaster_call_of_the_wild_boar
+  type: 
+7231:
+  internal_name: beastmaster_call_of_the_wild_hawk
+  name: beastmaster_call_of_the_wild_hawk
   type: 
 5170:
   internal_name: beastmaster_hawk_invisibility
@@ -895,6 +919,10 @@
   internal_name: dazzle_weave
   name: Weave
   type: DOTA_ABILITY_TYPE_ULTIMATE
+7304:
+  internal_name: dazzle_bad_juju
+  name: dazzle_bad_juju
+  type: DOTA_ABILITY_TYPE_ULTIMATE
 5237:
   internal_name: rattletrap_battery_assault
   name: Battery Assault
@@ -1019,6 +1047,10 @@
   internal_name: clinkz_wind_walk
   name: Skeleton Walk
   type: 
+7319:
+  internal_name: clinkz_burning_army
+  name: clinkz_burning_army
+  type: DOTA_ABILITY_TYPE_ULTIMATE
 5262:
   internal_name: clinkz_death_pact
   name: Death Pact
@@ -1031,6 +1063,10 @@
   internal_name: omniknight_repel
   name: Repel
   type: 
+7323:
+  internal_name: omniknight_pacify
+  name: omniknight_pacify
+  type: DOTA_ABILITY_TYPE_BASIC
 5265:
   internal_name: omniknight_degen_aura
   name: Degen Aura
@@ -1058,6 +1094,10 @@
 5271:
   internal_name: huskar_inner_vitality
   name: Inner Vitality
+  type: 
+7300:
+  internal_name: huskar_inner_fire
+  name: huskar_inner_fire
   type: 
 5272:
   internal_name: huskar_burning_spear
@@ -1183,6 +1223,10 @@
   internal_name: chen_test_of_faith
   name: Test of Faith
   type: 
+7306:
+  internal_name: chen_divine_favor
+  name: chen_divine_favor
+  type: 
 5522:
   internal_name: chen_test_of_faith_teleport
   name: chen_test_of_faith_teleport
@@ -1262,6 +1306,10 @@
 5353:
   internal_name: spirit_breaker_charge_of_darkness
   name: Charge of Darkness
+  type: 
+7301:
+  internal_name: spirit_breaker_bulldoze
+  name: spirit_breaker_bulldoze
   type: 
 5354:
   internal_name: spirit_breaker_empowering_haste
@@ -1428,8 +1476,8 @@
   name: Essence Aura
   type: 
 5684:
-  internal_name: obsidian_destroyer_mind_over_matter
-  name: obsidian_destroyer_mind_over_matter
+  internal_name: obsidian_destroyer_equilibrium
+  name: obsidian_destroyer_equilibrium
   type: 
 5394:
   internal_name: obsidian_destroyer_sanity_eclipse
@@ -1467,6 +1515,10 @@
   internal_name: lone_druid_rabid
   name: Rabid
   type: 
+7309:
+  internal_name: lone_druid_spirit_link
+  name: lone_druid_spirit_link
+  type: 
 5414:
   internal_name: lone_druid_savage_roar
   name: Savage Roar
@@ -1495,6 +1547,10 @@
   internal_name: lone_druid_spirit_bear_entangle
   name: Entangling Claws
   type: 
+7308:
+  internal_name: lone_druid_spirit_bear_defender
+  name: lone_druid_spirit_bear_defender
+  type: 
 5420:
   internal_name: lone_druid_spirit_bear_demolish
   name: Demolish
@@ -1506,6 +1562,10 @@
 5401:
   internal_name: brewmaster_drunken_haze
   name: Drunken Haze
+  type: 
+7310:
+  internal_name: brewmaster_cinder_brew
+  name: brewmaster_cinder_brew
   type: 
 5402:
   internal_name: brewmaster_drunken_brawler
@@ -1591,6 +1651,10 @@
   internal_name: meepo_geostrike
   name: Geostrike
   type: 
+7318:
+  internal_name: meepo_ransack
+  name: meepo_ransack
+  type: 
 5433:
   internal_name: meepo_divided_we_stand
   name: Divided We Stand
@@ -1674,6 +1738,10 @@
 5451:
   internal_name: rubick_null_field
   name: Null Field
+  type: 
+7320:
+  internal_name: rubick_arcane_supremacy
+  name: rubick_arcane_supremacy
   type: 
 5452:
   internal_name: rubick_spell_steal
@@ -1767,6 +1835,10 @@
   internal_name: keeper_of_the_light_mana_leak
   name: Mana Leak
   type: 
+7316:
+  internal_name: keeper_of_the_light_will_o_wisp
+  name: keeper_of_the_light_will_o_wisp
+  type: DOTA_ABILITY_TYPE_ULTIMATE
 5473:
   internal_name: keeper_of_the_light_chakra_magic
   name: Chakra Magic
@@ -2002,6 +2074,10 @@
 5567:
   internal_name: tusk_frozen_sigil
   name: Frozen Sigil
+  type: 
+7322:
+  internal_name: tusk_tag_team
+  name: tusk_tag_team
   type: 
 5568:
   internal_name: tusk_walrus_punch
@@ -2262,6 +2338,10 @@
 6346:
   internal_name: pangolier_heartpiercer
   name: Heartpiercer
+  type: 
+7307:
+  internal_name: pangolier_lucky_shot
+  name: pangolier_lucky_shot
   type: 
 6343:
   internal_name: pangolier_gyroshell
@@ -3115,6 +3195,10 @@
   internal_name: special_bonus_cleave_30
   name: "+30% Cleave"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7200:
+  internal_name: special_bonus_cleave_40
+  name: special_bonus_cleave_40
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6631:
   internal_name: special_bonus_cleave_60
   name: "+60% Cleave"
@@ -3122,6 +3206,10 @@
 6827:
   internal_name: special_bonus_cleave_100
   name: "+100% Cleave"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7201:
+  internal_name: special_bonus_cleave_130
+  name: special_bonus_cleave_130
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7124:
   internal_name: special_bonus_cleave_150
@@ -3803,6 +3891,14 @@
   internal_name: special_bonus_attack_damage_400
   name: "+400 Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7372:
+  internal_name: special_bonus_attack_base_damage_30
+  name: special_bonus_attack_base_damage_30
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7370:
+  internal_name: special_bonus_attack_base_damage_45
+  name: special_bonus_attack_base_damage_45
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5992:
   internal_name: special_bonus_attack_range_50
   name: "+50 Attack Range"
@@ -4090,6 +4186,10 @@
 7045:
   internal_name: special_bonus_20_crit_15
   name: "+20% Critical Strike (1.5x)"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7145:
+  internal_name: special_bonus_50_crit_40
+  name: special_bonus_50_crit_40
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5983:
   internal_name: special_bonus_exp_boost_5
@@ -4391,6 +4491,10 @@
   internal_name: special_bonus_unique_lich_3
   name: "-4s Frost Blast Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7360:
+  internal_name: special_bonus_unique_lich_4
+  name: special_bonus_unique_lich_4
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6041:
   internal_name: special_bonus_unique_rubick
   name: "+300 Telekinesis Land Distance"
@@ -4687,6 +4791,10 @@
   internal_name: special_bonus_unique_templar_assassin_6
   name: "+3 Psionic Traps"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7371:
+  internal_name: special_bonus_unique_templar_assassin_7
+  name: special_bonus_unique_templar_assassin_7
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6072:
   internal_name: special_bonus_unique_crystal_maiden_1
   name: "+1.5s Frostbite Duration"
@@ -4938,6 +5046,14 @@
 6602:
   internal_name: special_bonus_unique_abaddon_3
   name: "+25% Curse of Avernus MS/AS Slow"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7335:
+  internal_name: special_bonus_unique_abaddon_4
+  name: special_bonus_unique_abaddon_4
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7340:
+  internal_name: special_bonus_unique_abaddon_5
+  name: special_bonus_unique_abaddon_5
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6101:
   internal_name: special_bonus_unique_alchemist
@@ -5403,6 +5519,10 @@
   internal_name: special_bonus_unique_elder_titan_3
   name: "-75 Earth Splitter Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7350:
+  internal_name: special_bonus_unique_elder_titan_4
+  name: special_bonus_unique_elder_titan_4
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6172:
   internal_name: special_bonus_unique_ember_spirit_1
   name: "+200 Flame Guard Absorption"
@@ -5858,6 +5978,10 @@
 6712:
   internal_name: special_bonus_unique_outworld_devourer_3
   name: "+2 Sanity's Eclipse Multiplier"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7375:
+  internal_name: special_bonus_unique_outworld_devourer_4
+  name: special_bonus_unique_outworld_devourer_4
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6217:
   internal_name: special_bonus_unique_keeper_of_the_light
