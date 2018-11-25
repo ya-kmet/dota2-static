@@ -3171,6 +3171,10 @@
   internal_name: special_bonus_attack_speed_250
   name: "+250 Attack Speed"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7383:
+  internal_name: special_bonus_corruption_3
+  name: special_bonus_corruption_3
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7011:
   internal_name: special_bonus_corruption_4
   name: "-4 Armor Corruption"
@@ -3631,6 +3635,10 @@
   internal_name: special_bonus_strength_40
   name: "+40 Strength"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7384:
+  internal_name: special_bonus_agility_6
+  name: special_bonus_agility_6
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6014:
   internal_name: special_bonus_agility_8
   name: "+8 Agility"
@@ -3638,6 +3646,10 @@
 6029:
   internal_name: special_bonus_agility_10
   name: "+10 Agility"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7386:
+  internal_name: special_bonus_agility_12
+  name: special_bonus_agility_12
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6011:
   internal_name: special_bonus_agility_13
@@ -5559,6 +5571,10 @@
   internal_name: special_bonus_reincarnation_200
   name: Gains Reincarnation 200 CD
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7385:
+  internal_name: special_bonus_reincarnation_250
+  name: special_bonus_reincarnation_250
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6174:
   internal_name: special_bonus_unique_lion
   name: "+2 Mana Drain Multi Target"
@@ -6150,6 +6166,10 @@
 7036:
   internal_name: special_bonus_unique_lone_druid_9
   name: 0 Entangle Cooldown
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7382:
+  internal_name: special_bonus_unique_lone_druid_10
+  name: special_bonus_unique_lone_druid_10
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6537:
   internal_name: special_bonus_unique_wisp_2
