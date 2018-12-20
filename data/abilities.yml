@@ -6327,3 +6327,39 @@
   internal_name: bear_empty2
   name: Empty
   type: 
+7816:
+  internal_name: consumable_hidden
+  name: consumable_hidden
+  type: 
+7804:
+  internal_name: seasonal_throw_snowball
+  name: seasonal_throw_snowball
+  type: 
+7806:
+  internal_name: seasonal_summon_snowman
+  name: seasonal_summon_snowman
+  type: 
+7807:
+  internal_name: seasonal_decorate_tree
+  name: seasonal_decorate_tree
+  type: 
+7809:
+  internal_name: seasonal_festive_firework
+  name: seasonal_festive_firework
+  type: 
+7810:
+  internal_name: frostivus2018_throw_snowball
+  name: frostivus2018_throw_snowball
+  type: 
+7812:
+  internal_name: frostivus2018_summon_snowman
+  name: frostivus2018_summon_snowman
+  type: 
+7813:
+  internal_name: frostivus2018_decorate_tree
+  name: frostivus2018_decorate_tree
+  type: 
+7815:
+  internal_name: frostivus2018_festive_firework
+  name: frostivus2018_festive_firework
+  type: 
