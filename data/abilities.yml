@@ -5011,6 +5011,14 @@
   internal_name: special_bonus_unique_dragon_knight_4
   name: Dragon Blood Aura
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7380:
+  internal_name: special_bonus_unique_dragon_knight_5
+  name: special_bonus_unique_dragon_knight_5
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7381:
+  internal_name: special_bonus_unique_dragon_knight_6
+  name: special_bonus_unique_dragon_knight_6
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6097:
   internal_name: special_bonus_unique_invoker_1
   name: "+1 Forged Spirit Summoned"
@@ -5046,6 +5054,10 @@
 7148:
   internal_name: special_bonus_unique_invoker_9
   name: "-12s Cold Snap Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7390:
+  internal_name: special_bonus_unique_invoker_10
+  name: special_bonus_unique_invoker_10
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6100:
   internal_name: special_bonus_unique_abaddon
@@ -5139,6 +5151,10 @@
   internal_name: special_bonus_unique_juggernaut_3
   name: "+100 Blade Fury DPS"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7394:
+  internal_name: special_bonus_unique_juggernaut_4
+  name: special_bonus_unique_juggernaut_4
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6106:
   internal_name: special_bonus_unique_winter_wyvern_1
   name: "+15% Arctic Burn Slow"
@@ -5202,6 +5218,10 @@
 7001:
   internal_name: special_bonus_unique_faceless_void_4
   name: "+25% Backtrack"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7388:
+  internal_name: special_bonus_unique_faceless_void_5
+  name: special_bonus_unique_faceless_void_5
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6129:
   internal_name: special_bonus_unique_night_stalker
@@ -5406,6 +5426,10 @@
 6916:
   internal_name: special_bonus_unique_storm_spirit_5
   name: "+80 Static Remnant Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7936:
+  internal_name: special_bonus_unique_storm_spirit_6
+  name: special_bonus_unique_storm_spirit_6
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6151:
   internal_name: special_bonus_unique_tidehunter
@@ -5627,6 +5651,10 @@
   internal_name: special_bonus_unique_medusa_4
   name: Split Shot Uses Modifiers
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7389:
+  internal_name: special_bonus_unique_medusa_5
+  name: special_bonus_unique_medusa_5
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6183:
   internal_name: special_bonus_unique_ogre_magi
   name: "+40 Bloodlust AS"
@@ -5742,6 +5770,10 @@
 6897:
   internal_name: special_bonus_unique_sniper_4
   name: "-1.5s Assassinate Cast Time"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7396:
+  internal_name: special_bonus_unique_sniper_5
+  name: special_bonus_unique_sniper_5
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6199:
   internal_name: special_bonus_unique_magnus
@@ -6011,6 +6043,10 @@
   internal_name: special_bonus_unique_keeper_of_the_light_3
   name: "+2s Mana Leak Stun"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7398:
+  internal_name: special_bonus_unique_keeper_of_the_light_4
+  name: special_bonus_unique_keeper_of_the_light_4
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6218:
   internal_name: special_bonus_unique_legion_commander
   name: "+40 Duel Damage Bonus"
@@ -6026,6 +6062,10 @@
 6671:
   internal_name: special_bonus_unique_legion_commander_4
   name: "+50 Overwhelming Odds Hero Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7395:
+  internal_name: special_bonus_unique_legion_commander_5
+  name: special_bonus_unique_legion_commander_5
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6219:
   internal_name: special_bonus_unique_puck
@@ -6290,6 +6330,10 @@
 9135:
   internal_name: special_bonus_unique_pangolier_6
   name: "+2s Rolling Thunder Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+9391:
+  internal_name: special_bonus_unique_pangolier_7
+  name: special_bonus_unique_pangolier_7
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6464:
   internal_name: special_bonus_unique_dark_willow_1
