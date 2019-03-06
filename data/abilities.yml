@@ -2387,6 +2387,38 @@
   internal_name: grimstroke_soul_chain
   name: grimstroke_soul_chain
   type: DOTA_ABILITY_TYPE_ULTIMATE
+6583:
+  internal_name: mars_spear
+  name: mars_spear
+  type: 
+6495:
+  internal_name: mars_gods_rebuke
+  name: mars_gods_rebuke
+  type: 
+6582:
+  internal_name: mars_bulwark
+  name: mars_bulwark
+  type: 
+6598:
+  internal_name: mars_arena_of_blood
+  name: mars_arena_of_blood
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+6759:
+  internal_name: special_bonus_unique_mars_spear_bonus_damage
+  name: special_bonus_unique_mars_spear_bonus_damage
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6756:
+  internal_name: special_bonus_unique_mars_gods_rebuke_extra_crit
+  name: special_bonus_unique_mars_gods_rebuke_extra_crit
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6584:
+  internal_name: special_bonus_unique_mars_spear_stun_duration
+  name: special_bonus_unique_mars_spear_stun_duration
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6766:
+  internal_name: special_bonus_unique_mars_arena_of_blood_hp_regen
+  name: special_bonus_unique_mars_arena_of_blood_hp_regen
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5350:
   internal_name: backdoor_protection
   name: Backdoor Protection
