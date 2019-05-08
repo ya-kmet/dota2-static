@@ -6459,3 +6459,27 @@
   internal_name: seasonal_firecrackers
   name: seasonal_firecrackers
   type: 
+7968:
+  internal_name: high_five
+  name: high_five
+  type: 
+7821:
+  internal_name: seasonal_summon_ti9_balloon
+  name: seasonal_summon_ti9_balloon
+  type: 
+7822:
+  internal_name: seasonal_ti9_banner
+  name: seasonal_ti9_banner
+  type: 
+7824:
+  internal_name: seasonal_ti9_shovel
+  name: seasonal_ti9_shovel
+  type: 
+7823:
+  internal_name: seasonal_ti9_instruments
+  name: seasonal_ti9_instruments
+  type: 
+7825:
+  internal_name: seasonal_ti9_monkey
+  name: seasonal_ti9_monkey
+  type: 
