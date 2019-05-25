@@ -563,6 +563,14 @@
   internal_name: ultimate_scepter
   quality: rare
   name: Aghanim's Scepter
+270:
+  internal_name: recipe_ultimate_scepter_2
+  quality: 
+  name: recipe_ultimate_scepter_2
+271:
+  internal_name: ultimate_scepter_2
+  quality: rare
+  name: ultimate_scepter_2
 109:
   internal_name: recipe_refresher
   quality: 

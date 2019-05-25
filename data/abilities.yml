@@ -451,6 +451,10 @@
   internal_name: tiny_toss_tree
   name: Tree Throw
   type: 
+7850:
+  internal_name: tiny_tree_channel
+  name: tiny_tree_channel
+  type: 
 5109:
   internal_name: tiny_grow
   name: Grow
@@ -478,6 +482,10 @@
 5114:
   internal_name: slardar_sprint
   name: Guardian Sprint
+  type: 
+7864:
+  internal_name: slardar_scepter
+  name: slardar_scepter
   type: 
 5115:
   internal_name: slardar_slithereen_crush
@@ -847,6 +855,10 @@
   internal_name: templar_assassin_trap
   name: Trap
   type: 
+7853:
+  internal_name: templar_assassin_trap_teleport
+  name: templar_assassin_trap_teleport
+  type: 
 5199:
   internal_name: templar_assassin_self_trap
   name: Trap
@@ -1051,6 +1063,10 @@
   internal_name: clinkz_burning_army
   name: clinkz_burning_army
   type: DOTA_ABILITY_TYPE_ULTIMATE
+7855:
+  internal_name: clinkz_scepter
+  name: clinkz_scepter
+  type: 
 5262:
   internal_name: clinkz_death_pact
   name: Death Pact
@@ -1255,6 +1271,10 @@
   internal_name: spectre_haunt
   name: Haunt
   type: DOTA_ABILITY_TYPE_ULTIMATE
+7851:
+  internal_name: spectre_haunt_single
+  name: spectre_haunt_single
+  type: 
 5338:
   internal_name: spectre_reality
   name: Reality
@@ -1971,6 +1991,10 @@
   internal_name: troll_warlord_whirling_axes_melee
   name: Whirling Axes (Melee)
   type: 
+7865:
+  internal_name: troll_warlord_scepter
+  name: troll_warlord_scepter
+  type: 
 5511:
   internal_name: troll_warlord_fervor
   name: Fervor
@@ -2378,6 +2402,10 @@
 8006:
   internal_name: grimstroke_ink_creature
   name: grimstroke_ink_creature
+  type: 
+7852:
+  internal_name: grimstroke_scepter
+  name: grimstroke_scepter
   type: 
 8007:
   internal_name: grimstroke_spirit_walk
@@ -2987,6 +3015,10 @@
   internal_name: cny_beast_teleport
   name: cny_beast_teleport
   type: 
+7854:
+  internal_name: arc_warden_scepter
+  name: arc_warden_scepter
+  type: 
 5677:
   internal_name: arc_warden_flux
   name: Flux
@@ -3251,6 +3283,10 @@
   internal_name: special_bonus_cleave_150
   name: "+150% Cleave"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7670:
+  internal_name: special_bonus_cleave_175
+  name: special_bonus_cleave_175
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6629:
   internal_name: special_bonus_haste
   name: Haste Movement
@@ -3370,6 +3406,10 @@
 5961:
   internal_name: special_bonus_mp_regen_2
   name: "+2 Mana Regen"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7873:
+  internal_name: special_bonus_mp_regen_250
+  name: special_bonus_mp_regen_250
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5916:
   internal_name: special_bonus_mp_regen_4
@@ -5175,6 +5215,10 @@
   internal_name: special_bonus_unique_clinkz_3
   name: Searing Arrows Multishot
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7878:
+  internal_name: special_bonus_unique_clinkz_4
+  name: special_bonus_unique_clinkz_4
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6105:
   internal_name: special_bonus_unique_juggernaut
   name: "+1s Blade Fury"
@@ -5218,6 +5262,10 @@
 6943:
   internal_name: special_bonus_unique_terrorblade_3
   name: "+300 Metamorphosis Attack Range"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7861:
+  internal_name: special_bonus_unique_terrorblade_4
+  name: special_bonus_unique_terrorblade_4
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6180:
   internal_name: special_bonus_unique_luna_1
@@ -5378,6 +5426,18 @@
 7062:
   internal_name: special_bonus_unique_windranger_6
   name: "+1s Shackleshot Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7888:
+  internal_name: special_bonus_unique_windranger_7
+  name: special_bonus_unique_windranger_7
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7889:
+  internal_name: special_bonus_unique_windranger_8
+  name: special_bonus_unique_windranger_8
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7890:
+  internal_name: special_bonus_unique_windranger_9
+  name: special_bonus_unique_windranger_9
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6146:
   internal_name: special_bonus_unique_phantom_lancer
@@ -5791,6 +5851,10 @@
   internal_name: special_bonus_unique_tusk_5
   name: "-6s Ice Shards Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7891:
+  internal_name: special_bonus_unique_tusk_6
+  name: special_bonus_unique_tusk_6
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6305:
   internal_name: special_bonus_unique_sniper_1
   name: "+25 Shrapnel DPS"
@@ -5810,6 +5874,10 @@
 7396:
   internal_name: special_bonus_unique_sniper_5
   name: special_bonus_unique_sniper_5
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7892:
+  internal_name: special_bonus_unique_sniper_6
+  name: special_bonus_unique_sniper_6
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6199:
   internal_name: special_bonus_unique_magnus
@@ -5966,6 +6034,10 @@
 6890:
   internal_name: special_bonus_unique_slardar_3
   name: Corrosive Haze Undispellable
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7871:
+  internal_name: special_bonus_unique_slardar_4
+  name: special_bonus_unique_slardar_4
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6212:
   internal_name: special_bonus_unique_lina_1
@@ -6203,6 +6275,10 @@
   internal_name: special_bonus_unique_chen_4
   name: "+1000 Holy Persuasion Minimum Health"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7869:
+  internal_name: special_bonus_unique_chen_5
+  name: special_bonus_unique_chen_5
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6261:
   internal_name: special_bonus_unique_lone_druid_1
   name: "+200 Spirit Bear Damage"
@@ -6378,6 +6454,10 @@
 6465:
   internal_name: special_bonus_unique_dark_willow_2
   name: "+1.5 Terrorize Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7859:
+  internal_name: special_bonus_unique_dark_willow_3
+  name: special_bonus_unique_dark_willow_3
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 8001:
   internal_name: special_bonus_unique_grimstroke_1
