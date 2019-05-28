@@ -3227,6 +3227,10 @@
   internal_name: special_bonus_attack_speed_160
   name: "+160 Attack Speed"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7893:
+  internal_name: special_bonus_attack_speed_175
+  name: special_bonus_attack_speed_175
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6622:
   internal_name: special_bonus_attack_speed_200
   name: "+200 Attack Speed"
