@@ -5191,6 +5191,10 @@
   internal_name: special_bonus_unique_axe_3
   name: Attacking Procs Counter Helix
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6991:
+  internal_name: special_bonus_unique_axe_4
+  name: special_bonus_unique_axe_4
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6103:
   internal_name: special_bonus_unique_beastmaster
   name: "+80 Wild Axes Damage"
@@ -5222,6 +5226,10 @@
 7878:
   internal_name: special_bonus_unique_clinkz_4
   name: special_bonus_unique_clinkz_4
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7895:
+  internal_name: special_bonus_unique_clinkz_5
+  name: special_bonus_unique_clinkz_5
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6105:
   internal_name: special_bonus_unique_juggernaut
@@ -5558,6 +5566,10 @@
 6953:
   internal_name: special_bonus_unique_tinker_3
   name: "+0.3s Heat-Seeking Missile Ministun"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7898:
+  internal_name: special_bonus_unique_tinker_4
+  name: special_bonus_unique_tinker_4
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6153:
   internal_name: special_bonus_unique_tiny
@@ -6283,6 +6295,10 @@
   internal_name: special_bonus_unique_chen_5
   name: special_bonus_unique_chen_5
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7894:
+  internal_name: special_bonus_unique_chen_6
+  name: special_bonus_unique_chen_6
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6261:
   internal_name: special_bonus_unique_lone_druid_1
   name: "+200 Spirit Bear Damage"
@@ -6346,6 +6362,10 @@
 7070:
   internal_name: special_bonus_unique_wisp_6
   name: "-60s Relocate Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7897:
+  internal_name: special_bonus_unique_wisp_7
+  name: special_bonus_unique_wisp_7
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6282:
   internal_name: special_bonus_unique_techies
