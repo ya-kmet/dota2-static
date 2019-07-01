@@ -3267,6 +3267,10 @@
   internal_name: special_bonus_cleave_30
   name: "+30% Cleave"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7899:
+  internal_name: special_bonus_cleave_35
+  name: special_bonus_cleave_35
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7200:
   internal_name: special_bonus_cleave_40
   name: special_bonus_cleave_40
@@ -3518,6 +3522,10 @@
 6121:
   internal_name: special_bonus_lifesteal_30
   name: 30% Lifesteal
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7896:
+  internal_name: special_bonus_lifesteal_40
+  name: special_bonus_lifesteal_40
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6721:
   internal_name: special_bonus_lifesteal_100
