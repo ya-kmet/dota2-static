@@ -3523,6 +3523,10 @@
   internal_name: special_bonus_lifesteal_30
   name: 30% Lifesteal
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8011:
+  internal_name: special_bonus_lifesteal_35
+  name: special_bonus_lifesteal_35
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7896:
   internal_name: special_bonus_lifesteal_40
   name: special_bonus_lifesteal_40
@@ -5938,6 +5942,10 @@
 6634:
   internal_name: special_bonus_unique_drow_ranger_4
   name: "+3s Gust Silence Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8010:
+  internal_name: special_bonus_unique_drow_ranger_5
+  name: special_bonus_unique_drow_ranger_5
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6203:
   internal_name: special_bonus_unique_earth_spirit
