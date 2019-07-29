@@ -3399,6 +3399,10 @@
   internal_name: special_bonus_hp_regen_80
   name: "+80 Health Regen"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8018:
+  internal_name: special_bonus_mana_reduction_11
+  name: special_bonus_mana_reduction_11
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5915:
   internal_name: special_bonus_mp_regen_1
   name: "+1 Mana Regen"
@@ -3979,6 +3983,10 @@
   internal_name: special_bonus_attack_damage_150
   name: "+150 Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8017:
+  internal_name: special_bonus_attack_damage_160
+  name: special_bonus_attack_damage_160
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6556:
   internal_name: special_bonus_attack_damage_250
   name: "+250 Damage"
@@ -4234,6 +4242,10 @@
 6026:
   internal_name: special_bonus_gold_income_30
   name: "+180 Gold/Min"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8005:
+  internal_name: special_bonus_gold_income_35
+  name: special_bonus_gold_income_35
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6301:
   internal_name: special_bonus_gold_income_40
