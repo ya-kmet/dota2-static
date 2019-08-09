@@ -2511,6 +2511,14 @@
   internal_name: courier_take_stash_items
   name: Retrieve Items
   type: DOTA_ABILITY_TYPE_BASIC
+7826:
+  internal_name: courier_queue_pickup_from_stash
+  name: courier_queue_pickup_from_stash
+  type: DOTA_ABILITY_TYPE_BASIC
+7827:
+  internal_name: courier_dequeue_pickup_from_stash
+  name: courier_dequeue_pickup_from_stash
+  type: DOTA_ABILITY_TYPE_BASIC
 5676:
   internal_name: courier_take_stash_and_transfer_items
   name: courier_take_stash_and_transfer_items
