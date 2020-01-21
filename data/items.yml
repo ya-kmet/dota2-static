@@ -227,6 +227,10 @@
   internal_name: courier
   quality: consumable
   name: Animal Courier
+286:
+  internal_name: flying_courier
+  quality: consumable
+  name: Flying Courier
 46:
   internal_name: tpscroll
   quality: consumable
@@ -671,7 +675,7 @@
   internal_name: kaya
   quality: epic
   name: Kaya
-275:
+369:
   internal_name: trident
   quality: 
   name: trident
@@ -1131,3 +1135,263 @@
   internal_name: pocket_roshan
   quality: rare
   name: pocket_roshan
+287:
+  internal_name: keen_optic
+  quality: 
+  name: keen_optic
+288:
+  internal_name: grove_bow
+  quality: 
+  name: grove_bow
+289:
+  internal_name: quickening_charm
+  quality: 
+  name: quickening_charm
+290:
+  internal_name: philosophers_stone
+  quality: 
+  name: philosophers_stone
+291:
+  internal_name: force_boots
+  quality: 
+  name: force_boots
+292:
+  internal_name: desolator_2
+  quality: 
+  name: desolator_2
+293:
+  internal_name: phoenix_ash
+  quality: 
+  name: phoenix_ash
+294:
+  internal_name: seer_stone
+  quality: 
+  name: seer_stone
+295:
+  internal_name: greater_mango
+  quality: 
+  name: greater_mango
+302:
+  internal_name: elixer
+  quality: 
+  name: elixer
+297:
+  internal_name: vampire_fangs
+  quality: 
+  name: vampire_fangs
+298:
+  internal_name: craggy_coat
+  quality: 
+  name: craggy_coat
+299:
+  internal_name: greater_faerie_fire
+  quality: 
+  name: greater_faerie_fire
+300:
+  internal_name: timeless_relic
+  quality: 
+  name: timeless_relic
+301:
+  internal_name: mirror_shield
+  quality: 
+  name: mirror_shield
+303:
+  internal_name: recipe_ironwood_tree
+  quality: 
+  name: recipe_ironwood_tree
+304:
+  internal_name: ironwood_tree
+  quality: 
+  name: ironwood_tree
+328:
+  internal_name: mango_tree
+  quality: 
+  name: mango_tree
+305:
+  internal_name: royal_jelly
+  quality: 
+  name: royal_jelly
+306:
+  internal_name: pupils_gift
+  quality: 
+  name: pupils_gift
+307:
+  internal_name: tome_of_aghanim
+  quality: 
+  name: tome_of_aghanim
+308:
+  internal_name: repair_kit
+  quality: 
+  name: repair_kit
+309:
+  internal_name: mind_breaker
+  quality: 
+  name: mind_breaker
+310:
+  internal_name: third_eye
+  quality: 
+  name: third_eye
+311:
+  internal_name: spell_prism
+  quality: 
+  name: spell_prism
+325:
+  internal_name: princes_knife
+  quality: 
+  name: princes_knife
+330:
+  internal_name: witless_shako
+  quality: 
+  name: witless_shako
+334:
+  internal_name: imp_claw
+  quality: 
+  name: imp_claw
+335:
+  internal_name: flicker
+  quality: 
+  name: flicker
+336:
+  internal_name: spy_gadget
+  quality: 
+  name: spy_gadget
+326:
+  internal_name: spider_legs
+  quality: 
+  name: spider_legs
+327:
+  internal_name: helm_of_the_undying
+  quality: 
+  name: helm_of_the_undying
+329:
+  internal_name: recipe_vambrace
+  quality: 
+  name: recipe_vambrace
+331:
+  internal_name: vambrace
+  quality: common
+  name: vambrace
+312:
+  internal_name: horizon
+  quality: 
+  name: horizon
+313:
+  internal_name: fusion_rune
+  quality: 
+  name: fusion_rune
+354:
+  internal_name: ocean_heart
+  quality: 
+  name: ocean_heart
+355:
+  internal_name: broom_handle
+  quality: 
+  name: broom_handle
+356:
+  internal_name: trusty_shovel
+  quality: 
+  name: trusty_shovel
+357:
+  internal_name: nether_shawl
+  quality: 
+  name: nether_shawl
+358:
+  internal_name: dragon_scale
+  quality: 
+  name: dragon_scale
+359:
+  internal_name: essence_ring
+  quality: 
+  name: essence_ring
+360:
+  internal_name: clumsy_net
+  quality: 
+  name: clumsy_net
+361:
+  internal_name: enchanted_quiver
+  quality: 
+  name: enchanted_quiver
+362:
+  internal_name: ninja_gear
+  quality: 
+  name: ninja_gear
+363:
+  internal_name: illusionsts_cape
+  quality: 
+  name: illusionsts_cape
+364:
+  internal_name: havoc_hammer
+  quality: 
+  name: havoc_hammer
+365:
+  internal_name: panic_button
+  quality: 
+  name: panic_button
+366:
+  internal_name: apex
+  quality: 
+  name: apex
+367:
+  internal_name: ballista
+  quality: 
+  name: ballista
+368:
+  internal_name: woodland_striders
+  quality: 
+  name: woodland_striders
+275:
+  internal_name: recipe_trident
+  quality: 
+  name: recipe_trident
+370:
+  internal_name: demonicon
+  quality: 
+  name: demonicon
+317:
+  internal_name: recipe_fallen_sky
+  quality: 
+  name: recipe_fallen_sky
+371:
+  internal_name: fallen_sky
+  quality: 
+  name: fallen_sky
+372:
+  internal_name: pirate_hat
+  quality: 
+  name: pirate_hat
+373:
+  internal_name: dimensional_doorway
+  quality: 
+  name: dimensional_doorway
+374:
+  internal_name: ex_machina
+  quality: 
+  name: ex_machina
+375:
+  internal_name: faded_broach
+  quality: 
+  name: faded_broach
+376:
+  internal_name: paladin_sword
+  quality: 
+  name: paladin_sword
+377:
+  internal_name: minotaur_horn
+  quality: 
+  name: minotaur_horn
+378:
+  internal_name: orb_of_destruction
+  quality: 
+  name: orb_of_destruction
+379:
+  internal_name: the_leveller
+  quality: 
+  name: the_leveller
+349:
+  internal_name: arcane_ring
+  quality: 
+  name: Arcane Ring
+381:
+  internal_name: titan_sliver
+  quality: 
+  name: titan_sliver
