@@ -106,7 +106,7 @@
 261:
   internal_name: crown
   quality: component
-  name: crown
+  name: Crown
 21:
   internal_name: ogre_axe
   quality: component
@@ -138,7 +138,7 @@
 279:
   internal_name: ring_of_tarrasque
   quality: component
-  name: ring_of_tarrasque
+  name: Ring of Tarrasque
 28:
   internal_name: sobi_mask
   quality: component
@@ -378,7 +378,7 @@
 80:
   internal_name: recipe_vladmir
   quality: 
-  name: recipe_vladmir
+  name: Vladmir's Offering Recipe
 81:
   internal_name: vladmir
   quality: rare
@@ -402,11 +402,11 @@
 268:
   internal_name: recipe_holy_locket
   quality: 
-  name: recipe_holy_locket
+  name: Holy Locket Recipe
 269:
   internal_name: holy_locket
   quality: rare
-  name: holy_locket
+  name: Holy Locket
 89:
   internal_name: recipe_pipe
   quality: 
@@ -570,11 +570,11 @@
 270:
   internal_name: recipe_ultimate_scepter_2
   quality: 
-  name: recipe_ultimate_scepter_2
+  name: Aghanim's Blessing Recipe
 271:
   internal_name: ultimate_scepter_2
   quality: rare
-  name: ultimate_scepter_2
+  name: Aghanim's Blessing
 109:
   internal_name: recipe_refresher
   quality: 
@@ -670,7 +670,7 @@
 258:
   internal_name: recipe_kaya
   quality: 
-  name: recipe_kaya
+  name: Kaya Recipe
 259:
   internal_name: kaya
   quality: epic
@@ -678,7 +678,7 @@
 369:
   internal_name: trident
   quality: 
-  name: trident
+  name: Trident
 276:
   internal_name: combo_breaker
   quality: 
@@ -690,7 +690,7 @@
 266:
   internal_name: recipe_spirit_vessel
   quality: 
-  name: recipe_spirit_vessel
+  name: Spirit Vessel Recipe
 267:
   internal_name: spirit_vessel
   quality: rare
@@ -850,19 +850,19 @@
 272:
   internal_name: recipe_kaya_and_sange
   quality: 
-  name: recipe_kaya_and_sange
+  name: Kaya and Sange Recipe
 273:
   internal_name: kaya_and_sange
   quality: artifact
-  name: kaya_and_sange
+  name: Kaya and Sange
 274:
   internal_name: recipe_yasha_and_kaya
   quality: 
-  name: recipe_yasha_and_kaya
+  name: Yasha and Kaya Recipe
 277:
   internal_name: yasha_and_kaya
   quality: artifact
-  name: yasha_and_kaya
+  name: Yasha and Kaya
 155:
   internal_name: recipe_satanic
   quality: 
@@ -1134,259 +1134,259 @@
 1032:
   internal_name: pocket_roshan
   quality: rare
-  name: pocket_roshan
+  name: Pocket Roshan
 287:
   internal_name: keen_optic
   quality: 
-  name: keen_optic
+  name: Keen Optic
 288:
   internal_name: grove_bow
   quality: 
-  name: grove_bow
+  name: Grove Bow
 289:
   internal_name: quickening_charm
   quality: 
-  name: quickening_charm
+  name: Quickening Charm
 290:
   internal_name: philosophers_stone
   quality: 
-  name: philosophers_stone
+  name: Philosopher's Stone
 291:
   internal_name: force_boots
   quality: 
-  name: force_boots
+  name: Force Boots
 292:
   internal_name: desolator_2
   quality: 
-  name: desolator_2
+  name: Stygian Desolator
 293:
   internal_name: phoenix_ash
   quality: 
-  name: phoenix_ash
+  name: Phoenix Ash
 294:
   internal_name: seer_stone
   quality: 
-  name: seer_stone
+  name: Seer Stone
 295:
   internal_name: greater_mango
   quality: 
-  name: greater_mango
+  name: Greater Mango
 302:
   internal_name: elixer
   quality: 
-  name: elixer
+  name: Elixir
 297:
   internal_name: vampire_fangs
   quality: 
-  name: vampire_fangs
+  name: Vampire Fangs
 298:
   internal_name: craggy_coat
   quality: 
-  name: craggy_coat
+  name: Craggy Coat
 299:
   internal_name: greater_faerie_fire
   quality: 
-  name: greater_faerie_fire
+  name: Greater Faerie Fire
 300:
   internal_name: timeless_relic
   quality: 
-  name: timeless_relic
+  name: Timeless Relic
 301:
   internal_name: mirror_shield
   quality: 
-  name: mirror_shield
+  name: Mirror Shield
 303:
   internal_name: recipe_ironwood_tree
   quality: 
-  name: recipe_ironwood_tree
+  name: Ironwood Tree Recipe
 304:
   internal_name: ironwood_tree
   quality: 
-  name: ironwood_tree
+  name: Ironwood Tree
 328:
   internal_name: mango_tree
   quality: 
-  name: mango_tree
+  name: Mango Tree
 305:
   internal_name: royal_jelly
   quality: 
-  name: royal_jelly
+  name: Royal Jelly
 306:
   internal_name: pupils_gift
   quality: 
-  name: pupils_gift
+  name: Pupil's Gift
 307:
   internal_name: tome_of_aghanim
   quality: 
-  name: tome_of_aghanim
+  name: Tome of Aghanim
 308:
   internal_name: repair_kit
   quality: 
-  name: repair_kit
+  name: Repair Kit
 309:
   internal_name: mind_breaker
   quality: 
-  name: mind_breaker
+  name: Mind Breaker
 310:
   internal_name: third_eye
   quality: 
-  name: third_eye
+  name: Third Eye
 311:
   internal_name: spell_prism
   quality: 
-  name: spell_prism
+  name: Spell Prism
 325:
   internal_name: princes_knife
   quality: 
-  name: princes_knife
+  name: Prince's Knife
 330:
   internal_name: witless_shako
   quality: 
-  name: witless_shako
+  name: Witless Shako
 334:
   internal_name: imp_claw
   quality: 
-  name: imp_claw
+  name: Imp Claw
 335:
   internal_name: flicker
   quality: 
-  name: flicker
+  name: Flicker
 336:
   internal_name: spy_gadget
   quality: 
-  name: spy_gadget
+  name: Telescope
 326:
   internal_name: spider_legs
   quality: 
-  name: spider_legs
+  name: Spider Legs
 327:
   internal_name: helm_of_the_undying
   quality: 
-  name: helm_of_the_undying
+  name: Helm of the Undying
 329:
   internal_name: recipe_vambrace
   quality: 
-  name: recipe_vambrace
+  name: Vambrace Recipe
 331:
   internal_name: vambrace
   quality: common
-  name: vambrace
+  name: Vambrace
 312:
   internal_name: horizon
   quality: 
-  name: horizon
+  name: Horizon
 313:
   internal_name: fusion_rune
   quality: 
-  name: fusion_rune
+  name: Fusion Rune
 354:
   internal_name: ocean_heart
   quality: 
-  name: ocean_heart
+  name: Ocean Heart
 355:
   internal_name: broom_handle
   quality: 
-  name: broom_handle
+  name: Broom Handle
 356:
   internal_name: trusty_shovel
   quality: 
-  name: trusty_shovel
+  name: Trusty Shovel
 357:
   internal_name: nether_shawl
   quality: 
-  name: nether_shawl
+  name: Nether Shawl
 358:
   internal_name: dragon_scale
   quality: 
-  name: dragon_scale
+  name: Dragon Scale
 359:
   internal_name: essence_ring
   quality: 
-  name: essence_ring
+  name: Essence Ring
 360:
   internal_name: clumsy_net
   quality: 
-  name: clumsy_net
+  name: Clumsy Net
 361:
   internal_name: enchanted_quiver
   quality: 
-  name: enchanted_quiver
+  name: Enchanted Quiver
 362:
   internal_name: ninja_gear
   quality: 
-  name: ninja_gear
+  name: Ninja Gear
 363:
   internal_name: illusionsts_cape
   quality: 
-  name: illusionsts_cape
+  name: Illusionist's Cape
 364:
   internal_name: havoc_hammer
   quality: 
-  name: havoc_hammer
+  name: Havoc Hammer
 365:
   internal_name: panic_button
   quality: 
-  name: panic_button
+  name: Magic Lamp
 366:
   internal_name: apex
   quality: 
-  name: apex
+  name: Apex
 367:
   internal_name: ballista
   quality: 
-  name: ballista
+  name: Ballista
 368:
   internal_name: woodland_striders
   quality: 
-  name: woodland_striders
+  name: Woodland Striders
 275:
   internal_name: recipe_trident
   quality: 
-  name: recipe_trident
+  name: Trident Recipe
 370:
   internal_name: demonicon
   quality: 
-  name: demonicon
+  name: Book of the Dead
 317:
   internal_name: recipe_fallen_sky
   quality: 
-  name: recipe_fallen_sky
+  name: 'Recipe: Fallen Sky'
 371:
   internal_name: fallen_sky
   quality: 
-  name: fallen_sky
+  name: Fallen Sky
 372:
   internal_name: pirate_hat
   quality: 
-  name: pirate_hat
+  name: Pirate Hat
 373:
   internal_name: dimensional_doorway
   quality: 
-  name: dimensional_doorway
+  name: Dimensional Doorway
 374:
   internal_name: ex_machina
   quality: 
-  name: ex_machina
+  name: Ex Machina
 375:
   internal_name: faded_broach
   quality: 
-  name: faded_broach
+  name: Faded Broach
 376:
   internal_name: paladin_sword
   quality: 
-  name: paladin_sword
+  name: Paladin Sword
 377:
   internal_name: minotaur_horn
   quality: 
-  name: minotaur_horn
+  name: Minotaur Horn
 378:
   internal_name: orb_of_destruction
   quality: 
-  name: orb_of_destruction
+  name: Orb of Destruction
 379:
   internal_name: the_leveller
   quality: 
-  name: the_leveller
+  name: The Leveller
 349:
   internal_name: arcane_ring
   quality: 
@@ -1394,4 +1394,4 @@
 381:
   internal_name: titan_sliver
   quality: 
-  name: titan_sliver
+  name: Titan Sliver

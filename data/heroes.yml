@@ -2115,7 +2115,7 @@
   - 6465
 121:
   internal_name: grimstroke
-  name: 
+  name: Grimstroke
   abilities:
   - 8000
   - 8006
@@ -2133,7 +2133,7 @@
   - 8002
 129:
   internal_name: mars
-  name: 
+  name: Mars
   abilities:
   - 6583
   - 6495
@@ -2151,7 +2151,7 @@
   - 6766
 126:
   internal_name: void_spirit
-  name: 
+  name: Void Spirit
   abilities:
   - 7701
   - 6470
@@ -2169,7 +2169,7 @@
   - 7708
 128:
   internal_name: snapfire
-  name: 
+  name: Snapfire
   abilities:
   - 6480
   - 6483
