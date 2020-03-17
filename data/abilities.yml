@@ -143,6 +143,10 @@
   internal_name: juggernaut_omni_slash
   name: Omnislash
   type: DOTA_ABILITY_TYPE_ULTIMATE
+419:
+  internal_name: juggernaut_swift_slash
+  name: Swift Slash
+  type: 
 5031:
   internal_name: kunkka_torrent
   name: Torrent
@@ -2307,6 +2311,10 @@
   internal_name: terrorblade_metamorphosis
   name: Metamorphosis
   type: 
+425:
+  internal_name: terrorblade_terror_wave
+  name: Terror Wave
+  type: 
 5622:
   internal_name: terrorblade_sunder
   name: Sunder
@@ -2551,6 +2559,14 @@
   internal_name: snapfire_mortimer_kisses
   name: Mortimer Kisses
   type: DOTA_ABILITY_TYPE_ULTIMATE
+6484:
+  internal_name: snapfire_gobble_up
+  name: Gobble Up
+  type: 
+6486:
+  internal_name: snapfire_spit_creep
+  name: Spit Out
+  type: 
 6483:
   internal_name: snapfire_firesnap_cookie
   name: Firesnap Cookie
@@ -4773,7 +4789,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6984:
   internal_name: special_bonus_unique_visage_5
-  name: "{s:value}s Gravekeeper's Cloak"
+  name: "+{s:value} Gravekeeper's Cloak Stacks"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6985:
   internal_name: special_bonus_unique_visage_6
@@ -4862,6 +4878,10 @@
 7046:
   internal_name: special_bonus_unique_dark_seer_4
   name: Parallel Wall
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+420:
+  internal_name: special_bonus_unique_dark_seer_5
+  name: "+{s:value} Ion Shell Radius"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6049:
   internal_name: special_bonus_unique_dazzle_1
@@ -5181,7 +5201,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6359:
   internal_name: special_bonus_unique_brewmaster_2
-  name: "-65s Primal Split Cooldown"
+  name: "-{s:value}s Primal Split Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6516:
   internal_name: special_bonus_unique_brewmaster_3
@@ -5654,6 +5674,10 @@
 7133:
   internal_name: special_bonus_unique_ursa_6
   name: Enrage gains {s:value}% Status Resistance
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+424:
+  internal_name: special_bonus_unique_ursa_7
+  name: "+{s:value} Overpower Attacks"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6133:
   internal_name: special_bonus_unique_chaos_knight
@@ -6507,6 +6531,14 @@
   internal_name: special_bonus_unique_keeper_of_the_light_4
   name: "+{s:value} Will-O-Wisp Health Count"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+421:
+  internal_name: special_bonus_unique_keeper_of_the_light_5
+  name: "-{s:value}s Blinding Light Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+422:
+  internal_name: special_bonus_unique_keeper_of_the_light_6
+  name: "+{s:value} Will-O-Wisp AOE"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6218:
   internal_name: special_bonus_unique_legion_commander
   name: "+{s:value} Duel Damage Bonus"
@@ -6690,6 +6722,10 @@
 7382:
   internal_name: special_bonus_unique_lone_druid_10
   name: "{s:value} Spirit Bear Attack Time"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+423:
+  internal_name: special_bonus_unique_lone_druid_11
+  name: "+{s:value} Spirit Bear Movement Speed"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6537:
   internal_name: special_bonus_unique_wisp_2
