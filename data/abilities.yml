@@ -5263,6 +5263,10 @@
   internal_name: special_bonus_unique_phoenix_6
   name: "+{s:value}% Icarus Dive Slow"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+426:
+  internal_name: special_bonus_unique_phoenix_7
+  name: Sun Ray During Supernova
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6331:
   internal_name: special_bonus_unique_enchantress_1
   name: Enchant Affects Ancients
