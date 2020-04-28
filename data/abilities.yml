@@ -3251,12 +3251,20 @@
   internal_name: special_bonus_hp_400
   name: "+{s:value} Health"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+429:
+  internal_name: special_bonus_hp_475
+  name: "+{s:value} Health"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6235:
   internal_name: special_bonus_hp_500
   name: "+{s:value} Health"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6377:
   internal_name: special_bonus_hp_600
+  name: "+{s:value} Health"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+458:
+  internal_name: special_bonus_hp_650
   name: "+{s:value} Health"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6415:
@@ -3293,6 +3301,10 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6006:
   internal_name: special_bonus_mp_250
+  name: "+{s:value} Mana"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+438:
+  internal_name: special_bonus_mp_275
   name: "+{s:value} Mana"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5990:
@@ -3407,6 +3419,10 @@
   internal_name: special_bonus_attack_speed_250
   name: "+{s:value} Attack Speed"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+439:
+  internal_name: special_bonus_corruption_25
+  name: "-{s:value} Armor Corruption"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7383:
   internal_name: special_bonus_corruption_3
   name: "-{s:value} Armor Corruption"
@@ -3455,6 +3471,10 @@
   internal_name: special_bonus_cleave_130
   name: "+{s:value}% Cleave"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+455:
+  internal_name: special_bonus_cleave_140
+  name: "+{s:value}% Cleave"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7124:
   internal_name: special_bonus_cleave_150
   name: "+{s:value}% Cleave"
@@ -3475,9 +3495,17 @@
   internal_name: special_bonus_spell_block_15
   name: "{s:block_cooldown}s Spell Block"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+448:
+  internal_name: special_bonus_spell_block_18
+  name: "{s:block_cooldown}s Spell Block"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7035:
   internal_name: special_bonus_spell_block_20
   name: "{s:block_cooldown}s Spell Block"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+436:
+  internal_name: special_bonus_mana_break_15
+  name: "+{s:value} Mana Break"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6987:
   internal_name: special_bonus_mana_break_20
@@ -3568,6 +3596,10 @@
   name: "+{s:value} Health Regen"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 8018:
+  internal_name: special_bonus_mana_reduction_9
+  name: "+{s:value}% Manacost/Manaloss Reduction"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+440:
   internal_name: special_bonus_mana_reduction_11
   name: "+{s:value}% Manacost/Manaloss Reduction"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
@@ -3675,8 +3707,16 @@
   internal_name: special_bonus_movement_speed_100
   name: "+{s:value} Movement Speed"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+432:
+  internal_name: special_bonus_lifesteal_8
+  name: "{s:value}% Lifesteal"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6158:
   internal_name: special_bonus_lifesteal_10
+  name: "{s:value}% Lifesteal"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+433:
+  internal_name: special_bonus_lifesteal_12
   name: "{s:value}% Lifesteal"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6289:
@@ -3811,6 +3851,10 @@
   internal_name: special_bonus_spell_lifesteal_10
   name: "{s:value}% Spell Lifesteal"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+434:
+  internal_name: special_bonus_spell_lifesteal_12
+  name: "{s:value}% Spell Lifesteal"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6560:
   internal_name: special_bonus_spell_lifesteal_13
   name: "{s:value}% Spell Lifesteal"
@@ -3821,6 +3865,10 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6166:
   internal_name: special_bonus_spell_lifesteal_20
+  name: "{s:value}% Spell Lifesteal"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+441:
+  internal_name: special_bonus_spell_lifesteal_25
   name: "{s:value}% Spell Lifesteal"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6513:
@@ -3867,6 +3915,10 @@
   internal_name: special_bonus_strength_10
   name: "+{s:value} Strength"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+437:
+  internal_name: special_bonus_strength_11
+  name: "+{s:value} Strength"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5928:
   internal_name: special_bonus_strength_12
   name: "+{s:value} Strength"
@@ -3881,6 +3933,10 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6145:
   internal_name: special_bonus_strength_15
+  name: "+{s:value} Strength"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+447:
+  internal_name: special_bonus_strength_16
   name: "+{s:value} Strength"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6080:
@@ -3898,6 +3954,10 @@
 6633:
   internal_name: special_bonus_strength_40
   name: "+{s:value} Strength"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+446:
+  internal_name: special_bonus_agility_5
+  name: "+{s:value} Agility"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7384:
   internal_name: special_bonus_agility_6
@@ -3945,6 +4005,10 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6430:
   internal_name: special_bonus_agility_40
+  name: "+{s:value} Agility"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+435:
+  internal_name: special_bonus_agility_80
   name: "+{s:value} Agility"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6705:
@@ -4075,6 +4139,10 @@
   internal_name: special_bonus_night_vision_600
   name: "+{s:value} Night Vision"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+457:
+  internal_name: special_bonus_night_vision_800
+  name: "+{s:value} Night Vision"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6888:
   internal_name: special_bonus_night_vision_1000
   name: "+{s:value} Night Vision"
@@ -4136,7 +4204,15 @@
   name: "+{s:value} Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5942:
+  internal_name: special_bonus_attack_damage_70
+  name: "+{s:value} Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+427:
   internal_name: special_bonus_attack_damage_75
+  name: "+{s:value} Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+442:
+  internal_name: special_bonus_attack_damage_80
   name: "+{s:value} Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5968:
@@ -4159,6 +4235,10 @@
   internal_name: special_bonus_attack_damage_160
   name: "+{s:value} Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+460:
+  internal_name: special_bonus_attack_damage_200
+  name: "+{s:value} Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6556:
   internal_name: special_bonus_attack_damage_250
   name: "+{s:value} Damage"
@@ -4170,6 +4250,10 @@
 6553:
   internal_name: special_bonus_attack_damage_400
   name: "+{s:value} Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+450:
+  internal_name: special_bonus_attack_base_damage_25
+  name: "+{s:value} Base Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7372:
   internal_name: special_bonus_attack_base_damage_30
@@ -4251,6 +4335,10 @@
   internal_name: special_bonus_cast_range_200
   name: "+{s:value} Cast Range"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+443:
+  internal_name: special_bonus_cast_range_225
+  name: "+{s:value} Cast Range"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6161:
   internal_name: special_bonus_cast_range_250
   name: "+{s:value} Cast Range"
@@ -4261,6 +4349,10 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6213:
   internal_name: special_bonus_cast_range_300
+  name: "+{s:value} Cast Range"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+430:
+  internal_name: special_bonus_cast_range_325
   name: "+{s:value} Cast Range"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6930:
@@ -4295,6 +4387,10 @@
   internal_name: special_bonus_spell_amplify_10
   name: "+{s:value}% Spell Amplification"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+444:
+  internal_name: special_bonus_spell_amplify_11
+  name: "+{s:value}% Spell Amplification"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6326:
   internal_name: special_bonus_spell_amplify_12
   name: "+{s:value}% Spell Amplification"
@@ -4307,6 +4403,10 @@
   internal_name: special_bonus_spell_amplify_15
   name: "+{s:value}% Spell Amplification"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+456:
+  internal_name: special_bonus_spell_amplify_16
+  name: "+{s:value}% Spell Amplification"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6236:
   internal_name: special_bonus_spell_amplify_20
   name: "+{s:value}% Spell Amplification"
@@ -4314,6 +4414,10 @@
 6327:
   internal_name: special_bonus_spell_amplify_25
   name: "+{s:value}% Spell Amplification"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+428:
+  internal_name: special_bonus_cooldown_reduction_6
+  name: "{s:value}% Cooldown Reduction"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5950:
   internal_name: special_bonus_cooldown_reduction_8
@@ -4431,6 +4535,10 @@
   internal_name: special_bonus_gold_income_420
   name: "+{s:value} Gold/Min"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+451:
+  internal_name: special_bonus_evasion_8
+  name: "{s:value}% Evasion"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5971:
   internal_name: special_bonus_evasion_10
   name: "{s:value}% Evasion"
@@ -4443,6 +4551,10 @@
   internal_name: special_bonus_evasion_15
   name: "{s:value}% Evasion"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+452:
+  internal_name: special_bonus_evasion_16
+  name: "{s:value}% Evasion"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5973:
   internal_name: special_bonus_evasion_20
   name: "{s:value}% Evasion"
@@ -4453,6 +4565,10 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6700:
   internal_name: special_bonus_evasion_30
+  name: "{s:value}% Evasion"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+431:
+  internal_name: special_bonus_evasion_40
   name: "{s:value}% Evasion"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6613:
@@ -4468,6 +4584,10 @@
   name: "+{s:value2}% {s:value}s Bash"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6851:
+  internal_name: special_bonus_24_crit_2
+  name: "+{s:crit_chance}% Critical Strike ({s:crit_multiplier}%)"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+445:
   internal_name: special_bonus_30_crit_2
   name: "+{s:crit_chance}% Critical Strike ({s:crit_multiplier}%)"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
@@ -4697,7 +4817,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6506:
   internal_name: special_bonus_unique_pudge_3
-  name: Dismember Double Damage/Heal
+  name: "{s:value}x Dismember Damage/Heal"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7142:
   internal_name: special_bonus_unique_pudge_4
@@ -4921,7 +5041,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6053:
   internal_name: special_bonus_unique_warlock_1
-  name: 100% Magic Resistance for Chaotic Offering Golems
+  name: 80% Magic Resistance for Chaotic Offering Golems
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6054:
   internal_name: special_bonus_unique_warlock_2
@@ -6597,7 +6717,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6403:
   internal_name: special_bonus_unique_pugna_3
-  name: "+1.75 Netherward Damage Per Mana"
+  name: "+{s:value} Netherward Damage Per Mana"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6448:
   internal_name: special_bonus_unique_pugna_4
