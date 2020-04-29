@@ -6147,6 +6147,10 @@
   internal_name: special_bonus_reincarnation_250
   name: Gains Reincarnation {s:value} CD
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+449:
+  internal_name: special_bonus_reincarnation_300
+  name: Gains Reincarnation {s:value} CD
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6174:
   internal_name: special_bonus_unique_lion
   name: "+{s:value} Mana Drain Multi Target"
