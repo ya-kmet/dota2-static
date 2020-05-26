@@ -1185,7 +1185,7 @@
   name: Craggy Coat
 299:
   internal_name: greater_faerie_fire
-  quality: 
+  quality: consumable
   name: Greater Faerie Fire
 300:
   internal_name: timeless_relic
@@ -1205,11 +1205,11 @@
   name: Ironwood Tree
 328:
   internal_name: mango_tree
-  quality: 
+  quality: consumable
   name: Mango Tree
 305:
   internal_name: royal_jelly
-  quality: 
+  quality: consumable
   name: Royal Jelly
 306:
   internal_name: pupils_gift
@@ -1221,7 +1221,7 @@
   name: Tome of Aghanim
 308:
   internal_name: repair_kit
-  quality: 
+  quality: consumable
   name: Repair Kit
 309:
   internal_name: mind_breaker

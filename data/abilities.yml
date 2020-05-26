@@ -1503,6 +1503,46 @@
   internal_name: invoker_deafening_blast
   name: Deafening Blast
   type: 
+7836:
+  internal_name: invoker_cold_snap_ad
+  name: Cold Snap (AD)
+  type: 
+7837:
+  internal_name: invoker_ghost_walk_ad
+  name: Ghost Walk (AD)
+  type: 
+7838:
+  internal_name: invoker_tornado_ad
+  name: Tornado (AD)
+  type: 
+7839:
+  internal_name: invoker_emp_ad
+  name: E.M.P. (AD)
+  type: 
+7840:
+  internal_name: invoker_alacrity_ad
+  name: Alacrity (AD)
+  type: 
+7841:
+  internal_name: invoker_sun_strike_ad
+  name: Sun Strike (AD)
+  type: 
+7842:
+  internal_name: invoker_forge_spirit_ad
+  name: Forge Spirit (AD)
+  type: 
+7843:
+  internal_name: invoker_chaos_meteor_ad
+  name: Chaos Meteor (AD)
+  type: 
+7844:
+  internal_name: invoker_ice_wall_ad
+  name: Ice Wall (AD)
+  type: 
+7845:
+  internal_name: invoker_deafening_blast_ad
+  name: Deafening Blast
+  type: 
 5377:
   internal_name: silencer_curse_of_the_silent
   name: Arcane Curse
@@ -3206,6 +3246,38 @@
 6285:
   internal_name: special_bonus_undefined
   name: Undefined
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7828:
+  internal_name: ad_special_bonus_gold_150_l
+  name: "+{s:value} Gold"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7829:
+  internal_name: ad_special_bonus_gold_250_l
+  name: "+{s:value} Gold"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7830:
+  internal_name: ad_special_bonus_gold_500_l
+  name: "+{s:value} Gold"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7831:
+  internal_name: ad_special_bonus_gold_750_l
+  name: "+{s:value} Gold"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7832:
+  internal_name: ad_special_bonus_gold_150_r
+  name: "+{s:value} Gold"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7833:
+  internal_name: ad_special_bonus_gold_250_r
+  name: "+{s:value} Gold"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7834:
+  internal_name: ad_special_bonus_gold_500_r
+  name: "+{s:value} Gold"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7835:
+  internal_name: ad_special_bonus_gold_750_r
+  name: "+{s:value} Gold"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5900:
   internal_name: special_bonus_hp_100
@@ -6939,10 +7011,6 @@
   internal_name: special_bonus_unique_lone_druid_8
   name: "-{s:value}s True Form Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
-6265:
-  internal_name: special_bonus_unique_wisp
-  name: "+{s:value} Spirits Hero Damage"
-  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7036:
   internal_name: special_bonus_unique_lone_druid_9
   name: 0 Entangle Cooldown
@@ -6954,6 +7022,10 @@
 423:
   internal_name: special_bonus_unique_lone_druid_11
   name: "+{s:value} Spirit Bear Movement Speed"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6265:
+  internal_name: special_bonus_unique_wisp
+  name: "+{s:value} Spirits Hero Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6537:
   internal_name: special_bonus_unique_wisp_2
@@ -7214,4 +7286,36 @@
 7825:
   internal_name: seasonal_ti9_monkey
   name: Summon Monkey
+  type: 
+4000:
+  internal_name: seasonal_ti10_high_five
+  name: seasonal_ti10_high_five
+  type: 
+4001:
+  internal_name: seasonal_ti10_guild_banner
+  name: seasonal_ti10_guild_banner
+  type: 
+8019:
+  internal_name: seasonal_ti10_portal
+  name: seasonal_ti10_portal
+  type: 
+8020:
+  internal_name: seasonal_ti10_disco_ball
+  name: seasonal_ti10_disco_ball
+  type: 
+8021:
+  internal_name: seasonal_ti10_disco_ball_channel
+  name: seasonal_ti10_disco_ball_channel
+  type: 
+8022:
+  internal_name: seasonal_ti10_soccer_ball
+  name: seasonal_ti10_soccer_ball
+  type: 
+8023:
+  internal_name: seasonal_ti10_hot_potato
+  name: seasonal_ti10_hot_potato
+  type: 
+8024:
+  internal_name: seasonal_ti10_hot_potato_throw_existing_potato
+  name: seasonal_ti10_hot_potato_throw_existing_potato
   type: 
