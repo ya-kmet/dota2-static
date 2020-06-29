@@ -127,10 +127,18 @@
   internal_name: gloves
   quality: component
   name: Gloves of Haste
+485:
+  internal_name: blitz_knuckles
+  quality: component
+  name: Blitz Knuckles
 26:
   internal_name: lifesteal
   quality: component
   name: Morbid Mask
+473:
+  internal_name: voodoo_mask
+  quality: component
+  name: Voodoo Mask
 27:
   internal_name: ring_of_regen
   quality: component
@@ -250,7 +258,7 @@
 220:
   internal_name: travel_boots_2
   quality: common
-  name: Boots of Travel
+  name: Boots of Travel 2
 49:
   internal_name: recipe_phase_boots
   quality: 
