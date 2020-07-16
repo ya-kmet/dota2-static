@@ -4805,7 +4805,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6300:
   internal_name: special_bonus_unique_omniknight_2
-  name: "{s:value}% Degen Aura"
+  name: "-{s:value}% Degen Aura"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6709:
   internal_name: special_bonus_unique_omniknight_3
