@@ -3935,6 +3935,10 @@
   internal_name: special_bonus_intelligence_35
   name: "+{s:value} Intelligence"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+528:
+  internal_name: special_bonus_intelligence_75
+  name: "+{s:value} Intelligence"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6817:
   internal_name: special_bonus_spell_lifesteal_6
   name: "{s:value}% Spell Lifesteal"
@@ -4362,6 +4366,10 @@
 6553:
   internal_name: special_bonus_attack_damage_400
   name: "+{s:value} Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+524:
+  internal_name: special_bonus_attack_base_damage_15
+  name: "+{s:value} Base Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 496:
   internal_name: special_bonus_attack_base_damage_20
@@ -6742,6 +6750,10 @@
 6691:
   internal_name: special_bonus_unique_magnus_5
   name: "+{s:value}s Reverse Polarity Stun Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+525:
+  internal_name: special_bonus_unique_magnus_6
+  name: "+{s:value}s Shockwave Slow Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6202:
   internal_name: special_bonus_unique_drow_ranger_1
