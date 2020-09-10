@@ -5141,7 +5141,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 530:
   internal_name: special_bonus_unique_lich_6
-  name: "+{s:value} Frost Nova AoE Damage"
+  name: "+{s:value} Frost Blast AoE Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 531:
   internal_name: special_bonus_unique_lich_7
