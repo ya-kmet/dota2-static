@@ -722,7 +722,7 @@
 126:
   internal_name: recipe_blade_mail
   quality: 
-  name: recipe_blade_mail
+  name: Blade Mail Recipe
 127:
   internal_name: blade_mail
   quality: epic
@@ -754,7 +754,7 @@
 134:
   internal_name: recipe_monkey_king_bar
   quality: 
-  name: recipe_monkey_king_bar
+  name: Monkey King Bar Recipe
 135:
   internal_name: monkey_king_bar
   quality: epic
@@ -874,7 +874,7 @@
 155:
   internal_name: recipe_satanic
   quality: 
-  name: recipe_satanic
+  name: Satanic Recipe
 156:
   internal_name: satanic
   quality: artifact
@@ -978,7 +978,7 @@
 228:
   internal_name: recipe_octarine_core
   quality: 
-  name: recipe_octarine_core
+  name: Octarine Core Recipe
 235:
   internal_name: octarine_core
   quality: rare
@@ -1066,7 +1066,7 @@
 209:
   internal_name: recipe_heavens_halberd
   quality: 
-  name: recipe_heavens_halberd
+  name: Heaven's Halberd Recipe
 210:
   internal_name: heavens_halberd
   quality: artifact
