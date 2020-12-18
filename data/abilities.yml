@@ -2102,7 +2102,7 @@
 7316:
   internal_name: keeper_of_the_light_will_o_wisp
   name: Will-O-Wisp
-  type: DOTA_ABILITY_TYPE_ULTIMATE
+  type: 
 5473:
   internal_name: keeper_of_the_light_chakra_magic
   name: Chakra Magic

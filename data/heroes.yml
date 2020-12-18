@@ -1351,7 +1351,7 @@
   - 6561
 76:
   internal_name: obsidian_destroyer
-  name: Outworld Devourer
+  name: Outworld Destroyer
   abilities:
   - 5391
   - 5392
@@ -2154,7 +2154,7 @@
   - 6766
 126:
   internal_name: void_spirit
-  name: 
+  name: Void Spirit
   abilities:
   - 7701
   - 6470
@@ -2172,7 +2172,7 @@
   - 7708
 128:
   internal_name: snapfire
-  name: 
+  name: Snapfire
   abilities:
   - 6480
   - 6483
@@ -2190,7 +2190,7 @@
   - 6485
 123:
   internal_name: hoodwink
-  name: 
+  name: Hoodwink
   abilities:
   - 8429
   - 8158
