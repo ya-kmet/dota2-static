@@ -35,6 +35,10 @@
   internal_name: antimage_mana_void
   name: Mana Void
   type: DOTA_ABILITY_TYPE_ULTIMATE
+543:
+  internal_name: antimage_mana_overload
+  name: Blink Fragment
+  type: 
 5007:
   internal_name: axe_berserkers_call
   name: Berserker's Call
@@ -146,6 +150,10 @@
 419:
   internal_name: juggernaut_swift_slash
   name: Swiftslash
+  type: 
+605:
+  internal_name: kunkka_tidal_wave
+  name: Tidal Wave
   type: 
 5031:
   internal_name: kunkka_torrent
@@ -351,6 +359,10 @@
   internal_name: shadow_shaman_mass_serpent_ward
   name: Mass Serpent Ward
   type: DOTA_ABILITY_TYPE_ULTIMATE
+536:
+  internal_name: shadow_shaman_serpentine
+  name: Serpentine
+  type: 
 5082:
   internal_name: razor_plasma_field
   name: Plasma Field
@@ -373,7 +385,7 @@
   type: 
 5087:
   internal_name: skeleton_king_vampiric_aura
-  name: Vampiric Aura
+  name: Vampiric Spirit
   type: 
 5088:
   internal_name: skeleton_king_mortal_strike
@@ -419,6 +431,10 @@
   internal_name: sven_gods_strength
   name: God's Strength
   type: DOTA_ABILITY_TYPE_ULTIMATE
+682:
+  internal_name: storm_spirit_electric_rave
+  name: Electric Rave
+  type: 
 5098:
   internal_name: storm_spirit_static_remnant
   name: Static Remnant
@@ -479,6 +495,10 @@
   internal_name: tiny_grow
   name: Grow
   type: DOTA_ABILITY_TYPE_ULTIMATE
+641:
+  internal_name: zuus_heavenly_jump
+  name: Heavenly Jump
+  type: 
 5110:
   internal_name: zuus_arc_lightning
   name: Arc Lightning
@@ -551,6 +571,10 @@
   internal_name: vengefulspirit_nether_swap
   name: Nether Swap
   type: DOTA_ABILITY_TYPE_ULTIMATE
+595:
+  internal_name: crystal_maiden_let_it_go
+  name: Let It Go
+  type: 
 5126:
   internal_name: crystal_maiden_crystal_nova
   name: Crystal Nova
@@ -567,6 +591,10 @@
   internal_name: crystal_maiden_freezing_field
   name: Freezing Field
   type: DOTA_ABILITY_TYPE_ULTIMATE
+652:
+  internal_name: windrunner_gale_force
+  name: windrunner_gale_force
+  type: 
 5130:
   internal_name: windrunner_shackleshot
   name: Shackleshot
@@ -615,6 +643,10 @@
   internal_name: lich_chain_frost
   name: Chain Frost
   type: DOTA_ABILITY_TYPE_ULTIMATE
+8028:
+  internal_name: lich_ice_spire
+  name: Ice Spire
+  type: 
 5138:
   internal_name: witch_doctor_paralyzing_cask
   name: Paralyzing Cask
@@ -631,6 +663,14 @@
   internal_name: witch_doctor_death_ward
   name: Death Ward
   type: DOTA_ABILITY_TYPE_ULTIMATE
+632:
+  internal_name: witch_doctor_voodoo_switcheroo
+  name: Voodoo Switcheroo
+  type: 
+550:
+  internal_name: riki_poison_dart
+  name: Sleeping Dart
+  type: 
 5142:
   internal_name: riki_smoke_screen
   name: Smoke Screen
@@ -667,9 +707,17 @@
   internal_name: enigma_black_hole
   name: Black Hole
   type: DOTA_ABILITY_TYPE_ULTIMATE
+650:
+  internal_name: tinker_defense_matrix
+  name: Defense Matrix
+  type: 
 5150:
   internal_name: tinker_laser
   name: Laser
+  type: 
+535:
+  internal_name: tinker_shrink_ray
+  name: Shrink Ray
   type: 
 5151:
   internal_name: tinker_heat_seeking_missile
@@ -683,6 +731,10 @@
   internal_name: tinker_rearm
   name: Rearm
   type: DOTA_ABILITY_TYPE_ULTIMATE
+694:
+  internal_name: sniper_concussive_grenade
+  name: Concussive Grenade
+  type: 
 5154:
   internal_name: sniper_shrapnel
   name: Shrapnel
@@ -699,6 +751,10 @@
   internal_name: sniper_assassinate
   name: Assassinate
   type: DOTA_ABILITY_TYPE_ULTIMATE
+661:
+  internal_name: necrolyte_death_seeker
+  name: Death Seeker
+  type: 
 5158:
   internal_name: necrolyte_death_pulse
   name: Death Pulse
@@ -743,6 +799,10 @@
   internal_name: warlock_golem_permanent_immolation
   name: Permanent Immolation
   type: DOTA_ABILITY_TYPE_BASIC
+602:
+  internal_name: beastmaster_mark_of_the_beast
+  name: beastmaster_mark_of_the_beast
+  type: 
 5168:
   internal_name: beastmaster_wild_axes
   name: Wild Axes
@@ -754,6 +814,10 @@
 7230:
   internal_name: beastmaster_call_of_the_wild_boar
   name: Call of the Wild Boar
+  type: 
+700:
+  internal_name: beastmaster_hawk_dive
+  name: Dive Bomb
   type: 
 7231:
   internal_name: beastmaster_call_of_the_wild_hawk
@@ -795,6 +859,10 @@
   internal_name: queenofpain_sonic_wave
   name: Sonic Wave
   type: DOTA_ABILITY_TYPE_ULTIMATE
+592:
+  internal_name: venomancer_area_poison
+  name: Venomancer Scepter
+  type: 
 5178:
   internal_name: venomancer_venomous_gale
   name: Venomous Gale
@@ -814,6 +882,10 @@
 5182:
   internal_name: faceless_void_time_walk
   name: Time Walk
+  type: 
+8030:
+  internal_name: faceless_void_time_walk_reverse
+  name: Reverse Time Walk
   type: 
 5183:
   internal_name: faceless_void_backtrack
@@ -847,6 +919,10 @@
   internal_name: pugna_life_drain
   name: Life Drain
   type: DOTA_ABILITY_TYPE_ULTIMATE
+662:
+  internal_name: phantom_assassin_fan_of_knives
+  name: Fan of Knives
+  type: 
 5190:
   internal_name: phantom_assassin_stifling_dagger
   name: Stifling Dagger
@@ -927,6 +1003,10 @@
   internal_name: luna_eclipse
   name: Eclipse
   type: DOTA_ABILITY_TYPE_ULTIMATE
+660:
+  internal_name: dragon_knight_fireball
+  name: Fireball
+  type: DOTA_ABILITY_TYPE_BASIC
 5226:
   internal_name: dragon_knight_breathe_fire
   name: Breathe Fire
@@ -946,6 +1026,10 @@
 5232:
   internal_name: dragon_knight_frost_breath
   name: dragon_knight_frost_breath
+  type: 
+579:
+  internal_name: dazzle_rain_of_vermin
+  name: dazzle_rain_of_vermin
   type: 
 5233:
   internal_name: dazzle_poison_touch
@@ -967,6 +1051,10 @@
   internal_name: dazzle_bad_juju
   name: Bad Juju
   type: DOTA_ABILITY_TYPE_ULTIMATE
+630:
+  internal_name: rattletrap_jetpack
+  name: Jetpack
+  type: 
 321:
   internal_name: rattletrap_overclocking
   name: Overclocking
@@ -999,6 +1087,10 @@
   internal_name: leshrac_lightning_storm
   name: Lightning Storm
   type: 
+539:
+  internal_name: leshrac_greater_lightning_storm
+  name: Nihilism
+  type: 
 5244:
   internal_name: leshrac_pulse_nova
   name: Pulse Nova
@@ -1006,6 +1098,10 @@
 5245:
   internal_name: furion_sprout
   name: Sprout
+  type: 
+625:
+  internal_name: furion_greater_sprout
+  name: Greater Sprout
   type: 
 5246:
   internal_name: furion_teleportation
@@ -1030,6 +1126,10 @@
 5251:
   internal_name: life_stealer_open_wounds
   name: Open Wounds
+  type: 
+631:
+  internal_name: life_stealer_ghoul_frenzy
+  name: Ghoul Frenzy
   type: 
 5252:
   internal_name: life_stealer_infest
@@ -1066,6 +1166,10 @@
 5660:
   internal_name: life_stealer_empty_4
   name: ''
+  type: 
+687:
+  internal_name: dark_seer_normal_punch
+  name: Normal Punch
   type: 
 5255:
   internal_name: dark_seer_vacuum
@@ -1107,6 +1211,10 @@
   internal_name: clinkz_death_pact
   name: Death Pact
   type: DOTA_ABILITY_TYPE_ULTIMATE
+656:
+  internal_name: omniknight_hammer_of_purity
+  name: Hammer of Purity
+  type: 
 5263:
   internal_name: omniknight_purification
   name: Purification
@@ -1127,6 +1235,10 @@
   internal_name: omniknight_guardian_angel
   name: Guardian Angel
   type: DOTA_ABILITY_TYPE_ULTIMATE
+552:
+  internal_name: omniknight_angelic_flight
+  name: Angelic Flight
+  type: 
 5267:
   internal_name: enchantress_untouchable
   name: Untouchable
@@ -1199,6 +1311,10 @@
   internal_name: broodmother_spin_web
   name: Spin Web
   type: 
+639:
+  internal_name: broodmother_silken_bola
+  name: Silken Bola
+  type: 
 5281:
   internal_name: broodmother_incapacitating_bite
   name: Incapacitating Bite
@@ -1250,6 +1366,10 @@
 5299:
   internal_name: jakiro_liquid_fire
   name: Liquid Fire
+  type: 
+553:
+  internal_name: jakiro_liquid_ice
+  name: Liquid Frost
   type: 
 5300:
   internal_name: jakiro_macropyre
@@ -1415,6 +1535,10 @@
   internal_name: gyrocopter_call_down
   name: Call Down
   type: DOTA_ABILITY_TYPE_ULTIMATE
+642:
+  internal_name: alchemist_berserk_potion
+  name: Berserk Potion
+  type: 
 5365:
   internal_name: alchemist_acid_spray
   name: Acid Spray
@@ -1683,9 +1807,17 @@
   internal_name: brewmaster_primal_split
   name: Primal Split
   type: DOTA_ABILITY_TYPE_ULTIMATE
+537:
+  internal_name: brewmaster_primal_split_cancel
+  name: Primal Split Cancel
+  type: 
 5404:
   internal_name: brewmaster_earth_hurl_boulder
   name: Hurl Boulder
+  type: 
+693:
+  internal_name: brewmaster_void_astral_pulse
+  name: brewmaster_void_astral_pulse
   type: 
 5405:
   internal_name: brewmaster_earth_spell_immunity
@@ -1747,6 +1879,10 @@
   internal_name: chaos_knight_phantasm
   name: Phantasm
   type: DOTA_ABILITY_TYPE_ULTIMATE
+547:
+  internal_name: meepo_petrify
+  name: Dig
+  type: 
 5430:
   internal_name: meepo_earthbind
   name: Earthbind
@@ -1795,6 +1931,10 @@
   internal_name: ogre_magi_fireblast
   name: Fireblast
   type: 
+648:
+  internal_name: ogre_magi_smash
+  name: Fire Shield
+  type: 
 5466:
   internal_name: ogre_magi_unrefined_fireblast
   name: Unrefined Fireblast
@@ -1841,6 +1981,10 @@
   type: 
 5449:
   internal_name: rubick_telekinesis_land
+  name: Telekinesis Land
+  type: 
+647:
+  internal_name: rubick_telekinesis_land_self
   name: Telekinesis Land
   type: 
 5450:
@@ -1931,6 +2075,10 @@
   internal_name: naga_siren_rip_tide
   name: Rip Tide
   type: 
+622:
+  internal_name: naga_siren_crit
+  name: Critical Strike
+  type: 
 5470:
   internal_name: naga_siren_song_of_the_siren
   name: Song of the Siren
@@ -1946,6 +2094,10 @@
 5472:
   internal_name: keeper_of_the_light_mana_leak
   name: Mana Leak
+  type: 
+532:
+  internal_name: keeper_of_the_light_radiant_bind
+  name: Solar Bind
   type: 
 7316:
   internal_name: keeper_of_the_light_will_o_wisp
@@ -2003,6 +2155,10 @@
   internal_name: visage_summon_familiars
   name: Summon Familiars
   type: DOTA_ABILITY_TYPE_ULTIMATE
+683:
+  internal_name: visage_silent_as_the_grave
+  name: Silent as the Grave
+  type: 
 7116:
   internal_name: visage_stone_form_self_cast
   name: Stone Form
@@ -2039,6 +2195,10 @@
   internal_name: wisp_spirits_out
   name: Spirits Out
   type: 
+668:
+  internal_name: slark_fish_bait
+  name: Fish Bait
+  type: 
 5494:
   internal_name: slark_dark_pact
   name: Dark Pact
@@ -2055,6 +2215,10 @@
   internal_name: slark_shadow_dance
   name: Shadow Dance
   type: DOTA_ABILITY_TYPE_ULTIMATE
+701:
+  internal_name: medusa_cold_blooded
+  name: Cold Blooded
+  type: 
 5504:
   internal_name: medusa_split_shot
   name: Split Shot
@@ -2111,9 +2275,21 @@
   internal_name: centaur_stampede
   name: Stampede
   type: DOTA_ABILITY_TYPE_ULTIMATE
+581:
+  internal_name: centaur_overrun
+  name: Overrun
+  type: 
+649:
+  internal_name: magnataur_horn_toss
+  name: Horn Toss
+  type: 
 5518:
   internal_name: magnataur_shockwave
   name: Shockwave
+  type: 
+538:
+  internal_name: magnataur_greater_shockwave
+  name: Rolling Shockwave
   type: 
 5519:
   internal_name: magnataur_empower
@@ -2127,6 +2303,10 @@
   internal_name: magnataur_reverse_polarity
   name: Reverse Polarity
   type: DOTA_ABILITY_TYPE_ULTIMATE
+651:
+  internal_name: shredder_flamethrower
+  name: Flamethrower
+  type: 
 5524:
   internal_name: shredder_whirling_death
   name: Whirling Death
@@ -2154,6 +2334,10 @@
 5646:
   internal_name: shredder_return_chakram_2
   name: Return Chakram
+  type: 
+643:
+  internal_name: bristleback_hairball
+  name: Hairball
   type: 
 5548:
   internal_name: bristleback_viscous_nasal_goo
@@ -2359,6 +2543,10 @@
   internal_name: terrorblade_terror_wave
   name: Terror Wave
   type: 
+699:
+  internal_name: terrorblade_demon_zeal
+  name: Demon Zeal
+  type: 
 5622:
   internal_name: terrorblade_sunder
   name: Sunder
@@ -2471,6 +2659,14 @@
   internal_name: pangolier_gyroshell_stop
   name: Stop Rolling
   type: DOTA_ABILITY_TYPE_ULTIMATE
+8027:
+  internal_name: pangolier_rollup
+  name: Roll Up
+  type: 
+8029:
+  internal_name: pangolier_rollup_stop
+  name: End Roll Up
+  type: 
 6339:
   internal_name: dark_willow_bramble_maze
   name: Bramble Maze
@@ -2500,8 +2696,12 @@
   name: Phantom's Embrace
   type: 
 7852:
-  internal_name: grimstroke_scepter
+  internal_name: grimstroke_dark_portrait
   name: Dark Portrait
+  type: 
+561:
+  internal_name: grimstroke_ink_over
+  name: Ink Over
   type: 
 8007:
   internal_name: grimstroke_spirit_walk
@@ -2538,6 +2738,10 @@
 466:
   internal_name: special_bonus_unique_mars_spear_cooldown
   name: "-{s:value}s Spear Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+545:
+  internal_name: special_bonus_unique_mars_rebuke_cooldown
+  name: "-{s:value}s God's Rebuke Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6584:
   internal_name: special_bonus_unique_mars_spear_stun_duration
@@ -2654,6 +2858,46 @@
 500:
   internal_name: special_bonus_unique_snapfire_8
   name: "{s:value}x Lil' Shredder Multishot"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8429:
+  internal_name: hoodwink_acorn_shot
+  name: Acorn Shot
+  type: 
+8158:
+  internal_name: hoodwink_bushwhack
+  name: Bushwhack
+  type: 
+9501:
+  internal_name: hoodwink_scurry
+  name: Scurry
+  type: 
+8106:
+  internal_name: hoodwink_sharpshooter
+  name: Sharpshooter
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+8159:
+  internal_name: hoodwink_sharpshooter_release
+  name: End Sharpshooter
+  type: 
+9509:
+  internal_name: special_bonus_unique_hoodwink_acorn_shot_charges
+  name: "{s:value} Acorn Shot Charges"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+9505:
+  internal_name: special_bonus_unique_hoodwink_camouflage
+  name: Scurry Camouflage
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+9506:
+  internal_name: special_bonus_unique_hoodwink_sharpshooter_speed
+  name: "{s:pct_change}% Sharpshooter Faster Projectile / Charge Time"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+9507:
+  internal_name: special_bonus_unique_hoodwink_sharpshooter_pure_damage
+  name: Sharpshooter Pure Damage and Pierces Spell Immunity
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+9510:
+  internal_name: special_bonus_unique_hoodwink_bushwhack_cooldown
+  name: "-{s:value}s Bushwhack Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5350:
   internal_name: backdoor_protection
@@ -3233,7 +3477,7 @@
   type: 
 7854:
   internal_name: arc_warden_scepter
-  name: Rune Forge
+  name: arc_warden_scepter
   type: 
 5677:
   internal_name: arc_warden_flux
@@ -3253,7 +3497,7 @@
   type: DOTA_ABILITY_TYPE_ULTIMATE
 6285:
   internal_name: special_bonus_undefined
-  name: Undefined
+  name: Pending Replacement
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7828:
   internal_name: ad_special_bonus_gold_150_l
@@ -3329,6 +3573,10 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6195:
   internal_name: special_bonus_hp_350
+  name: "+{s:value} Health"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+726:
+  internal_name: special_bonus_hp_375
   name: "+{s:value} Health"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5976:
@@ -3426,6 +3674,10 @@
 6686:
   internal_name: special_bonus_mp_1000
   name: "+{s:value} Mana"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+549:
+  internal_name: special_bonus_base_attack_rate_1
+  name: "-{s:value} Base Attack Rate"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6118:
   internal_name: special_bonus_attack_speed_10
@@ -3695,8 +3947,16 @@
   internal_name: special_bonus_mana_reduction_11
   name: "+{s:value}% Manacost/Manaloss Reduction"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+636:
+  internal_name: special_bonus_mp_regen_amp_10
+  name: "+{s:value}% Mana Regen Amp"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5915:
   internal_name: special_bonus_mp_regen_1
+  name: "+{s:value} Mana Regen"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+738:
+  internal_name: special_bonus_mp_regen_125
   name: "+{s:value} Mana Regen"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7132:
@@ -4363,6 +4623,10 @@
   internal_name: special_bonus_attack_damage_251
   name: "+{s:value} Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+703:
+  internal_name: special_bonus_attack_damage_252
+  name: "+{s:value} Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6553:
   internal_name: special_bonus_attack_damage_400
   name: "+{s:value} Damage"
@@ -4389,6 +4653,10 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 548:
   internal_name: special_bonus_attack_base_damage_50
+  name: "+{s:value} Base Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+623:
+  internal_name: special_bonus_attack_base_damage_100
   name: "+{s:value} Base Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5992:
@@ -4807,6 +5075,10 @@
   internal_name: special_bonus_unique_clockwerk_5
   name: "+{s:value} Power Cogs Hit To Kill"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+614:
+  internal_name: special_bonus_unique_clockwerk_6
+  name: Spell Immunity Inside Power Cogs
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5981:
   internal_name: special_bonus_unique_omniknight_1
   name: "+{s:value} Purification Damage/Heal"
@@ -4854,6 +5126,14 @@
 453:
   internal_name: special_bonus_unique_centaur_5
   name: "-{s:value}s Stampede Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+615:
+  internal_name: special_bonus_unique_centaur_6
+  name: "+{s:value}% Stampede Damage Reduction"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+696:
+  internal_name: special_bonus_unique_centaur_7
+  name: "+{s:value}s Stampede Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5998:
   internal_name: special_bonus_unique_witch_doctor_1
@@ -4923,6 +5203,14 @@
   internal_name: special_bonus_unique_antimage_5
   name: Blink Uncontrollable Illusion
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+665:
+  internal_name: special_bonus_unique_antimage_6
+  name: "+{s:value}s Mana Void Damage Multiplier"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+666:
+  internal_name: special_bonus_unique_antimage_7
+  name: "+{s:value}% Max Mana Mana Burn"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6013:
   internal_name: special_bonus_unique_mirana_1
   name: "+{s:value} Leap Attack Speed"
@@ -4937,7 +5225,11 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6692:
   internal_name: special_bonus_unique_mirana_4
-  name: "-{s:value} Moonlight Shadow Cooldown"
+  name: "-{s:value}s Moonlight Shadow Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+702:
+  internal_name: special_bonus_unique_mirana_5
+  name: "+{s:value}s Moonlight Shadow Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6018:
   internal_name: special_bonus_unique_bounty_hunter
@@ -4963,6 +5255,18 @@
   internal_name: special_bonus_unique_queen_of_pain_2
   name: Scream of Pain {s:value}s Fear
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+590:
+  internal_name: special_bonus_unique_queen_of_pain_3
+  name: "-{s:value}s Sonic Wave"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+629:
+  internal_name: special_bonus_unique_queen_of_pain_4
+  name: "+{s:value} Sonic Wave Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+715:
+  internal_name: special_bonus_unique_queen_of_pain_5
+  name: Sonic Wave {s:value}s Fear
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6019:
   internal_name: special_bonus_unique_underlord
   name: "+{s:value}s Pit of Malice Root"
@@ -4986,6 +5290,10 @@
 557:
   internal_name: special_bonus_unique_underlord_6
   name: "+{s:value} Pit of Malice AoE"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+663:
+  internal_name: special_bonus_unique_underlord_7
+  name: "+{s:value} Firestorm Wave Count"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6023:
   internal_name: special_bonus_unique_pudge_1
@@ -5107,6 +5415,10 @@
   internal_name: special_bonus_unique_visage_6
   name: "+{s:value} Familiar"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+626:
+  internal_name: special_bonus_unique_visage_7
+  name: "+{s:value} Grave Chill Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6035:
   internal_name: special_bonus_unique_earthshaker
   name: "-{s:value}s Enchant Totem Cooldown"
@@ -5169,7 +5481,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 518:
   internal_name: special_bonus_unique_rubick_6
-  name: Fade Bolt Steals Hero Damage
+  name: Fade Bolt Borrows Hero Damage
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6045:
   internal_name: special_bonus_unique_sven
@@ -5186,6 +5498,14 @@
 7112:
   internal_name: special_bonus_unique_sven_4
   name: "+{s:value}s Storm Hammer Stun Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+673:
+  internal_name: special_bonus_unique_sven_5
+  name: "+{s:value}s Warcry Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+734:
+  internal_name: special_bonus_unique_sven_6
+  name: "+{s:value}% Warcry Movement Speed"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6047:
   internal_name: special_bonus_unique_dark_seer
@@ -5214,6 +5534,26 @@
 560:
   internal_name: special_bonus_unique_dark_seer_7
   name: "+{s:value}% Wall of Replica Illusion Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+591:
+  internal_name: special_bonus_unique_dark_seer_8
+  name: "-{s:value}s Vacuum Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+689:
+  internal_name: special_bonus_unique_dark_seer_9
+  name: "{s:value} Surge Charges"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+644:
+  internal_name: special_bonus_unique_dark_seer_10
+  name: "+{s:value}s Wall of Replica Stun"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+690:
+  internal_name: special_bonus_unique_dark_seer_11
+  name: "+{s:value} Wall of Replica Length"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+697:
+  internal_name: special_bonus_unique_dark_seer_12
+  name: "+{s:value}s Wall of Replica Slow"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6049:
   internal_name: special_bonus_unique_dazzle_1
@@ -5285,7 +5625,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6237:
   internal_name: special_bonus_unique_vengeful_spirit_2
-  name: "+{s:value} Vengeance Aura Attributes"
+  name: "+{s:value}% Vengeance Aura Base Damage Bonus"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6057:
   internal_name: special_bonus_unique_vengeful_spirit_3
@@ -5419,6 +5759,10 @@
   internal_name: special_bonus_unique_jakiro_6
   name: "-{s:value}s Ice Path Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+542:
+  internal_name: special_bonus_unique_jakiro_7
+  name: "+{s:value} Macropyre Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6065:
   internal_name: special_bonus_unique_enigma
   name: "+{s:value} Demonic Conversion Eidolons"
@@ -5451,6 +5795,10 @@
   internal_name: special_bonus_unique_enigma_8
   name: "+{s:value}s Midnight Pulse Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+620:
+  internal_name: special_bonus_unique_enigma_9
+  name: "+{s:value} Midnight Pulse Radius"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6068:
   internal_name: special_bonus_unique_bane_1
   name: "+{s:value} Enfeeble Attack Speed Reduction"
@@ -5470,6 +5818,14 @@
 476:
   internal_name: special_bonus_unique_bane_5
   name: "-{s:value}s Nightmare Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+671:
+  internal_name: special_bonus_unique_bane_6
+  name: "-{s:value}% Enfeeble Regen Reduction"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+672:
+  internal_name: special_bonus_unique_bane_7
+  name: Brain Sap Pure and Pierces Immunity
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6670:
   internal_name: special_bonus_unique_nevermore_1
@@ -5567,9 +5923,13 @@
   internal_name: special_bonus_unique_doom_7
   name: "+{s:value} Doom Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+594:
+  internal_name: special_bonus_unique_doom_8
+  name: Permanent Scorched Earth
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6082:
   internal_name: special_bonus_unique_brewmaster
-  name: "+{s:value} Health to Primal Split Units"
+  name: "+{s:value} Brewlings Health"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6359:
   internal_name: special_bonus_unique_brewmaster_2
@@ -5583,6 +5943,14 @@
   internal_name: special_bonus_unique_brewmaster_4
   name: "+{s:value}% Drunken Brawler Critical Strike Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+654:
+  internal_name: special_bonus_unique_brewmaster_5
+  name: "+{s:value_tooltip}% Cinder Brew Damage/Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+646:
+  internal_name: special_bonus_unique_brewmaster_6
+  name: Brewlings Gain Drunken Brawler Passive
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6083:
   internal_name: special_bonus_unique_bristleback
   name: "+{s:value} Max Goo Stacks"
@@ -5594,6 +5962,10 @@
 6615:
   internal_name: special_bonus_unique_bristleback_3
   name: "+{s:value} Warpath Damage Per Stack"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+659:
+  internal_name: special_bonus_unique_bristleback_4
+  name: "-{s:value} Goo Armor"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6084:
   internal_name: special_bonus_unique_furion
@@ -5679,6 +6051,14 @@
   internal_name: special_bonus_unique_batrider_4
   name: "+{s:value} Sticky Napalm Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+572:
+  internal_name: special_bonus_unique_batrider_5
+  name: "{s:value} Flamebreak Charges"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+658:
+  internal_name: special_bonus_unique_batrider_6
+  name: "-{s:value}s Flaming Lasso Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6201:
   internal_name: special_bonus_unique_wraith_king_1
   name: No Reincarnation Manacost
@@ -5714,6 +6094,10 @@
 477:
   internal_name: special_bonus_unique_wraith_king_9
   name: "-{s:value}s Wraithfire Blast Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+741:
+  internal_name: special_bonus_unique_wraith_king_10
+  name: "-{s:value}s Mortal Strike Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6089:
   internal_name: special_bonus_unique_kunkka
@@ -5803,6 +6187,14 @@
   internal_name: special_bonus_unique_invoker_11
   name: "+{s:value} Forged Spirit Armor Reduction"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+619:
+  internal_name: special_bonus_unique_invoker_12
+  name: Vector Target Ice Wall
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+724:
+  internal_name: special_bonus_unique_invoker_13
+  name: "+{s:value} DPS Ice Wall"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6100:
   internal_name: special_bonus_unique_abaddon
   name: "+{s:value} Aphotic Shield Health"
@@ -5867,6 +6259,10 @@
   internal_name: special_bonus_unique_axe_5
   name: "+{s:value} Culling Blade Threshold"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+670:
+  internal_name: special_bonus_unique_axe_6
+  name: "-{s:value}s Berserker's Call Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6103:
   internal_name: special_bonus_unique_beastmaster
   name: "+{s:value} Wild Axes Damage"
@@ -5886,6 +6282,10 @@
 506:
   internal_name: special_bonus_unique_beastmaster_5
   name: "+{s:value} Hawk Vision"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+613:
+  internal_name: special_bonus_unique_beastmaster_6
+  name: "+{s:bonus_hp} Health Beastmaster Controlled"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6104:
   internal_name: special_bonus_unique_clinkz_1
@@ -5931,6 +6331,10 @@
   internal_name: special_bonus_unique_clinkz_11
   name: Kills Reset Death Pact Cooldown
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+617:
+  internal_name: special_bonus_unique_clinkz_12
+  name: "-{s:value}s Strafe Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6105:
   internal_name: special_bonus_unique_juggernaut
   name: "+{s:value}s Blade Fury"
@@ -5946,6 +6350,10 @@
 7394:
   internal_name: special_bonus_unique_juggernaut_4
   name: "+{s:value} Blade Fury Movement Speed"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+628:
+  internal_name: special_bonus_unique_juggernaut_5
+  name: "-{s:value}s Healing Ward Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6106:
   internal_name: special_bonus_unique_winter_wyvern_1
@@ -5966,6 +6374,10 @@
 418:
   internal_name: special_bonus_unique_winter_wyvern_5
   name: "+{s:value}% Cold Embrace Heal"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+684:
+  internal_name: special_bonus_unique_winter_wyvern_6
+  name: "+{s:value}s Arctic Burn Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6107:
   internal_name: special_bonus_unique_terrorblade
@@ -6151,6 +6563,10 @@
   internal_name: special_bonus_unique_lycan_5
   name: "+{s:value}% Chance Shapeshift Critical Strike"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+621:
+  internal_name: special_bonus_unique_lycan_6
+  name: "+{s:value} Shapeshift Movement Speed"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6144:
   internal_name: special_bonus_unique_windranger
   name: Windrun Grants Invisibility
@@ -6214,6 +6630,10 @@
 564:
   internal_name: special_bonus_unique_phantom_lancer_6
   name: "+{s:value}% Juxtapose Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+634:
+  internal_name: special_bonus_unique_phantom_lancer_7
+  name: "+{s:value} Spirit Lance Multishot"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6147:
   internal_name: special_bonus_unique_slark
@@ -6287,6 +6707,10 @@
   internal_name: special_bonus_unique_storm_spirit_6
   name: "+{s:value} Overload Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+627:
+  internal_name: special_bonus_unique_storm_spirit_7
+  name: "{s:value}x Overload Attack Bounce"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6151:
   internal_name: special_bonus_unique_tidehunter
   name: "-{s:value} Gush Armor"
@@ -6302,6 +6726,10 @@
 6947:
   internal_name: special_bonus_unique_tidehunter_4
   name: "+{s:value} Kraken Shell Damage Block"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+754:
+  internal_name: special_bonus_unique_tidehunter_5
+  name: "-{s:value}s Anchor Smash Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6152:
   internal_name: special_bonus_unique_tinker
@@ -6367,6 +6795,10 @@
   internal_name: special_bonus_unique_troll_warlord_5
   name: "+{s:value} Fervor Attack Speed"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+704:
+  internal_name: special_bonus_unique_troll_warlord_7
+  name: "+{s:value}s Battle Trance Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6155:
   internal_name: special_bonus_unique_undying
   name: "+{s:value} Tombstone Zombie Damage"
@@ -6387,6 +6819,10 @@
   internal_name: special_bonus_unique_undying_5
   name: "+{s:value} Tombstone Attacks to Destroy"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+616:
+  internal_name: special_bonus_unique_undying_6
+  name: "+{s:value} Soul Rip Damage/Heal"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6156:
   internal_name: special_bonus_unique_viper_1
   name: "+{s:value} Corrosive Skin Stats"
@@ -6403,6 +6839,10 @@
   internal_name: special_bonus_unique_viper_4
   name: Poison Attack Affects Buildings
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+645:
+  internal_name: special_bonus_unique_viper_5
+  name: "-{s:value}s Nethertoxin Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6157:
   internal_name: special_bonus_unique_zeus
   name: "+{s:value}% Static Field Damage"
@@ -6414,6 +6854,10 @@
 6518:
   internal_name: special_bonus_unique_zeus_3
   name: "+{s:value}s Lightning Bolt Ministun"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+611:
+  internal_name: special_bonus_unique_zeus_4
+  name: "+{s:value} Thundergod's Wrath Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6171:
   internal_name: special_bonus_unique_elder_titan
@@ -6474,6 +6918,10 @@
 499:
   internal_name: special_bonus_unique_lifestealer_5
   name: "-{s:value}s Open Wounds Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+709:
+  internal_name: special_bonus_unique_lifestealer_6
+  name: "+{s:value}% Ghoul Frenzy Slow"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6677:
   internal_name: special_bonus_reincarnation_200
@@ -6607,6 +7055,10 @@
   internal_name: special_bonus_unique_silencer_6
   name: "+{s:value}% Arcane Curse Slow"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+721:
+  internal_name: special_bonus_unique_silencer_7
+  name: "-{s:value}s Arcane Curse Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6191:
   internal_name: special_bonus_unique_death_prophet
   name: "+{s:value} Exorcism Spirits"
@@ -6622,6 +7074,10 @@
 6805:
   internal_name: special_bonus_unique_death_prophet_4
   name: Exorcism Grants Haste
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+698:
+  internal_name: special_bonus_unique_death_prophet_5
+  name: "-{s:value}s Spirit Siphon Replenish Time"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6192:
   internal_name: special_bonus_unique_phantom_assassin
@@ -6650,6 +7106,10 @@
 559:
   internal_name: special_bonus_unique_phantom_assassin_7
   name: "-{s:value}s Stifling Dagger Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8026:
+  internal_name: special_bonus_unique_phantom_assassin_8
+  name: "+{s:value} Range and Ground Target Stifling Dagger"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6330:
   internal_name: special_bonus_unique_riki_1
@@ -6755,6 +7215,10 @@
   internal_name: special_bonus_unique_magnus_6
   name: "+{s:value}s Shockwave Slow Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+712:
+  internal_name: special_bonus_unique_magnus_7
+  name: "-{s:value}s Skewer Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6202:
   internal_name: special_bonus_unique_drow_ranger_1
   name: "+{s:value}% Multishot Damage"
@@ -6778,6 +7242,10 @@
 486:
   internal_name: special_bonus_unique_drow_ranger_6
   name: "-{s:value}s Multishot Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+580:
+  internal_name: special_bonus_unique_drow_ranger_7
+  name: "-{s:value}s Gust Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6203:
   internal_name: special_bonus_unique_earth_spirit
@@ -6823,6 +7291,10 @@
   internal_name: special_bonus_unique_huskar_6
   name: "+{s:value}% Berserker's Blood Regen"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+688:
+  internal_name: special_bonus_unique_huskar_7
+  name: "-{s:value}s Life Break Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6205:
   internal_name: special_bonus_unique_naga_siren
   name: "+{s:value} Mirror Image Illusion"
@@ -6838,6 +7310,10 @@
 7029:
   internal_name: special_bonus_unique_naga_siren_4
   name: "+{s:value}% Mirror Image Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+601:
+  internal_name: special_bonus_unique_naga_siren_5
+  name: "-{s:value}s Song of the Siren Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6206:
   internal_name: special_bonus_unique_oracle
@@ -6866,6 +7342,10 @@
 544:
   internal_name: special_bonus_unique_oracle_7
   name: "-{s:value}s Fortune's End Max Channel Time"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+681:
+  internal_name: special_bonus_unique_oracle_8
+  name: "-{s:value}% Purifying Flames Allied Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6207:
   internal_name: special_bonus_unique_sand_king
@@ -6923,6 +7403,10 @@
   internal_name: special_bonus_unique_shadow_demon_7
   name: "{s:value} Charges of Disruption"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+667:
+  internal_name: special_bonus_unique_shadow_demon_8
+  name: "+{s:value}s Soul Catcher Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6211:
   internal_name: special_bonus_unique_slardar
   name: "+{s:value}s Slithereen Crush Stun"
@@ -6942,6 +7426,10 @@
 504:
   internal_name: special_bonus_unique_slardar_5
   name: "{s:value} Corrosive Haze Armor"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+695:
+  internal_name: special_bonus_unique_slardar_6
+  name: "+{s:value} Slithereen Crush AoE"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6212:
   internal_name: special_bonus_unique_lina_1
@@ -7057,7 +7545,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6217:
   internal_name: special_bonus_unique_keeper_of_the_light
-  name: "+{s:value} Illuminate Damage/Heal"
+  name: "+{s:value} Illuminate Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6527:
   internal_name: special_bonus_unique_keeper_of_the_light_2
@@ -7082,6 +7570,22 @@
 527:
   internal_name: special_bonus_unique_keeper_of_the_light_7
   name: "-{s:value}s Chakra Magic Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+657:
+  internal_name: special_bonus_unique_keeper_of_the_light_8
+  name: "+{s:value}% Blinding Light Miss"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+669:
+  internal_name: special_bonus_unique_keeper_of_the_light_9
+  name: "+{s:value}% Illuminate Daytime Heal"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+624:
+  internal_name: special_bonus_unique_keeper_of_the_light_10
+  name: "+{s:value}s Blinding Light Stun"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+664:
+  internal_name: special_bonus_unique_keeper_of_the_light_11
+  name: "+{s:value}s Spirit Form Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6218:
   internal_name: special_bonus_unique_legion_commander
@@ -7181,7 +7685,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6809:
   internal_name: special_bonus_unique_bloodseeker_4
-  name: "+{s:value} Max Thirst MS"
+  name: "+{s:value}% Max Thirst MS"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 482:
   internal_name: special_bonus_unique_bloodseeker_5
@@ -7205,7 +7709,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6259:
   internal_name: special_bonus_unique_chen_1
-  name: "+{s:value} Holy Persuasion Max Units"
+  name: "+{s:value} Holy Persuasion Max Units and Charges"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6260:
   internal_name: special_bonus_unique_chen_2
@@ -7230,6 +7734,14 @@
 7653:
   internal_name: special_bonus_unique_chen_7
   name: "-{s:value}s Hand of God Cooldown"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+529:
+  internal_name: special_bonus_unique_chen_8
+  name: "+{s:value}% Penitence Slow"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+551:
+  internal_name: special_bonus_unique_chen_9
+  name: Holy Persuasion Targets Ancients
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6261:
   internal_name: special_bonus_unique_lone_druid_1
@@ -7257,7 +7769,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6680:
   internal_name: special_bonus_unique_lone_druid_7
-  name: "+{s:value} True Form Health"
+  name: "+{s:value} True Form and Spirit Bear Health"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6806:
   internal_name: special_bonus_unique_lone_druid_8
@@ -7274,6 +7786,10 @@
 423:
   internal_name: special_bonus_unique_lone_druid_11
   name: "+{s:value} Spirit Bear Movement Speed"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+711:
+  internal_name: special_bonus_unique_lone_druid_12
+  name: Entangle Disarms
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6265:
   internal_name: special_bonus_unique_wisp
@@ -7343,6 +7859,10 @@
   internal_name: special_bonus_unique_arc_warden_5
   name: "+{s:value} Flux Cast Range"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+685:
+  internal_name: special_bonus_unique_arc_warden_6
+  name: "+{s:value}s Tempest Double Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6288:
   internal_name: special_bonus_unique_meepo
   name: "-{s:value}s Poof Cooldown"
@@ -7358,6 +7878,14 @@
 7102:
   internal_name: special_bonus_unique_meepo_4
   name: "+{s:value} Earthbind Cast Range"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+546:
+  internal_name: special_bonus_unique_meepo_5
+  name: "+{s:value} Divided We Stand Clone"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+618:
+  internal_name: special_bonus_unique_meepo_6
+  name: "+{s:value} Ransack Health Steal"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6303:
   internal_name: special_bonus_unique_monkey_king
@@ -7458,6 +7986,10 @@
 508:
   internal_name: special_bonus_unique_grimstroke_6
   name: "+{s:value}% Ink Swell Movement Speed"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+705:
+  internal_name: special_bonus_unique_grimstroke_7
+  name: "-{s:value}s Ink Swell Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6251:
   internal_name: generic_hidden

@@ -3,6 +3,30 @@
   internal_name: blink
   quality: component
   name: Blink Dagger
+600:
+  internal_name: overwhelming_blink
+  quality: component
+  name: Overwhelming Blink
+603:
+  internal_name: swift_blink
+  quality: component
+  name: Swift Blink
+604:
+  internal_name: arcane_blink
+  quality: component
+  name: Arcane Blink
+606:
+  internal_name: recipe_arcane_blink
+  quality: 
+  name: Arcane Blink Recipe
+607:
+  internal_name: recipe_swift_blink
+  quality: 
+  name: Swift Blink Recipe
+608:
+  internal_name: recipe_overwhelming_blink
+  quality: 
+  name: Overwhelming Blink Recipe
 2:
   internal_name: blades_of_attack
   quality: component
@@ -311,6 +335,10 @@
   internal_name: vitality_booster
   quality: secret_shop
   name: Vitality Booster
+593:
+  internal_name: fluffy_hat
+  quality: secret_shop
+  name: Fluffy Hat
 62:
   internal_name: recipe_power_treads
   quality: 
@@ -319,6 +347,14 @@
   internal_name: power_treads
   quality: common
   name: Power Treads
+653:
+  internal_name: recipe_grandmasters_glaive
+  quality: 
+  name: recipe_grandmasters_glaive
+655:
+  internal_name: grandmasters_glaive
+  quality: common
+  name: Grandmaster's Glaive
 64:
   internal_name: recipe_hand_of_midas
   quality: 
@@ -335,6 +371,14 @@
   internal_name: oblivion_staff
   quality: common
   name: Oblivion Staff
+533:
+  internal_name: recipe_witch_blade
+  quality: 
+  name: Witch Blade Recipe
+534:
+  internal_name: witch_blade
+  quality: common
+  name: Witch Blade
 68:
   internal_name: recipe_pers
   quality: 
@@ -351,6 +395,10 @@
   internal_name: poor_mans_shield
   quality: common
   name: Poor Man's Shield
+731:
+  internal_name: satchel
+  quality: common
+  name: Satchel
 72:
   internal_name: recipe_bracer
   quality: 
@@ -479,6 +527,14 @@
   internal_name: cyclone
   quality: rare
   name: Eul's Scepter of Divinity
+612:
+  internal_name: recipe_wind_waker
+  quality: 
+  name: Wind Waker Recipe
+610:
+  internal_name: wind_waker
+  quality: rare
+  name: Wind Waker
 233:
   internal_name: recipe_aether_lens
   quality: 
@@ -583,6 +639,10 @@
   internal_name: ultimate_scepter_2
   quality: rare
   name: Aghanim's Blessing
+609:
+  internal_name: aghanims_shard
+  quality: rare
+  name: Aghanim's Shard
 109:
   internal_name: recipe_refresher
   quality: 
@@ -743,6 +803,14 @@
   internal_name: hood_of_defiance
   quality: epic
   name: Hood of Defiance
+691:
+  internal_name: recipe_eternal_shroud
+  quality: 
+  name: Eternal Shroud Recipe
+692:
+  internal_name: eternal_shroud
+  quality: epic
+  name: Eternal Shroud
 132:
   internal_name: recipe_rapier
   quality: 
@@ -911,6 +979,14 @@
   internal_name: helm_of_the_dominator
   quality: artifact
   name: Helm of the Dominator
+633:
+  internal_name: recipe_helm_of_the_dominator_2
+  quality: 
+  name: Helm of the Dominator Level 2 Recipe
+635:
+  internal_name: helm_of_the_dominator_2
+  quality: artifact
+  name: Helm of the Dominator
 165:
   internal_name: recipe_maelstrom
   quality: 
@@ -919,6 +995,14 @@
   internal_name: maelstrom
   quality: artifact
   name: Maelstrom
+1565:
+  internal_name: recipe_gungir
+  quality: 
+  name: recipe_gungir
+1466:
+  internal_name: gungir
+  quality: artifact
+  name: Gleipnir
 167:
   internal_name: recipe_desolator
   quality: 
@@ -991,6 +1075,30 @@
   internal_name: blight_stone
   quality: component
   name: Blight Stone
+640:
+  internal_name: recipe_orb_of_corrosion
+  quality: 
+  name: recipe_orb_of_corrosion
+569:
+  internal_name: orb_of_corrosion
+  quality: rare
+  name: Orb of Corrosion
+599:
+  internal_name: recipe_falcon_blade
+  quality: 
+  name: Falcon Blade Recipe
+596:
+  internal_name: falcon_blade
+  quality: rare
+  name: Falcon Blade
+597:
+  internal_name: recipe_mage_slayer
+  quality: 
+  name: Mage Slayer Recipe
+598:
+  internal_name: mage_slayer
+  quality: rare
+  name: Mage Slayer
 184:
   internal_name: recipe_ancient_janggo
   quality: 
@@ -1403,3 +1511,99 @@
   internal_name: titan_sliver
   quality: 
   name: Titan Sliver
+565:
+  internal_name: chipped_vest
+  quality: 
+  name: Chipped Vest
+566:
+  internal_name: wizard_glass
+  quality: 
+  name: Wizard Glass
+570:
+  internal_name: gloves_of_travel
+  quality: 
+  name: Gloves of Travel
+573:
+  internal_name: elven_tunic
+  quality: 
+  name: Elven Tunic
+574:
+  internal_name: cloak_of_flames
+  quality: 
+  name: Cloak of Flames
+575:
+  internal_name: venom_gland
+  quality: 
+  name: Venom Gland
+571:
+  internal_name: trickster_cloak
+  quality: 
+  name: Trickster Cloak
+576:
+  internal_name: gladiator_helm
+  quality: 
+  name: Gladiator Helm
+577:
+  internal_name: possessed_mask
+  quality: 
+  name: Possessed Mask
+578:
+  internal_name: ancient_perseverance
+  quality: 
+  name: Ancient Perseverance
+637:
+  internal_name: star_mace
+  quality: 
+  name: Star Mace
+638:
+  internal_name: penta_edged_sword
+  quality: 
+  name: Penta-Edged Sword
+582:
+  internal_name: oakheart
+  quality: 
+  name: Oakheart
+674:
+  internal_name: warhammer
+  quality: 
+  name: Warhammer
+680:
+  internal_name: bullwhip
+  quality: 
+  name: Bullwhip
+675:
+  internal_name: psychic_headband
+  quality: 
+  name: Psychic Headband
+676:
+  internal_name: ceremonial_robe
+  quality: 
+  name: Ceremonial Robe
+686:
+  internal_name: quicksilver_amulet
+  quality: 
+  name: Quicksilver Amulet
+677:
+  internal_name: book_of_shadows
+  quality: 
+  name: Book of Shadows
+678:
+  internal_name: giants_ring
+  quality: 
+  name: Giant's Ring
+679:
+  internal_name: vengeances_shadow
+  quality: 
+  name: Shadow of Vengeance
+585:
+  internal_name: stormcrafter
+  quality: 
+  name: Stormcrafter
+588:
+  internal_name: overflowing_elixir
+  quality: 
+  name: Overflowing Elixir
+589:
+  internal_name: mysterious_hat
+  quality: 
+  name: Fairy's Trinket
