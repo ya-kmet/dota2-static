@@ -4647,6 +4647,10 @@
   internal_name: special_bonus_attack_base_damage_30
   name: "+{s:value} Base Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+706:
+  internal_name: special_bonus_attack_base_damage_40
+  name: "+{s:value} Base Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7370:
   internal_name: special_bonus_attack_base_damage_45
   name: "+{s:value} Base Damage"
