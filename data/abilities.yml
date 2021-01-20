@@ -5209,7 +5209,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 665:
   internal_name: special_bonus_unique_antimage_6
-  name: "+{s:value}s Mana Void Damage Multiplier"
+  name: "+{s:value} Mana Void Damage Multiplier"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 666:
   internal_name: special_bonus_unique_antimage_7
