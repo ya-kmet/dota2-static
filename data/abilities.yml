@@ -3500,35 +3500,35 @@
   name: Pending Replacement
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7828:
-  internal_name: ad_special_bonus_gold_150_l
+  internal_name: ad_special_bonus_gold_lvl10_l
   name: "+{s:value} Gold"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7829:
-  internal_name: ad_special_bonus_gold_250_l
+  internal_name: ad_special_bonus_gold_lvl15_l
   name: "+{s:value} Gold"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7830:
-  internal_name: ad_special_bonus_gold_500_l
+  internal_name: ad_special_bonus_gold_lvl20_l
   name: "+{s:value} Gold"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7831:
-  internal_name: ad_special_bonus_gold_750_l
+  internal_name: ad_special_bonus_gold_lvl25_l
   name: "+{s:value} Gold"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7832:
-  internal_name: ad_special_bonus_gold_150_r
+  internal_name: ad_special_bonus_gold_lvl10_r
   name: "+{s:value} Gold"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7833:
-  internal_name: ad_special_bonus_gold_250_r
+  internal_name: ad_special_bonus_gold_lvl15_r
   name: "+{s:value} Gold"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7834:
-  internal_name: ad_special_bonus_gold_500_r
+  internal_name: ad_special_bonus_gold_lvl20_r
   name: "+{s:value} Gold"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7835:
-  internal_name: ad_special_bonus_gold_750_r
+  internal_name: ad_special_bonus_gold_lvl25_r
   name: "+{s:value} Gold"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5900:
