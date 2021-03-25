@@ -2899,6 +2899,10 @@
   internal_name: special_bonus_unique_hoodwink_bushwhack_cooldown
   name: "-{s:value}s Bushwhack Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+9511:
+  internal_name: special_bonus_unique_hoodwink_bushwhack_damage
+  name: "+{s:value} Bushwhack Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5350:
   internal_name: backdoor_protection
   name: Backdoor Protection
