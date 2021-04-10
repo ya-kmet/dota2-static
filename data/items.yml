@@ -639,10 +639,18 @@
   internal_name: ultimate_scepter_2
   quality: rare
   name: Aghanim's Blessing
+727:
+  internal_name: ultimate_scepter_roshan
+  quality: rare
+  name: Aghanim's Blessing - Roshan
 609:
   internal_name: aghanims_shard
   quality: rare
   name: Aghanim's Shard
+725:
+  internal_name: aghanims_shard_roshan
+  quality: rare
+  name: Aghanim's Shard - Roshan
 109:
   internal_name: recipe_refresher
   quality: 
@@ -980,13 +988,13 @@
   quality: artifact
   name: Helm of the Dominator
 633:
-  internal_name: recipe_helm_of_the_dominator_2
+  internal_name: recipe_helm_of_the_overlord
   quality: 
-  name: Helm of the Dominator Level 2 Recipe
+  name: Helm of the Overlord Recipe
 635:
-  internal_name: helm_of_the_dominator_2
+  internal_name: helm_of_the_overlord
   quality: artifact
-  name: Helm of the Dominator
+  name: Helm of the Overlord
 165:
   internal_name: recipe_maelstrom
   quality: 
@@ -998,7 +1006,7 @@
 1565:
   internal_name: recipe_gungir
   quality: 
-  name: recipe_gungir
+  name: Gleipnir Recipe
 1466:
   internal_name: gungir
   quality: artifact
@@ -1078,7 +1086,7 @@
 640:
   internal_name: recipe_orb_of_corrosion
   quality: 
-  name: recipe_orb_of_corrosion
+  name: Orb of Corrosion Recipe
 569:
   internal_name: orb_of_corrosion
   quality: rare
@@ -1118,7 +1126,7 @@
 227:
   internal_name: recipe_solar_crest
   quality: 
-  name: recipe_solar_crest
+  name: Solar Crest Recipe
 229:
   internal_name: solar_crest
   quality: rare
@@ -1202,7 +1210,7 @@
 253:
   internal_name: recipe_glimmer_cape
   quality: 
-  name: recipe_glimmer_cape
+  name: Glimmer Cape Recipe
 254:
   internal_name: glimmer_cape
   quality: rare
@@ -1542,7 +1550,7 @@
 576:
   internal_name: gladiator_helm
   quality: 
-  name: Gladiator Helm
+  name: Helm of the Gladiator
 577:
   internal_name: possessed_mask
   quality: 
