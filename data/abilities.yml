@@ -598,7 +598,7 @@
 8032:
   internal_name: crystal_maiden_freezing_field_stop
   name: Stop Freezing Field
-  type: 
+  type: DOTA_ABILITY_TYPE_ULTIMATE
 652:
   internal_name: windrunner_gale_force
   name: windrunner_gale_force
