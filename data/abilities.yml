@@ -3325,147 +3325,147 @@
   type: 
 5530:
   internal_name: greevil_cold_snap
-  name: greevil_cold_snap
+  name: Greevil Snap
   type: 
 5531:
   internal_name: greevil_decrepify
-  name: greevil_decrepify
+  name: Degreevilfy
   type: 
 5532:
   internal_name: greevil_diabolic_edict
-  name: greevil_diabolic_edict
+  name: Greevolic Edict
   type: 
 5533:
   internal_name: greevil_maledict
-  name: greevil_maledict
+  name: Greevildict
   type: 
 5534:
   internal_name: greevil_shadow_strike
-  name: greevil_shadow_strike
+  name: Shadow Greevil Strike
   type: 
 5535:
   internal_name: greevil_laguna_blade
-  name: greevil_laguna_blade
+  name: Greevilaguna Blade
   type: DOTA_ABILITY_TYPE_ULTIMATE
 5546:
   internal_name: greevil_poison_nova
-  name: greevil_poison_nova
+  name: Greevil Nova
   type: DOTA_ABILITY_TYPE_ULTIMATE
 5547:
   internal_name: greevil_ice_wall
-  name: greevil_ice_wall
+  name: Greevice Wall
   type: 
 5552:
   internal_name: greevil_fatal_bonds
-  name: greevil_fatal_bonds
+  name: Greevil Bonds
   type: 
 5553:
   internal_name: greevil_blade_fury
-  name: greevil_blade_fury
+  name: Greevil Fury
   type: 
 5554:
   internal_name: greevil_phantom_strike
-  name: greevil_phantom_strike
+  name: Phantom Greevil Strike
   type: 
 5555:
   internal_name: greevil_time_lock
-  name: greevil_time_lock
+  name: Greevil Lock
   type: 
 5556:
   internal_name: greevil_shadow_wave
-  name: greevil_shadow_wave
+  name: Greevil Wave
   type: 
 5557:
   internal_name: greevil_leech_seed
-  name: greevil_leech_seed
+  name: Leech Greevil
   type: 
 5558:
   internal_name: greevil_echo_slam
-  name: greevil_echo_slam
+  name: Greevil Slam
   type: DOTA_ABILITY_TYPE_ULTIMATE
 5559:
   internal_name: greevil_natures_attendants
-  name: greevil_natures_attendants
+  name: Greevil's Attendants
   type: 
 5560:
   internal_name: greevil_bloodlust
-  name: greevil_bloodlust
+  name: Greevilust
   type: 
 5561:
   internal_name: greevil_purification
-  name: greevil_purification
+  name: Greevilication
   type: 
 5562:
   internal_name: greevil_flesh_golem
-  name: greevil_flesh_golem
+  name: Greevil Golem
   type: DOTA_ABILITY_TYPE_ULTIMATE
 5563:
   internal_name: greevil_hook
-  name: greevil_hook
+  name: Greevil Hook
   type: 
 5564:
   internal_name: greevil_rot
-  name: greevil_rot
+  name: Greevil Rot
   type: 
 5569:
   internal_name: greevil_black_hole
-  name: greevil_black_hole
+  name: Greevil Hole
   type: DOTA_ABILITY_TYPE_ULTIMATE
 5536:
   internal_name: greevil_miniboss_black_nightmare
-  name: greevil_miniboss_black_nightmare
+  name: Greevilmare
   type: 
 5537:
   internal_name: greevil_miniboss_black_brain_sap
-  name: greevil_miniboss_black_brain_sap
+  name: Greevil Brain Sap
   type: 
 5538:
   internal_name: greevil_miniboss_blue_cold_feet
-  name: greevil_miniboss_blue_cold_feet
+  name: Cold Greevil Feet
   type: 
 5539:
   internal_name: greevil_miniboss_blue_ice_vortex
-  name: greevil_miniboss_blue_ice_vortex
+  name: Ice Greevortex
   type: 
 5540:
   internal_name: greevil_miniboss_red_earthshock
-  name: greevil_miniboss_red_earthshock
+  name: Greevilshock
   type: 
 5541:
   internal_name: greevil_miniboss_red_overpower
-  name: greevil_miniboss_red_overpower
+  name: Greevilpower
   type: 
 5542:
   internal_name: greevil_miniboss_yellow_ion_shell
-  name: greevil_miniboss_yellow_ion_shell
+  name: Greevil Shell
   type: 
 5543:
   internal_name: greevil_miniboss_yellow_surge
-  name: greevil_miniboss_yellow_surge
+  name: Greevil Surge
   type: 
 5544:
   internal_name: greevil_miniboss_white_purification
-  name: greevil_miniboss_white_purification
+  name: Greevilication
   type: 
 5545:
   internal_name: greevil_miniboss_white_degen_aura
-  name: greevil_miniboss_white_degen_aura
+  name: Degreevil Aura
   type: 
 5570:
   internal_name: greevil_miniboss_green_living_armor
-  name: greevil_miniboss_green_living_armor
+  name: Greeviling Armor
   type: 
 5571:
   internal_name: greevil_miniboss_green_overgrowth
-  name: greevil_miniboss_green_overgrowth
+  name: Greevil Overgrowth
   type: DOTA_ABILITY_TYPE_ULTIMATE
 5572:
   internal_name: greevil_miniboss_orange_dragon_slave
-  name: greevil_miniboss_orange_dragon_slave
+  name: Greevil Dragon Breath
   type: 
 5573:
   internal_name: greevil_miniboss_orange_light_strike_array
-  name: greevil_miniboss_orange_light_strike_array
+  name: Greevil Light Strike
   type: 
 5574:
   internal_name: greevil_miniboss_purple_venomous_gale
@@ -3473,11 +3473,11 @@
   type: 
 5575:
   internal_name: greevil_miniboss_purple_plague_ward
-  name: greevil_miniboss_purple_plague_ward
+  name: Greevil Ward
   type: 
 5576:
   internal_name: greevil_miniboss_sight
-  name: greevil_miniboss_sight
+  name: Greevil Sight
   type: DOTA_ABILITY_TYPE_BASIC
 5577:
   internal_name: throw_snowball
@@ -3529,15 +3529,15 @@
   type: 
 5662:
   internal_name: cny2015_sonic_wave
-  name: cny2015_sonic_wave
+  name: Sonic Wave
   type: DOTA_ABILITY_TYPE_ULTIMATE
 5663:
   internal_name: cny2015_black_hole
-  name: cny2015_black_hole
+  name: Black Hole
   type: DOTA_ABILITY_TYPE_ULTIMATE
 5664:
   internal_name: cny2015_chronosphere
-  name: cny2015_chronosphere
+  name: Chronosphere
   type: DOTA_ABILITY_TYPE_ULTIMATE
 5651:
   internal_name: winter_wyvern_arctic_burn
@@ -8377,7 +8377,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7024:
   internal_name: special_bonus_unique_monkey_king_5
-  name: "+{s:value} Tree Dance Vision AoE"
+  name: "+{s:value}% Tree Dance Vision AoE"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7025:
   internal_name: special_bonus_unique_monkey_king_6
