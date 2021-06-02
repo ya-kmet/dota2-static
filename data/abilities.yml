@@ -8615,3 +8615,11 @@
   internal_name: seasonal_diretide2020_high_five
   name: seasonal_diretide2020_high_five
   type: 
+8034:
+  internal_name: plus_high_five
+  name: plus_high_five
+  type: 
+8035:
+  internal_name: plus_guild_banner
+  name: plus_guild_banner
+  type: 
