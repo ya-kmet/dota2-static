@@ -1303,6 +1303,22 @@
   internal_name: vampire_fangs
   quality: 
   name: Vampire Fangs
+829:
+  internal_name: force_field
+  quality: 
+  name: Arcanist's Armor
+833:
+  internal_name: tree_processor
+  quality: 
+  name: Tree Processor
+834:
+  internal_name: black_powder_bag
+  quality: 
+  name: Blast Rig
+849:
+  internal_name: mechanical_arm
+  quality: 
+  name: Mechanical Arm
 298:
   internal_name: craggy_coat
   quality: 
@@ -1615,3 +1631,47 @@
   internal_name: mysterious_hat
   quality: 
   name: Fairy's Trinket
+824:
+  internal_name: assassins_dagger
+  quality: 
+  name: Assassin's Dagger
+825:
+  internal_name: ascetic_cap
+  quality: 
+  name: Ascetic's Cap
+826:
+  internal_name: sample_picker
+  quality: 
+  name: Assassin's Contract
+827:
+  internal_name: icarus_wings
+  quality: 
+  name: Icarus Wings
+828:
+  internal_name: misericorde
+  quality: 
+  name: Brigand's Blade
+836:
+  internal_name: light_robes
+  quality: 
+  name: Light Robes
+837:
+  internal_name: heavy_blade
+  quality: 
+  name: Witchbane
+838:
+  internal_name: unstable_wand
+  quality: 
+  name: Pig Pole
+839:
+  internal_name: fortitude_ring
+  quality: 
+  name: Ring of Fortitude
+840:
+  internal_name: pogo_stick
+  quality: 
+  name: Tumbler's Toy
+835:
+  internal_name: paintball
+  quality: 
+  name: Fae Grenade
