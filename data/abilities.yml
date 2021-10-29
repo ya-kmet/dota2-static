@@ -3035,6 +3035,58 @@
   internal_name: special_bonus_unique_dawnbreaker_celestial_hammer_slow
   name: special_bonus_unique_dawnbreaker_celestial_hammer_slow
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8192:
+  internal_name: marci_grapple
+  name: Dispose
+  type: 
+8198:
+  internal_name: marci_unleash
+  name: Unleash
+  type: DOTA_ABILITY_TYPE_ULTIMATE
+8235:
+  internal_name: marci_companion_run
+  name: Rebound
+  type: 
+8234:
+  internal_name: marci_guardian
+  name: Sidekick
+  type: 
+8236:
+  internal_name: special_bonus_unique_marci_lunge_ally_absorb
+  name: "+{s:value} Rebound Ally Shield Absorb"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8237:
+  internal_name: special_bonus_unique_marci_lunge_damage
+  name: "+{s:value} Rebound Damage"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8238:
+  internal_name: special_bonus_unique_marci_grapple_stun_duration
+  name: "+{s:value}s Dispose Stun Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8239:
+  internal_name: special_bonus_unique_marci_guardian_magic_immune
+  name: "{s:value}s Sidekick Spell Immunity"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8240:
+  internal_name: special_bonus_unique_marci_unleash_flurry_crits
+  name: special_bonus_unique_marci_unleash_flurry_crits
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8244:
+  internal_name: special_bonus_unique_marci_unleash_pulse_lunge_refresh
+  name: Unleash Pulse Refreshes Rebound
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8241:
+  internal_name: special_bonus_unique_marci_unleash_silence
+  name: "{s:value}s Unleash Pulse Silence"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8242:
+  internal_name: special_bonus_unique_marci_guardian_lifesteal
+  name: "+{s:value}% Sidekick Lifesteal"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+8243:
+  internal_name: special_bonus_unique_marci_lunge_range
+  name: "+{s:value} Rebound Cast/Jump Range"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 5350:
   internal_name: backdoor_protection
   name: Backdoor Protection
