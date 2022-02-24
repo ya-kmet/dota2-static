@@ -439,6 +439,14 @@
   internal_name: vladmir
   quality: rare
   name: Vladmir's Offering
+907:
+  internal_name: recipe_wraith_pact
+  quality: 
+  name: Wraith Pact Recipe
+908:
+  internal_name: wraith_pact
+  quality: rare
+  name: Wraith Pact
 85:
   internal_name: recipe_buckler
   quality: 
@@ -1046,7 +1054,7 @@
 175:
   internal_name: recipe_ethereal_blade
   quality: 
-  name: recipe_ethereal_blade
+  name: Ethereal Blade Recipe
 176:
   internal_name: ethereal_blade
   quality: epic
@@ -1115,6 +1123,14 @@
   internal_name: ancient_janggo
   quality: rare
   name: Drum of Endurance
+930:
+  internal_name: recipe_boots_of_bearing
+  quality: 
+  name: Boots of Bearing Recipe
+931:
+  internal_name: boots_of_bearing
+  quality: rare
+  name: Boots of Bearing
 186:
   internal_name: recipe_medallion_of_courage
   quality: 
@@ -1147,6 +1163,14 @@
   internal_name: veil_of_discord
   quality: rare
   name: Veil of Discord
+910:
+  internal_name: recipe_revenants_brooch
+  quality: 
+  name: Revenant's Brooch Recipe
+911:
+  internal_name: revenants_brooch
+  quality: rare
+  name: Revenant's Brooch
 230:
   internal_name: recipe_guardian_greaves
   quality: 
@@ -1307,10 +1331,6 @@
   internal_name: force_field
   quality: 
   name: Arcanist's Armor
-833:
-  internal_name: tree_processor
-  quality: 
-  name: Tree Processor
 834:
   internal_name: black_powder_bag
   quality: 
