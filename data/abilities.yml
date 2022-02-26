@@ -6769,7 +6769,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 745:
   internal_name: special_bonus_unique_kunkka_6
-  name: "+{s:value}% X Mark the Spot Move Speed"
+  name: "+{s:bonus_ally_ms}% X Mark the Spot Move Speed"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 766:
   internal_name: special_bonus_unique_kunkka_7
