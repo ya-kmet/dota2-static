@@ -5793,7 +5793,8 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6023:
   internal_name: special_bonus_unique_pudge_1
-  name: "+{s:value} Flesh Heap Stack Str"
+  name: "{s:bonus_flesh_heap_strength_buff_amount}x Flesh Heap Stack Str and Damage
+    Block bonuses"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6245:
   internal_name: special_bonus_unique_pudge_2
@@ -7581,7 +7582,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 718:
   internal_name: special_bonus_unique_tiny_7
-  name: "+{s:bonus_tree_bonus_damage_pct}% Tree Grow Bonus Damage"
+  name: "+{s:bonus_tree_bonus_damage_pct}% Grow Bonus Damage With Tree"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6154:
   internal_name: special_bonus_unique_troll_warlord
@@ -8834,7 +8835,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6552:
   internal_name: special_bonus_unique_techies_2
-  name: "+{s:bonus_damage} Sticky Bomb Damage"
+  name: "+{s:bonus_radius} Sticky Bomb Latch/Explosion Radius"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6997:
   internal_name: special_bonus_unique_techies_3
