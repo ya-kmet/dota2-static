@@ -2913,7 +2913,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6487:
   internal_name: special_bonus_unique_snapfire_2
-  name: "+{s:bonus_buffed_attacks} Lil Shredder attacks"
+  name: "+{s:bonus_buffed_attacks} Lil' Shredder attacks"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6489:
   internal_name: special_bonus_unique_snapfire_3
@@ -5898,7 +5898,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6031:
   internal_name: special_bonus_unique_visage_1
-  name: "+{s:value} Corruption to Visage and Familiars"
+  name: "+{s:value} Armor Corruption to Visage and Familiars"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6320:
   internal_name: special_bonus_unique_visage_2
@@ -6186,7 +6186,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 768:
   internal_name: special_bonus_unique_warlock_8
-  name: "+{s:bonus_duration} Shadow Word Duration"
+  name: "+{s:bonus_duration}s Shadow Word Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 812:
   internal_name: special_bonus_unique_warlock_9
@@ -7370,7 +7370,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6400:
   internal_name: special_bonus_unique_phantom_lancer_2
-  name: "+{s:bonus_agility_duration} Phantom Rush Bonus Agi Duration"
+  name: "+{s:bonus_agility_duration}s Phantom Rush Bonus Agi Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6849:
   internal_name: special_bonus_unique_phantom_lancer_3
@@ -7658,7 +7658,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6820:
   internal_name: special_bonus_unique_viper_4
-  name: "+{s:bonus_magic_resistance} Poison Attack Magic Resistance Reduction"
+  name: "+{s:bonus_magic_resistance}% Poison Attack Magic Resistance Reduction"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 645:
   internal_name: special_bonus_unique_viper_5
@@ -7694,7 +7694,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 917:
   internal_name: special_bonus_unique_elder_titan_bonus_spirit_speed
-  name: "+{s:bonus_move_pct_heroes}% Ancestral Spirit Move Speed Per Hero"
+  name: "+{s:bonus_move_pct_heroes}% Astral Spirit Move Speed Per Hero"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6378:
   internal_name: special_bonus_unique_elder_titan_2
@@ -8590,7 +8590,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 407:
   internal_name: special_bonus_unique_puck_6
-  name: "+{s:bonus_damage} Waning Rift Damge"
+  name: "+{s:bonus_damage} Waning Rift Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 767:
   internal_name: special_bonus_unique_puck_7
@@ -8843,7 +8843,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6998:
   internal_name: special_bonus_unique_techies_4
-  name: "-{s:bonus_activation_delay} Proximity Mines Activation Delay"
+  name: "-{s:bonus_activation_delay}s Proximity Mines Activation Delay"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 412:
   internal_name: special_bonus_unique_techies_5
