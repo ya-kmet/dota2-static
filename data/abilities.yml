@@ -5717,7 +5717,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 869:
   internal_name: special_bonus_unique_bounty_hunter_5
-  name: "+{s:value}% Shadow Walk Slow"
+  name: "+{s:bonus_slow}% Shadow Walk Slow"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 876:
   internal_name: special_bonus_unique_bounty_hunter_6
@@ -6402,11 +6402,11 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6069:
   internal_name: special_bonus_unique_bane_2
-  name: "+{s:value} Brain Sap Damage/Heal"
+  name: "+{s:bonus_brain_sap_damage} Brain Sap Damage/Heal"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6609:
   internal_name: special_bonus_unique_bane_3
-  name: "+{s:value}s Fiend's Grip Duration"
+  name: "+{s:bonus_abilitychanneltime}s Fiend's Grip Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6826:
   internal_name: special_bonus_unique_bane_4
@@ -6430,7 +6430,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 779:
   internal_name: special_bonus_unique_bane_9
-  name: "+{s:value}% Fiend's Grip Max Mana Drain"
+  name: "+{s:bonus_fiend_grip_mana_drain}% Fiend's Grip Max Mana Drain"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6670:
   internal_name: special_bonus_unique_nevermore_1
