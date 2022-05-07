@@ -2455,6 +2455,10 @@
   internal_name: skywrath_mage_mystic_flare
   name: Mystic Flare
   type: DOTA_ABILITY_TYPE_ULTIMATE
+833:
+  internal_name: skywrath_mage_shield_of_the_scion
+  name: Shield of the Scion
+  type: 
 5585:
   internal_name: abaddon_death_coil
   name: Mist Coil
