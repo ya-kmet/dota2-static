@@ -5545,7 +5545,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6709:
   internal_name: special_bonus_unique_omniknight_3
-  name: "-{s:value}s Hammer of Purity Cooldown"
+  name: "-{s:bonus_AbilityCooldown}s Hammer of Purity Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7010:
   internal_name: special_bonus_unique_omniknight_4
@@ -6682,7 +6682,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6087:
   internal_name: special_bonus_unique_batrider_1
-  name: "+{s:value}s Firefly Duration"
+  name: "+{s:bonus_duration}s Firefly Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6229:
   internal_name: special_bonus_unique_batrider_2
@@ -6698,11 +6698,11 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 572:
   internal_name: special_bonus_unique_batrider_5
-  name: "{s:value} Flamebreak Charges"
+  name: "{s:bonus_AbilityCharges} Flamebreak Charges"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 658:
   internal_name: special_bonus_unique_batrider_6
-  name: "-{s:value}s Flaming Lasso Cooldown"
+  name: "-{s:bonus_AbilityCooldown}s Flaming Lasso Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 714:
   internal_name: special_bonus_unique_batrider_7
@@ -6934,19 +6934,19 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6103:
   internal_name: special_bonus_unique_beastmaster
-  name: "+{s:value} Wild Axes Damage"
+  name: "+{s:bonus_axe_damage} Wild Axes Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6517:
   internal_name: special_bonus_unique_beastmaster_2
-  name: "+{s:value} Boar Damage"
+  name: "+{s:bonus_boar_bonus_damage} Boar Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6611:
   internal_name: special_bonus_unique_beastmaster_3
-  name: "-{s:value}s Hawks Cooldown"
+  name: "-{s:bonus_AbilityCooldown}s Hawks Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6612:
   internal_name: special_bonus_unique_beastmaster_4
-  name: "+{s:value} Inner Beast Attack Speed"
+  name: "+{s:bonus_bonus_attack_speed} Inner Beast Attack Speed"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 506:
   internal_name: special_bonus_unique_beastmaster_5
@@ -6958,7 +6958,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 722:
   internal_name: special_bonus_unique_beastmaster_7
-  name: "-{s:value}s Primal Roar Cooldown"
+  name: "-{s:bonus_AbilityCooldown}s Primal Roar Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 803:
   internal_name: special_bonus_unique_beastmaster_8
@@ -6966,7 +6966,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 901:
   internal_name: special_bonus_unique_beastmaster_9
-  name: "+{s:value}% Wild Axes Damage Amp Per Stack"
+  name: "+{s:bonus_damage_amp}% Wild Axes Damage Amp Per Stack"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6104:
   internal_name: special_bonus_unique_clinkz_1
@@ -8014,7 +8014,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 795:
   internal_name: special_bonus_unique_riki_9
-  name: "-{s:value}s Blink Strike Replenish Time"
+  name: "-{s:bonus_AbilityChargeRestoreTime}s Blink Strike Replenish Time"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6194:
   internal_name: special_bonus_unique_tusk
@@ -8654,7 +8654,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6357:
   internal_name: special_bonus_unique_bloodseeker_3
-  name: "+{s:value} Rupture Cast Range"
+  name: "+{s:bonus_AbilityCastRange} Rupture Cast Range"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6809:
   internal_name: special_bonus_unique_bloodseeker_4
@@ -8670,11 +8670,11 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 819:
   internal_name: special_bonus_unique_bloodseeker_7
-  name: "+{s:value}% Rupture Initial Damage"
+  name: "+{s:bonus_hp_pct}% Rupture Initial Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 905:
   internal_name: special_bonus_unique_bloodseeker_rupture_charges
-  name: "{s:value} Rupture Charges"
+  name: "{s:bonus_AbilityCharges} Rupture Charges"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6257:
   internal_name: special_bonus_unique_broodmother_1
