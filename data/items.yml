@@ -1695,3 +1695,71 @@
   internal_name: paintball
   quality: 
   name: Fae Grenade
+945:
+  internal_name: seeds_of_serenity
+  quality: 
+  name: Seeds of Serenity
+946:
+  internal_name: lance_of_pursuit
+  quality: 
+  name: Lance of Pursuit
+947:
+  internal_name: occult_bracelet
+  quality: 
+  name: Occult Bracelet
+948:
+  internal_name: tome_of_omniscience
+  quality: 
+  name: tome_of_omniscience
+949:
+  internal_name: ogre_seal_totem
+  quality: 
+  name: Ogre Seal Totem
+940:
+  internal_name: wand_of_the_brine
+  quality: 
+  name: wand_of_the_brine
+938:
+  internal_name: slime_vial
+  quality: 
+  name: slime_vial
+939:
+  internal_name: harpoon
+  quality: 
+  name: harpoon
+950:
+  internal_name: guardian_shell
+  quality: 
+  name: guardian_shell
+968:
+  internal_name: arcane_scout
+  quality: 
+  name: arcane_scout
+969:
+  internal_name: barricade
+  quality: 
+  name: barricade
+990:
+  internal_name: eye_of_the_vizier
+  quality: 
+  name: Eye of the Vizier
+998:
+  internal_name: manacles_of_power
+  quality: 
+  name: manacles_of_power
+1000:
+  internal_name: bottomless_chalice
+  quality: 
+  name: bottomless_chalice
+1017:
+  internal_name: wand_of_sanctitude
+  quality: 
+  name: wand_of_sanctitude
+1076:
+  internal_name: specialists_array
+  quality: 
+  name: Specialist's Array
+1077:
+  internal_name: dagger_of_ristul
+  quality: 
+  name: Dagger of Ristul
