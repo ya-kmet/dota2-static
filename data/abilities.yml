@@ -877,11 +877,11 @@
   type: DOTA_ABILITY_TYPE_ULTIMATE
 1005:
   internal_name: beastmaster_drums_of_slom
-  name: Drums Of Slom
+  name: Drums of Slom
   type: 
 1006:
   internal_name: beastmaster_drums_of_slom_stop
-  name: Drums Of Slom Cancel
+  name: Drums of Slom Cancel
   type: 
 5173:
   internal_name: queenofpain_shadow_strike
@@ -1941,7 +1941,7 @@
   type: 
 943:
   internal_name: brewmaster_fire_phase
-  name: 'Permanent Phase:'
+  name: Permanent Phase.
   type: 
 5421:
   internal_name: shadow_demon_disruption
@@ -1969,7 +1969,7 @@
   type: DOTA_ABILITY_TYPE_ULTIMATE
 1001:
   internal_name: shadow_demon_disseminate
-  name: DISSEMINATE
+  name: Disseminate
   type: 
 5426:
   internal_name: chaos_knight_chaos_bolt
@@ -2914,7 +2914,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 1031:
   internal_name: special_bonus_unique_mars_bulwark_redirect_chance
-  name: "+{s:bonus_redirect_chance}% Bulwark Redirect Chance"
+  name: "+{s:bonus_redirect_chance}% Bulwark Active Redirect Chance"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7701:
   internal_name: void_spirit_aether_remnant
@@ -4852,6 +4852,10 @@
   internal_name: special_bonus_strength_30
   name: "+{s:value} Strength"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+7135:
+  internal_name: special_bonus_strength_35
+  name: "+{s:value} Strength"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6633:
   internal_name: special_bonus_strength_40
   name: "+{s:value} Strength"
@@ -6267,7 +6271,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 955:
   internal_name: special_bonus_unique_dark_seer_15
-  name: "+{s:bonus_duration} Ion Shell Duration"
+  name: "+{s:bonus_duration}s Ion Shell Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6049:
   internal_name: special_bonus_unique_dazzle_1
@@ -6419,7 +6423,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6532:
   internal_name: special_bonus_unique_venomancer_2
-  name: "{s:bonus_movement_speed}% Poison Sting Slow"
+  name: "+{s:bonus_movement_speed}% Poison Sting Slow"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6979:
   internal_name: special_bonus_unique_venomancer_3
@@ -6523,7 +6527,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6381:
   internal_name: special_bonus_unique_jakiro_2
-  name: "{s:bonus_AbilityCastRange}% Dual Breath Damage and Range"
+  name: "+{s:bonus_AbilityCastRange}% Dual Breath Damage and Range"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6538:
   internal_name: special_bonus_unique_jakiro_3
@@ -6552,7 +6556,7 @@
 1040:
   internal_name: special_bonus_unique_jakiro_dualbreath_slow
   name: "-{s:bonus_slow_movement_speed_pct}%/{s:bonus_slow_attack_speed_pct} Dual
-    Breath Attack/Movement Speed Slow"
+    Breath Movement/Attack Speed Slow"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6065:
   internal_name: special_bonus_unique_enigma
@@ -7111,7 +7115,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7390:
   internal_name: special_bonus_unique_invoker_10
-  name: "+{s:bonus_damage_per_mana_pct}% EMP Mana Burnt"
+  name: "+{s:bonus_damage_per_mana_pct}% E.M.P. Mana Burnt"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 315:
   internal_name: special_bonus_unique_invoker_11
@@ -7175,7 +7179,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 1002:
   internal_name: special_bonus_unique_alchemist_7
-  name: "+{s:bonus_damage} Damage per Greevil Greed stack"
+  name: "+{s:bonus_damage} Damage per Greevil's Greed stack"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 1003:
   internal_name: special_bonus_unique_alchemist_8
@@ -7207,7 +7211,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 974:
   internal_name: special_bonus_unique_axe_7
-  name: "+{s:bonus_bonus_armor} Berseker's Call Armor"
+  name: "+{s:bonus_bonus_armor} Berserker's Call Armor"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 9401:
   internal_name: special_bonus_unique_axe_8
@@ -7307,7 +7311,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6662:
   internal_name: special_bonus_unique_juggernaut_2
-  name: "+{s:bonus_healing_ward_bonus_health} Healing Ward Health"
+  name: "+{s:bonus_healing_ward_bonus_health} Healing Ward Hits to Kill"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 7021:
   internal_name: special_bonus_unique_juggernaut_3
@@ -7479,7 +7483,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 1048:
   internal_name: special_bonus_unique_night_stalker_hunter_status_resist
-  name: "+{s:bonus_bonus_status_resist_night}% Hunter In The Night Status Resistance"
+  name: "+{s:bonus_bonus_status_resist_night}% Hunter in the Night Status Resistance"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6130:
   internal_name: special_bonus_unique_nyx
@@ -7599,7 +7603,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 870:
   internal_name: special_bonus_unique_chaos_knight_7
-  name: "{s:value}% Phantasm Illusion Incoming Damage"
+  name: "-{s:value}% Phantasm Illusion Incoming Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 872:
   internal_name: special_bonus_unique_chaos_knight_8
@@ -7891,7 +7895,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 1069:
   internal_name: special_bonus_unique_tinker_defense_matrix_cdr
-  name: "+{s:bonus_cooldown_reduction}% Defense Matrix Cooldown Reduction"
+  name: Defense Matrix Grants {s:bonus_cooldown_reduction}%  Cooldown Reduction
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6153:
   internal_name: special_bonus_unique_tiny
@@ -8311,7 +8315,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 1073:
   internal_name: special_bonus_unique_silencer_glaives_bounces
-  name: "+{s:bonus_bounce_count} Glaives Of Wisdom Bounces"
+  name: "{s:bonus_bounce_count} Glaives of Wisdom Bounces"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 8247:
   internal_name: special_bonus_unique_silencer_arcane_curse_undispellable
@@ -9686,4 +9690,20 @@
 8035:
   internal_name: plus_guild_banner
   name: Guild Banner
+  type: 
+9709:
+  internal_name: seasonal_ti11_balloon
+  name: seasonal_ti11_balloon
+  type: 
+9710:
+  internal_name: seasonal_ti11_bubble_gun
+  name: seasonal_ti11_bubble_gun
+  type: 
+9711:
+  internal_name: seasonal_ti11_duel
+  name: seasonal_ti11_duel
+  type: 
+9712:
+  internal_name: seasonal_ti11_conga_line
+  name: seasonal_ti11_conga_line
   type: 
