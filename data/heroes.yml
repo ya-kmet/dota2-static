@@ -1,7 +1,7 @@
 ---
 1:
   internal_name: antimage
-  name: Anti-Mage
+  name: 
   abilities:
   - 5003
   - 5004
@@ -19,7 +19,7 @@
   - 6353
 2:
   internal_name: axe
-  name: Axe
+  name: 
   abilities:
   - 5007
   - 5008
@@ -37,7 +37,7 @@
   - 6102
 3:
   internal_name: bane
-  name: Bane
+  name: 
   abilities:
   - 5012
   - 5011
@@ -56,7 +56,7 @@
   - 6609
 4:
   internal_name: bloodseeker
-  name: Bloodseeker
+  name: 
   abilities:
   - 5015
   - 5016
@@ -74,7 +74,7 @@
   - 6809
 5:
   internal_name: crystal_maiden
-  name: Crystal Maiden
+  name: 
   abilities:
   - 5126
   - 5127
@@ -93,7 +93,7 @@
   - 6234
 6:
   internal_name: drow_ranger
-  name: Drow Ranger
+  name: 
   abilities:
   - 5019
   - 5632
@@ -111,7 +111,7 @@
   - 739
 7:
   internal_name: earthshaker
-  name: Earthshaker
+  name: 
   abilities:
   - 5023
   - 5024
@@ -129,7 +129,7 @@
   - 6035
 8:
   internal_name: juggernaut
-  name: Juggernaut
+  name: 
   abilities:
   - 5028
   - 5029
@@ -147,7 +147,7 @@
   - 6662
 9:
   internal_name: mirana
-  name: Mirana
+  name: 
   abilities:
   - 5051
   - 5048
@@ -165,7 +165,7 @@
   - 823
 11:
   internal_name: nevermore
-  name: Shadow Fiend
+  name: 
   abilities:
   - 5059
   - 5060
@@ -183,7 +183,7 @@
   - 1072
 10:
   internal_name: morphling
-  name: Morphling
+  name: 
   abilities:
   - 5052
   - 5053
@@ -203,7 +203,7 @@
   - 7135
 12:
   internal_name: phantom_lancer
-  name: Phantom Lancer
+  name: 
   abilities:
   - 5065
   - 5066
@@ -221,7 +221,7 @@
   - 6851
 13:
   internal_name: puck
-  name: Puck
+  name: 
   abilities:
   - 5069
   - 5071
@@ -239,7 +239,7 @@
   - 6855
 14:
   internal_name: pudge
-  name: Pudge
+  name: 
   abilities:
   - 5075
   - 5076
@@ -257,7 +257,7 @@
   - 6023
 15:
   internal_name: razor
-  name: Razor
+  name: 
   abilities:
   - 5082
   - 5083
@@ -275,7 +275,7 @@
   - 1065
 16:
   internal_name: sand_king
-  name: Sand King
+  name: 
   abilities:
   - 5102
   - 5103
@@ -293,7 +293,7 @@
   - 475
 17:
   internal_name: storm_spirit
-  name: Storm Spirit
+  name: 
   abilities:
   - 5098
   - 5099
@@ -311,7 +311,7 @@
   - 6908
 18:
   internal_name: sven
-  name: Sven
+  name: 
   abilities:
   - 5094
   - 5095
@@ -329,7 +329,7 @@
   - 7112
 19:
   internal_name: tiny
-  name: Tiny
+  name: 
   abilities:
   - 5106
   - 5107
@@ -348,7 +348,7 @@
   - 6932
 20:
   internal_name: vengefulspirit
-  name: Vengeful Spirit
+  name: 
   abilities:
   - 5122
   - 5124
@@ -366,7 +366,7 @@
   - 6057
 21:
   internal_name: windrunner
-  name: Windranger
+  name: 
   abilities:
   - 5130
   - 5131
@@ -384,7 +384,7 @@
   - 6413
 22:
   internal_name: zuus
-  name: Zeus
+  name: 
   abilities:
   - 5110
   - 5111
@@ -402,7 +402,7 @@
   - 6501
 23:
   internal_name: kunkka
-  name: Kunkka
+  name: 
   abilities:
   - 5031
   - 5032
@@ -421,7 +421,7 @@
   - 7131
 25:
   internal_name: lina
-  name: Lina
+  name: 
   abilities:
   - 5040
   - 5041
@@ -439,7 +439,7 @@
   - 961
 31:
   internal_name: lich
-  name: Lich
+  name: 
   abilities:
   - 5134
   - 5136
@@ -457,7 +457,7 @@
   - 318
 26:
   internal_name: lion
-  name: Lion
+  name: 
   abilities:
   - 5044
   - 5045
@@ -475,7 +475,7 @@
   - 6678
 27:
   internal_name: shadow_shaman
-  name: Shadow Shaman
+  name: 
   abilities:
   - 5078
   - 5079
@@ -493,7 +493,7 @@
   - 6521
 28:
   internal_name: slardar
-  name: Slardar
+  name: 
   abilities:
   - 5114
   - 5115
@@ -511,7 +511,7 @@
   - 6890
 29:
   internal_name: tidehunter
-  name: Tidehunter
+  name: 
   abilities:
   - 5118
   - 5119
@@ -529,7 +529,7 @@
   - 7979
 30:
   internal_name: witch_doctor
-  name: Witch Doctor
+  name: 
   abilities:
   - 5138
   - 5139
@@ -547,7 +547,7 @@
   - 6996
 32:
   internal_name: riki
-  name: Riki
+  name: 
   abilities:
   - 5142
   - 5143
@@ -565,7 +565,7 @@
   - 6867
 33:
   internal_name: enigma
-  name: Enigma
+  name: 
   abilities:
   - 5146
   - 5147
@@ -583,7 +583,7 @@
   - 6065
 34:
   internal_name: tinker
-  name: Tinker
+  name: 
   abilities:
   - 5150
   - 5151
@@ -601,7 +601,7 @@
   - 6953
 35:
   internal_name: sniper
-  name: Sniper
+  name: 
   abilities:
   - 5154
   - 5155
@@ -619,7 +619,7 @@
   - 6198
 36:
   internal_name: necrolyte
-  name: Necrophos
+  name: 
   abilities:
   - 5158
   - 5160
@@ -637,7 +637,7 @@
   - 6010
 37:
   internal_name: warlock
-  name: Warlock
+  name: 
   abilities:
   - 5162
   - 5163
@@ -655,7 +655,7 @@
   - 6053
 38:
   internal_name: beastmaster
-  name: Beastmaster
+  name: 
   abilities:
   - 5168
   - 7230
@@ -674,7 +674,7 @@
   - 722
 39:
   internal_name: queenofpain
-  name: Queen of Pain
+  name: 
   abilities:
   - 5173
   - 5174
@@ -692,7 +692,7 @@
   - 965
 40:
   internal_name: venomancer
-  name: Venomancer
+  name: 
   abilities:
   - 5178
   - 5179
@@ -710,7 +710,7 @@
   - 6058
 41:
   internal_name: faceless_void
-  name: Faceless Void
+  name: 
   abilities:
   - 5182
   - 5691
@@ -728,7 +728,7 @@
   - 6651
 42:
   internal_name: skeleton_king
-  name: Wraith King
+  name: 
   abilities:
   - 5086
   - 5087
@@ -746,7 +746,7 @@
   - 6566
 43:
   internal_name: death_prophet
-  name: Death Prophet
+  name: 
   abilities:
   - 5090
   - 5091
@@ -764,7 +764,7 @@
   - 6191
 44:
   internal_name: phantom_assassin
-  name: Phantom Assassin
+  name: 
   abilities:
   - 5190
   - 5191
@@ -782,7 +782,7 @@
   - 6192
 45:
   internal_name: pugna
-  name: Pugna
+  name: 
   abilities:
   - 5186
   - 5187
@@ -800,7 +800,7 @@
   - 6403
 46:
   internal_name: templar_assassin
-  name: Templar Assassin
+  name: 
   abilities:
   - 5194
   - 5195
@@ -818,7 +818,7 @@
   - 6071
 47:
   internal_name: viper
-  name: Viper
+  name: 
   abilities:
   - 5218
   - 5219
@@ -836,7 +836,7 @@
   - 985
 48:
   internal_name: luna
-  name: Luna
+  name: 
   abilities:
   - 5222
   - 5223
@@ -854,7 +854,7 @@
   - 7055
 49:
   internal_name: dragon_knight
-  name: Dragon Knight
+  name: 
   abilities:
   - 5226
   - 5227
@@ -872,7 +872,7 @@
   - 742
 50:
   internal_name: dazzle
-  name: Dazzle
+  name: 
   abilities:
   - 5233
   - 5234
@@ -890,7 +890,7 @@
   - 6626
 51:
   internal_name: rattletrap
-  name: Clockwerk
+  name: 
   abilities:
   - 5237
   - 5238
@@ -908,7 +908,7 @@
   - 5977
 52:
   internal_name: leshrac
-  name: Leshrac
+  name: 
   abilities:
   - 5241
   - 5242
@@ -926,7 +926,7 @@
   - 6063
 53:
   internal_name: furion
-  name: Nature's Prophet
+  name: 
   abilities:
   - 5245
   - 5246
@@ -944,7 +944,7 @@
   - 6084
 54:
   internal_name: life_stealer
-  name: Lifestealer
+  name: 
   abilities:
   - 5249
   - 5250
@@ -963,7 +963,7 @@
   - 6173
 55:
   internal_name: dark_seer
-  name: Dark Seer
+  name: 
   abilities:
   - 5255
   - 5256
@@ -981,7 +981,7 @@
   - 6624
 56:
   internal_name: clinkz
-  name: Clinkz
+  name: 
   abilities:
   - 5259
   - 5260
@@ -999,7 +999,7 @@
   - 6620
 57:
   internal_name: omniknight
-  name: Omniknight
+  name: 
   abilities:
   - 5263
   - 895
@@ -1017,7 +1017,7 @@
   - 7010
 58:
   internal_name: enchantress
-  name: Enchantress
+  name: 
   abilities:
   - 5270
   - 5268
@@ -1035,7 +1035,7 @@
   - 6648
 59:
   internal_name: huskar
-  name: Huskar
+  name: 
   abilities:
   - 7300
   - 5272
@@ -1053,7 +1053,7 @@
   - 7143
 60:
   internal_name: night_stalker
-  name: Night Stalker
+  name: 
   abilities:
   - 5275
   - 5276
@@ -1071,7 +1071,7 @@
   - 6129
 61:
   internal_name: broodmother
-  name: Broodmother
+  name: 
   abilities:
   - 5282
   - 5280
@@ -1089,7 +1089,7 @@
   - 6362
 62:
   internal_name: bounty_hunter
-  name: Bounty Hunter
+  name: 
   abilities:
   - 5285
   - 5286
@@ -1107,7 +1107,7 @@
   - 7040
 63:
   internal_name: weaver
-  name: Weaver
+  name: 
   abilities:
   - 5289
   - 5290
@@ -1125,7 +1125,7 @@
   - 6990
 64:
   internal_name: jakiro
-  name: Jakiro
+  name: 
   abilities:
   - 5297
   - 5298
@@ -1143,7 +1143,7 @@
   - 526
 65:
   internal_name: batrider
-  name: Batrider
+  name: 
   abilities:
   - 5320
   - 5321
@@ -1161,7 +1161,7 @@
   - 6229
 66:
   internal_name: chen
-  name: Chen
+  name: 
   abilities:
   - 5328
   - 5330
@@ -1179,7 +1179,7 @@
   - 6260
 67:
   internal_name: spectre
-  name: Spectre
+  name: 
   abilities:
   - 5334
   - 5335
@@ -1197,7 +1197,7 @@
   - 6903
 69:
   internal_name: doom_bringer
-  name: Doom
+  name: 
   abilities:
   - 5339
   - 5340
@@ -1215,7 +1215,7 @@
   - 971
 68:
   internal_name: ancient_apparition
-  name: Ancient Apparition
+  name: 
   abilities:
   - 5345
   - 5346
@@ -1234,7 +1234,7 @@
   - 6810
 70:
   internal_name: ursa
-  name: Ursa
+  name: 
   abilities:
   - 5357
   - 5358
@@ -1252,7 +1252,7 @@
   - 424
 71:
   internal_name: spirit_breaker
-  name: Spirit Breaker
+  name: 
   abilities:
   - 5353
   - 7301
@@ -1270,7 +1270,7 @@
   - 6905
 72:
   internal_name: gyrocopter
-  name: Gyrocopter
+  name: 
   abilities:
   - 5361
   - 5362
@@ -1288,7 +1288,7 @@
   - 6654
 73:
   internal_name: alchemist
-  name: Alchemist
+  name: 
   abilities:
   - 5365
   - 5366
@@ -1307,7 +1307,7 @@
   - 7054
 74:
   internal_name: invoker
-  name: Invoker
+  name: 
   abilities:
   - 5370
   - 5371
@@ -1335,7 +1335,7 @@
   - 724
 75:
   internal_name: silencer
-  name: Silencer
+  name: 
   abilities:
   - 5377
   - 5378
@@ -1353,7 +1353,7 @@
   - 6878
 76:
   internal_name: obsidian_destroyer
-  name: Outworld Destroyer
+  name: 
   abilities:
   - 5391
   - 5392
@@ -1371,7 +1371,7 @@
   - 750
 77:
   internal_name: lycan
-  name: Lycan
+  name: 
   abilities:
   - 5395
   - 5396
@@ -1389,7 +1389,7 @@
   - 6685
 78:
   internal_name: brewmaster
-  name: Brewmaster
+  name: 
   abilities:
   - 5400
   - 7310
@@ -1407,7 +1407,7 @@
   - 6614
 79:
   internal_name: shadow_demon
-  name: Shadow Demon
+  name: 
   abilities:
   - 5421
   - 1001
@@ -1425,7 +1425,7 @@
   - 7118
 80:
   internal_name: lone_druid
-  name: Lone Druid
+  name: 
   abilities:
   - 5412
   - 7309
@@ -1443,7 +1443,7 @@
   - 6680
 81:
   internal_name: chaos_knight
-  name: Chaos Knight
+  name: 
   abilities:
   - 5426
   - 5427
@@ -1461,7 +1461,7 @@
   - 7651
 82:
   internal_name: meepo
-  name: Meepo
+  name: 
   abilities:
   - 5430
   - 5431
@@ -1479,7 +1479,7 @@
   - 546
 83:
   internal_name: treant
-  name: Treant Protector
+  name: 
   abilities:
   - 338
   - 5435
@@ -1497,7 +1497,7 @@
   - 7115
 84:
   internal_name: ogre_magi
-  name: Ogre Magi
+  name: 
   abilities:
   - 5438
   - 5439
@@ -1515,7 +1515,7 @@
   - 6707
 85:
   internal_name: undying
-  name: Undying
+  name: 
   abilities:
   - 5442
   - 5443
@@ -1533,7 +1533,7 @@
   - 6972
 86:
   internal_name: rubick
-  name: Rubick
+  name: 
   abilities:
   - 5448
   - 5450
@@ -1556,7 +1556,7 @@
   - 6870
 87:
   internal_name: disruptor
-  name: Disruptor
+  name: 
   abilities:
   - 5458
   - 5459
@@ -1574,7 +1574,7 @@
   - 737
 88:
   internal_name: nyx_assassin
-  name: Nyx Assassin
+  name: 
   abilities:
   - 5462
   - 5463
@@ -1593,7 +1593,7 @@
   - 6814
 89:
   internal_name: naga_siren
-  name: Naga Siren
+  name: 
   abilities:
   - 5467
   - 5468
@@ -1612,7 +1612,7 @@
   - 6701
 90:
   internal_name: keeper_of_the_light
-  name: Keeper of the Light
+  name: 
   abilities:
   - 5471
   - 532
@@ -1634,7 +1634,7 @@
   - 6217
 91:
   internal_name: wisp
-  name: Io
+  name: 
   abilities:
   - 5485
   - 5486
@@ -1653,7 +1653,7 @@
   - 6808
 92:
   internal_name: visage
-  name: Visage
+  name: 
   abilities:
   - 5480
   - 5481
@@ -1672,7 +1672,7 @@
   - 6985
 93:
   internal_name: slark
-  name: Slark
+  name: 
   abilities:
   - 5494
   - 5495
@@ -1690,7 +1690,7 @@
   - 6894
 94:
   internal_name: medusa
-  name: Medusa
+  name: 
   abilities:
   - 5504
   - 5505
@@ -1708,7 +1708,7 @@
   - 6803
 95:
   internal_name: troll_warlord
-  name: Troll Warlord
+  name: 
   abilities:
   - 5508
   - 5509
@@ -1726,7 +1726,7 @@
   - 6960
 96:
   internal_name: centaur
-  name: Centaur Warrunner
+  name: 
   abilities:
   - 5514
   - 5515
@@ -1744,7 +1744,7 @@
   - 5988
 97:
   internal_name: magnataur
-  name: Magnus
+  name: 
   abilities:
   - 5518
   - 5519
@@ -1762,7 +1762,7 @@
   - 6691
 98:
   internal_name: shredder
-  name: Timbersaw
+  name: 
   abilities:
   - 5524
   - 5525
@@ -1782,7 +1782,7 @@
   - 6949
 99:
   internal_name: bristleback
-  name: Bristleback
+  name: 
   abilities:
   - 5548
   - 5549
@@ -1800,7 +1800,7 @@
   - 6615
 100:
   internal_name: tusk
-  name: Tusk
+  name: 
   abilities:
   - 5565
   - 5566
@@ -1819,7 +1819,7 @@
   - 7891
 101:
   internal_name: skywrath_mage
-  name: Skywrath Mage
+  name: 
   abilities:
   - 5581
   - 5582
@@ -1837,7 +1837,7 @@
   - 6921
 102:
   internal_name: abaddon
-  name: Abaddon
+  name: 
   abilities:
   - 5585
   - 5586
@@ -1855,7 +1855,7 @@
   - 7335
 103:
   internal_name: elder_titan
-  name: Elder Titan
+  name: 
   abilities:
   - 5589
   - 5591
@@ -1874,7 +1874,7 @@
   - 7350
 104:
   internal_name: legion_commander
-  name: Legion Commander
+  name: 
   abilities:
   - 5595
   - 5596
@@ -1892,7 +1892,7 @@
   - 925
 106:
   internal_name: ember_spirit
-  name: Ember Spirit
+  name: 
   abilities:
   - 5603
   - 5604
@@ -1910,7 +1910,7 @@
   - 7051
 107:
   internal_name: earth_spirit
-  name: Earth Spirit
+  name: 
   abilities:
   - 5608
   - 5609
@@ -1928,7 +1928,7 @@
   - 6640
 109:
   internal_name: terrorblade
-  name: Terrorblade
+  name: 
   abilities:
   - 5619
   - 5620
@@ -1946,7 +1946,7 @@
   - 6943
 110:
   internal_name: phoenix
-  name: Phoenix
+  name: 
   abilities:
   - 5623
   - 5625
@@ -1967,7 +1967,7 @@
   - 6852
 111:
   internal_name: oracle
-  name: Oracle
+  name: 
   abilities:
   - 5637
   - 5638
@@ -1985,7 +1985,7 @@
   - 6206
 105:
   internal_name: techies
-  name: Techies
+  name: 
   abilities:
   - 879
   - 886
@@ -2003,11 +2003,11 @@
   - 6998
 127:
   internal_name: target_dummy
-  name: Target Dummy
+  name: 
   abilities: []
 112:
   internal_name: winter_wyvern
-  name: Winter Wyvern
+  name: 
   abilities:
   - 5651
   - 5652
@@ -2025,7 +2025,7 @@
   - 6994
 113:
   internal_name: arc_warden
-  name: Arc Warden
+  name: 
   abilities:
   - 5677
   - 5678
@@ -2043,7 +2043,7 @@
   - 685
 108:
   internal_name: abyssal_underlord
-  name: Underlord
+  name: 
   abilities:
   - 5613
   - 5614
@@ -2061,7 +2061,7 @@
   - 805
 114:
   internal_name: monkey_king
-  name: Monkey King
+  name: 
   abilities:
   - 5716
   - 5721
@@ -2081,7 +2081,7 @@
   - 7025
 120:
   internal_name: pangolier
-  name: Pangolier
+  name: 
   abilities:
   - 6344
   - 6461
@@ -2100,7 +2100,7 @@
   - 9062
 119:
   internal_name: dark_willow
-  name: Dark Willow
+  name: 
   abilities:
   - 6339
   - 6341
@@ -2118,7 +2118,7 @@
   - 6465
 121:
   internal_name: grimstroke
-  name: Grimstroke
+  name: 
   abilities:
   - 8000
   - 8006
@@ -2136,7 +2136,7 @@
   - 8002
 129:
   internal_name: mars
-  name: Mars
+  name: 
   abilities:
   - 6583
   - 6495
@@ -2154,7 +2154,7 @@
   - 6766
 126:
   internal_name: void_spirit
-  name: Void Spirit
+  name: 
   abilities:
   - 7701
   - 6470
@@ -2172,7 +2172,7 @@
   - 7708
 128:
   internal_name: snapfire
-  name: Snapfire
+  name: 
   abilities:
   - 6480
   - 6483
@@ -2190,7 +2190,7 @@
   - 6485
 123:
   internal_name: hoodwink
-  name: Hoodwink
+  name: 
   abilities:
   - 8429
   - 8158
@@ -2209,7 +2209,7 @@
   - 967
 135:
   internal_name: dawnbreaker
-  name: Dawnbreaker
+  name: 
   abilities:
   - 7902
   - 7914
@@ -2228,7 +2228,7 @@
   - 7934
 136:
   internal_name: marci
-  name: Marci
+  name: 
   abilities:
   - 8192
   - 8235
@@ -2246,7 +2246,7 @@
   - 8239
 137:
   internal_name: primal_beast
-  name: Primal Beast
+  name: 
   abilities:
   - 992
   - 994
