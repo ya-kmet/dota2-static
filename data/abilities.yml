@@ -1906,7 +1906,7 @@
 942:
   internal_name: brewmaster_primal_companion
   name: Primal Companion
-  type: DOTA_ABILITY_TYPE_ULTIMATE
+  type: DOTA_ABILITY_TYPE_BASIC
 5404:
   internal_name: brewmaster_earth_hurl_boulder
   name: Hurl Boulder
