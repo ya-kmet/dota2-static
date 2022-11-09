@@ -1217,7 +1217,7 @@
   name: recipe_ring_of_aquila
 212:
   internal_name: ring_of_aquila
-  quality: rare
+  quality: 
   name: Ring of Aquila
 213:
   internal_name: recipe_tranquil_boots
