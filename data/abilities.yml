@@ -5016,6 +5016,10 @@
   internal_name: special_bonus_magic_resistance_12
   name: "+{s:value}% Magic Resistance"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
+1089:
+  internal_name: special_bonus_magic_resistance_14
+  name: special_bonus_magic_resistance_14
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6138:
   internal_name: special_bonus_magic_resistance_15
   name: "+{s:value}% Magic Resistance"
@@ -6496,6 +6500,10 @@
 903:
   internal_name: special_bonus_unique_morphling_10
   name: "+{s:bonus_stun_max}s Adaptive Strike Stun Duration"
+  type: DOTA_ABILITY_TYPE_ATTRIBUTES
+6383:
+  internal_name: special_bonus_unique_morphling_waveform_cooldown
+  name: special_bonus_unique_morphling_waveform_cooldown
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6063:
   internal_name: special_bonus_unique_leshrac_1
