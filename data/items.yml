@@ -1763,3 +1763,19 @@
   internal_name: dagger_of_ristul
   quality: 
   name: Dagger of Ristul
+4300:
+  internal_name: ofrenda
+  quality: 
+  name: ofrenda
+4301:
+  internal_name: ofrenda_shovel
+  quality: 
+  name: ofrenda_shovel
+4302:
+  internal_name: ofrenda_pledge
+  quality: 
+  name: ofrenda_pledge
+1090:
+  internal_name: muertas_gun
+  quality: 
+  name: muertas_gun
