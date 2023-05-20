@@ -131,6 +131,10 @@
   internal_name: crown
   quality: component
   name: Crown
+1122:
+  internal_name: diadem
+  quality: component
+  name: Diadem
 21:
   internal_name: ogre_axe
   quality: component
@@ -219,6 +223,34 @@
   internal_name: enchanted_mango
   quality: consumable
   name: Enchanted Mango
+4204:
+  internal_name: famango
+  quality: consumable
+  name: Healing Lotus
+4205:
+  internal_name: great_famango
+  quality: consumable
+  name: Great Healing Lotus
+4206:
+  internal_name: greater_famango
+  quality: consumable
+  name: Greater Healing Lotus
+4207:
+  internal_name: recipe_great_famango
+  quality: 
+  name: recipe_great_famango
+4208:
+  internal_name: recipe_greater_famango
+  quality: 
+  name: recipe_greater_famango
+1123:
+  internal_name: blood_grenade
+  quality: consumable
+  name: Blood Grenade
+1154:
+  internal_name: royale_with_cheese
+  quality: consumable
+  name: Block of Cheese
 39:
   internal_name: flask
   quality: consumable
@@ -347,10 +379,50 @@
   internal_name: power_treads
   quality: common
   name: Power Treads
+1098:
+  internal_name: recipe_samurai_tabi
+  quality: 
+  name: Samurai Tabi Recipe
+1091:
+  internal_name: samurai_tabi
+  quality: common
+  name: Samurai Tabi
+1092:
+  internal_name: recipe_hermes_sandals
+  quality: 
+  name: Hermes Sandals Recipe
+1093:
+  internal_name: hermes_sandals
+  quality: common
+  name: Hermes Sandals
+1099:
+  internal_name: recipe_witches_switch
+  quality: 
+  name: Witches Switch Recipe
+1100:
+  internal_name: witches_switch
+  quality: common
+  name: Witches Switch
 653:
   internal_name: recipe_grandmasters_glaive
   quality: 
   name: recipe_grandmasters_glaive
+1094:
+  internal_name: recipe_lunar_crest
+  quality: 
+  name: Lunar Crest Recipe
+1095:
+  internal_name: lunar_crest
+  quality: common
+  name: Lunar Crest
+1106:
+  internal_name: recipe_phylactery
+  quality: 
+  name: recipe_phylactery
+1107:
+  internal_name: phylactery
+  quality: common
+  name: Phylactery
 655:
   internal_name: grandmasters_glaive
   quality: common
@@ -387,6 +459,10 @@
   internal_name: pers
   quality: common
   name: Perseverance
+1125:
+  internal_name: cornucopia
+  quality: common
+  name: cornucopia
 70:
   internal_name: recipe_poor_mans_shield
   quality: 
@@ -1051,6 +1127,14 @@
   internal_name: diffusal_blade
   quality: artifact
   name: Diffusal Blade
+1096:
+  internal_name: recipe_disperser
+  quality: 
+  name: Disperser Recipe
+1097:
+  internal_name: disperser
+  quality: artifact
+  name: Disperser
 175:
   internal_name: recipe_ethereal_blade
   quality: 
@@ -1147,6 +1231,14 @@
   internal_name: solar_crest
   quality: rare
   name: Solar Crest
+1127:
+  internal_name: recipe_pavise
+  quality: 
+  name: recipe_pavise
+1128:
+  internal_name: pavise
+  quality: rare
+  name: pavise
 188:
   internal_name: smoke_of_deceit
   quality: consumable
@@ -1423,10 +1515,6 @@
   internal_name: helm_of_the_undying
   quality: 
   name: Helm of the Undying
-329:
-  internal_name: recipe_vambrace
-  quality: 
-  name: Vambrace Recipe
 331:
   internal_name: vambrace
   quality: common
@@ -1443,6 +1531,10 @@
   internal_name: ocean_heart
   quality: 
   name: Ocean Heart
+1124:
+  internal_name: spark_of_courage
+  quality: 
+  name: spark_of_courage
 355:
   internal_name: broom_handle
   quality: 
@@ -1723,14 +1815,18 @@
   internal_name: slime_vial
   quality: 
   name: slime_vial
+1101:
+  internal_name: recipe_harpoon
+  quality: 
+  name: Harpoon Recipe
 939:
   internal_name: harpoon
   quality: 
-  name: harpoon
+  name: Harpoon
 950:
-  internal_name: guardian_shell
+  internal_name: defiant_shell
   quality: 
-  name: guardian_shell
+  name: Defiant Shell
 968:
   internal_name: arcane_scout
   quality: 
@@ -1779,3 +1875,55 @@
   internal_name: muertas_gun
   quality: 
   name: Mercy & Grace
+2091:
+  internal_name: tier1_token
+  quality: 
+  name: tier1_token
+2092:
+  internal_name: tier2_token
+  quality: 
+  name: tier2_token
+2093:
+  internal_name: tier3_token
+  quality: 
+  name: tier3_token
+2094:
+  internal_name: tier4_token
+  quality: 
+  name: tier4_token
+2095:
+  internal_name: tier5_token
+  quality: 
+  name: tier5_token
+2096:
+  internal_name: vindicators_axe
+  quality: 
+  name: vindicators_axe
+2097:
+  internal_name: duelist_gloves
+  quality: 
+  name: duelist_gloves
+2098:
+  internal_name: horizons_equilibrium
+  quality: 
+  name: horizons_equilibrium
+2099:
+  internal_name: blighted_spirit
+  quality: 
+  name: blighted_spirit
+2190:
+  internal_name: dandelion_amulet
+  quality: 
+  name: dandelion_amulet
+2191:
+  internal_name: turtle_shell
+  quality: 
+  name: turtle_shell
+2192:
+  internal_name: martyrs_plate
+  quality: 
+  name: martyrs_plate
+2193:
+  internal_name: gossamer_cape
+  quality: 
+  name: gossamer_cape
