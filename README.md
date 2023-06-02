@@ -32,10 +32,7 @@ hero = Dota2::Static::Hero.find(14)   # => Single hero by id
 hero.name                             # => "Pudge"
 hero.internal_name                    # => "pudge"
 hero.abilities                        # => [Dota2::Static::Ability]
-image_tag hero.image_sb               # => HTML image tag for 59x33 version
-image_tag hero.image_lg               # => HTML image tag for 205x115 version
-image_tag hero.image_full             # => HTML image tag for 256x144 version
-image_tag hero.image_vert             # => HTML image tag for 235x272 version
+image_tag hero.image                  # => HTML image tag for 256x144 version
 ```
 
 ### Abilities

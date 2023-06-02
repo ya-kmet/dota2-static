@@ -27,11 +27,8 @@ describe Dota2::Static::Hero do
       expect(@hero.name).to eq 'Anti-Mage'
     end
 
-    it 'assigns images fields with proper values' do
-      expect(@hero.image_sb).to eq 'dota2/static/heroes/antimage_sb.png'
-      expect(@hero.image_lg).to eq 'dota2/static/heroes/antimage_lg.png'
-      expect(@hero.image_full).to eq 'dota2/static/heroes/antimage_full.png'
-      expect(@hero.image_vert).to eq 'dota2/static/heroes/antimage_vert.jpg'
+    it 'assigns image with proper value' do
+      expect(@hero.image).to eq 'dota2/static/heroes/antimage.png'
     end
 
     it 'assigns abilities with proper values' do

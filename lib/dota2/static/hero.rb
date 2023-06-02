@@ -5,7 +5,7 @@ module Dota2
     class Hero
       MAP = YAML.load_file(File.expand_path('../../../../data/heroes.yml', __FILE__)).freeze
 
-      attr_reader :id, :name, :internal_name, :image_sb, :image_lg, :image_full, :image_vert, :abilities, :ultimate
+      attr_reader :id, :name, :internal_name, :image, :abilities, :ultimate
 
       def self.find(id)
         MAP[id] ? new(id) : nil
@@ -22,10 +22,7 @@ module Dota2
         @id = id
         @internal_name = hero['internal_name']
         @name = hero['name']
-        @image_sb = "dota2/static/heroes/#{hero['internal_name']}_sb.png"
-        @image_lg = "dota2/static/heroes/#{hero['internal_name']}_lg.png"
-        @image_full = "dota2/static/heroes/#{hero['internal_name']}_full.png"
-        @image_vert = "dota2/static/heroes/#{hero['internal_name']}_vert.jpg"
+        @image = "dota2/static/heroes/#{hero['internal_name']}.png"
         @abilities = hero['abilities'].map do |ability|
           Dota2::Static::Ability.find(ability)
         end.compact
