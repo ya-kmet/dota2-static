@@ -11,14 +11,14 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Dota 2 static data.}
   spec.description   = %q{This gem provides Dota 2 static data and images.}
-  spec.homepage      = 'https://github.com/godjo/dota2-static'
+  spec.homepage      = 'https://github.com/ya-kmet/dota2-static'
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(bin|spec)/}) }
 
   spec.require_paths = ['lib']
 
-  spec.add_dependency 'rails', '>= 4'
-  spec.add_development_dependency 'bundler', '~> 1.10'
+  spec.add_dependency 'rails', '>= 5'
+  spec.add_development_dependency 'bundler', '~> 2.0'
   spec.add_development_dependency 'rake', '~> 10.0'
   spec.add_development_dependency 'rspec', '~> 3.1'
   spec.add_development_dependency 'rubocop'
