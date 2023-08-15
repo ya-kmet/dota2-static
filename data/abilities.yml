@@ -745,7 +745,7 @@
   type: 
 5147:
   internal_name: enigma_demonic_conversion
-  name: Demonic Conversion
+  name: Demonic Summoning
   type: 
 5148:
   internal_name: enigma_midnight_pulse
@@ -6403,7 +6403,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 787:
   internal_name: special_bonus_unique_rubick_7
-  name: "+{s:value}s Telekinesis Lift Duration"
+  name: "+{s:bonus_lift_duration}s Telekinesis Lift/Stun Duration"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 897:
   internal_name: special_bonus_unique_rubick_8
@@ -6808,7 +6808,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6065:
   internal_name: special_bonus_unique_enigma
-  name: "+{s:bonus_spawn_count} Demonic Conversion Eidolons"
+  name: "+{s:bonus_spawn_count} Demonic Summoning Eidolons"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6510:
   internal_name: special_bonus_unique_enigma_2
@@ -7791,7 +7791,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6200:
   internal_name: special_bonus_unique_weaver_1
-  name: "+{s:value} Shukuchi Damage"
+  name: "+{s:bonus_damage} Shukuchi Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6131:
   internal_name: special_bonus_unique_weaver_2
@@ -7843,7 +7843,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 758:
   internal_name: special_bonus_unique_ursa_8
-  name: "+{s:value}% Enrage Status Resistance"
+  name: "+{s:bonus_status_resistance}% Enrage Status Resistance"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 1062:
   internal_name: special_bonus_unique_ursa_earthshock_furyswipes
@@ -8700,7 +8700,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 347:
   internal_name: special_bonus_unique_riki_6
-  name: "-{s:value} Tricks of the Trade Cooldown"
+  name: "-{s:bonus_abilitycooldown} Tricks of the Trade Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 474:
   internal_name: special_bonus_unique_riki_7
@@ -9000,7 +9000,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6530:
   internal_name: special_bonus_unique_sand_king_3
-  name: "+{s:bonus_sand_storm_radius} Sand Storm Radius"
+  name: "+{s:bonus_sand_storm_move_speed} Sand Storm Movement Speed"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 475:
   internal_name: special_bonus_unique_sand_king_4
