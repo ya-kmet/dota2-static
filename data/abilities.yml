@@ -8700,7 +8700,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 347:
   internal_name: special_bonus_unique_riki_6
-  name: "-{s:bonus_abilitycooldown} Tricks of the Trade Cooldown"
+  name: "-{s:bonus_AbilityCooldown} Tricks of the Trade Cooldown"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 474:
   internal_name: special_bonus_unique_riki_7
