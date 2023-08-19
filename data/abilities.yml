@@ -6,7 +6,7 @@
 5001:
   internal_name: default_attack
   name: Attacks
-  type: 
+  type:
 5002:
   internal_name: attribute_bonus
   name: Attribute Bonus
@@ -14,39 +14,39 @@
 730:
   internal_name: special_bonus_attributes
   name: special_bonus_attributes
-  type: 
+  type:
 5669:
   internal_name: ability_capture
   name: ability_capture
-  type: 
+  type:
 2610:
   internal_name: ability_lamp_use
   name: ability_lamp_use
-  type: 
+  type:
 2611:
   internal_name: ability_pluck_famango
   name: ability_pluck_famango
-  type: 
+  type:
 5003:
   internal_name: antimage_mana_break
   name: Mana Break
-  type: 
+  type:
 5004:
   internal_name: antimage_blink
   name: Blink
-  type: 
+  type:
 5005:
   internal_name: antimage_spell_shield
   name: Spell Shield
-  type: 
+  type:
 7314:
   internal_name: antimage_counterspell
   name: Counterspell
-  type: 
+  type:
 1143:
   internal_name: antimage_counterspell_ally
   name: Counterspell Ally
-  type: 
+  type:
 5006:
   internal_name: antimage_mana_void
   name: Mana Void
@@ -54,19 +54,19 @@
 543:
   internal_name: antimage_mana_overload
   name: Blink Fragment
-  type: 
+  type:
 5007:
   internal_name: axe_berserkers_call
   name: Berserker's Call
-  type: 
+  type:
 5008:
   internal_name: axe_battle_hunger
   name: Battle Hunger
-  type: 
+  type:
 5009:
   internal_name: axe_counter_helix
   name: Counter Helix
-  type: 
+  type:
 5010:
   internal_name: axe_culling_blade
   name: Culling Blade
@@ -74,11 +74,11 @@
 5012:
   internal_name: bane_enfeeble
   name: Enfeeble
-  type: 
+  type:
 5011:
   internal_name: bane_brain_sap
   name: Brain Sap
-  type: 
+  type:
 5013:
   internal_name: bane_fiends_grip
   name: Fiend's Grip
@@ -86,23 +86,23 @@
 5014:
   internal_name: bane_nightmare
   name: Nightmare
-  type: 
+  type:
 5523:
   internal_name: bane_nightmare_end
   name: Nightmare End
-  type: 
+  type:
 5015:
   internal_name: bloodseeker_bloodrage
   name: Bloodrage
-  type: 
+  type:
 5016:
   internal_name: bloodseeker_blood_bath
   name: Blood Rite
-  type: 
+  type:
 5017:
   internal_name: bloodseeker_thirst
   name: Thirst
-  type: 
+  type:
 5018:
   internal_name: bloodseeker_rupture
   name: Rupture
@@ -110,27 +110,27 @@
 902:
   internal_name: bloodseeker_blood_mist
   name: Blood Mist
-  type: 
+  type:
 5019:
   internal_name: drow_ranger_frost_arrows
   name: Frost Arrows
-  type: 
+  type:
 343:
   internal_name: drow_ranger_multishot
   name: Multishot
-  type: 
+  type:
 5020:
   internal_name: drow_ranger_silence
   name: Silence
-  type: 
+  type:
 5632:
   internal_name: drow_ranger_wave_of_silence
   name: Gust
-  type: 
+  type:
 5021:
   internal_name: drow_ranger_trueshot
   name: Precision Aura
-  type: 
+  type:
 5022:
   internal_name: drow_ranger_marksmanship
   name: Marksmanship
@@ -138,19 +138,19 @@
 1121:
   internal_name: drow_ranger_glacier
   name: Glacier
-  type: 
+  type:
 5023:
   internal_name: earthshaker_fissure
   name: Fissure
-  type: 
+  type:
 5024:
   internal_name: earthshaker_enchant_totem
   name: Enchant Totem
-  type: 
+  type:
 5025:
   internal_name: earthshaker_aftershock
   name: Aftershock
-  type: 
+  type:
 5026:
   internal_name: earthshaker_echo_slam
   name: Echo Slam
@@ -158,15 +158,15 @@
 5027:
   internal_name: juggernaut_blade_dance
   name: Blade Dance
-  type: 
+  type:
 5028:
   internal_name: juggernaut_blade_fury
   name: Blade Fury
-  type: 
+  type:
 5029:
   internal_name: juggernaut_healing_ward
   name: Healing Ward
-  type: 
+  type:
 5030:
   internal_name: juggernaut_omni_slash
   name: Omnislash
@@ -174,31 +174,31 @@
 419:
   internal_name: juggernaut_swift_slash
   name: Swiftslash
-  type: 
+  type:
 605:
   internal_name: kunkka_tidal_wave
   name: Tidal Wave
-  type: 
+  type:
 5031:
   internal_name: kunkka_torrent
   name: Torrent
-  type: 
+  type:
 319:
   internal_name: kunkka_torrent_storm
   name: Torrent Storm
-  type: 
+  type:
 5032:
   internal_name: kunkka_tidebringer
   name: Tidebringer
-  type: 
+  type:
 5033:
   internal_name: kunkka_x_marks_the_spot
   name: X Marks the Spot
-  type: 
+  type:
 5034:
   internal_name: kunkka_return
   name: Return
-  type: 
+  type:
 5035:
   internal_name: kunkka_ghostship
   name: Ghostship
@@ -206,19 +206,19 @@
 5040:
   internal_name: lina_dragon_slave
   name: Dragon Slave
-  type: 
+  type:
 5041:
   internal_name: lina_light_strike_array
   name: Light Strike Array
-  type: 
+  type:
 5042:
   internal_name: lina_fiery_soul
   name: Fiery Soul
-  type: 
+  type:
 944:
   internal_name: lina_flame_cloak
   name: Flame Cloak
-  type: 
+  type:
 5043:
   internal_name: lina_laguna_blade
   name: Laguna Blade
@@ -226,15 +226,15 @@
 5044:
   internal_name: lion_impale
   name: Earth Spike
-  type: 
+  type:
 5045:
   internal_name: lion_voodoo
   name: Hex
-  type: 
+  type:
 5046:
   internal_name: lion_mana_drain
   name: Mana Drain
-  type: 
+  type:
 5047:
   internal_name: lion_finger_of_death
   name: Finger of Death
@@ -242,7 +242,7 @@
 5048:
   internal_name: mirana_arrow
   name: Sacred Arrow
-  type: 
+  type:
 5049:
   internal_name: mirana_invis
   name: Moonlight Shadow
@@ -250,35 +250,35 @@
 5050:
   internal_name: mirana_leap
   name: Leap
-  type: 
+  type:
 5051:
   internal_name: mirana_starfall
   name: Starstorm
-  type: 
+  type:
 5052:
   internal_name: morphling_waveform
   name: Waveform
-  type: 
+  type:
 5053:
   internal_name: morphling_adaptive_strike_agi
   name: Adaptive Strike (Agility)
-  type: 
+  type:
 7000:
   internal_name: morphling_adaptive_strike_str
   name: Adaptive Strike (Strength)
-  type: 
+  type:
 5054:
   internal_name: morphling_morph
   name: morphling_morph
-  type: 
+  type:
 5055:
   internal_name: morphling_morph_agi
   name: Attribute Shift (Agility Gain)
-  type: 
+  type:
 5056:
   internal_name: morphling_morph_str
   name: Attribute Shift (Strength Gain)
-  type: 
+  type:
 5057:
   internal_name: morphling_replicate
   name: Morph
@@ -290,27 +290,27 @@
 5674:
   internal_name: morphling_hybrid
   name: Hybrid
-  type: 
+  type:
 5059:
   internal_name: nevermore_shadowraze1
   name: Shadowraze
-  type: 
+  type:
 5060:
   internal_name: nevermore_shadowraze2
   name: Shadowraze
-  type: 
+  type:
 5061:
   internal_name: nevermore_shadowraze3
   name: Shadowraze
-  type: 
+  type:
 5062:
   internal_name: nevermore_necromastery
   name: Necromastery
-  type: 
+  type:
 5063:
   internal_name: nevermore_dark_lord
   name: Presence of the Dark Lord
-  type: 
+  type:
 5064:
   internal_name: nevermore_requiem
   name: Requiem of Souls
@@ -318,11 +318,11 @@
 5065:
   internal_name: phantom_lancer_spirit_lance
   name: Spirit Lance
-  type: 
+  type:
 5066:
   internal_name: phantom_lancer_doppelwalk
   name: Doppelganger
-  type: 
+  type:
 5067:
   internal_name: phantom_lancer_juxtapose
   name: Juxtapose
@@ -330,23 +330,23 @@
 5068:
   internal_name: phantom_lancer_phantom_edge
   name: Phantom Rush
-  type: 
+  type:
 5069:
   internal_name: puck_illusory_orb
   name: Illusory Orb
-  type: 
+  type:
 5070:
   internal_name: puck_ethereal_jaunt
   name: Ethereal Jaunt
-  type: 
+  type:
 5071:
   internal_name: puck_waning_rift
   name: Waning Rift
-  type: 
+  type:
 5072:
   internal_name: puck_phase_shift
   name: Phase Shift
-  type: 
+  type:
 5073:
   internal_name: puck_dream_coil
   name: Dream Coil
@@ -354,19 +354,19 @@
 5074:
   internal_name: pudge_flesh_heap
   name: Flesh Heap
-  type: 
+  type:
 5075:
   internal_name: pudge_meat_hook
   name: Meat Hook
-  type: 
+  type:
 5076:
   internal_name: pudge_rot
   name: Rot
-  type: 
+  type:
 322:
   internal_name: pudge_eject
   name: Eject
-  type: 
+  type:
 5077:
   internal_name: pudge_dismember
   name: Dismember
@@ -374,15 +374,15 @@
 5078:
   internal_name: shadow_shaman_ether_shock
   name: Ether Shock
-  type: 
+  type:
 5079:
   internal_name: shadow_shaman_voodoo
   name: Hex
-  type: 
+  type:
 5080:
   internal_name: shadow_shaman_shackles
   name: Shackles
-  type: 
+  type:
 5081:
   internal_name: shadow_shaman_mass_serpent_ward
   name: Mass Serpent Ward
@@ -390,19 +390,19 @@
 536:
   internal_name: shadow_shaman_serpentine
   name: Serpentine
-  type: 
+  type:
 5082:
   internal_name: razor_plasma_field
   name: Plasma Field
-  type: 
+  type:
 5083:
   internal_name: razor_static_link
   name: Static Link
-  type: 
+  type:
 5084:
   internal_name: razor_unstable_current
   name: Storm Surge
-  type: 
+  type:
 5085:
   internal_name: razor_eye_of_the_storm
   name: Eye of the Storm
@@ -410,15 +410,15 @@
 5086:
   internal_name: skeleton_king_hellfire_blast
   name: Wraithfire Blast
-  type: 
+  type:
 5087:
   internal_name: skeleton_king_vampiric_aura
   name: Vampiric Spirit
-  type: 
+  type:
 5088:
   internal_name: skeleton_king_mortal_strike
   name: Mortal Strike
-  type: 
+  type:
 5089:
   internal_name: skeleton_king_reincarnation
   name: Reincarnation
@@ -426,19 +426,19 @@
 5090:
   internal_name: death_prophet_carrion_swarm
   name: Crypt Swarm
-  type: 
+  type:
 5091:
   internal_name: death_prophet_silence
   name: Silence
-  type: 
+  type:
 5092:
   internal_name: death_prophet_witchcraft
   name: death_prophet_witchcraft
-  type: 
+  type:
 5685:
   internal_name: death_prophet_spirit_siphon
   name: Spirit Siphon
-  type: 
+  type:
 5093:
   internal_name: death_prophet_exorcism
   name: Exorcism
@@ -446,15 +446,15 @@
 5094:
   internal_name: sven_storm_bolt
   name: Storm Hammer
-  type: 
+  type:
 5095:
   internal_name: sven_great_cleave
   name: Great Cleave
-  type: 
+  type:
 5096:
   internal_name: sven_warcry
   name: Warcry
-  type: 
+  type:
 5097:
   internal_name: sven_gods_strength
   name: God's Strength
@@ -462,19 +462,19 @@
 682:
   internal_name: storm_spirit_electric_rave
   name: Electric Rave
-  type: 
+  type:
 5098:
   internal_name: storm_spirit_static_remnant
   name: Static Remnant
-  type: 
+  type:
 5099:
   internal_name: storm_spirit_electric_vortex
   name: Electric Vortex
-  type: 
+  type:
 5100:
   internal_name: storm_spirit_overload
   name: Overload
-  type: 
+  type:
 5101:
   internal_name: storm_spirit_ball_lightning
   name: Ball Lightning
@@ -482,15 +482,15 @@
 5102:
   internal_name: sandking_burrowstrike
   name: Burrowstrike
-  type: 
+  type:
 5103:
   internal_name: sandking_sand_storm
   name: Sand Storm
-  type: 
+  type:
 5104:
   internal_name: sandking_caustic_finale
   name: Caustic Finale
-  type: 
+  type:
 5105:
   internal_name: sandking_epicenter
   name: Epicenter
@@ -498,27 +498,27 @@
 5106:
   internal_name: tiny_avalanche
   name: Avalanche
-  type: 
+  type:
 5107:
   internal_name: tiny_toss
   name: Toss
-  type: 
+  type:
 296:
   internal_name: tiny_craggy_exterior
   name: Craggy Exterior
-  type: 
+  type:
 5108:
   internal_name: tiny_tree_grab
   name: Tree Grab
-  type: 
+  type:
 6937:
   internal_name: tiny_toss_tree
   name: Tree Throw
-  type: 
+  type:
 7850:
   internal_name: tiny_tree_channel
   name: Tree Volley
-  type: 
+  type:
 5109:
   internal_name: tiny_grow
   name: Grow
@@ -526,23 +526,23 @@
 641:
   internal_name: zuus_heavenly_jump
   name: Heavenly Jump
-  type: 
+  type:
 5110:
   internal_name: zuus_arc_lightning
   name: Arc Lightning
-  type: 
+  type:
 5111:
   internal_name: zuus_lightning_bolt
   name: Lightning Bolt
-  type: 
+  type:
 6325:
   internal_name: zuus_cloud
   name: Nimbus
-  type: 
+  type:
 5112:
   internal_name: zuus_static_field
   name: Static Field
-  type: 
+  type:
 5113:
   internal_name: zuus_thundergods_wrath
   name: Thundergod's Wrath
@@ -550,23 +550,23 @@
 1110:
   internal_name: zuus_lightning_hands
   name: Lightning Hands
-  type: 
+  type:
 5114:
   internal_name: slardar_sprint
   name: Guardian Sprint
-  type: 
+  type:
 7864:
   internal_name: slardar_scepter
   name: slardar_scepter
-  type: 
+  type:
 5115:
   internal_name: slardar_slithereen_crush
   name: Slithereen Crush
-  type: 
+  type:
 5116:
   internal_name: slardar_bash
   name: Bash of the Deep
-  type: 
+  type:
 5117:
   internal_name: slardar_amplify_damage
   name: Corrosive Haze
@@ -574,15 +574,15 @@
 5118:
   internal_name: tidehunter_gush
   name: Gush
-  type: 
+  type:
 5119:
   internal_name: tidehunter_kraken_shell
   name: Kraken Shell
-  type: 
+  type:
 5120:
   internal_name: tidehunter_anchor_smash
   name: Anchor Smash
-  type: 
+  type:
 5121:
   internal_name: tidehunter_ravage
   name: Ravage
@@ -590,23 +590,23 @@
 958:
   internal_name: tidehunter_arm_of_the_deep
   name: Tendrils of the Deep
-  type: 
+  type:
 5407:
   internal_name: tidehunter_dead_in_the_water
   name: Dead in the Water
-  type: 
+  type:
 5122:
   internal_name: vengefulspirit_magic_missile
   name: Magic Missile
-  type: 
+  type:
 5123:
   internal_name: vengefulspirit_command_aura
   name: Vengeance Aura
-  type: 
+  type:
 5124:
   internal_name: vengefulspirit_wave_of_terror
   name: Wave of Terror
-  type: 
+  type:
 5125:
   internal_name: vengefulspirit_nether_swap
   name: Nether Swap
@@ -614,7 +614,7 @@
 595:
   internal_name: crystal_maiden_let_it_go
   name: Let It Go
-  type: 
+  type:
 5126:
   internal_name: crystal_maiden_crystal_nova
   name: Crystal Nova
@@ -626,7 +626,7 @@
 5128:
   internal_name: crystal_maiden_brilliance_aura
   name: Arcane Aura
-  type: 
+  type:
 5129:
   internal_name: crystal_maiden_freezing_field
   name: Freezing Field
@@ -638,23 +638,23 @@
 953:
   internal_name: crystal_maiden_crystal_clone
   name: Crystal Clone
-  type: 
+  type:
 652:
   internal_name: windrunner_gale_force
   name: Gale Force
-  type: 
+  type:
 5130:
   internal_name: windrunner_shackleshot
   name: Shackleshot
-  type: 
+  type:
 5131:
   internal_name: windrunner_powershot
   name: Powershot
-  type: 
+  type:
 5132:
   internal_name: windrunner_windrun
   name: Windrun
-  type: 
+  type:
 5133:
   internal_name: windrunner_focusfire
   name: Focus Fire
@@ -662,31 +662,31 @@
 587:
   internal_name: windrunner_focusfire_cancel
   name: Focus Fire Cancel
-  type: 
+  type:
 5134:
   internal_name: lich_frost_nova
   name: Frost Blast
-  type: 
+  type:
 7311:
   internal_name: lich_dark_sorcery
   name: Unholy Pact
-  type: 
+  type:
 7325:
   internal_name: lich_sinister_gaze
   name: Sinister Gaze
-  type: 
+  type:
 7312:
   internal_name: lich_frost_aura
   name: Frost Aura
-  type: 
+  type:
 5135:
   internal_name: lich_frost_armor
   name: Ice Armor
-  type: 
+  type:
 5136:
   internal_name: lich_frost_shield
   name: Frost Shield
-  type: 
+  type:
 5137:
   internal_name: lich_chain_frost
   name: Chain Frost
@@ -694,19 +694,19 @@
 8028:
   internal_name: lich_ice_spire
   name: Ice Spire
-  type: 
+  type:
 5138:
   internal_name: witch_doctor_paralyzing_cask
   name: Paralyzing Cask
-  type: 
+  type:
 5139:
   internal_name: witch_doctor_voodoo_restoration
   name: Voodoo Restoration
-  type: 
+  type:
 5140:
   internal_name: witch_doctor_maledict
   name: Maledict
-  type: 
+  type:
 5141:
   internal_name: witch_doctor_death_ward
   name: Death Ward
@@ -714,19 +714,19 @@
 632:
   internal_name: witch_doctor_voodoo_switcheroo
   name: Voodoo Switcheroo
-  type: 
+  type:
 550:
   internal_name: riki_poison_dart
   name: Sleeping Dart
-  type: 
+  type:
 5142:
   internal_name: riki_smoke_screen
   name: Smoke Screen
-  type: 
+  type:
 5143:
   internal_name: riki_blink_strike
   name: Blink Strike
-  type: 
+  type:
 5144:
   internal_name: riki_backstab
   name: Cloak and Dagger
@@ -738,19 +738,19 @@
 5145:
   internal_name: riki_tricks_of_the_trade
   name: Tricks of the Trade
-  type: 
+  type:
 5146:
   internal_name: enigma_malefice
   name: Malefice
-  type: 
+  type:
 5147:
   internal_name: enigma_demonic_conversion
   name: Demonic Summoning
-  type: 
+  type:
 5148:
   internal_name: enigma_midnight_pulse
   name: Midnight Pulse
-  type: 
+  type:
 5149:
   internal_name: enigma_black_hole
   name: Black Hole
@@ -758,7 +758,7 @@
 650:
   internal_name: tinker_defense_matrix
   name: Defense Matrix
-  type: 
+  type:
 4646:
   internal_name: tinker_keen_teleport
   name: Keen Conveyance
@@ -766,19 +766,19 @@
 5150:
   internal_name: tinker_laser
   name: Laser
-  type: 
+  type:
 535:
   internal_name: tinker_shrink_ray
   name: Shrink Ray
-  type: 
+  type:
 5151:
   internal_name: tinker_heat_seeking_missile
   name: Heat-Seeking Missile
-  type: 
+  type:
 5152:
   internal_name: tinker_march_of_the_machines
   name: March of the Machines
-  type: 
+  type:
 5153:
   internal_name: tinker_rearm
   name: Rearm
@@ -786,23 +786,23 @@
 909:
   internal_name: tinker_warp_grenade
   name: Warp Flare
-  type: 
+  type:
 694:
   internal_name: sniper_concussive_grenade
   name: Concussive Grenade
-  type: 
+  type:
 5154:
   internal_name: sniper_shrapnel
   name: Shrapnel
-  type: 
+  type:
 5155:
   internal_name: sniper_headshot
   name: Headshot
-  type: 
+  type:
 5156:
   internal_name: sniper_take_aim
   name: Take Aim
-  type: 
+  type:
 5157:
   internal_name: sniper_assassinate
   name: Assassinate
@@ -810,23 +810,23 @@
 661:
   internal_name: necrolyte_death_seeker
   name: Death Seeker
-  type: 
+  type:
 5158:
   internal_name: necrolyte_death_pulse
   name: Death Pulse
-  type: 
+  type:
 5159:
   internal_name: necrolyte_heartstopper_aura
   name: Heartstopper Aura
-  type: 
+  type:
 5160:
   internal_name: necrolyte_sadist
   name: Ghost Shroud
-  type: 
+  type:
 6316:
   internal_name: necrolyte_sadist_stop
   name: necrolyte_sadist_stop
-  type: 
+  type:
 5161:
   internal_name: necrolyte_reapers_scythe
   name: Reaper's Scythe
@@ -834,15 +834,15 @@
 5162:
   internal_name: warlock_fatal_bonds
   name: Fatal Bonds
-  type: 
+  type:
 5163:
   internal_name: warlock_shadow_word
   name: Shadow Word
-  type: 
+  type:
 5164:
   internal_name: warlock_upheaval
   name: Upheaval
-  type: 
+  type:
 5165:
   internal_name: warlock_rain_of_chaos
   name: Chaotic Offering
@@ -862,51 +862,51 @@
 602:
   internal_name: beastmaster_mark_of_the_beast
   name: beastmaster_mark_of_the_beast
-  type: 
+  type:
 5168:
   internal_name: beastmaster_wild_axes
   name: Wild Axes
-  type: 
+  type:
 5169:
   internal_name: beastmaster_call_of_the_wild
   name: beastmaster_call_of_the_wild
-  type: 
+  type:
 7230:
   internal_name: beastmaster_call_of_the_wild_boar
   name: Call of the Wild Boar
-  type: 
+  type:
 700:
   internal_name: beastmaster_hawk_dive
   name: Dive Bomb
-  type: 
+  type:
 1476:
   internal_name: beastmaster_hawk_perch
   name: beastmaster_hawk_perch
-  type: 
+  type:
 7231:
   internal_name: beastmaster_call_of_the_wild_hawk
   name: Call of the Wild Hawk
-  type: 
+  type:
 1006:
   internal_name: beastmaster_call_of_the_wild_hawk_attack
   name: Hawk Attack
-  type: 
+  type:
 5170:
   internal_name: beastmaster_hawk_invisibility
   name: Invisibility
-  type: 
+  type:
 5171:
   internal_name: beastmaster_boar_poison
   name: Poison
-  type: 
+  type:
 5352:
   internal_name: beastmaster_greater_boar_poison
   name: Poison
-  type: 
+  type:
 5172:
   internal_name: beastmaster_inner_beast
   name: Inner Beast
-  type: 
+  type:
 5177:
   internal_name: beastmaster_primal_roar
   name: Primal Roar
@@ -914,19 +914,19 @@
 1005:
   internal_name: beastmaster_drums_of_slom
   name: Drums of Slom
-  type: 
+  type:
 5173:
   internal_name: queenofpain_shadow_strike
   name: Shadow Strike
-  type: 
+  type:
 5174:
   internal_name: queenofpain_blink
   name: Blink
-  type: 
+  type:
 5175:
   internal_name: queenofpain_scream_of_pain
   name: Scream Of Pain
-  type: 
+  type:
 5176:
   internal_name: queenofpain_sonic_wave
   name: Sonic Wave
@@ -934,11 +934,11 @@
 592:
   internal_name: venomancer_area_poison
   name: Venomancer Scepter
-  type: 
+  type:
 5178:
   internal_name: venomancer_venomous_gale
   name: Venomous Gale
-  type: 
+  type:
 5179:
   internal_name: venomancer_poison_sting
   name: Poison Sting
@@ -946,7 +946,7 @@
 5180:
   internal_name: venomancer_plague_ward
   name: Plague Ward
-  type: 
+  type:
 1105:
   internal_name: venomancer_noxious_plague
   name: Noxious Plague
@@ -958,27 +958,27 @@
 986:
   internal_name: venomancer_latent_poison
   name: Latent Toxicity
-  type: 
+  type:
 5182:
   internal_name: faceless_void_time_walk
   name: Time Walk
-  type: 
+  type:
 8030:
   internal_name: faceless_void_time_walk_reverse
   name: Reverse Time Walk
-  type: 
+  type:
 5183:
   internal_name: faceless_void_backtrack
   name: faceless_void_backtrack
-  type: 
+  type:
 5184:
   internal_name: faceless_void_time_lock
   name: Time Lock
-  type: 
+  type:
 5691:
   internal_name: faceless_void_time_dilation
   name: Time Dilation
-  type: 
+  type:
 5185:
   internal_name: faceless_void_chronosphere
   name: Chronosphere
@@ -986,15 +986,15 @@
 5186:
   internal_name: pugna_nether_blast
   name: Nether Blast
-  type: 
+  type:
 5187:
   internal_name: pugna_decrepify
   name: Decrepify
-  type: 
+  type:
 5188:
   internal_name: pugna_nether_ward
   name: Nether Ward
-  type: 
+  type:
 5189:
   internal_name: pugna_life_drain
   name: Life Drain
@@ -1002,19 +1002,19 @@
 662:
   internal_name: phantom_assassin_fan_of_knives
   name: Fan of Knives
-  type: 
+  type:
 5190:
   internal_name: phantom_assassin_stifling_dagger
   name: Stifling Dagger
-  type: 
+  type:
 5191:
   internal_name: phantom_assassin_phantom_strike
   name: Phantom Strike
-  type: 
+  type:
 5192:
   internal_name: phantom_assassin_blur
   name: Blur
-  type: 
+  type:
 5193:
   internal_name: phantom_assassin_coup_de_grace
   name: Coup de Grace
@@ -1022,15 +1022,15 @@
 5194:
   internal_name: templar_assassin_refraction
   name: Refraction
-  type: 
+  type:
 5195:
   internal_name: templar_assassin_meld
   name: Meld
-  type: 
+  type:
 5196:
   internal_name: templar_assassin_psi_blades
   name: Psi Blades
-  type: 
+  type:
 5197:
   internal_name: templar_assassin_psionic_trap
   name: Psionic Trap
@@ -1038,27 +1038,27 @@
 5198:
   internal_name: templar_assassin_trap
   name: Trap
-  type: 
+  type:
 7853:
   internal_name: templar_assassin_trap_teleport
   name: Psionic Projection
-  type: 
+  type:
 5199:
   internal_name: templar_assassin_self_trap
   name: Trap
-  type: 
+  type:
 5218:
   internal_name: viper_poison_attack
   name: Poison Attack
-  type: 
+  type:
 5219:
   internal_name: viper_nethertoxin
   name: Nethertoxin
-  type: 
+  type:
 5220:
   internal_name: viper_corrosive_skin
   name: Corrosive Skin
-  type: 
+  type:
 5221:
   internal_name: viper_viper_strike
   name: Viper Strike
@@ -1066,23 +1066,23 @@
 983:
   internal_name: viper_nose_dive
   name: Nosedive
-  type: 
+  type:
 5222:
   internal_name: luna_lucent_beam
   name: Lucent Beam
-  type: 
+  type:
 5223:
   internal_name: luna_moon_glaive
   name: Moon Glaives
-  type: 
+  type:
 5224:
   internal_name: luna_lunar_blessing
   name: Lunar Blessing
-  type: 
+  type:
 337:
   internal_name: luna_lunar_grace
   name: Lunar Blessing
-  type: 
+  type:
 5225:
   internal_name: luna_eclipse
   name: Eclipse
@@ -1094,15 +1094,15 @@
 5226:
   internal_name: dragon_knight_breathe_fire
   name: Breathe Fire
-  type: 
+  type:
 5227:
   internal_name: dragon_knight_dragon_tail
   name: Dragon Tail
-  type: 
+  type:
 5228:
   internal_name: dragon_knight_dragon_blood
   name: Dragon Blood
-  type: 
+  type:
 5229:
   internal_name: dragon_knight_elder_dragon_form
   name: Elder Dragon Form
@@ -1110,23 +1110,23 @@
 5232:
   internal_name: dragon_knight_frost_breath
   name: dragon_knight_frost_breath
-  type: 
+  type:
 579:
   internal_name: dazzle_rain_of_vermin
   name: dazzle_rain_of_vermin
-  type: 
+  type:
 5233:
   internal_name: dazzle_poison_touch
   name: Poison Touch
-  type: 
+  type:
 5234:
   internal_name: dazzle_shallow_grave
   name: Shallow Grave
-  type: 
+  type:
 5235:
   internal_name: dazzle_shadow_wave
   name: Shadow Wave
-  type: 
+  type:
 5236:
   internal_name: dazzle_weave
   name: Weave
@@ -1142,23 +1142,23 @@
 630:
   internal_name: rattletrap_jetpack
   name: Jetpack
-  type: 
+  type:
 321:
   internal_name: rattletrap_overclocking
   name: Overclocking
-  type: 
+  type:
 5237:
   internal_name: rattletrap_battery_assault
   name: Battery Assault
-  type: 
+  type:
 5238:
   internal_name: rattletrap_power_cogs
   name: Power Cogs
-  type: 
+  type:
 5239:
   internal_name: rattletrap_rocket_flare
   name: Rocket Flare
-  type: 
+  type:
 5240:
   internal_name: rattletrap_hookshot
   name: Hookshot
@@ -1166,19 +1166,19 @@
 5241:
   internal_name: leshrac_split_earth
   name: Split Earth
-  type: 
+  type:
 5242:
   internal_name: leshrac_diabolic_edict
   name: Diabolic Edict
-  type: 
+  type:
 5243:
   internal_name: leshrac_lightning_storm
   name: Lightning Storm
-  type: 
+  type:
 539:
   internal_name: leshrac_greater_lightning_storm
   name: Nihilism
-  type: 
+  type:
 5244:
   internal_name: leshrac_pulse_nova
   name: Pulse Nova
@@ -1186,19 +1186,19 @@
 5245:
   internal_name: furion_sprout
   name: Sprout
-  type: 
+  type:
 625:
   internal_name: furion_greater_sprout
   name: Greater Sprout
-  type: 
+  type:
 5246:
   internal_name: furion_teleportation
   name: Teleportation
-  type: 
+  type:
 5247:
   internal_name: furion_force_of_nature
   name: Nature's Call
-  type: 
+  type:
 5248:
   internal_name: furion_wrath_of_nature
   name: Wrath of Nature
@@ -1206,31 +1206,31 @@
 997:
   internal_name: furion_curse_of_the_forest
   name: Curse of the Oldgrowth
-  type: 
+  type:
 1103:
   internal_name: furion_hedgerow
   name: Hedgerow
-  type: 
+  type:
 1114:
   internal_name: furion_arboreal_might
   name: Arboreal Might
-  type: 
+  type:
 5249:
   internal_name: life_stealer_rage
   name: Rage
-  type: 
+  type:
 5250:
   internal_name: life_stealer_feast
   name: Feast
-  type: 
+  type:
 5251:
   internal_name: life_stealer_open_wounds
   name: Open Wounds
-  type: 
+  type:
 631:
   internal_name: life_stealer_ghoul_frenzy
   name: Ghoul Frenzy
-  type: 
+  type:
 5252:
   internal_name: life_stealer_infest
   name: Infest
@@ -1238,11 +1238,11 @@
 5671:
   internal_name: life_stealer_assimilate
   name: Assimilate
-  type: 
+  type:
 5675:
   internal_name: life_stealer_assimilate_eject
   name: Eject
-  type: 
+  type:
 5253:
   internal_name: life_stealer_consume
   name: Consume
@@ -1250,39 +1250,39 @@
 5655:
   internal_name: life_stealer_control
   name: Control
-  type: 
+  type:
 5657:
   internal_name: life_stealer_empty_1
   name: ''
-  type: 
+  type:
 5658:
   internal_name: life_stealer_empty_2
   name: ''
-  type: 
+  type:
 5659:
   internal_name: life_stealer_empty_3
   name: ''
-  type: 
+  type:
 5660:
   internal_name: life_stealer_empty_4
   name: ''
-  type: 
+  type:
 687:
   internal_name: dark_seer_normal_punch
   name: Normal Punch
-  type: 
+  type:
 5255:
   internal_name: dark_seer_vacuum
   name: Vacuum
-  type: 
+  type:
 5256:
   internal_name: dark_seer_ion_shell
   name: Ion Shell
-  type: 
+  type:
 5257:
   internal_name: dark_seer_surge
   name: Surge
-  type: 
+  type:
 5258:
   internal_name: dark_seer_wall_of_replica
   name: Wall of Replica
@@ -1290,15 +1290,15 @@
 1120:
   internal_name: clinkz_strafe
   name: Strafe
-  type: 
+  type:
 5259:
   internal_name: clinkz_burning_barrage
   name: Burning Barrage
-  type: 
+  type:
 5260:
   internal_name: clinkz_searing_arrows
   name: Searing Arrows
-  type: 
+  type:
 5261:
   internal_name: clinkz_wind_walk
   name: Skeleton Walk
@@ -1310,27 +1310,27 @@
 7855:
   internal_name: clinkz_scepter
   name: clinkz_scepter
-  type: 
+  type:
 5262:
   internal_name: clinkz_death_pact
   name: Death Pact
-  type: 
+  type:
 1119:
   internal_name: clinkz_tar_bomb
   name: Tar Bomb
-  type: 
+  type:
 656:
   internal_name: omniknight_hammer_of_purity
   name: Hammer of Purity
-  type: 
+  type:
 5263:
   internal_name: omniknight_purification
   name: Purification
-  type: 
+  type:
 5264:
   internal_name: omniknight_repel
   name: Heavenly Grace
-  type: 
+  type:
 7323:
   internal_name: omniknight_pacify
   name: Divine Sanction
@@ -1338,11 +1338,11 @@
 5265:
   internal_name: omniknight_degen_aura
   name: Degen Aura
-  type: 
+  type:
 895:
   internal_name: omniknight_martyr
   name: Repel
-  type: 
+  type:
 5266:
   internal_name: omniknight_guardian_angel
   name: Guardian Angel
@@ -1350,7 +1350,7 @@
 552:
   internal_name: omniknight_angelic_flight
   name: Angelic Flight
-  type: 
+  type:
 5267:
   internal_name: enchantress_untouchable
   name: Untouchable
@@ -1358,39 +1358,39 @@
 320:
   internal_name: enchantress_bunny_hop
   name: Sproink
-  type: 
+  type:
 981:
   internal_name: enchantress_little_friends
   name: Little Friends
-  type: 
+  type:
 5268:
   internal_name: enchantress_enchant
   name: Enchant
-  type: 
+  type:
 5269:
   internal_name: enchantress_natures_attendants
   name: Nature's Attendants
-  type: 
+  type:
 5270:
   internal_name: enchantress_impetus
   name: Impetus
-  type: 
+  type:
 5271:
   internal_name: huskar_inner_vitality
   name: Inner Vitality
-  type: 
+  type:
 7300:
   internal_name: huskar_inner_fire
   name: Inner Fire
-  type: 
+  type:
 5272:
   internal_name: huskar_burning_spear
   name: Burning Spear
-  type: 
+  type:
 5273:
   internal_name: huskar_berserkers_blood
   name: Berserker's Blood
-  type: 
+  type:
 5274:
   internal_name: huskar_life_break
   name: Life Break
@@ -1398,15 +1398,15 @@
 5275:
   internal_name: night_stalker_void
   name: Void
-  type: 
+  type:
 5276:
   internal_name: night_stalker_crippling_fear
   name: Crippling Fear
-  type: 
+  type:
 5277:
   internal_name: night_stalker_hunter_in_the_night
   name: Hunter in the Night
-  type: 
+  type:
 5278:
   internal_name: night_stalker_darkness
   name: Dark Ascension
@@ -1418,47 +1418,47 @@
 5284:
   internal_name: broodmother_poison_sting
   name: Poison Sting
-  type: 
+  type:
 5283:
   internal_name: broodmother_spawn_spiderite
   name: Spawn Spiderite
-  type: 
+  type:
 5280:
   internal_name: broodmother_spin_web
   name: Spin Web
-  type: 
+  type:
 639:
   internal_name: broodmother_silken_bola
   name: Silken Bola
-  type: 
+  type:
 5281:
   internal_name: broodmother_incapacitating_bite
   name: Incapacitating Bite
-  type: 
+  type:
 5282:
   internal_name: broodmother_insatiable_hunger
   name: Insatiable Hunger
-  type: 
+  type:
 873:
   internal_name: broodmother_sticky_snare
   name: Spinner's Snare
-  type: 
+  type:
 5285:
   internal_name: bounty_hunter_shuriken_toss
   name: Shuriken Toss
-  type: 
+  type:
 5286:
   internal_name: bounty_hunter_jinada
   name: Jinada
-  type: 
+  type:
 5287:
   internal_name: bounty_hunter_wind_walk
   name: Shadow Walk
-  type: 
+  type:
 1136:
   internal_name: bounty_hunter_wind_walk_ally
   name: Friendly Shadow
-  type: 
+  type:
 5288:
   internal_name: bounty_hunter_track
   name: Track
@@ -1470,15 +1470,15 @@
 5289:
   internal_name: weaver_the_swarm
   name: The Swarm
-  type: 
+  type:
 5290:
   internal_name: weaver_shukuchi
   name: Shukuchi
-  type: 
+  type:
 5291:
   internal_name: weaver_geminate_attack
   name: Geminate Attack
-  type: 
+  type:
 5292:
   internal_name: weaver_time_lapse
   name: Time Lapse
@@ -1486,19 +1486,19 @@
 5297:
   internal_name: jakiro_dual_breath
   name: Dual Breath
-  type: 
+  type:
 5298:
   internal_name: jakiro_ice_path
   name: Ice Path
-  type: 
+  type:
 5299:
   internal_name: jakiro_liquid_fire
   name: Liquid Fire
-  type: 
+  type:
 553:
   internal_name: jakiro_liquid_ice
   name: Liquid Frost
-  type: 
+  type:
 5300:
   internal_name: jakiro_macropyre
   name: Macropyre
@@ -1506,19 +1506,19 @@
 5320:
   internal_name: batrider_sticky_napalm
   name: Sticky Napalm
-  type: 
+  type:
 976:
   internal_name: batrider_sticky_napalm_application_damage
   name: 'APPLICATION DAMAGE:'
-  type: 
+  type:
 5321:
   internal_name: batrider_flamebreak
   name: Flamebreak
-  type: 
+  type:
 5322:
   internal_name: batrider_firefly
   name: Firefly
-  type: 
+  type:
 5323:
   internal_name: batrider_flaming_lasso
   name: Flaming Lasso
@@ -1526,27 +1526,27 @@
 5328:
   internal_name: chen_penitence
   name: Penitence
-  type: 
+  type:
 5329:
   internal_name: chen_test_of_faith
   name: Test of Faith
-  type: 
+  type:
 7306:
   internal_name: chen_divine_favor
   name: Divine Favor
-  type: 
+  type:
 5522:
   internal_name: chen_test_of_faith_teleport
   name: chen_test_of_faith_teleport
-  type: 
+  type:
 5330:
   internal_name: chen_holy_persuasion
   name: Holy Persuasion
-  type: 
+  type:
 951:
   internal_name: chen_martyrdom
   name: Martyrdom
-  type: 
+  type:
 5331:
   internal_name: chen_hand_of_god
   name: Hand of God
@@ -1554,19 +1554,19 @@
 5334:
   internal_name: spectre_spectral_dagger
   name: Spectral Dagger
-  type: 
+  type:
 5335:
   internal_name: spectre_desolate
   name: Desolate
-  type: 
+  type:
 5336:
   internal_name: spectre_dispersion
   name: Dispersion
-  type: 
+  type:
 5337:
   internal_name: spectre_haunt
   name: Haunt
-  type: 
+  type:
 7851:
   internal_name: spectre_haunt_single
   name: Shadow Step
@@ -1578,15 +1578,15 @@
 5339:
   internal_name: doom_bringer_devour
   name: Devour
-  type: 
+  type:
 5340:
   internal_name: doom_bringer_scorched_earth
   name: Scorched Earth
-  type: 
+  type:
 5341:
   internal_name: doom_bringer_infernal_blade
   name: Infernal Blade
-  type: 
+  type:
 5342:
   internal_name: doom_bringer_doom
   name: Doom
@@ -1594,27 +1594,27 @@
 5343:
   internal_name: doom_bringer_empty1
   name: Devoured Ability
-  type: 
+  type:
 5344:
   internal_name: doom_bringer_empty2
   name: Devoured Ability
-  type: 
+  type:
 919:
   internal_name: clinkz_empty1
   name: Creep Ability
-  type: 
+  type:
 5345:
   internal_name: ancient_apparition_cold_feet
   name: Cold Feet
-  type: 
+  type:
 5346:
   internal_name: ancient_apparition_ice_vortex
   name: Ice Vortex
-  type: 
+  type:
 5347:
   internal_name: ancient_apparition_chilling_touch
   name: Chilling Touch
-  type: 
+  type:
 5348:
   internal_name: ancient_apparition_ice_blast
   name: Ice Blast
@@ -1626,23 +1626,23 @@
 7422:
   internal_name: ancient_apparition_ice_age
   name: Ice Age
-  type: 
+  type:
 5353:
   internal_name: spirit_breaker_charge_of_darkness
   name: Charge of Darkness
-  type: 
+  type:
 7301:
   internal_name: spirit_breaker_bulldoze
   name: Bulldoze
-  type: 
+  type:
 5354:
   internal_name: spirit_breaker_empowering_haste
   name: Empowering Haste
-  type: 
+  type:
 5355:
   internal_name: spirit_breaker_greater_bash
   name: Greater Bash
-  type: 
+  type:
 5356:
   internal_name: spirit_breaker_nether_strike
   name: Nether Strike
@@ -1650,19 +1650,19 @@
 987:
   internal_name: spirit_breaker_planar_pocket
   name: Planar Pocket
-  type: 
+  type:
 5357:
   internal_name: ursa_earthshock
   name: Earthshock
-  type: 
+  type:
 5358:
   internal_name: ursa_overpower
   name: Overpower
-  type: 
+  type:
 5359:
   internal_name: ursa_fury_swipes
   name: Fury Swipes
-  type: 
+  type:
 5360:
   internal_name: ursa_enrage
   name: Enrage
@@ -1670,15 +1670,15 @@
 5361:
   internal_name: gyrocopter_rocket_barrage
   name: Rocket Barrage
-  type: 
+  type:
 5362:
   internal_name: gyrocopter_homing_missile
   name: Homing Missile
-  type: 
+  type:
 5363:
   internal_name: gyrocopter_flak_cannon
   name: Flak Cannon
-  type: 
+  type:
 5364:
   internal_name: gyrocopter_call_down
   name: Call Down
@@ -1686,23 +1686,23 @@
 642:
   internal_name: alchemist_berserk_potion
   name: Berserk Potion
-  type: 
+  type:
 5365:
   internal_name: alchemist_acid_spray
   name: Acid Spray
-  type: 
+  type:
 5366:
   internal_name: alchemist_unstable_concoction
   name: Unstable Concoction
-  type: 
+  type:
 5367:
   internal_name: alchemist_unstable_concoction_throw
   name: Unstable Concoction Throw
-  type: 
+  type:
 5368:
   internal_name: alchemist_goblins_greed
   name: Greevil's Greed
-  type: 
+  type:
 5369:
   internal_name: alchemist_chemical_rage
   name: Chemical Rage
@@ -1710,27 +1710,27 @@
 1116:
   internal_name: alchemist_corrosive_weaponry
   name: Corrosive Weaponry
-  type: 
+  type:
 5370:
   internal_name: invoker_quas
   name: Quas
-  type: 
+  type:
 5371:
   internal_name: invoker_wex
   name: Wex
-  type: 
+  type:
 5372:
   internal_name: invoker_exort
   name: Exort
-  type: 
+  type:
 5373:
   internal_name: invoker_empty1
   name: Invoked Spell
-  type: 
+  type:
 5374:
   internal_name: invoker_empty2
   name: Invoked Spell
-  type: 
+  type:
 5375:
   internal_name: invoker_invoke
   name: Invoke
@@ -1742,87 +1742,87 @@
 5376:
   internal_name: invoker_cold_snap
   name: Cold Snap
-  type: 
+  type:
 5381:
   internal_name: invoker_ghost_walk
   name: Ghost Walk
-  type: 
+  type:
 5382:
   internal_name: invoker_tornado
   name: Tornado
-  type: 
+  type:
 5383:
   internal_name: invoker_emp
   name: E.M.P.
-  type: 
+  type:
 5384:
   internal_name: invoker_alacrity
   name: Alacrity
-  type: 
+  type:
 5385:
   internal_name: invoker_chaos_meteor
   name: Chaos Meteor
-  type: 
+  type:
 5386:
   internal_name: invoker_sun_strike
   name: Sun Strike
-  type: 
+  type:
 5387:
   internal_name: invoker_forge_spirit
   name: Forge Spirit
-  type: 
+  type:
 5388:
   internal_name: forged_spirit_melting_strike
   name: Melting Strike
-  type: 
+  type:
 5389:
   internal_name: invoker_ice_wall
   name: Ice Wall
-  type: 
+  type:
 5390:
   internal_name: invoker_deafening_blast
   name: Deafening Blast
-  type: 
+  type:
 7836:
   internal_name: invoker_cold_snap_ad
   name: Cold Snap (AD)
-  type: 
+  type:
 7837:
   internal_name: invoker_ghost_walk_ad
   name: Ghost Walk (AD)
-  type: 
+  type:
 7838:
   internal_name: invoker_tornado_ad
   name: Tornado (AD)
-  type: 
+  type:
 7839:
   internal_name: invoker_emp_ad
   name: E.M.P. (AD)
-  type: 
+  type:
 7840:
   internal_name: invoker_alacrity_ad
   name: Alacrity (AD)
-  type: 
+  type:
 7841:
   internal_name: invoker_sun_strike_ad
   name: Sun Strike (AD)
-  type: 
+  type:
 7842:
   internal_name: invoker_forge_spirit_ad
   name: Forge Spirit (AD)
-  type: 
+  type:
 7843:
   internal_name: invoker_chaos_meteor_ad
   name: Chaos Meteor (AD)
-  type: 
+  type:
 7844:
   internal_name: invoker_ice_wall_ad
   name: Ice Wall (AD)
-  type: 
+  type:
 7845:
   internal_name: invoker_deafening_blast_ad
   name: Deafening Blast
-  type: 
+  type:
 5377:
   internal_name: silencer_curse_of_the_silent
   name: Arcane Curse
@@ -1830,11 +1830,11 @@
 5378:
   internal_name: silencer_glaives_of_wisdom
   name: Glaives of Wisdom
-  type: 
+  type:
 5379:
   internal_name: silencer_last_word
   name: Last Word
-  type: 
+  type:
 5380:
   internal_name: silencer_global_silence
   name: Global Silence
@@ -1842,19 +1842,19 @@
 5391:
   internal_name: obsidian_destroyer_arcane_orb
   name: Arcane Orb
-  type: 
+  type:
 5392:
   internal_name: obsidian_destroyer_astral_imprisonment
   name: Astral Imprisonment
-  type: 
+  type:
 5393:
   internal_name: obsidian_destroyer_essence_aura
   name: Essence Aura
-  type: 
+  type:
 5684:
   internal_name: obsidian_destroyer_equilibrium
   name: Essence Flux
-  type: 
+  type:
 5394:
   internal_name: obsidian_destroyer_sanity_eclipse
   name: Sanity's Eclipse
@@ -1862,19 +1862,19 @@
 5395:
   internal_name: lycan_summon_wolves
   name: Summon Wolves
-  type: 
+  type:
 333:
   internal_name: lycan_wolf_bite
   name: Wolf Bite
-  type: 
+  type:
 5396:
   internal_name: lycan_howl
   name: Howl
-  type: 
+  type:
 5397:
   internal_name: lycan_feral_impulse
   name: Feral Impulse
-  type: 
+  type:
 5398:
   internal_name: lycan_shapeshift
   name: Shapeshift
@@ -1882,31 +1882,31 @@
 5399:
   internal_name: lycan_summon_wolves_critical_strike
   name: Cripple
-  type: 
+  type:
 5500:
   internal_name: lycan_summon_wolves_invisibility
   name: Invisibility
-  type: 
+  type:
 5412:
   internal_name: lone_druid_spirit_bear
   name: Summon Spirit Bear
-  type: 
+  type:
 5413:
   internal_name: lone_druid_rabid
   name: Rabid
-  type: 
+  type:
 7309:
   internal_name: lone_druid_spirit_link
   name: Spirit Link
-  type: 
+  type:
 5414:
   internal_name: lone_druid_savage_roar
   name: Savage Roar
-  type: 
+  type:
 5687:
   internal_name: lone_druid_savage_roar_bear
   name: Savage Roar
-  type: 
+  type:
 5415:
   internal_name: lone_druid_true_form
   name: True Form
@@ -1918,11 +1918,11 @@
 5417:
   internal_name: lone_druid_true_form_battle_cry
   name: Battle Cry
-  type: 
+  type:
 5418:
   internal_name: lone_druid_spirit_bear_return
   name: Return
-  type: 
+  type:
 5419:
   internal_name: lone_druid_spirit_bear_entangle
   name: Entangling Claws
@@ -1934,11 +1934,11 @@
 7308:
   internal_name: lone_druid_spirit_bear_defender
   name: Defender
-  type: 
+  type:
 1144:
   internal_name: lone_druid_spirit_bear_fetch
   name: Fetch
-  type: 
+  type:
 5420:
   internal_name: lone_druid_spirit_bear_demolish
   name: Demolish
@@ -1946,23 +1946,23 @@
 5400:
   internal_name: brewmaster_thunder_clap
   name: Thunder Clap
-  type: 
+  type:
 5401:
   internal_name: brewmaster_drunken_haze
   name: Drunken Haze
-  type: 
+  type:
 898:
   internal_name: gyrocopter_lock_on
   name: gyrocopter_lock_on
-  type: 
+  type:
 7310:
   internal_name: brewmaster_cinder_brew
   name: Cinder Brew
-  type: 
+  type:
 5402:
   internal_name: brewmaster_drunken_brawler
   name: Drunken Brawler
-  type: 
+  type:
 5403:
   internal_name: brewmaster_primal_split
   name: Primal Split
@@ -1970,7 +1970,7 @@
 537:
   internal_name: brewmaster_primal_split_cancel
   name: Primal Split Cancel
-  type: 
+  type:
 942:
   internal_name: brewmaster_primal_companion
   name: Primal Companion
@@ -1978,59 +1978,59 @@
 5404:
   internal_name: brewmaster_earth_hurl_boulder
   name: Hurl Boulder
-  type: 
+  type:
 693:
   internal_name: brewmaster_void_astral_pulse
   name: Astral Pulse
-  type: 
+  type:
 5405:
   internal_name: brewmaster_earth_spell_immunity
   name: Debuff Immunity
-  type: 
+  type:
 5406:
   internal_name: brewmaster_earth_pulverize
   name: Demolish
-  type: 
+  type:
 5408:
   internal_name: brewmaster_storm_dispel_magic
   name: Dispel Magic
-  type: 
+  type:
 5409:
   internal_name: brewmaster_storm_cyclone
   name: Cyclone
-  type: 
+  type:
 5410:
   internal_name: brewmaster_storm_wind_walk
   name: Wind Walk
-  type: 
+  type:
 5411:
   internal_name: brewmaster_fire_permanent_immolation
   name: Permanent Immolation
-  type: 
+  type:
 943:
   internal_name: brewmaster_fire_phase
   name: Permanent Phase
-  type: 
+  type:
 1117:
   internal_name: brewmaster_void_astral_pull
   name: Astral Pull
-  type: 
+  type:
 5421:
   internal_name: shadow_demon_disruption
   name: Disruption
-  type: 
+  type:
 5422:
   internal_name: shadow_demon_soul_catcher
   name: Soul Catcher
-  type: 
+  type:
 5423:
   internal_name: shadow_demon_shadow_poison
   name: Shadow Poison
-  type: 
+  type:
 5424:
   internal_name: shadow_demon_shadow_poison_release
   name: Shadow Poison Release
-  type: 
+  type:
 5425:
   internal_name: shadow_demon_demonic_purge
   name: Demonic Purge
@@ -2042,19 +2042,19 @@
 1001:
   internal_name: shadow_demon_disseminate
   name: Disseminate
-  type: 
+  type:
 5426:
   internal_name: chaos_knight_chaos_bolt
   name: Chaos Bolt
-  type: 
+  type:
 5427:
   internal_name: chaos_knight_reality_rift
   name: Reality Rift
-  type: 
+  type:
 5428:
   internal_name: chaos_knight_chaos_strike
   name: Chaos Strike
-  type: 
+  type:
 5429:
   internal_name: chaos_knight_phantasm
   name: Phantasm
@@ -2062,23 +2062,23 @@
 547:
   internal_name: meepo_petrify
   name: Dig
-  type: 
+  type:
 5430:
   internal_name: meepo_earthbind
   name: Earthbind
-  type: 
+  type:
 5431:
   internal_name: meepo_poof
   name: Poof
-  type: 
+  type:
 5432:
   internal_name: meepo_geostrike
   name: Geostrike
-  type: 
+  type:
 7318:
   internal_name: meepo_ransack
   name: Ransack
-  type: 
+  type:
 5433:
   internal_name: meepo_divided_we_stand
   name: Divided We Stand
@@ -2086,27 +2086,27 @@
 1109:
   internal_name: meepo_megameepo
   name: MegaMeepo
-  type: 
+  type:
 329:
   internal_name: meepo_megameepo_fling
   name: MegaMeepo Fling
-  type: 
+  type:
 5434:
   internal_name: treant_natures_guise
   name: Nature's Guise
-  type: 
+  type:
 338:
   internal_name: treant_natures_grasp
   name: Nature's Grasp
-  type: 
+  type:
 5435:
   internal_name: treant_leech_seed
   name: Leech Seed
-  type: 
+  type:
 5436:
   internal_name: treant_living_armor
   name: Living Armor
-  type: 
+  type:
 5437:
   internal_name: treant_overgrowth
   name: Overgrowth
@@ -2114,31 +2114,31 @@
 5649:
   internal_name: treant_eyes_in_the_forest
   name: Eyes In The Forest
-  type: 
+  type:
 1115:
   internal_name: ogre_magi_dumb_luck
   name: Dumb Luck
-  type: 
+  type:
 5438:
   internal_name: ogre_magi_fireblast
   name: Fireblast
-  type: 
+  type:
 648:
   internal_name: ogre_magi_smash
   name: Fire Shield
-  type: 
+  type:
 5466:
   internal_name: ogre_magi_unrefined_fireblast
   name: Unrefined Fireblast
-  type: 
+  type:
 5439:
   internal_name: ogre_magi_ignite
   name: Ignite
-  type: 
+  type:
 5440:
   internal_name: ogre_magi_bloodlust
   name: Bloodlust
-  type: 
+  type:
 5441:
   internal_name: ogre_magi_multicast
   name: Multicast
@@ -2146,23 +2146,23 @@
 5442:
   internal_name: undying_decay
   name: Decay
-  type: 
+  type:
 5443:
   internal_name: undying_soul_rip
   name: Soul Rip
-  type: 
+  type:
 5444:
   internal_name: undying_tombstone
   name: Tombstone
-  type: 
+  type:
 5445:
   internal_name: undying_tombstone_zombie_aura
   name: undying_tombstone_zombie_aura
-  type: 
+  type:
 5446:
   internal_name: undying_tombstone_zombie_deathstrike
   name: Deathlust
-  type: 
+  type:
 5447:
   internal_name: undying_flesh_golem
   name: Flesh Golem
@@ -2170,35 +2170,35 @@
 1108:
   internal_name: undying_tombstone_grab
   name: Grab Ally
-  type: 
+  type:
 8253:
   internal_name: undying_tombstone_unit_grab
   name: Grab Ally
-  type: 
+  type:
 5448:
   internal_name: rubick_telekinesis
   name: Telekinesis
-  type: 
+  type:
 5449:
   internal_name: rubick_telekinesis_land
   name: Telekinesis Land
-  type: 
+  type:
 647:
   internal_name: rubick_telekinesis_land_self
   name: Telekinesis Land
-  type: 
+  type:
 5450:
   internal_name: rubick_fade_bolt
   name: Fade Bolt
-  type: 
+  type:
 5451:
   internal_name: rubick_null_field
   name: Null Field
-  type: 
+  type:
 7320:
   internal_name: rubick_arcane_supremacy
   name: Arcane Supremacy
-  type: 
+  type:
 5452:
   internal_name: rubick_spell_steal
   name: Spell Steal
@@ -2206,35 +2206,35 @@
 5453:
   internal_name: rubick_empty1
   name: Stolen Spell
-  type: 
+  type:
 5454:
   internal_name: rubick_empty2
   name: Stolen Spell
-  type: 
+  type:
 5455:
   internal_name: rubick_hidden1
   name: rubick_hidden1
-  type: 
+  type:
 5456:
   internal_name: rubick_hidden2
   name: rubick_hidden2
-  type: 
+  type:
 5457:
   internal_name: rubick_hidden3
   name: rubick_hidden3
-  type: 
+  type:
 5458:
   internal_name: disruptor_thunder_strike
   name: Thunder Strike
-  type: 
+  type:
 5459:
   internal_name: disruptor_glimpse
   name: Glimpse
-  type: 
+  type:
 5460:
   internal_name: disruptor_kinetic_field
   name: Kinetic Field
-  type: 
+  type:
 5461:
   internal_name: disruptor_static_storm
   name: Static Storm
@@ -2242,19 +2242,19 @@
 5462:
   internal_name: nyx_assassin_impale
   name: Impale
-  type: 
+  type:
 5463:
   internal_name: nyx_assassin_mana_burn
   name: Mana Burn
-  type: 
+  type:
 1104:
   internal_name: nyx_assassin_jolt
   name: Mind Flare
-  type: 
+  type:
 5464:
   internal_name: nyx_assassin_spiked_carapace
   name: Spiked Carapace
-  type: 
+  type:
 5465:
   internal_name: nyx_assassin_vendetta
   name: Vendetta
@@ -2262,27 +2262,27 @@
 5666:
   internal_name: nyx_assassin_burrow
   name: Burrow
-  type: 
+  type:
 5673:
   internal_name: nyx_assassin_unburrow
   name: Unburrow
-  type: 
+  type:
 5467:
   internal_name: naga_siren_mirror_image
   name: Mirror Image
-  type: 
+  type:
 5468:
   internal_name: naga_siren_ensnare
   name: Ensnare
-  type: 
+  type:
 5469:
   internal_name: naga_siren_rip_tide
   name: Rip Tide
-  type: 
+  type:
 622:
   internal_name: naga_siren_crit
   name: Critical Strike
-  type: 
+  type:
 5470:
   internal_name: naga_siren_song_of_the_siren
   name: Song of the Siren
@@ -2294,35 +2294,35 @@
 1008:
   internal_name: naga_siren_reel_in
   name: Reel In
-  type: 
+  type:
 5471:
   internal_name: keeper_of_the_light_illuminate
   name: Illuminate
-  type: 
+  type:
 5472:
   internal_name: keeper_of_the_light_mana_leak
   name: Mana Leak
-  type: 
+  type:
 532:
   internal_name: keeper_of_the_light_radiant_bind
   name: Solar Bind
-  type: 
+  type:
 7316:
   internal_name: keeper_of_the_light_will_o_wisp
   name: Will-O-Wisp
-  type: 
+  type:
 5473:
   internal_name: keeper_of_the_light_chakra_magic
   name: Chakra Magic
-  type: 
+  type:
 5501:
   internal_name: keeper_of_the_light_empty1
   name: Empty
-  type: 
+  type:
 5502:
   internal_name: keeper_of_the_light_empty2
   name: Empty
-  type: 
+  type:
 5474:
   internal_name: keeper_of_the_light_spirit_form
   name: Spirit Form
@@ -2330,35 +2330,35 @@
 5475:
   internal_name: keeper_of_the_light_recall
   name: Recall
-  type: 
+  type:
 5476:
   internal_name: keeper_of_the_light_blinding_light
   name: Blinding Light
-  type: 
+  type:
 5477:
   internal_name: keeper_of_the_light_illuminate_end
   name: Release Illuminate
-  type: 
+  type:
 5479:
   internal_name: keeper_of_the_light_spirit_form_illuminate
   name: Illuminate
-  type: 
+  type:
 5503:
   internal_name: keeper_of_the_light_spirit_form_illuminate_end
   name: Release Illuminate
-  type: 
+  type:
 5480:
   internal_name: visage_grave_chill
   name: Grave Chill
-  type: 
+  type:
 5481:
   internal_name: visage_soul_assumption
   name: Soul Assumption
-  type: 
+  type:
 5482:
   internal_name: visage_gravekeepers_cloak
   name: Gravekeeper's Cloak
-  type: 
+  type:
 5483:
   internal_name: visage_summon_familiars
   name: Summon Familiars
@@ -2366,27 +2366,27 @@
 683:
   internal_name: visage_silent_as_the_grave
   name: Silent as the Grave
-  type: 
+  type:
 7116:
   internal_name: visage_stone_form_self_cast
   name: Stone Form
-  type: 
+  type:
 5484:
   internal_name: visage_summon_familiars_stone_form
   name: Stone Form
-  type: 
+  type:
 5485:
   internal_name: wisp_tether
   name: Tether
-  type: 
+  type:
 5486:
   internal_name: wisp_spirits
   name: Spirits
-  type: 
+  type:
 5487:
   internal_name: wisp_overcharge
   name: Overcharge
-  type: 
+  type:
 5488:
   internal_name: wisp_relocate
   name: Relocate
@@ -2394,35 +2394,35 @@
 5489:
   internal_name: wisp_tether_break
   name: Break Tether
-  type: 
+  type:
 5490:
   internal_name: wisp_spirits_in
   name: Spirits In
-  type: 
+  type:
 5493:
   internal_name: wisp_spirits_out
   name: Spirits Out
-  type: 
+  type:
 668:
   internal_name: slark_fish_bait
   name: Fish Bait
-  type: 
+  type:
 729:
   internal_name: slark_depth_shroud
   name: Depth Shroud
-  type: 
+  type:
 5494:
   internal_name: slark_dark_pact
   name: Dark Pact
-  type: 
+  type:
 5495:
   internal_name: slark_pounce
   name: Pounce
-  type: 
+  type:
 5496:
   internal_name: slark_essence_shift
   name: Essence Shift
-  type: 
+  type:
 5497:
   internal_name: slark_shadow_dance
   name: Shadow Dance
@@ -2430,19 +2430,19 @@
 701:
   internal_name: medusa_cold_blooded
   name: Cold Blooded
-  type: 
+  type:
 5504:
   internal_name: medusa_split_shot
   name: Split Shot
-  type: 
+  type:
 5505:
   internal_name: medusa_mystic_snake
   name: Mystic Snake
-  type: 
+  type:
 5506:
   internal_name: medusa_mana_shield
   name: Mana Shield
-  type: 
+  type:
 5507:
   internal_name: medusa_stone_gaze
   name: Stone Gaze
@@ -2450,27 +2450,27 @@
 728:
   internal_name: troll_warlord_rampage
   name: Rampage
-  type: 
+  type:
 5508:
   internal_name: troll_warlord_berserkers_rage
   name: Berserker's Rage
-  type: 
+  type:
 5509:
   internal_name: troll_warlord_whirling_axes_ranged
   name: Whirling Axes (Ranged)
-  type: 
+  type:
 5510:
   internal_name: troll_warlord_whirling_axes_melee
   name: Whirling Axes (Melee)
-  type: 
+  type:
 7865:
   internal_name: troll_warlord_scepter
   name: troll_warlord_scepter
-  type: 
+  type:
 5511:
   internal_name: troll_warlord_fervor
   name: Fervor
-  type: 
+  type:
 5512:
   internal_name: troll_warlord_battle_trance
   name: Battle Trance
@@ -2478,15 +2478,15 @@
 5514:
   internal_name: centaur_hoof_stomp
   name: Hoof Stomp
-  type: 
+  type:
 5515:
   internal_name: centaur_double_edge
   name: Double Edge
-  type: 
+  type:
 5516:
   internal_name: centaur_return
   name: Retaliate
-  type: 
+  type:
 5517:
   internal_name: centaur_stampede
   name: Stampede
@@ -2494,35 +2494,35 @@
 1135:
   internal_name: centaur_work_horse
   name: Work Horse
-  type: 
+  type:
 980:
   internal_name: centaur_mount
   name: Hitch A Ride
-  type: 
+  type:
 581:
   internal_name: centaur_overrun
   name: centaur_overrun
-  type: 
+  type:
 649:
   internal_name: magnataur_horn_toss
   name: Horn Toss
-  type: 
+  type:
 5518:
   internal_name: magnataur_shockwave
   name: Shockwave
-  type: 
+  type:
 538:
   internal_name: magnataur_greater_shockwave
   name: Rolling Shockwave
-  type: 
+  type:
 5519:
   internal_name: magnataur_empower
   name: Empower
-  type: 
+  type:
 5520:
   internal_name: magnataur_skewer
   name: Skewer
-  type: 
+  type:
 5521:
   internal_name: magnataur_reverse_polarity
   name: Reverse Polarity
@@ -2530,23 +2530,23 @@
 1126:
   internal_name: magnus_strength_of_joelrak
   name: Strength of Joelrak
-  type: 
+  type:
 651:
   internal_name: shredder_flamethrower
   name: Flamethrower
-  type: 
+  type:
 5524:
   internal_name: shredder_whirling_death
   name: Whirling Death
-  type: 
+  type:
 5525:
   internal_name: shredder_timber_chain
   name: Timber Chain
-  type: 
+  type:
 5526:
   internal_name: shredder_reactive_armor
   name: Reactive Armor
-  type: 
+  type:
 5527:
   internal_name: shredder_chakram
   name: Chakram
@@ -2554,7 +2554,7 @@
 5645:
   internal_name: shredder_chakram_2
   name: Second Chakram
-  type: 
+  type:
 5528:
   internal_name: shredder_return_chakram
   name: Return Chakram
@@ -2562,23 +2562,23 @@
 5646:
   internal_name: shredder_return_chakram_2
   name: Return Second Chakram
-  type: 
+  type:
 643:
   internal_name: bristleback_hairball
   name: Hairball
-  type: 
+  type:
 5548:
   internal_name: bristleback_viscous_nasal_goo
   name: Viscous Nasal Goo
-  type: 
+  type:
 5549:
   internal_name: bristleback_quill_spray
   name: Quill Spray
-  type: 
+  type:
 5550:
   internal_name: bristleback_bristleback
   name: Bristleback
-  type: 
+  type:
 5551:
   internal_name: bristleback_warpath
   name: Warpath
@@ -2586,27 +2586,27 @@
 5565:
   internal_name: tusk_ice_shards
   name: Ice Shards
-  type: 
+  type:
 5668:
   internal_name: tusk_ice_shards_stop
   name: Shatter Ice Shards
-  type: 
+  type:
 5566:
   internal_name: tusk_snowball
   name: Snowball
-  type: 
+  type:
 5641:
   internal_name: tusk_launch_snowball
   name: Launch Snowball
-  type: 
+  type:
 5567:
   internal_name: tusk_frozen_sigil
   name: Frozen Sigil
-  type: 
+  type:
 7322:
   internal_name: tusk_tag_team
   name: Tag Team
-  type: 
+  type:
 5568:
   internal_name: tusk_walrus_punch
   name: Walrus PUNCH!
@@ -2614,19 +2614,19 @@
 5672:
   internal_name: tusk_walrus_kick
   name: Walrus Kick
-  type: 
+  type:
 5581:
   internal_name: skywrath_mage_arcane_bolt
   name: Arcane Bolt
-  type: 
+  type:
 5582:
   internal_name: skywrath_mage_concussive_shot
   name: Concussive Shot
-  type: 
+  type:
 5583:
   internal_name: skywrath_mage_ancient_seal
   name: Ancient Seal
-  type: 
+  type:
 5584:
   internal_name: skywrath_mage_mystic_flare
   name: Mystic Flare
@@ -2634,19 +2634,19 @@
 833:
   internal_name: skywrath_mage_shield_of_the_scion
   name: Shield of the Scion
-  type: 
+  type:
 5585:
   internal_name: abaddon_death_coil
   name: Mist Coil
-  type: 
+  type:
 5586:
   internal_name: abaddon_aphotic_shield
   name: Aphotic Shield
-  type: 
+  type:
 5587:
   internal_name: abaddon_frostmourne
   name: Curse of Avernus
-  type: 
+  type:
 5588:
   internal_name: abaddon_borrowed_time
   name: Borrowed Time
@@ -2654,31 +2654,31 @@
 5589:
   internal_name: elder_titan_echo_stomp
   name: Echo Stomp
-  type: 
+  type:
 5590:
   internal_name: elder_titan_echo_stomp_spirit
   name: Echo Stomp
-  type: 
+  type:
 5591:
   internal_name: elder_titan_ancestral_spirit
   name: Astral Spirit
-  type: 
+  type:
 5592:
   internal_name: elder_titan_return_spirit
   name: Return Astral Spirit
-  type: 
+  type:
 6563:
   internal_name: elder_titan_move_spirit
   name: Move Astral Spirit
-  type: 
+  type:
 5593:
   internal_name: elder_titan_natural_order
   name: Natural Order
-  type: 
+  type:
 5750:
   internal_name: elder_titan_natural_order_spirit
   name: Natural Order
-  type: 
+  type:
 5594:
   internal_name: elder_titan_earth_splitter
   name: Earth Splitter
@@ -2686,15 +2686,15 @@
 5595:
   internal_name: legion_commander_overwhelming_odds
   name: Overwhelming Odds
-  type: 
+  type:
 5596:
   internal_name: legion_commander_press_the_attack
   name: Press The Attack
-  type: 
+  type:
 5597:
   internal_name: legion_commander_moment_of_courage
   name: Moment of Courage
-  type: 
+  type:
 5598:
   internal_name: legion_commander_duel
   name: Duel
@@ -2702,15 +2702,15 @@
 5603:
   internal_name: ember_spirit_searing_chains
   name: Searing Chains
-  type: 
+  type:
 5604:
   internal_name: ember_spirit_sleight_of_fist
   name: Sleight of Fist
-  type: 
+  type:
 5605:
   internal_name: ember_spirit_flame_guard
   name: Flame Guard
-  type: 
+  type:
 5606:
   internal_name: ember_spirit_fire_remnant
   name: Fire Remnant
@@ -2722,15 +2722,15 @@
 5608:
   internal_name: earth_spirit_boulder_smash
   name: Boulder Smash
-  type: 
+  type:
 5609:
   internal_name: earth_spirit_rolling_boulder
   name: Rolling Boulder
-  type: 
+  type:
 5610:
   internal_name: earth_spirit_geomagnetic_grip
   name: Geomagnetic Grip
-  type: 
+  type:
 5611:
   internal_name: earth_spirit_stone_caller
   name: Stone Remnant
@@ -2738,7 +2738,7 @@
 5648:
   internal_name: earth_spirit_petrify
   name: Enchant Remnant
-  type: 
+  type:
 5612:
   internal_name: earth_spirit_magnetize
   name: Magnetize
@@ -2746,15 +2746,15 @@
 5613:
   internal_name: abyssal_underlord_firestorm
   name: Firestorm
-  type: 
+  type:
 5614:
   internal_name: abyssal_underlord_pit_of_malice
   name: Pit of Malice
-  type: 
+  type:
 5615:
   internal_name: abyssal_underlord_atrophy_aura
   name: Atrophy Aura
-  type: 
+  type:
 5616:
   internal_name: abyssal_underlord_dark_rift
   name: Dark Rift
@@ -2770,31 +2770,31 @@
 842:
   internal_name: abyssal_underlord_portal_warp
   name: abyssal_underlord_portal_warp
-  type: 
+  type:
 8873:
   internal_name: twin_gate_portal_warp
   name: twin_gate_portal_warp
-  type: 
+  type:
 5619:
   internal_name: terrorblade_reflection
   name: Reflection
-  type: 
+  type:
 5620:
   internal_name: terrorblade_conjure_image
   name: Conjure Image
-  type: 
+  type:
 5621:
   internal_name: terrorblade_metamorphosis
   name: Metamorphosis
-  type: 
+  type:
 425:
   internal_name: terrorblade_terror_wave
   name: Terror Wave
-  type: 
+  type:
 699:
   internal_name: terrorblade_demon_zeal
   name: Demon Zeal
-  type: 
+  type:
 5622:
   internal_name: terrorblade_sunder
   name: Sunder
@@ -2802,27 +2802,27 @@
 5623:
   internal_name: phoenix_icarus_dive
   name: Icarus Dive
-  type: 
+  type:
 5624:
   internal_name: phoenix_icarus_dive_stop
   name: Stop Icarus Dive
-  type: 
+  type:
 5625:
   internal_name: phoenix_fire_spirits
   name: Fire Spirits
-  type: 
+  type:
 5626:
   internal_name: phoenix_sun_ray
   name: Sun Ray
-  type: 
+  type:
 5627:
   internal_name: phoenix_sun_ray_stop
   name: Stop Sun Ray
-  type: 
+  type:
 5628:
   internal_name: phoenix_sun_ray_toggle_move
   name: Toggle Movement
-  type: 
+  type:
 5630:
   internal_name: phoenix_supernova
   name: Supernova
@@ -2834,15 +2834,15 @@
 5637:
   internal_name: oracle_fortunes_end
   name: Fortune's End
-  type: 
+  type:
 5638:
   internal_name: oracle_fates_edict
   name: Fate's Edict
-  type: 
+  type:
 5639:
   internal_name: oracle_purifying_flames
   name: Purifying Flames
-  type: 
+  type:
 5640:
   internal_name: oracle_false_promise
   name: False Promise
@@ -2850,35 +2850,35 @@
 932:
   internal_name: oracle_rain_of_destiny
   name: Rain of Destiny
-  type: 
+  type:
 5643:
   internal_name: broodmother_spin_web_destroy
   name: Destroy Spin Web
-  type: 
+  type:
 5716:
   internal_name: monkey_king_boundless_strike
   name: Boundless Strike
-  type: 
+  type:
 5719:
   internal_name: monkey_king_mischief
   name: Mischief
-  type: 
+  type:
 5722:
   internal_name: monkey_king_untransform
   name: Revert Form
-  type: 
+  type:
 5721:
   internal_name: monkey_king_tree_dance
   name: Tree Dance
-  type: 
+  type:
 5724:
   internal_name: monkey_king_primal_spring
   name: Primal Spring
-  type: 
+  type:
 5726:
   internal_name: monkey_king_primal_spring_early
   name: monkey_king_primal_spring_early
-  type: 
+  type:
 5725:
   internal_name: monkey_king_wukongs_command
   name: Wukong's Command
@@ -2886,23 +2886,23 @@
 5723:
   internal_name: monkey_king_jingu_mastery
   name: Jingu Mastery
-  type: 
+  type:
 6344:
   internal_name: pangolier_swashbuckle
   name: Swashbuckle
-  type: 
+  type:
 6461:
   internal_name: pangolier_shield_crash
   name: Shield Crash
-  type: 
+  type:
 6346:
   internal_name: pangolier_heartpiercer
   name: Heartpiercer
-  type: 
+  type:
 7307:
   internal_name: pangolier_lucky_shot
   name: Lucky Shot
-  type: 
+  type:
 6343:
   internal_name: pangolier_gyroshell
   name: Rolling Thunder
@@ -2914,11 +2914,11 @@
 8027:
   internal_name: pangolier_rollup
   name: Roll Up
-  type: 
+  type:
 8029:
   internal_name: pangolier_rollup_stop
   name: End Roll Up
-  type: 
+  type:
 6339:
   internal_name: dark_willow_bramble_maze
   name: Bramble Maze
@@ -2934,35 +2934,35 @@
 6341:
   internal_name: dark_willow_shadow_realm
   name: Shadow Realm
-  type: 
+  type:
 6342:
   internal_name: dark_willow_cursed_crown
   name: Cursed Crown
-  type: 
+  type:
 8000:
   internal_name: grimstroke_dark_artistry
   name: Stroke of Fate
-  type: 
+  type:
 8006:
   internal_name: grimstroke_ink_creature
   name: Phantom's Embrace
-  type: 
+  type:
 7852:
   internal_name: grimstroke_dark_portrait
   name: Dark Portrait
-  type: 
+  type:
 561:
   internal_name: grimstroke_ink_over
   name: Ink Over
-  type: 
+  type:
 8007:
   internal_name: grimstroke_spirit_walk
   name: Ink Swell
-  type: 
+  type:
 7246:
   internal_name: grimstroke_return
   name: Ink Explosion
-  type: 
+  type:
 6491:
   internal_name: grimstroke_soul_chain
   name: Soulbind
@@ -2970,15 +2970,15 @@
 6583:
   internal_name: mars_spear
   name: Spear of Mars
-  type: 
+  type:
 6495:
   internal_name: mars_gods_rebuke
   name: God's Rebuke
-  type: 
+  type:
 6582:
   internal_name: mars_bulwark
   name: Bulwark
-  type: 
+  type:
 6598:
   internal_name: mars_arena_of_blood
   name: Arena Of Blood
@@ -3031,11 +3031,11 @@
 7701:
   internal_name: void_spirit_aether_remnant
   name: Aether Remnant
-  type: 
+  type:
 6470:
   internal_name: void_spirit_dissimilate
   name: Dissimilate
-  type: 
+  type:
 7705:
   internal_name: void_spirit_astral_step
   name: Astral Step
@@ -3043,7 +3043,7 @@
 7710:
   internal_name: void_spirit_resonant_pulse
   name: Resonant Pulse
-  type: 
+  type:
 7706:
   internal_name: special_bonus_unique_void_spirit_1
   name: "-{s:bonus_AbilityChargeRestoreTime}s Astral Step Charge Restore Time"
@@ -3087,7 +3087,7 @@
 6480:
   internal_name: snapfire_scatterblast
   name: Scatterblast
-  type: 
+  type:
 6482:
   internal_name: snapfire_mortimer_kisses
   name: Mortimer Kisses
@@ -3095,19 +3095,19 @@
 6484:
   internal_name: snapfire_gobble_up
   name: Gobble Up
-  type: 
+  type:
 6486:
   internal_name: snapfire_spit_creep
   name: Spit Out
-  type: 
+  type:
 6483:
   internal_name: snapfire_firesnap_cookie
   name: Firesnap Cookie
-  type: 
+  type:
 6488:
   internal_name: snapfire_lil_shredder
   name: Lil' Shredder
-  type: 
+  type:
 6485:
   internal_name: special_bonus_unique_snapfire_1
   name: "+{s:bonus_projectile_count} Mortimer Kisses Launched"
@@ -3147,23 +3147,23 @@
 9627:
   internal_name: hoodwink_hunters_boomerang
   name: Hunter's Boomerang
-  type: 
+  type:
 8107:
   internal_name: hoodwink_decoy
   name: Decoy
-  type: 
+  type:
 8429:
   internal_name: hoodwink_acorn_shot
   name: Acorn Shot
-  type: 
+  type:
 8158:
   internal_name: hoodwink_bushwhack
   name: Bushwhack
-  type: 
+  type:
 9501:
   internal_name: hoodwink_scurry
   name: Scurry
-  type: 
+  type:
 8106:
   internal_name: hoodwink_sharpshooter
   name: Sharpshooter
@@ -3219,19 +3219,19 @@
 7902:
   internal_name: dawnbreaker_fire_wreath
   name: Starbreaker
-  type: 
+  type:
 7914:
   internal_name: dawnbreaker_celestial_hammer
   name: Celestial Hammer
-  type: 
+  type:
 7903:
   internal_name: dawnbreaker_converge
   name: Converge
-  type: 
+  type:
 7918:
   internal_name: dawnbreaker_luminosity
   name: dawnbreaker_luminosity
-  type: 
+  type:
 7906:
   internal_name: dawnbreaker_solar_guardian
   name: Solar Guardian
@@ -3239,7 +3239,7 @@
 8037:
   internal_name: dawnbreaker_land
   name: Land Solar Guardian
-  type: 
+  type:
 7930:
   internal_name: special_bonus_unique_dawnbreaker_solar_guardian_radius
   name: special_bonus_unique_dawnbreaker_solar_guardian_radius
@@ -3295,7 +3295,7 @@
 8192:
   internal_name: marci_grapple
   name: Dispose
-  type: 
+  type:
 8198:
   internal_name: marci_unleash
   name: Unleash
@@ -3303,11 +3303,11 @@
 8235:
   internal_name: marci_companion_run
   name: Rebound
-  type: 
+  type:
 8234:
   internal_name: marci_guardian
   name: Sidekick
-  type: 
+  type:
 8236:
   internal_name: special_bonus_unique_marci_lunge_ally_absorb
   name: "+{s:value} Rebound Ally Shield Absorb"
@@ -3371,15 +3371,15 @@
 5350:
   internal_name: backdoor_protection
   name: Backdoor Protection
-  type: 
+  type:
 5351:
   internal_name: backdoor_protection_in_base
   name: Backdoor Protection
-  type: 
+  type:
 6226:
   internal_name: filler_ability
   name: Sanctuary
-  type: 
+  type:
 5200:
   internal_name: necronomicon_warrior_last_will
   name: Last Will
@@ -3395,11 +3395,11 @@
 5203:
   internal_name: necronomicon_archer_mana_burn
   name: Mana Burn
-  type: 
+  type:
 8203:
   internal_name: necronomicon_archer_purge
   name: Purge
-  type: 
+  type:
 5204:
   internal_name: necronomicon_archer_aoe
   name: Archer Aura
@@ -3471,75 +3471,75 @@
 5213:
   internal_name: roshan_spell_block
   name: roshan_spell_block
-  type: 
+  type:
 8249:
   internal_name: roshan_teleport
   name: roshan_teleport
-  type: 
+  type:
 5618:
   internal_name: roshan_halloween_spell_block
   name: roshan_halloween_spell_block
-  type: 
+  type:
 5214:
   internal_name: roshan_bash
   name: roshan_bash
-  type: 
+  type:
 5215:
   internal_name: roshan_slam
   name: roshan_slam
-  type: 
+  type:
 5216:
   internal_name: roshan_inherent_buffs
   name: roshan_inherent_buffs
-  type: 
+  type:
 5217:
   internal_name: roshan_devotion
   name: roshan_devotion
-  type: 
+  type:
 5293:
   internal_name: kobold_taskmaster_speed_aura
   name: Speed Aura
-  type: 
+  type:
 5294:
   internal_name: centaur_khan_endurance_aura
   name: Swiftness Aura
-  type: 
+  type:
 5295:
   internal_name: centaur_khan_war_stomp
   name: War Stomp
-  type: 
+  type:
 885:
   internal_name: ogre_bruiser_ogre_smash
   name: Ogre Smash!
-  type: 
+  type:
 894:
   internal_name: giant_wolf_intimidate
   name: Intimidate
-  type: 
+  type:
 887:
   internal_name: fel_beast_haunt
   name: Vex
-  type: 
+  type:
 893:
   internal_name: hill_troll_rally
   name: Rally
-  type: 
+  type:
 889:
   internal_name: berserker_troll_break
   name: Break
-  type: 
+  type:
 6270:
   internal_name: spawnlord_master_stomp
   name: Desecrate
-  type: 
+  type:
 6278:
   internal_name: spawnlord_master_freeze
   name: Petrify
-  type: 
+  type:
 5296:
   internal_name: gnoll_assassin_envenomed_weapon
   name: Envenomed Weapon
-  type: 
+  type:
 5301:
   internal_name: ghost_frost_attack
   name: Frost Attack
@@ -3547,67 +3547,67 @@
 5302:
   internal_name: polar_furbolg_ursa_warrior_thunder_clap
   name: Thunder Clap
-  type: 
+  type:
 5303:
   internal_name: neutral_spell_immunity
   name: Spell Immunity
-  type: 
+  type:
 5304:
   internal_name: ogre_magi_frost_armor
   name: Ice Armor
-  type: 
+  type:
 5305:
   internal_name: dark_troll_warlord_ensnare
   name: Ensnare
-  type: 
+  type:
 5306:
   internal_name: dark_troll_warlord_raise_dead
   name: Raise Dead
-  type: 
+  type:
 5667:
   internal_name: mud_golem_rock_destroy
   name: Shard Split
-  type: 
+  type:
 935:
   internal_name: warpine_raider_seed_shot
   name: Seed Shot
-  type: 
+  type:
 5670:
   internal_name: mud_golem_hurl_boulder
   name: Hurl Boulder
-  type: 
+  type:
 5307:
   internal_name: giant_wolf_critical_strike
   name: Critical Strike
-  type: 
+  type:
 5308:
   internal_name: alpha_wolf_critical_strike
   name: Critical Strike
-  type: 
+  type:
 5309:
   internal_name: alpha_wolf_command_aura
   name: Packleader's Aura
-  type: 
+  type:
 936:
   internal_name: frostbitten_golem_time_warp_aura
   name: Time Warp Aura
-  type: 
+  type:
 937:
   internal_name: ice_shaman_incendiary_bomb
   name: Icefire Bomb
-  type: 
+  type:
 922:
   internal_name: ancient_rock_golem_weakening_aura
   name: Weakening Aura
-  type: 
+  type:
 923:
   internal_name: black_drake_magic_amplification_aura
   name: Magic Amplification Aura
-  type: 
+  type:
 5310:
   internal_name: tornado_tempest
   name: Tempest
-  type: 
+  type:
 896:
   internal_name: neutral_upgrade
   name: neutral_upgrade
@@ -3627,87 +3627,87 @@
 912:
   internal_name: creep_siege
   name: Reinforced
-  type: 
+  type:
 913:
   internal_name: creep_piercing
   name: Piercing
-  type: 
+  type:
 914:
   internal_name: creep_irresolute
   name: Runty
-  type: 
+  type:
 5312:
   internal_name: enraged_wildkin_tornado
   name: Tornado
-  type: 
+  type:
 866:
   internal_name: enraged_wildkin_hurricane
   name: Hurricane
-  type: 
+  type:
 875:
   internal_name: kobold_disarm
   name: Steal Weapon
-  type: 
+  type:
 5313:
   internal_name: enraged_wildkin_toughness_aura
   name: Toughness Aura
-  type: 
+  type:
 1086:
   internal_name: flagbearer_creep_aura_effect
   name: Inspiration Aura
-  type: 
+  type:
 5656:
   internal_name: granite_golem_hp_aura
   name: Granite Aura
-  type: 
+  type:
 5680:
   internal_name: granite_golem_bash
   name: granite_golem_bash
-  type: 
+  type:
 5314:
   internal_name: satyr_trickster_purge
   name: Purge
-  type: 
+  type:
 5315:
   internal_name: satyr_soulstealer_mana_burn
   name: Mana Burn
-  type: 
+  type:
 5316:
   internal_name: satyr_hellcaller_shockwave
   name: Shockwave
-  type: 
+  type:
 5686:
   internal_name: ancient_golem_rockslide
   name: ancient_golem_rockslide
-  type: 
+  type:
 5317:
   internal_name: satyr_hellcaller_unholy_aura
   name: Unholy Aura
-  type: 
+  type:
 5318:
   internal_name: forest_troll_high_priest_heal
   name: Heal
-  type: 
+  type:
 860:
   internal_name: harpy_scout_take_off
   name: Take Off
-  type: 
+  type:
 862:
   internal_name: furbolg_enrage_attack_speed
   name: 'Death Throe: Rush'
-  type: 
+  type:
 863:
   internal_name: furbolg_enrage_damage
   name: 'Death Throe: Power'
-  type: 
+  type:
 861:
   internal_name: kobold_tunneler_prospecting
   name: Prospecting Aura
-  type: 
+  type:
 5319:
   internal_name: harpy_storm_chain_lightning
   name: Chain Lightning
-  type: 
+  type:
 5682:
   internal_name: big_thunder_lizard_wardrums_aura
   name: War Drums Aura
@@ -3715,7 +3715,7 @@
 5681:
   internal_name: black_dragon_dragonhide_aura
   name: Dragonhide Aura
-  type: 
+  type:
 5689:
   internal_name: black_dragon_fireball
   name: Fireball
@@ -3723,119 +3723,119 @@
 5688:
   internal_name: mudgolem_cloak_aura
   name: Cloak Aura
-  type: 
+  type:
 888:
   internal_name: treant_lifebomb_explode
   name: treant_lifebomb_explode
-  type: 
+  type:
 5324:
   internal_name: black_dragon_splash_attack
   name: Splash Attack
-  type: 
+  type:
 5325:
   internal_name: blue_dragonspawn_sorcerer_evasion
   name: Evasion
-  type: 
+  type:
 5326:
   internal_name: blue_dragonspawn_overseer_evasion
   name: Evasion
-  type: 
+  type:
 6125:
   internal_name: spawnlord_aura
   name: Prowler Aura
-  type: 
+  type:
 6126:
   internal_name: spawnlord_master_bash
   name: spawnlord_master_bash
-  type: 
+  type:
 5327:
   internal_name: blue_dragonspawn_overseer_devotion_aura
   name: Guardian Aura
-  type: 
+  type:
 5332:
   internal_name: big_thunder_lizard_slam
   name: Slam
-  type: 
+  type:
 5333:
   internal_name: big_thunder_lizard_frenzy
   name: Frenzy
-  type: 
+  type:
 5491:
   internal_name: forest_troll_high_priest_mana_aura
   name: Mana Aura
-  type: 
+  type:
 864:
   internal_name: forest_troll_high_priest_heal_amp_aura
   name: Heal Amplification Aura
-  type: 
+  type:
 9990:
   internal_name: roshan_halloween_candy
   name: roshan_halloween_candy
-  type: 
+  type:
 9991:
   internal_name: roshan_halloween_angry
   name: roshan_halloween_angry
-  type: 
+  type:
 9993:
   internal_name: roshan_halloween_wave_of_force
   name: Wave of Force
-  type: 
+  type:
 9994:
   internal_name: roshan_halloween_greater_bash
   name: roshan_halloween_greater_bash
-  type: 
+  type:
 9995:
   internal_name: roshan_halloween_toss
   name: Toss
-  type: 
+  type:
 9997:
   internal_name: roshan_halloween_shell
   name: Shell
-  type: 
+  type:
 9998:
   internal_name: roshan_halloween_apocalypse
   name: Apocalypse
-  type: 
+  type:
 9999:
   internal_name: roshan_halloween_burn
   name: Fire Breath
-  type: 
+  type:
 393:
   internal_name: roshan_halloween_levels
   name: roshan_halloween_levels
-  type: 
+  type:
 394:
   internal_name: roshan_halloween_summon
   name: Summon Roshlings
-  type: 
+  type:
 395:
   internal_name: roshan_halloween_fireball
   name: 'Fireball '
-  type: 
+  type:
 5529:
   internal_name: greevil_magic_missile
   name: greevil_magic_missile
-  type: 
+  type:
 5530:
   internal_name: greevil_cold_snap
   name: Greevil Snap
-  type: 
+  type:
 5531:
   internal_name: greevil_decrepify
   name: Degreevilfy
-  type: 
+  type:
 5532:
   internal_name: greevil_diabolic_edict
   name: Greevolic Edict
-  type: 
+  type:
 5533:
   internal_name: greevil_maledict
   name: Greevildict
-  type: 
+  type:
 5534:
   internal_name: greevil_shadow_strike
   name: Shadow Greevil Strike
-  type: 
+  type:
 5535:
   internal_name: greevil_laguna_blade
   name: Greevilaguna Blade
@@ -3847,31 +3847,31 @@
 5547:
   internal_name: greevil_ice_wall
   name: Greevice Wall
-  type: 
+  type:
 5552:
   internal_name: greevil_fatal_bonds
   name: Greevil Bonds
-  type: 
+  type:
 5553:
   internal_name: greevil_blade_fury
   name: Greevil Fury
-  type: 
+  type:
 5554:
   internal_name: greevil_phantom_strike
   name: Phantom Greevil Strike
-  type: 
+  type:
 5555:
   internal_name: greevil_time_lock
   name: Greevil Lock
-  type: 
+  type:
 5556:
   internal_name: greevil_shadow_wave
   name: Greevil Wave
-  type: 
+  type:
 5557:
   internal_name: greevil_leech_seed
   name: Leech Greevil
-  type: 
+  type:
 5558:
   internal_name: greevil_echo_slam
   name: Greevil Slam
@@ -3879,15 +3879,15 @@
 5559:
   internal_name: greevil_natures_attendants
   name: Greevil's Attendants
-  type: 
+  type:
 5560:
   internal_name: greevil_bloodlust
   name: Greevilust
-  type: 
+  type:
 5561:
   internal_name: greevil_purification
   name: Greevilication
-  type: 
+  type:
 5562:
   internal_name: greevil_flesh_golem
   name: Greevil Golem
@@ -3895,11 +3895,11 @@
 5563:
   internal_name: greevil_hook
   name: Greevil Hook
-  type: 
+  type:
 5564:
   internal_name: greevil_rot
   name: Greevil Rot
-  type: 
+  type:
 5569:
   internal_name: greevil_black_hole
   name: Greevil Hole
@@ -3907,47 +3907,47 @@
 5536:
   internal_name: greevil_miniboss_black_nightmare
   name: Greevilmare
-  type: 
+  type:
 5537:
   internal_name: greevil_miniboss_black_brain_sap
   name: Greevil Brain Sap
-  type: 
+  type:
 5538:
   internal_name: greevil_miniboss_blue_cold_feet
   name: Cold Greevil Feet
-  type: 
+  type:
 5539:
   internal_name: greevil_miniboss_blue_ice_vortex
   name: Ice Greevortex
-  type: 
+  type:
 5540:
   internal_name: greevil_miniboss_red_earthshock
   name: Greevilshock
-  type: 
+  type:
 5541:
   internal_name: greevil_miniboss_red_overpower
   name: Greevilpower
-  type: 
+  type:
 5542:
   internal_name: greevil_miniboss_yellow_ion_shell
   name: Greevil Shell
-  type: 
+  type:
 5543:
   internal_name: greevil_miniboss_yellow_surge
   name: Greevil Surge
-  type: 
+  type:
 5544:
   internal_name: greevil_miniboss_white_purification
   name: Greevilication
-  type: 
+  type:
 5545:
   internal_name: greevil_miniboss_white_degen_aura
   name: Degreevil Aura
-  type: 
+  type:
 5570:
   internal_name: greevil_miniboss_green_living_armor
   name: Greeviling Armor
-  type: 
+  type:
 5571:
   internal_name: greevil_miniboss_green_overgrowth
   name: Greevil Overgrowth
@@ -3955,19 +3955,19 @@
 5572:
   internal_name: greevil_miniboss_orange_dragon_slave
   name: Greevil Dragon Breath
-  type: 
+  type:
 5573:
   internal_name: greevil_miniboss_orange_light_strike_array
   name: Greevil Light Strike
-  type: 
+  type:
 5574:
   internal_name: greevil_miniboss_purple_venomous_gale
   name: greevil_miniboss_purple_venomous_gale
-  type: 
+  type:
 5575:
   internal_name: greevil_miniboss_purple_plague_ward
   name: Greevil Ward
-  type: 
+  type:
 5576:
   internal_name: greevil_miniboss_sight
   name: Greevil Sight
@@ -3975,19 +3975,19 @@
 5577:
   internal_name: throw_snowball
   name: throw_snowball
-  type: 
+  type:
 5578:
   internal_name: throw_coal
   name: throw_coal
-  type: 
+  type:
 5579:
   internal_name: healing_campfire
   name: healing_campfire
-  type: 
+  type:
 5650:
   internal_name: shoot_firework
   name: shoot_firework
-  type: 
+  type:
 5599:
   internal_name: techies_land_mines
   name: Proximity Mines
@@ -3995,23 +3995,23 @@
 5600:
   internal_name: techies_stasis_trap
   name: Stasis Trap
-  type: 
+  type:
 5601:
   internal_name: techies_suicide
   name: Blast Off!
-  type: 
+  type:
 879:
   internal_name: techies_sticky_bomb
   name: Sticky Bomb
-  type: 
+  type:
 886:
   internal_name: techies_reactive_tazer
   name: Reactive Tazer
-  type: 
+  type:
 1147:
   internal_name: techies_reactive_tazer_stop
   name: Detonate Tazer
-  type: 
+  type:
 5602:
   internal_name: techies_remote_mines
   name: Remote Mines
@@ -4019,19 +4019,19 @@
 5635:
   internal_name: techies_focused_detonate
   name: Focused Detonate
-  type: 
+  type:
 5636:
   internal_name: techies_remote_mines_self_detonate
   name: PINPOINT DETONATE
-  type: 
+  type:
 5644:
   internal_name: techies_minefield_sign
   name: Minefield Sign
-  type: 
+  type:
 5661:
   internal_name: cny_beast_force_attack
   name: cny_beast_force_attack
-  type: 
+  type:
 5662:
   internal_name: cny2015_sonic_wave
   name: Sonic Wave
@@ -4047,15 +4047,15 @@
 5651:
   internal_name: winter_wyvern_arctic_burn
   name: Arctic Burn
-  type: 
+  type:
 5652:
   internal_name: winter_wyvern_splinter_blast
   name: Splinter Blast
-  type: 
+  type:
 5653:
   internal_name: winter_wyvern_cold_embrace
   name: Cold Embrace
-  type: 
+  type:
 5654:
   internal_name: winter_wyvern_winters_curse
   name: Winter's Curse
@@ -4063,23 +4063,23 @@
 5665:
   internal_name: cny_beast_teleport
   name: cny_beast_teleport
-  type: 
+  type:
 7854:
   internal_name: arc_warden_scepter
   name: arc_warden_scepter
-  type: 
+  type:
 5677:
   internal_name: arc_warden_flux
   name: Flux
-  type: 
+  type:
 5678:
   internal_name: arc_warden_magnetic_field
   name: Magnetic Field
-  type: 
+  type:
 5679:
   internal_name: arc_warden_spark_wraith
   name: Spark Wraith
-  type: 
+  type:
 5683:
   internal_name: arc_warden_tempest_double
   name: Tempest Double
@@ -4091,19 +4091,19 @@
 992:
   internal_name: primal_beast_onslaught
   name: Onslaught
-  type: 
+  type:
 993:
   internal_name: primal_beast_onslaught_release
   name: Begin Onslaught
-  type: 
+  type:
 994:
   internal_name: primal_beast_trample
   name: Trample
-  type: 
+  type:
 995:
   internal_name: primal_beast_uproar
   name: Uproar
-  type: 
+  type:
 996:
   internal_name: primal_beast_pulverize
   name: Pulverize
@@ -4151,11 +4151,11 @@
 5751:
   internal_name: muerta_dead_shot
   name: muerta_dead_shot
-  type: 
+  type:
 5752:
   internal_name: muerta_the_calling
   name: muerta_the_calling
-  type: 
+  type:
 5753:
   internal_name: muerta_gunslinger
   name: muerta_gunslinger
@@ -4191,11 +4191,11 @@
 9142:
   internal_name: muerta_grave_visitation
   name: muerta_grave_visitation
-  type: 
+  type:
 5760:
   internal_name: muerta_parting_shot
   name: Parting Shot
-  type: 
+  type:
 6285:
   internal_name: special_bonus_undefined
   name: Pending Replacement
@@ -9892,152 +9892,152 @@
 6251:
   internal_name: generic_hidden
   name: generic_hidden
-  type: 
+  type:
 82:
   internal_name: bear_empty1
   name: Empty
-  type: 
+  type:
 83:
   internal_name: bear_empty2
   name: Empty
-  type: 
+  type:
 7816:
   internal_name: consumable_hidden
   name: consumable_hidden
-  type: 
+  type:
 7804:
   internal_name: seasonal_throw_snowball
   name: Throw Snowball
-  type: 
+  type:
 7806:
   internal_name: seasonal_summon_snowman
   name: Build Snowman
-  type: 
+  type:
 7814:
   internal_name: seasonal_summon_penguin
   name: Summon Penguin
-  type: 
+  type:
 7807:
   internal_name: seasonal_decorate_tree
   name: Decorate Tree
-  type: 
+  type:
 7809:
   internal_name: seasonal_festive_firework
   name: Festive Firework
-  type: 
+  type:
 7810:
   internal_name: frostivus2018_throw_snowball
   name: Throw Snowball
-  type: 
+  type:
 7812:
   internal_name: frostivus2018_summon_snowman
   name: Summon Snowman
-  type: 
+  type:
 7813:
   internal_name: frostivus2018_decorate_tree
   name: Decorate Tree
-  type: 
+  type:
 7815:
   internal_name: frostivus2018_festive_firework
   name: Festive Firework
-  type: 
+  type:
 7817:
   internal_name: seasonal_summon_cny_balloon
   name: seasonal_summon_cny_balloon
-  type: 
+  type:
 7818:
   internal_name: seasonal_summon_dragon
   name: seasonal_summon_dragon
-  type: 
+  type:
 7819:
   internal_name: seasonal_summon_cny_tree
   name: seasonal_summon_cny_tree
-  type: 
+  type:
 7820:
   internal_name: seasonal_firecrackers
   name: seasonal_firecrackers
-  type: 
+  type:
 7968:
   internal_name: high_five
   name: High Five
-  type: 
+  type:
 7821:
   internal_name: seasonal_summon_ti9_balloon
   name: Summon Sky Snake
-  type: 
+  type:
 7822:
   internal_name: seasonal_ti9_banner
   name: Battle Standard
-  type: 
+  type:
 7824:
   internal_name: seasonal_ti9_shovel
   name: Trusty Shovel
-  type: 
+  type:
 7823:
   internal_name: seasonal_ti9_instruments
   name: Drums of War
-  type: 
+  type:
 7825:
   internal_name: seasonal_ti9_monkey
   name: Summon Monkey
-  type: 
+  type:
 4000:
   internal_name: seasonal_ti10_high_five
   name: seasonal_ti10_high_five
-  type: 
+  type:
 4001:
   internal_name: seasonal_ti10_guild_banner
   name: seasonal_ti10_guild_banner
-  type: 
+  type:
 8019:
   internal_name: seasonal_ti10_portal
   name: seasonal_ti10_portal
-  type: 
+  type:
 8020:
   internal_name: seasonal_ti10_disco_ball
   name: seasonal_ti10_disco_ball
-  type: 
+  type:
 8021:
   internal_name: seasonal_ti10_disco_ball_channel
   name: seasonal_ti10_disco_ball_channel
-  type: 
+  type:
 8022:
   internal_name: seasonal_ti10_soccer_ball
   name: seasonal_ti10_soccer_ball
-  type: 
+  type:
 8023:
   internal_name: seasonal_ti10_hot_potato
   name: seasonal_ti10_hot_potato
-  type: 
+  type:
 8024:
   internal_name: seasonal_ti10_hot_potato_throw_existing_potato
   name: seasonal_ti10_hot_potato_throw_existing_potato
-  type: 
+  type:
 8025:
   internal_name: seasonal_diretide2020_high_five
   name: seasonal_diretide2020_high_five
-  type: 
+  type:
 8034:
   internal_name: plus_high_five
   name: High Five
-  type: 
+  type:
 8035:
   internal_name: plus_guild_banner
   name: Guild Banner
-  type: 
+  type:
 9709:
   internal_name: seasonal_ti11_balloon
   name: seasonal_ti11_balloon
-  type: 
+  type:
 9710:
   internal_name: seasonal_ti11_bubble_gun
   name: seasonal_ti11_bubble_gun
-  type: 
+  type:
 9711:
   internal_name: seasonal_ti11_duel
   name: seasonal_ti11_duel
-  type: 
+  type:
 9712:
   internal_name: seasonal_ti11_conga_line
   name: seasonal_ti11_conga_line
-  type: 
+  type:
