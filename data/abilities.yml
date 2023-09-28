@@ -6058,7 +6058,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 823:
   internal_name: special_bonus_unique_mirana_7
-  name: "+{s:value} Starstorm Damage"
+  name: "+{s:bonus_damage} Starstorm Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6018:
   internal_name: special_bonus_unique_bounty_hunter
@@ -7559,7 +7559,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 495:
   internal_name: special_bonus_unique_clinkz_8
-  name: "+{s:bonus_health_gain} Death Pact Health"
+  name: "+{s:bonus_health_gain} Death Pact Bonus Health"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 554:
   internal_name: special_bonus_unique_clinkz_9
@@ -9454,7 +9454,7 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6356:
   internal_name: special_bonus_unique_bloodseeker_2
-  name: "+{s:value} Blood Rite Damage"
+  name: "+{s:bonus_damage} Blood Rite Damage"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6357:
   internal_name: special_bonus_unique_bloodseeker_3
@@ -9462,15 +9462,15 @@
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 6809:
   internal_name: special_bonus_unique_bloodseeker_4
-  name: "+{s:value}% Max Thirst MS"
+  name: "+{s:bonus_bonus_movement_speed}% Max Thirst MS"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 482:
   internal_name: special_bonus_unique_bloodseeker_5
-  name: "+{s:value} Bloodrage Attack Speed"
+  name: "+{s:bonus_attack_speed} Bloodrage Attack Speed"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 818:
   internal_name: special_bonus_unique_bloodseeker_6
-  name: "+{s:value}% Bloodrage Spell Amplification"
+  name: "+{s:bonus_spell_amp}% Bloodrage Spell Amplification"
   type: DOTA_ABILITY_TYPE_ATTRIBUTES
 819:
   internal_name: special_bonus_unique_bloodseeker_7
