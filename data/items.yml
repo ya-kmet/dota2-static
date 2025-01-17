@@ -1,1929 +1,1837 @@
 ---
 1:
   internal_name: blink
-  quality: component
+  quality:
   name: Blink Dagger
 600:
   internal_name: overwhelming_blink
-  quality: component
+  quality:
   name: Overwhelming Blink
 603:
   internal_name: swift_blink
-  quality: component
+  quality:
   name: Swift Blink
 604:
   internal_name: arcane_blink
-  quality: component
+  quality:
   name: Arcane Blink
 606:
   internal_name: recipe_arcane_blink
-  quality: 
+  quality:
   name: Arcane Blink Recipe
 607:
   internal_name: recipe_swift_blink
-  quality: 
+  quality:
   name: Swift Blink Recipe
 608:
   internal_name: recipe_overwhelming_blink
-  quality: 
+  quality:
   name: Overwhelming Blink Recipe
 2:
   internal_name: blades_of_attack
-  quality: component
+  quality:
   name: Blades of Attack
 3:
   internal_name: broadsword
-  quality: component
+  quality:
   name: Broadsword
 4:
   internal_name: chainmail
-  quality: component
+  quality:
   name: Chainmail
 5:
   internal_name: claymore
-  quality: component
+  quality:
   name: Claymore
 6:
   internal_name: helm_of_iron_will
-  quality: component
+  quality:
   name: Helm of Iron Will
 7:
   internal_name: javelin
-  quality: component
+  quality:
   name: Javelin
 8:
   internal_name: mithril_hammer
-  quality: component
+  quality:
   name: Mithril Hammer
 9:
   internal_name: platemail
-  quality: secret_shop
+  quality:
   name: Platemail
 10:
   internal_name: quarterstaff
-  quality: component
+  quality:
   name: Quarterstaff
 11:
   internal_name: quelling_blade
-  quality: component
+  quality:
   name: Quelling Blade
 237:
   internal_name: faerie_fire
-  quality: consumable
+  quality:
   name: Faerie Fire
 265:
   internal_name: infused_raindrop
-  quality: component
+  quality:
   name: Infused Raindrops
 244:
   internal_name: wind_lace
-  quality: component
+  quality:
   name: Wind Lace
 12:
   internal_name: ring_of_protection
-  quality: component
+  quality:
   name: Ring of Protection
 182:
   internal_name: stout_shield
-  quality: component
+  quality:
   name: Stout Shield
-246:
-  internal_name: recipe_moon_shard
-  quality: 
-  name: recipe_moon_shard
 247:
   internal_name: moon_shard
-  quality: consumable
+  quality:
   name: Moon Shard
 13:
   internal_name: gauntlets
-  quality: component
+  quality:
   name: Gauntlets of Strength
 14:
   internal_name: slippers
-  quality: component
+  quality:
   name: Slippers of Agility
 15:
   internal_name: mantle
-  quality: component
+  quality:
   name: Mantle of Intelligence
 16:
   internal_name: branches
-  quality: consumable
+  quality:
   name: Iron Branch
 17:
   internal_name: belt_of_strength
-  quality: component
+  quality:
   name: Belt of Strength
 18:
   internal_name: boots_of_elves
-  quality: component
+  quality:
   name: Band of Elvenskin
 19:
   internal_name: robe
-  quality: component
+  quality:
   name: Robe of the Magi
 20:
   internal_name: circlet
-  quality: component
+  quality:
   name: Circlet
 261:
   internal_name: crown
-  quality: component
+  quality:
   name: Crown
 1122:
   internal_name: diadem
-  quality: component
+  quality:
   name: Diadem
 21:
   internal_name: ogre_axe
-  quality: component
+  quality:
   name: Ogre Axe
 22:
   internal_name: blade_of_alacrity
-  quality: component
+  quality:
   name: Blade of Alacrity
 23:
   internal_name: staff_of_wizardry
-  quality: component
+  quality:
   name: Staff of Wizardry
 24:
   internal_name: ultimate_orb
-  quality: secret_shop
+  quality:
   name: Ultimate Orb
 25:
   internal_name: gloves
-  quality: component
+  quality:
   name: Gloves of Haste
 485:
   internal_name: blitz_knuckles
-  quality: component
+  quality:
   name: Blitz Knuckles
 26:
   internal_name: lifesteal
-  quality: component
+  quality:
   name: Morbid Mask
 473:
   internal_name: voodoo_mask
-  quality: component
+  quality:
   name: Voodoo Mask
 27:
   internal_name: ring_of_regen
-  quality: component
+  quality:
   name: Ring of Regen
-279:
-  internal_name: ring_of_tarrasque
-  quality: component
-  name: Ring of Tarrasque
 28:
   internal_name: sobi_mask
-  quality: component
+  quality:
   name: Sage's Mask
 29:
   internal_name: boots
-  quality: component
+  quality:
   name: Boots of Speed
 30:
   internal_name: gem
-  quality: component
+  quality:
   name: Gem of True Sight
 31:
   internal_name: cloak
-  quality: component
+  quality:
   name: Cloak
 32:
   internal_name: talisman_of_evasion
-  quality: secret_shop
+  quality:
   name: Talisman of Evasion
 33:
   internal_name: cheese
-  quality: consumable
+  quality:
   name: Cheese
 34:
   internal_name: magic_stick
-  quality: component
+  quality:
   name: Magic Stick
 35:
   internal_name: recipe_magic_wand
-  quality: 
+  quality:
   name: Magic Wand Recipe
 36:
   internal_name: magic_wand
-  quality: common
+  quality:
   name: Magic Wand
 37:
   internal_name: ghost
-  quality: component
+  quality:
   name: Ghost Scepter
 38:
   internal_name: clarity
-  quality: consumable
+  quality:
   name: Clarity
 216:
   internal_name: enchanted_mango
-  quality: consumable
+  quality:
   name: Enchanted Mango
 4204:
   internal_name: famango
-  quality: consumable
+  quality:
   name: Healing Lotus
 4205:
   internal_name: great_famango
-  quality: consumable
+  quality:
   name: Great Healing Lotus
 4206:
   internal_name: greater_famango
-  quality: consumable
+  quality:
   name: Greater Healing Lotus
-4207:
-  internal_name: recipe_great_famango
-  quality: 
-  name: recipe_great_famango
-4208:
-  internal_name: recipe_greater_famango
-  quality: 
-  name: recipe_greater_famango
 1123:
   internal_name: blood_grenade
-  quality: consumable
+  quality:
   name: Blood Grenade
 1154:
   internal_name: royale_with_cheese
-  quality: consumable
+  quality:
   name: Block of Cheese
 39:
   internal_name: flask
-  quality: consumable
+  quality:
   name: Healing Salve
 40:
   internal_name: dust
-  quality: consumable
+  quality:
   name: Dust of Appearance
 41:
   internal_name: bottle
-  quality: common
+  quality:
   name: Bottle
 42:
   internal_name: ward_observer
-  quality: consumable
+  quality:
   name: Observer Ward
 43:
   internal_name: ward_sentry
-  quality: consumable
+  quality:
   name: Sentry Ward
-217:
-  internal_name: recipe_ward_dispenser
-  quality: 
-  name: recipe_ward_dispenser
 218:
   internal_name: ward_dispenser
-  quality: common
+  quality:
   name: Observer and Sentry Wards
 44:
   internal_name: tango
-  quality: consumable
+  quality:
   name: Tango
 241:
   internal_name: tango_single
-  quality: consumable
+  quality:
   name: Tango (Shared)
 45:
   internal_name: courier
-  quality: consumable
+  quality:
   name: Animal Courier
 286:
   internal_name: flying_courier
-  quality: consumable
+  quality:
   name: Flying Courier
 46:
   internal_name: tpscroll
-  quality: consumable
+  quality:
   name: Town Portal Scroll
 47:
   internal_name: recipe_travel_boots
-  quality: 
+  quality:
   name: Boots of Travel Recipe
-219:
-  internal_name: recipe_travel_boots_2
-  quality: 
-  name: recipe_travel_boots_2
 48:
   internal_name: travel_boots
-  quality: common
+  quality:
   name: Boots of Travel
 220:
   internal_name: travel_boots_2
-  quality: common
+  quality:
   name: Boots of Travel 2
-49:
-  internal_name: recipe_phase_boots
-  quality: 
-  name: recipe_phase_boots
 50:
   internal_name: phase_boots
-  quality: common
+  quality:
   name: Phase Boots
 51:
   internal_name: demon_edge
-  quality: secret_shop
+  quality:
   name: Demon Edge
 52:
   internal_name: eagle
-  quality: secret_shop
+  quality:
   name: Eaglesong
 53:
   internal_name: reaver
-  quality: secret_shop
+  quality:
   name: Reaver
 54:
   internal_name: relic
-  quality: secret_shop
+  quality:
   name: Sacred Relic
 55:
   internal_name: hyperstone
-  quality: secret_shop
+  quality:
   name: Hyperstone
 56:
   internal_name: ring_of_health
-  quality: component
+  quality:
   name: Ring of Health
+279:
+  internal_name: ring_of_tarrasque
+  quality:
+  name: Ring of Tarrasque
 57:
   internal_name: void_stone
-  quality: component
+  quality:
   name: Void Stone
+1802:
+  internal_name: tiara_of_selemene
+  quality:
+  name: Tiara of Selemene
 58:
   internal_name: mystic_staff
-  quality: secret_shop
+  quality:
   name: Mystic Staff
 59:
   internal_name: energy_booster
-  quality: secret_shop
+  quality:
   name: Energy Booster
 60:
   internal_name: point_booster
-  quality: secret_shop
+  quality:
   name: Point Booster
 61:
   internal_name: vitality_booster
-  quality: secret_shop
+  quality:
   name: Vitality Booster
 593:
   internal_name: fluffy_hat
-  quality: secret_shop
+  quality:
   name: Fluffy Hat
-62:
-  internal_name: recipe_power_treads
-  quality: 
-  name: recipe_power_treads
 63:
   internal_name: power_treads
-  quality: common
+  quality:
   name: Power Treads
 1098:
   internal_name: recipe_samurai_tabi
-  quality: 
+  quality:
   name: Samurai Tabi Recipe
 1091:
   internal_name: samurai_tabi
-  quality: common
+  quality:
   name: Samurai Tabi
 1092:
   internal_name: recipe_hermes_sandals
-  quality: 
+  quality:
   name: Hermes Sandals Recipe
 1093:
   internal_name: hermes_sandals
-  quality: common
+  quality:
   name: Hermes Sandals
 1099:
   internal_name: recipe_witches_switch
-  quality: 
+  quality:
   name: Witches Switch Recipe
 1100:
   internal_name: witches_switch
-  quality: common
+  quality:
   name: Witches Switch
-653:
-  internal_name: recipe_grandmasters_glaive
-  quality: 
-  name: recipe_grandmasters_glaive
 1094:
   internal_name: recipe_lunar_crest
-  quality: 
+  quality:
   name: Lunar Crest Recipe
 1095:
   internal_name: lunar_crest
-  quality: common
+  quality:
   name: Lunar Crest
 1106:
   internal_name: recipe_phylactery
-  quality: 
-  name: recipe_phylactery
+  quality:
+  name: Phylactery Recipe
 1107:
   internal_name: phylactery
-  quality: common
+  quality:
   name: Phylactery
+1807:
+  internal_name: recipe_angels_demise
+  quality:
+  name: Khanda Recipe
+1808:
+  internal_name: angels_demise
+  quality:
+  name: Khanda
 655:
   internal_name: grandmasters_glaive
-  quality: common
+  quality:
   name: Grandmaster's Glaive
 64:
   internal_name: recipe_hand_of_midas
-  quality: 
+  quality:
   name: Hand of Midas Recipe
 65:
   internal_name: hand_of_midas
-  quality: common
+  quality:
   name: Hand of Midas
-66:
-  internal_name: recipe_oblivion_staff
-  quality: 
-  name: recipe_oblivion_staff
+1164:
+  internal_name: aetherial_halo
+  quality:
+  name: Aetherial Hammer
 67:
   internal_name: oblivion_staff
-  quality: common
+  quality:
   name: Oblivion Staff
 533:
   internal_name: recipe_witch_blade
-  quality: 
+  quality:
   name: Witch Blade Recipe
 534:
   internal_name: witch_blade
-  quality: common
+  quality:
   name: Witch Blade
-68:
-  internal_name: recipe_pers
-  quality: 
-  name: recipe_pers
 69:
   internal_name: pers
-  quality: common
+  quality:
   name: Perseverance
 1125:
   internal_name: cornucopia
-  quality: common
-  name: cornucopia
-70:
-  internal_name: recipe_poor_mans_shield
-  quality: 
-  name: recipe_poor_mans_shield
+  quality:
+  name: Cornucopia
 71:
   internal_name: poor_mans_shield
-  quality: common
+  quality:
   name: Poor Man's Shield
 731:
   internal_name: satchel
-  quality: common
+  quality:
   name: Satchel
 72:
   internal_name: recipe_bracer
-  quality: 
+  quality:
   name: Bracer Recipe
 73:
   internal_name: bracer
-  quality: common
+  quality:
   name: Bracer
 74:
   internal_name: recipe_wraith_band
-  quality: 
+  quality:
   name: Wraith Band Recipe
 75:
   internal_name: wraith_band
-  quality: common
+  quality:
   name: Wraith Band
 76:
   internal_name: recipe_null_talisman
-  quality: 
+  quality:
   name: Null Talisman Recipe
 77:
   internal_name: null_talisman
-  quality: common
+  quality:
   name: Null Talisman
 78:
   internal_name: recipe_mekansm
-  quality: 
+  quality:
   name: Mekansm Recipe
 79:
   internal_name: mekansm
-  quality: rare
+  quality:
   name: Mekansm
-80:
-  internal_name: recipe_vladmir
-  quality: 
-  name: Vladmir's Offering Recipe
 81:
   internal_name: vladmir
-  quality: rare
+  quality:
   name: Vladmir's Offering
 907:
   internal_name: recipe_wraith_pact
-  quality: 
+  quality:
   name: Wraith Pact Recipe
 908:
   internal_name: wraith_pact
-  quality: rare
+  quality:
   name: Wraith Pact
 85:
   internal_name: recipe_buckler
-  quality: 
+  quality:
   name: Buckler Recipe
 86:
   internal_name: buckler
-  quality: rare
+  quality:
   name: Buckler
 87:
   internal_name: recipe_ring_of_basilius
-  quality: 
+  quality:
   name: Ring of Basilius Recipe
 88:
   internal_name: ring_of_basilius
-  quality: rare
+  quality:
   name: Ring of Basilius
 268:
   internal_name: recipe_holy_locket
-  quality: 
+  quality:
   name: Holy Locket Recipe
 269:
   internal_name: holy_locket
-  quality: rare
+  quality:
   name: Holy Locket
 89:
   internal_name: recipe_pipe
-  quality: 
+  quality:
   name: Pipe of Insight Recipe
 90:
   internal_name: pipe
-  quality: rare
+  quality:
   name: Pipe of Insight
 91:
   internal_name: recipe_urn_of_shadows
-  quality: 
+  quality:
   name: Urn of Shadows Recipe
 92:
   internal_name: urn_of_shadows
-  quality: rare
+  quality:
   name: Urn of Shadows
 93:
   internal_name: recipe_headdress
-  quality: 
+  quality:
   name: Headdress Recipe
 94:
   internal_name: headdress
-  quality: rare
+  quality:
   name: Headdress
 95:
   internal_name: recipe_sheepstick
-  quality: 
-  name: recipe_sheepstick
+  quality:
+  name: Scythe of Vyse Recipe
 96:
   internal_name: sheepstick
-  quality: rare
+  quality:
   name: Scythe of Vyse
+1801:
+  internal_name: caster_rapier
+  quality:
+  name: Caster Rapier
 97:
   internal_name: recipe_orchid
-  quality: 
+  quality:
   name: Orchid Malevolence Recipe
 98:
   internal_name: orchid
-  quality: rare
+  quality:
   name: Orchid Malevolence
 245:
   internal_name: recipe_bloodthorn
-  quality: 
+  quality:
   name: Bloodthorn Recipe
 250:
   internal_name: bloodthorn
-  quality: epic
+  quality:
   name: Bloodthorn
-251:
-  internal_name: recipe_echo_sabre
-  quality: 
-  name: recipe_echo_sabre
 252:
   internal_name: echo_sabre
-  quality: artifact
+  quality:
   name: Echo Sabre
 99:
   internal_name: recipe_cyclone
-  quality: 
+  quality:
   name: Eul's Scepter Recipe
 100:
   internal_name: cyclone
-  quality: rare
+  quality:
   name: Eul's Scepter of Divinity
 612:
   internal_name: recipe_wind_waker
-  quality: 
+  quality:
   name: Wind Waker Recipe
 610:
   internal_name: wind_waker
-  quality: rare
+  quality:
   name: Wind Waker
 233:
   internal_name: recipe_aether_lens
-  quality: 
+  quality:
   name: Aether Lens Recipe
 232:
   internal_name: aether_lens
-  quality: rare
+  quality:
   name: Aether Lens
 101:
   internal_name: recipe_force_staff
-  quality: 
+  quality:
   name: Force Staff Recipe
 102:
   internal_name: force_staff
-  quality: rare
+  quality:
   name: Force Staff
 262:
   internal_name: recipe_hurricane_pike
-  quality: 
+  quality:
   name: Hurricane Pike Recipe
 263:
   internal_name: hurricane_pike
-  quality: epic
+  quality:
   name: Hurricane Pike
 103:
   internal_name: recipe_dagon
-  quality: 
+  quality:
   name: Dagon Recipe
-197:
-  internal_name: recipe_dagon_2
-  quality: 
-  name: recipe_dagon_2
-198:
-  internal_name: recipe_dagon_3
-  quality: 
-  name: recipe_dagon_3
-199:
-  internal_name: recipe_dagon_4
-  quality: 
-  name: recipe_dagon_4
-200:
-  internal_name: recipe_dagon_5
-  quality: 
-  name: recipe_dagon_5
 104:
   internal_name: dagon
-  quality: rare
+  quality:
   name: Dagon
 201:
   internal_name: dagon_2
-  quality: rare
+  quality:
   name: Dagon
 202:
   internal_name: dagon_3
-  quality: rare
+  quality:
   name: Dagon
 203:
   internal_name: dagon_4
-  quality: rare
+  quality:
   name: Dagon
 204:
   internal_name: dagon_5
-  quality: rare
+  quality:
   name: Dagon
 105:
   internal_name: recipe_necronomicon
-  quality: 
+  quality:
   name: Necronomicon Recipe
-191:
-  internal_name: recipe_necronomicon_2
-  quality: 
-  name: recipe_necronomicon_2
-192:
-  internal_name: recipe_necronomicon_3
-  quality: 
-  name: recipe_necronomicon_3
 106:
   internal_name: necronomicon
-  quality: rare
+  quality:
   name: Necronomicon
 193:
   internal_name: necronomicon_2
-  quality: rare
+  quality:
   name: Necronomicon
 194:
   internal_name: necronomicon_3
-  quality: rare
+  quality:
   name: Necronomicon
-107:
-  internal_name: recipe_ultimate_scepter
-  quality: 
-  name: recipe_ultimate_scepter
 108:
   internal_name: ultimate_scepter
-  quality: rare
+  quality:
   name: Aghanim's Scepter
 270:
   internal_name: recipe_ultimate_scepter_2
-  quality: 
+  quality:
   name: Aghanim's Blessing Recipe
 271:
   internal_name: ultimate_scepter_2
-  quality: rare
+  quality:
   name: Aghanim's Blessing
 727:
   internal_name: ultimate_scepter_roshan
-  quality: rare
+  quality:
   name: Aghanim's Blessing - Roshan
 609:
   internal_name: aghanims_shard
-  quality: rare
+  quality:
   name: Aghanim's Shard
 725:
   internal_name: aghanims_shard_roshan
-  quality: rare
-  name: Aghanim's Shard - Roshan
+  quality:
+  name: Aghanim's Shard - Consumable
 109:
   internal_name: recipe_refresher
-  quality: 
+  quality:
   name: Refresher Orb Recipe
 110:
   internal_name: refresher
-  quality: rare
+  quality:
   name: Refresher Orb
 111:
   internal_name: recipe_assault
-  quality: 
+  quality:
   name: Assault Cuirass Recipe
 112:
   internal_name: assault
-  quality: epic
+  quality:
   name: Assault Cuirass
 113:
   internal_name: recipe_heart
-  quality: 
+  quality:
   name: Heart of Tarrasque Recipe
 114:
   internal_name: heart
-  quality: epic
+  quality:
   name: Heart of Tarrasque
 115:
   internal_name: recipe_black_king_bar
-  quality: 
+  quality:
   name: Black King Bar Recipe
 116:
   internal_name: black_king_bar
-  quality: epic
+  quality:
   name: Black King Bar
 117:
   internal_name: aegis
-  quality: artifact
+  quality:
   name: Aegis of the Immortal
 118:
   internal_name: recipe_shivas_guard
-  quality: 
+  quality:
   name: Shiva's Guard Recipe
 119:
   internal_name: shivas_guard
-  quality: epic
+  quality:
   name: Shiva's Guard
-120:
-  internal_name: recipe_bloodstone
-  quality: 
-  name: Bloodstone Recipe
 121:
   internal_name: bloodstone
-  quality: epic
+  quality:
   name: Bloodstone
 122:
   internal_name: recipe_sphere
-  quality: 
+  quality:
   name: Linken's Sphere Recipe
 123:
   internal_name: sphere
-  quality: epic
+  quality:
   name: Linken's Sphere
 221:
   internal_name: recipe_lotus_orb
-  quality: 
-  name: recipe_lotus_orb
+  quality:
+  name: Lotus Orb Recipe
 226:
   internal_name: lotus_orb
-  quality: epic
+  quality:
   name: Lotus Orb
 222:
   internal_name: recipe_meteor_hammer
-  quality: 
+  quality:
   name: Meteor Hammer Recipe
 223:
   internal_name: meteor_hammer
-  quality: epic
+  quality:
   name: Meteor Hammer
-224:
-  internal_name: recipe_nullifier
-  quality: 
-  name: Nullifier Recipe
 225:
   internal_name: nullifier
-  quality: epic
+  quality:
   name: Nullifier
 255:
   internal_name: recipe_aeon_disk
-  quality: 
+  quality:
   name: Aeon Disk Recipe
 256:
   internal_name: aeon_disk
-  quality: epic
+  quality:
   name: Aeon Disk
 258:
   internal_name: recipe_kaya
-  quality: 
+  quality:
   name: Kaya Recipe
 259:
   internal_name: kaya
-  quality: epic
+  quality:
   name: Kaya
 369:
   internal_name: trident
-  quality: 
+  quality:
   name: Trident
 276:
   internal_name: combo_breaker
-  quality: 
-  name: combo_breaker
+  quality:
+  name:
 260:
   internal_name: refresher_shard
-  quality: consumable
+  quality:
   name: Refresher Shard
 266:
   internal_name: recipe_spirit_vessel
-  quality: 
+  quality:
   name: Spirit Vessel Recipe
 267:
   internal_name: spirit_vessel
-  quality: rare
+  quality:
   name: Spirit Vessel
-124:
-  internal_name: recipe_vanguard
-  quality: 
-  name: recipe_vanguard
 125:
   internal_name: vanguard
-  quality: epic
+  quality:
   name: Vanguard
 243:
   internal_name: recipe_crimson_guard
-  quality: 
+  quality:
   name: Crimson Guard Recipe
 242:
   internal_name: crimson_guard
-  quality: epic
+  quality:
   name: Crimson Guard
 126:
   internal_name: recipe_blade_mail
-  quality: 
+  quality:
   name: Blade Mail Recipe
 127:
   internal_name: blade_mail
-  quality: epic
+  quality:
   name: Blade Mail
-128:
-  internal_name: recipe_soul_booster
-  quality: 
-  name: recipe_soul_booster
 129:
   internal_name: soul_booster
-  quality: epic
+  quality:
   name: Soul Booster
-130:
-  internal_name: recipe_hood_of_defiance
-  quality: 
-  name: recipe_hood_of_defiance
 131:
   internal_name: hood_of_defiance
-  quality: epic
+  quality:
   name: Hood of Defiance
 691:
   internal_name: recipe_eternal_shroud
-  quality: 
+  quality:
   name: Eternal Shroud Recipe
 692:
   internal_name: eternal_shroud
-  quality: epic
+  quality:
   name: Eternal Shroud
-132:
-  internal_name: recipe_rapier
-  quality: 
-  name: recipe_rapier
 133:
   internal_name: rapier
-  quality: epic
+  quality:
   name: Divine Rapier
 134:
   internal_name: recipe_monkey_king_bar
-  quality: 
+  quality:
   name: Monkey King Bar Recipe
 135:
   internal_name: monkey_king_bar
-  quality: epic
+  quality:
   name: Monkey King Bar
-136:
-  internal_name: recipe_radiance
-  quality: 
-  name: Radiance Recipe
 137:
   internal_name: radiance
-  quality: epic
+  quality:
   name: Radiance
-138:
-  internal_name: recipe_butterfly
-  quality: 
-  name: recipe_butterfly
 139:
   internal_name: butterfly
-  quality: epic
+  quality:
   name: Butterfly
 140:
   internal_name: recipe_greater_crit
-  quality: 
+  quality:
   name: Daedalus Recipe
 141:
   internal_name: greater_crit
-  quality: epic
+  quality:
   name: Daedalus
 142:
   internal_name: recipe_basher
-  quality: 
+  quality:
   name: Skull Basher Recipe
 143:
   internal_name: basher
-  quality: epic
+  quality:
   name: Skull Basher
 144:
   internal_name: recipe_bfury
-  quality: 
+  quality:
   name: Battle Fury Recipe
 145:
   internal_name: bfury
-  quality: epic
+  quality:
   name: Battle Fury
 146:
   internal_name: recipe_manta
-  quality: 
+  quality:
   name: Manta Style Recipe
 147:
   internal_name: manta
-  quality: epic
+  quality:
   name: Manta Style
 148:
   internal_name: recipe_lesser_crit
-  quality: 
+  quality:
   name: Crystalys Recipe
 149:
   internal_name: lesser_crit
-  quality: epic
+  quality:
   name: Crystalys
 234:
   internal_name: recipe_dragon_lance
-  quality: 
+  quality:
   name: Dragon Lance Recipe
 236:
   internal_name: dragon_lance
-  quality: artifact
+  quality:
   name: Dragon Lance
 150:
   internal_name: recipe_armlet
-  quality: 
+  quality:
   name: Armlet of Mordiggian Recipe
 151:
   internal_name: armlet
-  quality: epic
+  quality:
   name: Armlet of Mordiggian
-183:
-  internal_name: recipe_invis_sword
-  quality: 
-  name: recipe_invis_sword
 152:
   internal_name: invis_sword
-  quality: epic
+  quality:
   name: Shadow Blade
 248:
   internal_name: recipe_silver_edge
-  quality: 
+  quality:
   name: Silver Edge Recipe
 249:
   internal_name: silver_edge
-  quality: epic
+  quality:
   name: Silver Edge
-153:
-  internal_name: recipe_sange_and_yasha
-  quality: 
-  name: recipe_sange_and_yasha
 154:
   internal_name: sange_and_yasha
-  quality: artifact
+  quality:
   name: Sange and Yasha
-272:
-  internal_name: recipe_kaya_and_sange
-  quality: 
-  name: Kaya and Sange Recipe
 273:
   internal_name: kaya_and_sange
-  quality: artifact
+  quality:
   name: Kaya and Sange
-274:
-  internal_name: recipe_yasha_and_kaya
-  quality: 
-  name: Yasha and Kaya Recipe
 277:
   internal_name: yasha_and_kaya
-  quality: artifact
+  quality:
   name: Yasha and Kaya
-155:
-  internal_name: recipe_satanic
-  quality: 
-  name: Satanic Recipe
 156:
   internal_name: satanic
-  quality: artifact
+  quality:
   name: Satanic
 157:
   internal_name: recipe_mjollnir
-  quality: 
+  quality:
   name: Mjollnir Recipe
 158:
   internal_name: mjollnir
-  quality: artifact
+  quality:
   name: Mjollnir
 159:
   internal_name: recipe_skadi
-  quality: 
-  name: recipe_skadi
+  quality:
+  name: Eye of Skadi Recipe
 160:
   internal_name: skadi
-  quality: artifact
+  quality:
   name: Eye of Skadi
 161:
   internal_name: recipe_sange
-  quality: 
+  quality:
   name: Sange Recipe
 162:
   internal_name: sange
-  quality: artifact
+  quality:
   name: Sange
 163:
   internal_name: recipe_helm_of_the_dominator
-  quality: 
+  quality:
   name: Helm of the Dominator Recipe
 164:
   internal_name: helm_of_the_dominator
-  quality: artifact
+  quality:
   name: Helm of the Dominator
 633:
   internal_name: recipe_helm_of_the_overlord
-  quality: 
+  quality:
   name: Helm of the Overlord Recipe
 635:
   internal_name: helm_of_the_overlord
-  quality: artifact
+  quality:
   name: Helm of the Overlord
-165:
-  internal_name: recipe_maelstrom
-  quality: 
-  name: Maelstrom Recipe
 166:
   internal_name: maelstrom
-  quality: artifact
+  quality:
   name: Maelstrom
 1565:
   internal_name: recipe_gungir
-  quality: 
+  quality:
   name: Gleipnir Recipe
 1466:
   internal_name: gungir
-  quality: artifact
+  quality:
   name: Gleipnir
-167:
-  internal_name: recipe_desolator
-  quality: 
-  name: recipe_desolator
 168:
   internal_name: desolator
-  quality: artifact
+  quality:
   name: Desolator
 169:
   internal_name: recipe_yasha
-  quality: 
+  quality:
   name: Yasha Recipe
 170:
   internal_name: yasha
-  quality: artifact
+  quality:
   name: Yasha
-171:
-  internal_name: recipe_mask_of_madness
-  quality: 
-  name: Mask of Madness Recipe
 172:
   internal_name: mask_of_madness
-  quality: artifact
+  quality:
   name: Mask of Madness
 173:
   internal_name: recipe_diffusal_blade
-  quality: 
+  quality:
   name: Diffusal Blade Recipe
 174:
   internal_name: diffusal_blade
-  quality: artifact
+  quality:
   name: Diffusal Blade
 1096:
   internal_name: recipe_disperser
-  quality: 
+  quality:
   name: Disperser Recipe
 1097:
   internal_name: disperser
-  quality: artifact
+  quality:
   name: Disperser
 175:
   internal_name: recipe_ethereal_blade
-  quality: 
+  quality:
   name: Ethereal Blade Recipe
 176:
   internal_name: ethereal_blade
-  quality: epic
+  quality:
   name: Ethereal Blade
 177:
   internal_name: recipe_soul_ring
-  quality: 
+  quality:
   name: Soul Ring Recipe
 178:
   internal_name: soul_ring
-  quality: common
+  quality:
   name: Soul Ring
 179:
   internal_name: recipe_arcane_boots
-  quality: 
-  name: recipe_arcane_boots
+  quality:
+  name: Arcane Boots Recipe
 180:
   internal_name: arcane_boots
-  quality: rare
+  quality:
   name: Arcane Boots
-228:
-  internal_name: recipe_octarine_core
-  quality: 
-  name: Octarine Core Recipe
 235:
   internal_name: octarine_core
-  quality: rare
+  quality:
   name: Octarine Core
 181:
   internal_name: orb_of_venom
-  quality: component
+  quality:
   name: Orb of Venom
 240:
   internal_name: blight_stone
-  quality: component
+  quality:
   name: Blight Stone
-640:
-  internal_name: recipe_orb_of_corrosion
-  quality: 
-  name: Orb of Corrosion Recipe
 569:
   internal_name: orb_of_corrosion
-  quality: rare
+  quality:
   name: Orb of Corrosion
 599:
   internal_name: recipe_falcon_blade
-  quality: 
+  quality:
   name: Falcon Blade Recipe
 596:
   internal_name: falcon_blade
-  quality: rare
+  quality:
   name: Falcon Blade
 597:
   internal_name: recipe_mage_slayer
-  quality: 
+  quality:
   name: Mage Slayer Recipe
 598:
   internal_name: mage_slayer
-  quality: rare
+  quality:
   name: Mage Slayer
 184:
   internal_name: recipe_ancient_janggo
-  quality: 
+  quality:
   name: Drum of Endurance Recipe
 185:
   internal_name: ancient_janggo
-  quality: rare
+  quality:
   name: Drum of Endurance
 930:
   internal_name: recipe_boots_of_bearing
-  quality: 
+  quality:
   name: Boots of Bearing Recipe
 931:
   internal_name: boots_of_bearing
-  quality: rare
+  quality:
   name: Boots of Bearing
-186:
-  internal_name: recipe_medallion_of_courage
-  quality: 
-  name: recipe_medallion_of_courage
 187:
   internal_name: medallion_of_courage
-  quality: rare
+  quality:
   name: Medallion of Courage
 227:
   internal_name: recipe_solar_crest
-  quality: 
+  quality:
   name: Solar Crest Recipe
 229:
   internal_name: solar_crest
-  quality: rare
+  quality:
   name: Solar Crest
 1127:
   internal_name: recipe_pavise
-  quality: 
-  name: recipe_pavise
+  quality:
+  name: Pavise Recipe
 1128:
   internal_name: pavise
-  quality: rare
-  name: pavise
+  quality:
+  name: Pavise
 188:
   internal_name: smoke_of_deceit
-  quality: consumable
+  quality:
   name: Smoke of Deceit
 257:
   internal_name: tome_of_knowledge
-  quality: consumable
+  quality:
   name: Tome of Knowledge
 189:
   internal_name: recipe_veil_of_discord
-  quality: 
+  quality:
   name: Veil of Discord Recipe
 190:
   internal_name: veil_of_discord
-  quality: rare
+  quality:
   name: Veil of Discord
 910:
   internal_name: recipe_revenants_brooch
-  quality: 
+  quality:
   name: Revenant's Brooch Recipe
 911:
   internal_name: revenants_brooch
-  quality: rare
+  quality:
   name: Revenant's Brooch
+1805:
+  internal_name: recipe_devastator
+  quality:
+  name: Parasma Recipe
+1806:
+  internal_name: devastator
+  quality:
+  name: Parasma
 230:
   internal_name: recipe_guardian_greaves
-  quality: 
+  quality:
   name: Guardian Greaves Recipe
 231:
   internal_name: guardian_greaves
-  quality: rare
+  quality:
   name: Guardian Greaves
 205:
   internal_name: recipe_rod_of_atos
-  quality: 
+  quality:
   name: Rod of Atos Recipe
 206:
   internal_name: rod_of_atos
-  quality: rare
+  quality:
   name: Rod of Atos
 238:
   internal_name: recipe_iron_talon
-  quality: 
+  quality:
   name: Iron Talon Recipe
 239:
   internal_name: iron_talon
-  quality: common
+  quality:
   name: Iron Talon
 207:
   internal_name: recipe_abyssal_blade
-  quality: 
+  quality:
   name: Abyssal Blade Recipe
 208:
   internal_name: abyssal_blade
-  quality: epic
+  quality:
   name: Abyssal Blade
 209:
   internal_name: recipe_heavens_halberd
-  quality: 
+  quality:
   name: Heaven's Halberd Recipe
 210:
   internal_name: heavens_halberd
-  quality: artifact
+  quality:
   name: Heaven's Halberd
-211:
-  internal_name: recipe_ring_of_aquila
-  quality: 
-  name: recipe_ring_of_aquila
 212:
   internal_name: ring_of_aquila
-  quality: 
+  quality:
   name: Ring of Aquila
-213:
-  internal_name: recipe_tranquil_boots
-  quality: 
-  name: Tranquil Boots Recipe
 214:
   internal_name: tranquil_boots
-  quality: rare
+  quality:
   name: Tranquil Boots
 215:
   internal_name: shadow_amulet
-  quality: 
+  quality:
   name: Shadow Amulet
 253:
   internal_name: recipe_glimmer_cape
-  quality: 
+  quality:
   name: Glimmer Cape Recipe
 254:
   internal_name: glimmer_cape
-  quality: rare
+  quality:
   name: Glimmer Cape
 1021:
   internal_name: river_painter
-  quality: component
+  quality:
   name: 'River Vial: Chrome'
 1022:
   internal_name: river_painter2
-  quality: component
+  quality:
   name: 'River Vial: Dry'
 1023:
   internal_name: river_painter3
-  quality: component
+  quality:
   name: 'River Vial: Slime'
 1024:
   internal_name: river_painter4
-  quality: component
+  quality:
   name: 'River Vial: Oil'
 1025:
   internal_name: river_painter5
-  quality: component
+  quality:
   name: 'River Vial: Electrified'
 1026:
   internal_name: river_painter6
-  quality: component
+  quality:
   name: 'River Vial: Potion'
 1027:
   internal_name: river_painter7
-  quality: component
+  quality:
   name: 'River Vial: Blood'
 1028:
   internal_name: mutation_tombstone
-  quality: consumable
+  quality:
   name: Tombstone
 1029:
   internal_name: super_blink
-  quality: 
+  quality:
   name: Super Blink Dagger
 1030:
   internal_name: pocket_tower
-  quality: 
+  quality:
   name: Pocket Tower
 1032:
   internal_name: pocket_roshan
-  quality: rare
+  quality:
   name: Pocket Roshan
 287:
   internal_name: keen_optic
-  quality: 
+  quality:
   name: Keen Optic
 288:
   internal_name: grove_bow
-  quality: 
+  quality:
   name: Grove Bow
 289:
   internal_name: quickening_charm
-  quality: 
+  quality:
   name: Quickening Charm
 290:
   internal_name: philosophers_stone
-  quality: 
+  quality:
   name: Philosopher's Stone
 291:
   internal_name: force_boots
-  quality: 
+  quality:
   name: Force Boots
 292:
   internal_name: desolator_2
-  quality: 
+  quality:
   name: Stygian Desolator
 293:
   internal_name: phoenix_ash
-  quality: 
+  quality:
   name: Phoenix Ash
 294:
   internal_name: seer_stone
-  quality: 
+  quality:
   name: Seer Stone
 295:
   internal_name: greater_mango
-  quality: 
+  quality:
   name: Greater Mango
 302:
   internal_name: elixer
-  quality: 
+  quality:
   name: Elixir
 297:
   internal_name: vampire_fangs
-  quality: 
+  quality:
   name: Vampire Fangs
 829:
   internal_name: force_field
-  quality: 
+  quality:
   name: Arcanist's Armor
 834:
   internal_name: black_powder_bag
-  quality: 
+  quality:
   name: Blast Rig
 849:
   internal_name: mechanical_arm
-  quality: 
+  quality:
   name: Mechanical Arm
 298:
   internal_name: craggy_coat
-  quality: 
+  quality:
   name: Craggy Coat
 299:
   internal_name: greater_faerie_fire
-  quality: consumable
+  quality:
   name: Greater Faerie Fire
 300:
   internal_name: timeless_relic
-  quality: 
+  quality:
   name: Timeless Relic
 301:
   internal_name: mirror_shield
-  quality: 
+  quality:
   name: Mirror Shield
-303:
-  internal_name: recipe_ironwood_tree
-  quality: 
-  name: Ironwood Tree Recipe
 304:
   internal_name: ironwood_tree
-  quality: 
+  quality:
   name: Ironwood Tree
 328:
   internal_name: mango_tree
-  quality: consumable
+  quality:
   name: Mango Tree
 305:
   internal_name: royal_jelly
-  quality: consumable
+  quality:
   name: Royal Jelly
 306:
   internal_name: pupils_gift
-  quality: 
+  quality:
   name: Pupil's Gift
 307:
   internal_name: tome_of_aghanim
-  quality: 
+  quality:
   name: Tome of Aghanim
 308:
   internal_name: repair_kit
-  quality: consumable
+  quality:
   name: Repair Kit
 309:
   internal_name: mind_breaker
-  quality: 
+  quality:
   name: Mind Breaker
 310:
   internal_name: third_eye
-  quality: 
+  quality:
   name: Third Eye
 311:
   internal_name: spell_prism
-  quality: 
+  quality:
   name: Spell Prism
 325:
   internal_name: princes_knife
-  quality: 
+  quality:
   name: Prince's Knife
 330:
   internal_name: witless_shako
-  quality: 
+  quality:
   name: Witless Shako
 334:
   internal_name: imp_claw
-  quality: 
+  quality:
   name: Imp Claw
 335:
   internal_name: flicker
-  quality: 
+  quality:
   name: Flicker
 336:
   internal_name: spy_gadget
-  quality: 
+  quality:
   name: Telescope
 326:
   internal_name: spider_legs
-  quality: 
+  quality:
   name: Spider Legs
 327:
   internal_name: helm_of_the_undying
-  quality: 
+  quality:
   name: Helm of the Undying
 331:
   internal_name: vambrace
-  quality: common
+  quality:
   name: Vambrace
 312:
   internal_name: horizon
-  quality: 
+  quality:
   name: Horizon
 313:
   internal_name: fusion_rune
-  quality: 
+  quality:
   name: Fusion Rune
 354:
   internal_name: ocean_heart
-  quality: 
+  quality:
   name: Ocean Heart
 1124:
   internal_name: spark_of_courage
-  quality: 
-  name: spark_of_courage
+  quality:
+  name: Spark of Courage
 355:
   internal_name: broom_handle
-  quality: 
+  quality:
   name: Broom Handle
 356:
   internal_name: trusty_shovel
-  quality: 
+  quality:
   name: Trusty Shovel
 357:
   internal_name: nether_shawl
-  quality: 
+  quality:
   name: Nether Shawl
 358:
   internal_name: dragon_scale
-  quality: 
+  quality:
   name: Dragon Scale
 359:
   internal_name: essence_ring
-  quality: 
+  quality:
   name: Essence Ring
 360:
   internal_name: clumsy_net
-  quality: 
+  quality:
   name: Clumsy Net
 361:
   internal_name: enchanted_quiver
-  quality: 
+  quality:
   name: Enchanted Quiver
 362:
   internal_name: ninja_gear
-  quality: 
+  quality:
   name: Ninja Gear
 363:
   internal_name: illusionsts_cape
-  quality: 
+  quality:
   name: Illusionist's Cape
 364:
   internal_name: havoc_hammer
-  quality: 
+  quality:
   name: Havoc Hammer
 365:
   internal_name: panic_button
-  quality: 
+  quality:
   name: Magic Lamp
 366:
   internal_name: apex
-  quality: 
+  quality:
   name: Apex
 367:
   internal_name: ballista
-  quality: 
+  quality:
   name: Ballista
 368:
   internal_name: woodland_striders
-  quality: 
+  quality:
   name: Woodland Striders
 275:
   internal_name: recipe_trident
-  quality: 
+  quality:
   name: Trident Recipe
 370:
   internal_name: demonicon
-  quality: 
+  quality:
   name: Book of the Dead
-317:
-  internal_name: recipe_fallen_sky
-  quality: 
-  name: 'Recipe: Fallen Sky'
 371:
   internal_name: fallen_sky
-  quality: 
+  quality:
   name: Fallen Sky
 372:
   internal_name: pirate_hat
-  quality: 
+  quality:
   name: Pirate Hat
 373:
   internal_name: dimensional_doorway
-  quality: 
+  quality:
   name: Dimensional Doorway
 374:
   internal_name: ex_machina
-  quality: 
+  quality:
   name: Ex Machina
 375:
   internal_name: faded_broach
-  quality: 
+  quality:
   name: Faded Broach
 376:
   internal_name: paladin_sword
-  quality: 
+  quality:
   name: Paladin Sword
 377:
   internal_name: minotaur_horn
-  quality: 
+  quality:
   name: Minotaur Horn
 378:
   internal_name: orb_of_destruction
-  quality: 
+  quality:
   name: Orb of Destruction
 379:
   internal_name: the_leveller
-  quality: 
+  quality:
   name: The Leveller
 349:
   internal_name: arcane_ring
-  quality: 
+  quality:
   name: Arcane Ring
 381:
   internal_name: titan_sliver
-  quality: 
+  quality:
   name: Titan Sliver
 565:
   internal_name: chipped_vest
-  quality: 
+  quality:
   name: Chipped Vest
 566:
   internal_name: wizard_glass
-  quality: 
+  quality:
   name: Wizard Glass
 570:
   internal_name: gloves_of_travel
-  quality: 
+  quality:
   name: Gloves of Travel
 573:
   internal_name: elven_tunic
-  quality: 
+  quality:
   name: Elven Tunic
 574:
   internal_name: cloak_of_flames
-  quality: 
+  quality:
   name: Cloak of Flames
 575:
   internal_name: venom_gland
-  quality: 
+  quality:
   name: Venom Gland
 571:
   internal_name: trickster_cloak
-  quality: 
+  quality:
   name: Trickster Cloak
 576:
   internal_name: gladiator_helm
-  quality: 
+  quality:
   name: Helm of the Gladiator
 577:
   internal_name: possessed_mask
-  quality: 
+  quality:
   name: Possessed Mask
 578:
   internal_name: ancient_perseverance
-  quality: 
+  quality:
   name: Ancient Perseverance
 637:
   internal_name: star_mace
-  quality: 
+  quality:
   name: Star Mace
 638:
   internal_name: penta_edged_sword
-  quality: 
+  quality:
   name: Penta-Edged Sword
 582:
   internal_name: oakheart
-  quality: 
+  quality:
   name: Oakheart
 674:
   internal_name: warhammer
-  quality: 
+  quality:
   name: Warhammer
 680:
   internal_name: bullwhip
-  quality: 
+  quality:
   name: Bullwhip
 675:
   internal_name: psychic_headband
-  quality: 
+  quality:
   name: Psychic Headband
 676:
   internal_name: ceremonial_robe
-  quality: 
+  quality:
   name: Ceremonial Robe
 686:
   internal_name: quicksilver_amulet
-  quality: 
+  quality:
   name: Quicksilver Amulet
 677:
   internal_name: book_of_shadows
-  quality: 
+  quality:
   name: Book of Shadows
 678:
   internal_name: giants_ring
-  quality: 
+  quality:
   name: Giant's Ring
 679:
   internal_name: vengeances_shadow
-  quality: 
+  quality:
   name: Shadow of Vengeance
 585:
   internal_name: stormcrafter
-  quality: 
+  quality:
   name: Stormcrafter
 588:
   internal_name: overflowing_elixir
-  quality: 
+  quality:
   name: Overflowing Elixir
 589:
   internal_name: mysterious_hat
-  quality: 
+  quality:
   name: Fairy's Trinket
 824:
   internal_name: assassins_dagger
-  quality: 
+  quality:
   name: Assassin's Dagger
 825:
   internal_name: ascetic_cap
-  quality: 
+  quality:
   name: Ascetic's Cap
 826:
   internal_name: sample_picker
-  quality: 
+  quality:
   name: Assassin's Contract
 827:
   internal_name: icarus_wings
-  quality: 
+  quality:
   name: Icarus Wings
 828:
   internal_name: misericorde
-  quality: 
+  quality:
   name: Brigand's Blade
 836:
   internal_name: light_robes
-  quality: 
+  quality:
   name: Light Robes
 837:
   internal_name: heavy_blade
-  quality: 
+  quality:
   name: Witchbane
 838:
   internal_name: unstable_wand
-  quality: 
+  quality:
   name: Pig Pole
 839:
   internal_name: fortitude_ring
-  quality: 
+  quality:
   name: Ring of Fortitude
 840:
   internal_name: pogo_stick
-  quality: 
+  quality:
   name: Tumbler's Toy
 835:
   internal_name: paintball
-  quality: 
+  quality:
   name: Fae Grenade
 945:
   internal_name: seeds_of_serenity
-  quality: 
+  quality:
   name: Seeds of Serenity
 946:
   internal_name: lance_of_pursuit
-  quality: 
+  quality:
   name: Lance of Pursuit
 947:
   internal_name: occult_bracelet
-  quality: 
+  quality:
   name: Occult Bracelet
 948:
   internal_name: tome_of_omniscience
-  quality: 
-  name: tome_of_omniscience
+  quality:
+  name:
 949:
   internal_name: ogre_seal_totem
-  quality: 
+  quality:
   name: Ogre Seal Totem
 940:
   internal_name: wand_of_the_brine
-  quality: 
-  name: wand_of_the_brine
+  quality:
+  name:
 938:
   internal_name: slime_vial
-  quality: 
-  name: slime_vial
+  quality:
+  name:
 1101:
   internal_name: recipe_harpoon
-  quality: 
+  quality:
   name: Harpoon Recipe
 939:
   internal_name: harpoon
-  quality: 
+  quality:
   name: Harpoon
 950:
   internal_name: defiant_shell
-  quality: 
+  quality:
   name: Defiant Shell
 968:
   internal_name: arcane_scout
-  quality: 
-  name: arcane_scout
+  quality:
+  name:
 969:
   internal_name: barricade
-  quality: 
-  name: barricade
+  quality:
+  name:
 990:
   internal_name: eye_of_the_vizier
-  quality: 
+  quality:
   name: Eye of the Vizier
 998:
   internal_name: manacles_of_power
-  quality: 
-  name: manacles_of_power
+  quality:
+  name:
 1000:
   internal_name: bottomless_chalice
-  quality: 
-  name: bottomless_chalice
+  quality:
+  name:
 1017:
   internal_name: wand_of_sanctitude
-  quality: 
-  name: wand_of_sanctitude
+  quality:
+  name:
 1076:
   internal_name: specialists_array
-  quality: 
+  quality:
   name: Specialist's Array
 1077:
   internal_name: dagger_of_ristul
-  quality: 
+  quality:
   name: Dagger of Ristul
 4300:
   internal_name: ofrenda
-  quality: 
+  quality:
   name: Beloved Memory
 4301:
   internal_name: ofrenda_shovel
-  quality: 
+  quality:
   name: Scrying Shovel
 4302:
   internal_name: ofrenda_pledge
-  quality: 
+  quality:
   name: Forebearer's Fortune
 1090:
   internal_name: muertas_gun
-  quality: 
+  quality:
   name: Mercy & Grace
 2091:
   internal_name: tier1_token
-  quality: 
-  name: tier1_token
+  quality:
+  name: Tier 1 Token
 2092:
   internal_name: tier2_token
-  quality: 
-  name: tier2_token
+  quality:
+  name: Tier 2 Token
 2093:
   internal_name: tier3_token
-  quality: 
-  name: tier3_token
+  quality:
+  name: Tier 3 Token
 2094:
   internal_name: tier4_token
-  quality: 
-  name: tier4_token
+  quality:
+  name: Tier 4 Token
 2095:
   internal_name: tier5_token
-  quality: 
-  name: tier5_token
+  quality:
+  name: Tier 5 Token
 2096:
   internal_name: vindicators_axe
-  quality: 
-  name: vindicators_axe
+  quality:
+  name: Vindicator's Axe
 2097:
   internal_name: duelist_gloves
-  quality: 
-  name: duelist_gloves
+  quality:
+  name: Duelist Gloves
+1156:
+  internal_name: ancient_guardian
+  quality:
+  name: Ancient Guardian
+1157:
+  internal_name: safety_bubble
+  quality:
+  name: Safety Bubble
+1158:
+  internal_name: whisper_of_the_dread
+  quality:
+  name: Whisper of the Dread
+1159:
+  internal_name: nemesis_curse
+  quality:
+  name: Nemesis Curse
+1160:
+  internal_name: avianas_feather
+  quality:
+  name: Aviana's Feather
+1161:
+  internal_name: unwavering_condition
+  quality:
+  name: Unwavering Condition
 2098:
   internal_name: horizons_equilibrium
-  quality: 
-  name: horizons_equilibrium
+  quality:
+  name: Horizon's Equilibrium
 2099:
   internal_name: blighted_spirit
-  quality: 
-  name: blighted_spirit
+  quality:
+  name: Blighted Spirit
 2190:
   internal_name: dandelion_amulet
-  quality: 
-  name: dandelion_amulet
+  quality:
+  name: Dandelion Amulet
 2191:
   internal_name: turtle_shell
-  quality: 
-  name: turtle_shell
+  quality:
+  name: Turtle Shell
 2192:
   internal_name: martyrs_plate
-  quality: 
-  name: martyrs_plate
+  quality:
+  name: Martyr's Plate
 2193:
   internal_name: gossamer_cape
-  quality: 
-  name: gossamer_cape
+  quality:
+  name: Gossamer Cape
+1167:
+  internal_name: light_collector
+  quality:
+  name: Light Collector
+1168:
+  internal_name: rattlecage
+  quality:
+  name: Rattlecage
+1803:
+  internal_name: doubloon
+  quality:
+  name: Doubloon
+1804:
+  internal_name: roshans_banner
+  quality:
+  name: Roshan's Banner
+1440:
+  internal_name: black_grimoire
+  quality:
+  name: Black Grimoire
+1441:
+  internal_name: grisgris
+  quality:
+  name: Gris-Gris
+196:
+  internal_name: diffusal_blade_2
+  quality:
+  name: Diffusal Blade

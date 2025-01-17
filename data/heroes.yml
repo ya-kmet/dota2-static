@@ -2,243 +2,155 @@
 1:
   internal_name: antimage
   name: Anti-Mage
-  abilities:
-  - 0
+  abilities: []
 2:
   internal_name: axe
   name: Axe
-  abilities:
-  - 0
-  - 0
+  abilities: []
 3:
   internal_name: bane
   name: Bane
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 4:
   internal_name: bloodseeker
   name: Bloodseeker
-  abilities:
-  - 0
-  - 0
+  abilities: []
 5:
   internal_name: crystal_maiden
   name: Crystal Maiden
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 6:
   internal_name: drow_ranger
   name: Drow Ranger
-  abilities:
-  - 0
+  abilities: []
 7:
   internal_name: earthshaker
   name: Earthshaker
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 8:
   internal_name: juggernaut
   name: Juggernaut
-  abilities:
-  - 0
-  - 0
+  abilities: []
 9:
   internal_name: mirana
   name: Mirana
-  abilities:
-  - 0
-  - 0
-  - 0
-11:
-  internal_name: nevermore
-  name: Shadow Fiend
-  abilities:
-  - 0
+  abilities: []
 10:
   internal_name: morphling
   name: Morphling
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
+11:
+  internal_name: nevermore
+  name: Shadow Fiend
+  abilities: []
 12:
   internal_name: phantom_lancer
   name: Phantom Lancer
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
 13:
   internal_name: puck
   name: Puck
-  abilities:
-  - 0
+  abilities: []
 14:
   internal_name: pudge
   name: Pudge
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 15:
   internal_name: razor
   name: Razor
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
 16:
   internal_name: sand_king
   name: Sand King
-  abilities:
-  - 0
-  - 0
+  abilities: []
 17:
   internal_name: storm_spirit
   name: Storm Spirit
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
 18:
   internal_name: sven
   name: Sven
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 19:
   internal_name: tiny
   name: Tiny
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
 20:
   internal_name: vengefulspirit
   name: Vengeful Spirit
-  abilities:
-  - 0
-  - 0
+  abilities: []
 21:
   internal_name: windrunner
   name: Windranger
-  abilities:
-  - 0
+  abilities: []
 22:
   internal_name: zuus
   name: Zeus
-  abilities:
-  - 0
+  abilities: []
 23:
   internal_name: kunkka
   name: Kunkka
-  abilities:
-  - 0
+  abilities: []
 25:
   internal_name: lina
   name: Lina
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
-31:
-  internal_name: lich
-  name: Lich
-  abilities:
-  - 0
+  abilities: []
 26:
   internal_name: lion
   name: Lion
-  abilities:
-  - 0
-  - 0
+  abilities: []
 27:
   internal_name: shadow_shaman
   name: Shadow Shaman
-  abilities:
-  - 0
-  - 0
+  abilities: []
 28:
   internal_name: slardar
   name: Slardar
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 29:
   internal_name: tidehunter
   name: Tidehunter
-  abilities:
-  - 0
+  abilities: []
 30:
   internal_name: witch_doctor
   name: Witch Doctor
-  abilities:
-  - 0
-  - 0
+  abilities: []
+31:
+  internal_name: lich
+  name: Lich
+  abilities: []
 32:
   internal_name: riki
   name: Riki
-  abilities:
-  - 0
-  - 0
+  abilities: []
 33:
   internal_name: enigma
   name: Enigma
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 34:
   internal_name: tinker
   name: Tinker
-  abilities:
-  - 0
+  abilities: []
 35:
   internal_name: sniper
   name: Sniper
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 36:
   internal_name: necrolyte
   name: Necrophos
-  abilities:
-  - 0
+  abilities: []
 37:
   internal_name: warlock
   name: Warlock
-  abilities:
-  - 0
-  - 0
+  abilities: []
 38:
   internal_name: beastmaster
   name: Beastmaster
-  abilities:
-  - 0
+  abilities: []
 39:
   internal_name: queenofpain
   name: Queen of Pain
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
 40:
   internal_name: venomancer
   name: Venomancer
@@ -246,37 +158,23 @@
 41:
   internal_name: faceless_void
   name: Faceless Void
-  abilities:
-  - 0
+  abilities: []
 42:
   internal_name: skeleton_king
   name: Wraith King
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 43:
   internal_name: death_prophet
   name: Death Prophet
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
 44:
   internal_name: phantom_assassin
   name: Phantom Assassin
-  abilities:
-  - 0
+  abilities: []
 45:
   internal_name: pugna
   name: Pugna
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
 46:
   internal_name: templar_assassin
   name: Templar Assassin
@@ -284,29 +182,19 @@
 47:
   internal_name: viper
   name: Viper
-  abilities:
-  - 0
+  abilities: []
 48:
   internal_name: luna
   name: Luna
-  abilities:
-  - 0
-  - 0
+  abilities: []
 49:
   internal_name: dragon_knight
   name: Dragon Knight
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 50:
   internal_name: dazzle
   name: Dazzle
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
 51:
   internal_name: rattletrap
   name: Clockwerk
@@ -314,134 +202,87 @@
 52:
   internal_name: leshrac
   name: Leshrac
-  abilities:
-  - 0
-  - 0
+  abilities: []
 53:
   internal_name: furion
   name: Nature's Prophet
-  abilities:
-  - 0
+  abilities: []
 54:
   internal_name: life_stealer
   name: Lifestealer
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 55:
   internal_name: dark_seer
   name: Dark Seer
-  abilities:
-  - 0
+  abilities: []
 56:
   internal_name: clinkz
   name: Clinkz
-  abilities:
-  - 0
+  abilities: []
 57:
   internal_name: omniknight
   name: Omniknight
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 58:
   internal_name: enchantress
   name: Enchantress
-  abilities:
-  - 0
-  - 0
+  abilities: []
 59:
   internal_name: huskar
   name: Huskar
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 60:
   internal_name: night_stalker
   name: Night Stalker
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 61:
   internal_name: broodmother
   name: Broodmother
-  abilities:
-  - 0
-  - 0
+  abilities: []
 62:
   internal_name: bounty_hunter
   name: Bounty Hunter
-  abilities:
-  - 0
+  abilities: []
 63:
   internal_name: weaver
   name: Weaver
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
 64:
   internal_name: jakiro
   name: Jakiro
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 65:
   internal_name: batrider
   name: Batrider
-  abilities:
-  - 0
-  - 0
+  abilities: []
 66:
   internal_name: chen
   name: Chen
-  abilities:
-  - 0
-  - 0
+  abilities: []
 67:
   internal_name: spectre
   name: Spectre
-  abilities:
-  - 0
-  - 0
-69:
-  internal_name: doom_bringer
-  name: Doom
   abilities: []
 68:
   internal_name: ancient_apparition
   name: Ancient Apparition
-  abilities:
-  - 0
-  - 0
+  abilities: []
+69:
+  internal_name: doom_bringer
+  name: Doom
+  abilities: []
 70:
   internal_name: ursa
   name: Ursa
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 71:
   internal_name: spirit_breaker
   name: Spirit Breaker
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
 72:
   internal_name: gyrocopter
   name: Gyrocopter
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 73:
   internal_name: alchemist
   name: Alchemist
@@ -453,56 +294,35 @@
 75:
   internal_name: silencer
   name: Silencer
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 76:
   internal_name: obsidian_destroyer
   name: Outworld Destroyer
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
 77:
   internal_name: lycan
   name: Lycan
-  abilities:
-  - 0
+  abilities: []
 78:
   internal_name: brewmaster
   name: Brewmaster
-  abilities:
-  - 0
-  - 0
+  abilities: []
 79:
   internal_name: shadow_demon
   name: Shadow Demon
-  abilities:
-  - 0
-  - 0
+  abilities: []
 80:
   internal_name: lone_druid
   name: Lone Druid
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 81:
   internal_name: chaos_knight
   name: Chaos Knight
-  abilities:
-  - 0
-  - 0
+  abilities: []
 82:
   internal_name: meepo
   name: Meepo
-  abilities:
-  - 0
-  - 0
+  abilities: []
 83:
   internal_name: treant
   name: Treant Protector
@@ -510,16 +330,11 @@
 84:
   internal_name: ogre_magi
   name: Ogre Magi
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 85:
   internal_name: undying
   name: Undying
-  abilities:
-  - 0
-  - 0
+  abilities: []
 86:
   internal_name: rubick
   name: Rubick
@@ -527,21 +342,15 @@
 87:
   internal_name: disruptor
   name: Disruptor
-  abilities:
-  - 0
-  - 0
+  abilities: []
 88:
   internal_name: nyx_assassin
   name: Nyx Assassin
-  abilities:
-  - 0
-  - 0
+  abilities: []
 89:
   internal_name: naga_siren
   name: Naga Siren
-  abilities:
-  - 0
-  - 0
+  abilities: []
 90:
   internal_name: keeper_of_the_light
   name: Keeper of the Light
@@ -557,192 +366,131 @@
 93:
   internal_name: slark
   name: Slark
-  abilities:
-  - 0
+  abilities: []
 94:
   internal_name: medusa
   name: Medusa
-  abilities:
-  - 0
+  abilities: []
 95:
   internal_name: troll_warlord
   name: Troll Warlord
-  abilities:
-  - 0
+  abilities: []
 96:
   internal_name: centaur
   name: Centaur Warrunner
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 97:
   internal_name: magnataur
   name: Magnus
-  abilities:
-  - 0
+  abilities: []
 98:
   internal_name: shredder
   name: Timbersaw
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 99:
   internal_name: bristleback
   name: Bristleback
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
 100:
   internal_name: tusk
   name: Tusk
-  abilities:
-  - 0
-  - 0
+  abilities: []
 101:
   internal_name: skywrath_mage
   name: Skywrath Mage
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 102:
   internal_name: abaddon
   name: Abaddon
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
 103:
   internal_name: elder_titan
   name: Elder Titan
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 104:
   internal_name: legion_commander
   name: Legion Commander
-  abilities:
-  - 0
-  - 0
-106:
-  internal_name: ember_spirit
-  name: Ember Spirit
-  abilities:
-  - 0
-  - 0
-107:
-  internal_name: earth_spirit
-  name: Earth Spirit
-  abilities:
-  - 0
-109:
-  internal_name: terrorblade
-  name: Terrorblade
-  abilities:
-  - 0
-  - 0
-110:
-  internal_name: phoenix
-  name: Phoenix
-  abilities:
-  - 0
-  - 0
-  - 0
-111:
-  internal_name: oracle
-  name: Oracle
-  abilities:
-  - 0
+  abilities: []
 105:
   internal_name: techies
   name: Techies
-  abilities:
-  - 0
-  - 0
-  - 0
-127:
-  internal_name: target_dummy
-  name: Target Dummy
+  abilities: []
+106:
+  internal_name: ember_spirit
+  name: Ember Spirit
+  abilities: []
+107:
+  internal_name: earth_spirit
+  name: Earth Spirit
+  abilities: []
+108:
+  internal_name: abyssal_underlord
+  name: Underlord
+  abilities: []
+109:
+  internal_name: terrorblade
+  name: Terrorblade
+  abilities: []
+110:
+  internal_name: phoenix
+  name: Phoenix
+  abilities: []
+111:
+  internal_name: oracle
+  name: Oracle
   abilities: []
 112:
   internal_name: winter_wyvern
   name: Winter Wyvern
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 113:
   internal_name: arc_warden
   name: Arc Warden
-  abilities:
-  - 0
-  - 0
-  - 0
-108:
-  internal_name: abyssal_underlord
-  name: Underlord
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 114:
   internal_name: monkey_king
   name: Monkey King
+  abilities: []
+119:
+  internal_name: dark_willow
+  name: Dark Willow
   abilities: []
 120:
   internal_name: pangolier
   name: Pangolier
   abilities: []
-119:
-  internal_name: dark_willow
-  name: Dark Willow
-  abilities:
-  - 0
-  - 0
 121:
   internal_name: grimstroke
   name: Grimstroke
   abilities: []
-129:
-  internal_name: mars
-  name: Mars
-  abilities:
-  - 0
-  - 0
+123:
+  internal_name: hoodwink
+  name: Hoodwink
+  abilities: []
 126:
   internal_name: void_spirit
   name: Void Spirit
-  abilities:
-  - 0
-  - 0
-  - 0
+  abilities: []
 128:
   internal_name: snapfire
   name: Snapfire
   abilities: []
-123:
-  internal_name: hoodwink
-  name: Hoodwink
-  abilities:
-  - 0
+129:
+  internal_name: mars
+  name: Mars
+  abilities: []
+131:
+  internal_name: ringmaster
+  name: Ringmaster
+  abilities: []
 135:
   internal_name: dawnbreaker
   name: Dawnbreaker
-  abilities:
-  - 0
+  abilities: []
 136:
   internal_name: marci
   name: Marci
-  abilities:
-  - 0
-  - 0
+  abilities: []
 137:
   internal_name: primal_beast
   name: Primal Beast
@@ -750,11 +498,8 @@
 138:
   internal_name: muerta
   name: Muerta
-  abilities:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
+  abilities: []
+145:
+  internal_name: kez
+  name: Kez
+  abilities: []
